@@ -873,9 +873,6 @@
   <data name="SelectNone" xml:space="preserve">
     <value>何も選択しない</value>
   </data>
-  <data name="SymbolMyanmarOdds" xml:space="preserve">
-    <value>ミャンマーオッズ</value>
-  </data>
   <data name="Cancelled" xml:space="preserve">
     <value>取消済み</value>
   </data>
@@ -1199,9 +1196,6 @@
   </data>
   <data name="DateRange_Duplicate[1]" xml:space="preserve">
     <value>日付範囲</value>
-  </data>
-  <data name="NoColumnsFound_Duplicate[1]" xml:space="preserve">
-    <value>列が見つかりません</value>
   </data>
   <data name="NoProductDetailsFound_Duplicate[1]" xml:space="preserve">
     <value>製品詳細が見つかりません</value>
