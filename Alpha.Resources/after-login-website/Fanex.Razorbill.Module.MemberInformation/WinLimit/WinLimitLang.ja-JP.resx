@@ -117,52 +117,7 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="AllAgent" xml:space="preserve">
-    <value>All Agents</value>
-  </data>
-  <data name="AutoDailyResetLimit" xml:space="preserve">
-    <value>Auto Daily Reset Limit</value>
-  </data>
-  <data name="Closed" xml:space="preserve">
-    <value>Closed</value>
-  </data>
-  <data name="CurrentLossLimitPercent" xml:space="preserve">
-    <value>Current Loss Limit (%)</value>
-  </data>
-  <data name="CurrentWinAmount" xml:space="preserve">
-    <value>Current Win Amount</value>
-  </data>
-  <data name="CurrentWinLimit" xml:space="preserve">
-    <value>Current Win Limit  (%)</value>
-  </data>
-  <data name="CurrentWinLossAmount" xml:space="preserve">
-    <value>Current Win Loss Amount</value>
-  </data>
-  <data name="Disabled" xml:space="preserve">
-    <value>Disabled</value>
-  </data>
-  <data name="MaximumLoss" xml:space="preserve">
-    <value>Maximum Loss</value>
-  </data>
-  <data name="MaximumWin" xml:space="preserve">
-    <value>Maximum Win  (on given credit)</value>
-  </data>
-  <data name="No" xml:space="preserve">
-    <value>No</value>
-  </data>
   <data name="No_Data_Found" xml:space="preserve">
-    <value>No information is available</value>
-  </data>
-  <data name="Open" xml:space="preserve">
-    <value>Open</value>
-  </data>
-  <data name="Suspended" xml:space="preserve">
-    <value>Suspended</value>
-  </data>
-  <data name="UsernamePlaceHolder" xml:space="preserve">
-    <value>ユーザー名</value>
-  </data>
-  <data name="Yes" xml:space="preserve">
-    <value>Yes</value>
+    <value>情報はありません</value>
   </data>
 </root>

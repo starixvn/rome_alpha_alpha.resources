@@ -117,74 +117,65 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="agentPTcomm" xml:space="preserve">
-    <value>エージェントPT/ &lt;br/&gt;手数料</value>
-  </data>
   <data name="choice" xml:space="preserve">
     <value>選択</value>
   </data>
   <data name="even" xml:space="preserve">
-    <value>イーブン</value>
+    <value>偶数</value>
   </data>
   <data name="firstgoal" xml:space="preserve">
-    <value>First Goal</value>
+    <value>最初のゴール</value>
   </data>
   <data name="ft" xml:space="preserve">
-    <value>FT</value>
+    <value>フルタイム</value>
   </data>
   <data name="high" xml:space="preserve">
-    <value>High</value>
+    <value>高い </value>
   </data>
   <data name="ht" xml:space="preserve">
-    <value>HT</value>
+    <value>ハーフタイム</value>
   </data>
   <data name="lbl1x2" xml:space="preserve">
-    <value>1 X 2</value>
+    <value>1X2</value>
   </data>
   <data name="lblBoth" xml:space="preserve">
-    <value>Both</value>
+    <value>両方</value>
   </data>
   <data name="lblDraw" xml:space="preserve">
     <value>引き分け</value>
   </data>
   <data name="lblNo" xml:space="preserve">
-    <value>No</value>
+    <value>いいえ</value>
   </data>
   <data name="lblOne" xml:space="preserve">
-    <value>One</value>
+    <value>一つ</value>
   </data>
   <data name="lblOr" xml:space="preserve">
-    <value>Or</value>
+    <value>または</value>
   </data>
   <data name="lblYes" xml:space="preserve">
-    <value>Yes</value>
+    <value>はい</value>
   </data>
   <data name="lose" xml:space="preserve">
-    <value>マイナス</value>
+    <value>負け</value>
   </data>
   <data name="low" xml:space="preserve">
-    <value>Low</value>
-  </data>
-  <data name="masterPTcomm" xml:space="preserve">
-    <value>マスターPT/ &lt;br/&gt;手数料</value>
+    <value>低い</value>
   </data>
   <data name="member" xml:space="preserve">
-    <value>メンバー</value>
+    <value>メンバー </value>
   </data>
   <data name="next" xml:space="preserve">
     <value>次へ</value>
   </data>
   <data name="nogoal" xml:space="preserve">
-    <value>No Goal</value>
+    <value>ゴールなし</value>
   </data>
   <data name="noInfo" xml:space="preserve">
-    <value>情報がありません</value>
-  </data>
-  <data name="numbergameno" xml:space="preserve">
-    <value>Number Game No</value>
+    <value>情報はありません</value>
   </data>
   <data name="odd" xml:space="preserve">
-    <value>オッド</value>
+    <value>奇数</value>
   </data>
   <data name="odds" xml:space="preserve">
     <value>オッズ</value>
@@ -193,7 +184,7 @@
     <value>オーバー</value>
   </data>
   <data name="pending" xml:space="preserve">
-    <value>Pending</value>
+    <value>保留中</value>
   </data>
   <data name="refno" xml:space="preserve">
     <value>受付番号</value>
@@ -202,100 +193,94 @@
     <value>結果</value>
   </data>
   <data name="stake" xml:space="preserve">
-    <value>ベット</value>
+    <value>賭け金</value>
   </data>
   <data name="status" xml:space="preserve">
-    <value>状態</value>
-  </data>
-  <data name="superPTcomm" xml:space="preserve">
-    <value>SuperPT/ &lt;br/&gt;手数料</value>
+    <value>ステータス</value>
   </data>
   <data name="transfer" xml:space="preserve">
-    <value>送金
-</value>
+    <value>振込</value>
   </data>
   <data name="transtime" xml:space="preserve">
-    <value>取り引き時間
-</value>
+    <value>取引時間</value>
   </data>
   <data name="under" xml:space="preserve">
-    <value>アンダー
-</value>
+    <value>アンダー</value>
   </data>
   <data name="winloss" xml:space="preserve">
     <value>勝ち負け</value>
   </data>
   <data name="won" xml:space="preserve">
-    <value>ウォン</value>
+    <value>勝ち</value>
   </data>
   <data name="correctscore" xml:space="preserve">
     <value>正しいスコア</value>
   </data>
   <data name="lblMemberBetList" xml:space="preserve">
-    <value>メンバーベットリスト</value>
+    <value>会員のベットリスト</value>
   </data>
   <data name="lblMixParlay" xml:space="preserve">
     <value>ミックスパーレー</value>
   </data>
   <data name="subtotalCom" xml:space="preserve">
-    <value>小計(手数料)</value>
+    <value>小計（コミッション)</value>
   </data>
   <data name="subtotalWinlost" xml:space="preserve">
-    <value>Subtotal(winlost)</value>
+    <value>小計（勝ち負け )</value>
   </data>
   <data name="total" xml:space="preserve">
     <value>合計</value>
   </data>
   <data name="reject" xml:space="preserve">
-    <value>거부</value>
+    <value>拒否 </value>
   </data>
   <data name="running" xml:space="preserve">
-    <value>진행중</value>
+    <value>進行中</value>
   </data>
   <data name="draw" xml:space="preserve">
     <value>引き分け</value>
   </data>
   <data name="waiting" xml:space="preserve">
-    <value>待機</value>
+    <value>承認中</value>
   </data>
   <data name="refund" xml:space="preserve">
     <value>払い戻し</value>
   </data>
   <data name="voided" xml:space="preserve">
-    <value>Void</value>
+    <value>無効</value>
   </data>
   <data name="place" xml:space="preserve">
-    <value>Place</value>
+    <value>プレース</value>
   </data>
   <data name="win" xml:space="preserve">
-    <value>Win</value>
+    <value>勝ち</value>
   </data>
   <data name="warrior2ndBall" xml:space="preserve">
-    <value>2nd ball to win</value>
+    <value>2つ目のボールが勝つ</value>
   </data>
   <data name="warrior3rdBall" xml:space="preserve">
-    <value>3rd ball to win</value>
+    <value>3つ目のボールが勝つ</value>
   </data>
   <data name="lblOverEven" xml:space="preserve">
-    <value>Over/Even</value>
+    <value>オーバー/偶数</value>
   </data>
   <data name="lblOverOdd" xml:space="preserve">
-    <value>Over/Odd</value>
+    <value>オーバー/奇数</value>
   </data>
   <data name="lblUnderEven" xml:space="preserve">
-    <value>Under/Even</value>
+    <value>アンダー/偶数</value>
   </data>
   <data name="lblUnderOdd" xml:space="preserve">
-    <value>Under/Odd</value>
+    <value>アンダー/奇数</value>
   </data>
   <data name="losingtickets" xml:space="preserve">
-    <value>Total of losing tickets</value>
+    <value>敗けベットチケットの合計</value>
   </data>
   <data name="details" xml:space="preserve">
-    <value>Details</value>
+    <value>詳細</value>
   </data>
   <data name="scoreMap" xml:space="preserve">
-    <value>Score Map</value>
+    <value>スコアマップ</value>
   </data>
   <data name="a" xml:space="preserve">
     <value>A</value>
@@ -304,24 +289,15 @@
     <value>H</value>
   </data>
   <data name="betweenXandY" xml:space="preserve">
-    <value>Between {0} and {1}</value>
+    <value>{0} から {1} の間</value>
   </data>
   <data name="points" xml:space="preserve">
-    <value>points</value>
-  </data>
-  <data name="upPoints" xml:space="preserve">
-    <value>UP points</value>
+    <value>ポイント</value>
   </data>
   <data name="exactly" xml:space="preserve">
-    <value>Exactly</value>
-  </data>
-  <data name="set" xml:space="preserve">
-    <value>Set</value>
-  </data>
-  <data name="noTiebreak" xml:space="preserve">
-    <value>No Tiebreak</value>
+    <value>正確に</value>
   </data>
   <data name="CombinationResultTooHuge" xml:space="preserve">
-    <value>There is a huge number of combinations of this Parlay ticket, please kindly click on &lt;a href={0}&gt;this link&lt;/a&gt; to download an Excel file comprising the full list of all combinations.</value>
+    <value>このパーレイチケットには膨大な組み合わせがあります。&lt;a href={0}&gt;こちらのリンク&lt;/a&gt;をクリックして、全ての組み合わせを含むExcelファイルをダウンロードしてください。</value>
   </data>
 </root>

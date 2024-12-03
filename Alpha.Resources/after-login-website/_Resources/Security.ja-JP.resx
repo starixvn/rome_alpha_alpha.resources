@@ -117,34 +117,4 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="blockcreateuser" xml:space="preserve">
-    <value>You have created {0} users within {1} minutes.</value>
-  </data>
-  <data name="createuserafter" xml:space="preserve">
-    <value>You can create more users only after {0}</value>
-  </data>
-  <data name="securitycheck" xml:space="preserve">
-    <value>Security Check</value>
-  </data>
-  <data name="securityerrorcaptcha" xml:space="preserve">
-    <value>Your typing text does not match</value>
-  </data>
-  <data name="securitytitlenotification" xml:space="preserve">
-    <value>To make sure you are not a computer, please type in the characters you see in the text box below.</value>
-  </data>
-  <data name="submit" xml:space="preserve">
-    <value>Submit</value>
-  </data>
-  <data name="timeleft" xml:space="preserve">
-    <value>Time left:</value>
-  </data>
-  <data name="typethe2words" xml:space="preserve">
-    <value>Type the two words:</value>
-  </data>
-  <data name="typetheword" xml:space="preserve">
-    <value>Type the word:</value>
-  </data>
-  <data name="warning" xml:space="preserve">
-    <value>Warning</value>
-  </data>
 </root>

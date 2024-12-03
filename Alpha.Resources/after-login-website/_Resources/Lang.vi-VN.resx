@@ -187,7 +187,7 @@
     <comment>Not found</comment>
   </data>
   <data name="agentgivencredit" xml:space="preserve">
-    <value>Hạn mức tín dụng được cấp</value>
+    <value>Hạn mức tín dụng được cấp của Agent</value>
   </data>
   <data name="agentincentive" xml:space="preserve">
     <value>Khích lệ của Agent</value>
@@ -243,7 +243,7 @@
     <value>AH</value>
   </data>
   <data name="alertAgentCredit" xml:space="preserve">
-    <value>Hạn mức tín dụng lớn nhất nhập vào không đúng</value>
+    <value>Hạn mức tín dụng lớn nhất của Agent nhập vào không đúng</value>
   </data>
   <data name="alertCALNoCallback" xml:space="preserve">
     <value>No flatCallback given -- doing nothing.</value>
@@ -712,7 +712,7 @@ Vui lòng điền vào mẫu phía dưới để thiết lập giá trị cho M�
     <value>Xác nhận Mã bảo mật mới</value>
   </data>
   <data name="confirmSuspendDownline" xml:space="preserve">
-    <value>Bạn có chắc muốn đình chỉ thành viên này?\n Khuyến cáo, tất cả cấp dưới trực thuộc thành viên này sẽ không thể đặt cược?</value>
+    <value>Bạn có chắc muốn đình chỉ thành viên này? Khuyến cáo, tất cả cấp dưới trực thuộc thành viên này sẽ không thể đặt cược?</value>
   </data>
   <data name="confirmSuspendMem" xml:space="preserve">
     <value>Bạn có chắc muốn đình chỉ thành viên này?\n Khuyến cáo: thành viên này sẽ không thể đặt cược?</value>

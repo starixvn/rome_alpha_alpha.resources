@@ -117,64 +117,7 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="fulltime" xml:space="preserve">
-    <value>フルタイム</value>
-  </data>
-  <data name="halftime" xml:space="preserve">
-    <value>半分の時間</value>
-  </data>
-  <data name="lbl1x2" xml:space="preserve">
-    <value>1 X 2</value>
-  </data>
-  <data name="lblBetLists" xml:space="preserve">
-    <value>ベットリスト</value>
-  </data>
-  <data name="lblDeadball" xml:space="preserve">
-    <value>Dead Ball</value>
-  </data>
-  <data name="lblForecast" xml:space="preserve">
-    <value>予想</value>
-  </data>
-  <data name="lblHandicapFC" xml:space="preserve">
-    <value>ハンディキャップ</value>
-  </data>
-  <data name="lblHOUL" xml:space="preserve">
-    <value>ハンディキャップ/オーバー・アンダー/ライブ</value>
-  </data>
-  <data name="lblLiveBall" xml:space="preserve">
-    <value>Live Ball</value>
-  </data>
-  <data name="lblOverUnder" xml:space="preserve">
-    <value>オーバー・アンダー</value>
-  </data>
-  <data name="lblScore" xml:space="preserve">
-    <value>スコア</value>
-  </data>
-  <data name="lblScoreMap" xml:space="preserve">
-    <value>Score Map</value>
-  </data>
-  <data name="lblTeam" xml:space="preserve">
-    <value>Team</value>
-  </data>
-  <data name="league" xml:space="preserve">
-    <value>リーグ</value>
-  </data>
   <data name="noInfo" xml:space="preserve">
-    <value>情報がありません</value>
-  </data>
-  <data name="RefreshLeagues" xml:space="preserve">
-    <value>Refresh Leagues</value>
-  </data>
-  <data name="SelectMatch" xml:space="preserve">
-    <value>Select Match</value>
-  </data>
-  <data name="submit" xml:space="preserve">
-    <value>送信</value>
-  </data>
-  <data name="totalbets" xml:space="preserve">
-    <value>合計ベット数</value>
-  </data>
-  <data name="forecast" xml:space="preserve">
-    <value>予想</value>
+    <value>情報はありません</value>
   </data>
 </root>

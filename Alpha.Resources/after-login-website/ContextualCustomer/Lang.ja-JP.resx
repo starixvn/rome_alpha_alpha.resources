@@ -117,40 +117,4 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="DeleteSucessful" xml:space="preserve">
-    <value>Your picture has been deleted.</value>
-  </data>
-  <data name="FailByFileType" xml:space="preserve">
-    <value>The uploading file is not a picture, please try again!</value>
-  </data>
-  <data name="FailBySizeLimited" xml:space="preserve">
-    <value>The picture’s file size must be between 0 and 1024 KB.</value>
-  </data>
-  <data name="FailByUnknownreason" xml:space="preserve">
-    <value>The uploading is failed, please try again!</value>
-  </data>
-  <data name="FailByURLInvalided" xml:space="preserve">
-    <value>The URL you specified is invalid.</value>
-  </data>
-  <data name="Successful" xml:space="preserve">
-    <value>Your profile picture has been uploaded successfully.</value>
-  </data>
-  <data name="NotAuthorized" xml:space="preserve">
-    <value>You are not authorized on this function</value>
-  </data>
-  <data name="configuredNicknameSuccessfully" xml:space="preserve">
-    <value>Your nickname was configured successfully</value>
-  </data>
-  <data name="lblNotAuthorized" xml:space="preserve">
-    <value>You are not authorized on this function</value>
-  </data>
-  <data name="msgValidNickName" xml:space="preserve">
-    <value>Nickname must be unique, only alphabet or numeric and should have at least a minimum of 5 characters and maximum of 20 characters.</value>
-  </data>
-  <data name="noChangeToUpdate" xml:space="preserve">
-    <value>There is no change to update</value>
-  </data>
-  <data name="updatesuccessfull" xml:space="preserve">
-    <value>Updated successfully</value>
-  </data>
 </root>

@@ -117,22 +117,4 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="No_Data" xml:space="preserve">
-    <value>There is no data</value>
-  </data>
-  <data name="of" xml:space="preserve">
-    <value>of</value>
-  </data>
-  <data name="Page" xml:space="preserve">
-    <value>Page</value>
-  </data>
-  <data name="Symbol_No" xml:space="preserve">
-    <value>#</value>
-  </data>
-  <data name="View_Position_Taking" xml:space="preserve">
-    <value>View Position Taking</value>
-  </data>
-  <data name="Voidbridge" xml:space="preserve">
-    <value>Macau Games</value>
-  </data>
 </root>

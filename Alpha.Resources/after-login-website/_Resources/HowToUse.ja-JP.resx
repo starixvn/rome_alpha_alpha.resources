@@ -118,39 +118,33 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="AccInfoFunction" xml:space="preserve">
-    <value>Account Info Function</value>
+    <value>アカウント情報機能</value>
   </data>
   <data name="AgentUserGuide" xml:space="preserve">
-    <value>Agent User Guide</value>
-  </data>
-  <data name="AgentWapUserGuide" xml:space="preserve">
-    <value>Agent Wap User Guide</value>
+    <value>エージェント用ユーザーガイド</value>
   </data>
   <data name="AutoPT" xml:space="preserve">
-    <value>Auto Position Taking</value>
+    <value>自動保有ポジション</value>
   </data>
   <data name="Help" xml:space="preserve">
-    <value>Help</value>
+    <value>ヘルプ</value>
   </data>
   <data name="HowToUsePro" xml:space="preserve">
     <value>使い方法</value>
   </data>
-  <data name="MasterAutoPT" xml:space="preserve">
-    <value>Master Auto Position Taking</value>
-  </data>
   <data name="NumberGame" xml:space="preserve">
-    <value>Number Game</value>
+    <value>ナンバーゲーム</value>
   </data>
   <data name="ProductsFeatures" xml:space="preserve">
-    <value>Products/features</value>
+    <value>製品/機能</value>
   </data>
   <data name="UserGuide" xml:space="preserve">
-    <value>User Guide</value>
+    <value>ユーザーガイド</value>
   </data>
   <data name="ViewLogFunction" xml:space="preserve">
-    <value>View Log Function</value>
+    <value>ログ表示機能</value>
   </data>
   <data name="SecurityCode" xml:space="preserve">
-    <value>Security Code FAQS</value>
+    <value>セキュリティコードFAQ</value>
   </data>
 </root>

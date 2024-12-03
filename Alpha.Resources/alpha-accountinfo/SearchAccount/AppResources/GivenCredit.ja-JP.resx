@@ -117,43 +117,4 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Cancel" xml:space="preserve">
-    <value>キャンセル</value>
-  </data>
-  <data name="CurrentGivenCredit" xml:space="preserve">
-    <value>Current Given Credit</value>
-  </data>
-  <data name="Difference" xml:space="preserve">
-    <value>Difference</value>
-  </data>
-  <data name="InvalidValue" xml:space="preserve">
-    <value>The new bet credit is out of the available range.</value>
-  </data>
-  <data name="NewGivenCredit" xml:space="preserve">
-    <value>貸付金額</value>
-  </data>
-  <data name="Note" xml:space="preserve">
-    <value>Note</value>
-  </data>
-  <data name="Submit" xml:space="preserve">
-    <value>送信</value>
-  </data>
-  <data name="ThereIsNoChange" xml:space="preserve">
-    <value>There is no change to update !</value>
-  </data>
-  <data name="UpdateGivenCreditSuccessfully" xml:space="preserve">
-    <value>Successfully updated Given Credit!</value>
-  </data>
-  <data name="Min" xml:space="preserve">
-    <value>Min</value>
-  </data>
-  <data name="Max" xml:space="preserve">
-    <value>Max</value>
-  </data>
-  <data name="CreditHint" xml:space="preserve">
-    <value>Available Credit: {0}</value>
-  </data>
-  <data name="MemberMaxCreditHint" xml:space="preserve">
-    <value>The Maximum Member Credit set by your upline: {0}</value>
-  </data>
 </root>

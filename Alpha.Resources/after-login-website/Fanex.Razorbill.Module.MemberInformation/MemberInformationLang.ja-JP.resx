@@ -117,22 +117,7 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="AllAgent" xml:space="preserve">
-    <value>All Agent</value>
-  </data>
-  <data name="MAP" xml:space="preserve">
-    <value>M = Master, A = Agent, P = Member.</value>
-  </data>
   <data name="No_Data_Found" xml:space="preserve">
-    <value>情報がありません</value>
-  </data>
-  <data name="NoteContent" xml:space="preserve">
-    <value>This information is for reference only. It might become obsolete, please contact CSD for more information.</value>
-  </data>
-  <data name="Note" xml:space="preserve">
-    <value>Note</value>
-  </data>
-  <data name="Bettype" xml:space="preserve">
-    <value>Bettype</value>
+    <value>情報はありません</value>
   </data>
 </root>

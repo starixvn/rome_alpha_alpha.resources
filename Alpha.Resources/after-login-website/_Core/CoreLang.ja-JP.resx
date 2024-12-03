@@ -124,36 +124,37 @@
     <value>マスター</value>
   </data>
   <data name="member" xml:space="preserve">
-    <value>メンバー</value>
+    <value>メンバー </value>
   </data>
   <data name="super" xml:space="preserve">
-    <value>Super </value>
+    <value>スーパー</value>
   </data>
   <data name="sportBook" xml:space="preserve">
-    <value>Sportsbook</value>
+    <value>スポーツブック</value>
   </data>
   <data name="VirtualSports" xml:space="preserve">
-    <value>Virtual Sports</value>
+    <value>バーチャルスポーツ</value>
   </data>
   <data name="AccessDenied" xml:space="preserve">
-    <value>You're not authorized to view this page</value>
+    <value>このページを表示する権限がありません。</value>
   </data>
   <data name="AjaxCallError" xml:space="preserve">
-    <value>Sorry, an error occurred while processing your request, please notify the administrators.</value>
+    <value>申し訳ありませんが、リクエストの処理中にエラーが発生しました。管理者にご連絡ください。</value>
   </data>
   <data name="ClosedByAdmin" xml:space="preserve">
-    <value>This account was closed by admin.</value>
+    <value>
+このアカウントは管理者によって閉鎖されました。</value>
   </data>
   <data name="ClosedByUpline" xml:space="preserve">
-    <value>This account was closed by upline.</value>
+    <value>このアカウントは上位者によって閉鎖されました。</value>
   </data>
   <data name="ClosedByArchive" xml:space="preserve">
-    <value>This account was closed by inactivity</value>
+    <value>このアカウントは非活動により閉鎖されました。</value>
   </data>
   <data name="FalseOTPSCUnlockConfirm" xml:space="preserve">
-    <value>This account has been locked due to multiple failed OTP/Security Code authentication attempts. Are you sure you want to unlock it?</value>
+    <value>このアカウントは複数回のOTP/セキュリティコード認証失敗によりロックされています。本当にロックを解除しますか？</value>
   </data>
   <data name="FalsePasswordUnlockConfirm" xml:space="preserve">
-    <value>This account has been locked due to multiple failed password attempts. Are you sure you want to unlock it?</value>
+    <value>このアカウントは複数回のパスワード入力失敗によりロックされています。本当にロックを解除しますか？</value>
   </data>
 </root>

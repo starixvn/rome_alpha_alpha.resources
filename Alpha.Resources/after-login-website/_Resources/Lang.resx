@@ -253,7 +253,7 @@
     <value>Confirm password cannot be empty!</value>
   </data>
   <data name="alertEmptySecCode" xml:space="preserve">
-    <value>Your Security Code was cleaned by your upline/admin.Please use the form below to set your Security Code again.</value>
+    <value>Your Security Code was cleaned by your upline/admin. Please use the form below to set your Security Code again.</value>
   </data>
   <data name="alertErrorConfirm" xml:space="preserve">
     <value>The password was not correctly confirmed.</value>

@@ -117,46 +117,4 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="AccInfoFunction" xml:space="preserve">
-    <value>Account Info Function</value>
-  </data>
-  <data name="AgentUserGuide" xml:space="preserve">
-    <value>Agent User Guide</value>
-  </data>
-  <data name="AgentWapUserGuide" xml:space="preserve">
-    <value>Agent Wap User Guide</value>
-  </data>
-  <data name="AutoPT" xml:space="preserve">
-    <value>Auto Position Taking</value>
-  </data>
-  <data name="Help" xml:space="preserve">
-    <value>Help</value>
-  </data>
-  <data name="HowToEnableCasino" xml:space="preserve">
-    <value>Enable Casino for downlines</value>
-  </data>
-  <data name="HowToUsePro" xml:space="preserve">
-    <value>使い方法</value>
-  </data>
-  <data name="MasterAutoPT" xml:space="preserve">
-    <value>Master Auto Position Taking</value>
-  </data>
-  <data name="NumberGame" xml:space="preserve">
-    <value>Number Game</value>
-  </data>
-  <data name="ProductsFeatures" xml:space="preserve">
-    <value>Products/features</value>
-  </data>
-  <data name="UserGuide" xml:space="preserve">
-    <value>User Guide</value>
-  </data>
-  <data name="ViewLogFunction" xml:space="preserve">
-    <value>View Log Function</value>
-  </data>
-  <data name="MemberWinLimit" xml:space="preserve">
-    <value>Configure Live Casino Win Limit</value>
-  </data>
-  <data name="SecurityCode" xml:space="preserve">
-    <value>Security Code FAQS</value>
-  </data>
 </root>

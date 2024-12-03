@@ -118,25 +118,42 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="errInvalidCaptcha" xml:space="preserve">
-    <value>You input an invalid code.</value>
+    <value>無効なコードを入力しました。</value>
   </data>
   <data name="invalidLogin" xml:space="preserve">
-    <value>ユーザーIDかパスワードが間違っています</value>
+    <value>ユーザー名またはパスワードに誤りがあります。</value>
   </data>
   <data name="iploginfailedmultipletimeserror" xml:space="preserve">
-    <value>Your IP ({0}) exceeded maximum number ({1} times) of attempts to authenticate with your credentials. 
-For security reasons, login function has been locked for {2} minutes.</value>
+    <value>あなたのIPアドレス（{0}）が認証試行回数の上限（{1}回）を超えました。セキュリティ上の理由から、ログイン機能は{2}分間ロックされました。</value>
   </data>
   <data name="lblLoginSuccessful" xml:space="preserve">
-    <value>Login Successfully</value>
+    <value>ログインに成功しました。</value>
   </data>
   <data name="lblPasswordChanged" xml:space="preserve">
-    <value>Your password was last changed on {0}. Please contact to CSD at once if you still cannot login.</value>
+    <value>あなたのパスワードは最後に{0}に変更されました。まだログインできない場合は、すぐに顧客サービス部門にお問い合わせください。</value>
   </data>
   <data name="invalidsession" xml:space="preserve">
-    <value>Invalid Session!</value>
+    <value>無効なセッションです！</value>
   </data>
   <data name="Error_Server" xml:space="preserve">
-    <value>Sorry, there was an unexpected issue on the server. Please seek help from our customer support. [{0}]</value>
+    <value>申し訳ありません、サーバーで予期しない問題が発生しました。カスタマーサポートまでお問い合わせください。[{0}]</value>
+  </data>
+  <data name="LoginTooOftenBlockedMessage" xml:space="preserve">
+    <value>ログインが多すぎます！ユーザー名: {0}</value>
+  </data>
+  <data name="inputCaptchaTooLong" xml:space="preserve">
+    <value>画像認証の入力を長時間待機しすぎました。</value>
+  </data>
+  <data name="tooManyFailedCaptcha" xml:space="preserve">
+    <value>画像認証の無効な試行が多すぎます。</value>
+  </data>
+  <data name="BotDetectionMessage" xml:space="preserve">
+    <value>アカウントの安全性を確保するため、このログインには安全確認が必要です。</value>
+  </data>
+  <data name="GoBackToLoginPage" xml:space="preserve">
+    <value>&lt;a href="{0}"&gt;ログインページ&lt;/a&gt;に戻ってください。</value>
+  </data>
+  <data name="UM_Message" xml:space="preserve">
+    <value>現在、定期的なサーバーメンテナンスを行っています。本ウェブサイトは{0}から{1}（GMT+8）の間ご利用いただけません。後ほどお越しください。</value>
   </data>
 </root>
