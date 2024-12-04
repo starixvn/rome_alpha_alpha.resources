@@ -130,8 +130,7 @@
     <value>昨日</value>
   </data>
   <data name="Submit" xml:space="preserve">
-    <value>確認
-</value>
+    <value>確認</value>
   </data>
   <data name="Page" xml:space="preserve">
     <value>ページ</value>
@@ -504,24 +503,19 @@
     <value>フィルターを非表示</value>
   </data>
   <data name="Product" xml:space="preserve">
-    <value>製品
-</value>
+    <value>製品</value>
   </data>
   <data name="ThereIsNoSelectedProduct" xml:space="preserve">
-    <value>選択された製品がありません。
-</value>
+    <value>選択された製品がありません。</value>
   </data>
   <data name="SelectProducts" xml:space="preserve">
-    <value>製品を選択
-</value>
+    <value>製品を選択</value>
   </data>
   <data name="AllProducts" xml:space="preserve">
-    <value>すべての製品
-</value>
+    <value>すべての製品</value>
   </data>
   <data name="Selected" xml:space="preserve">
-    <value>選択済み
-</value>
+    <value>選択済み</value>
   </data>
   <data name="ShowFilter" xml:space="preserve">
     <value>フィルターを表示</value>
@@ -1226,5 +1220,14 @@
   </data>
   <data name="ReportDataCanViewNote_Duplicate[1]" xml:space="preserve">
     <value>{0}以降のレポートデータは、最大90日間またはそれ以上検索可能です。</value>
+  </data>
+  <data name="WinLossDetailNewNote" xml:space="preserve">
+    <value>クリックして &lt;a href="{0}"&gt;こちら&lt;/a&gt; 報酬情報が含まれるレポートをご覧ください。&lt;b&gt;2025年2月1日 (mm/dd/yyyy)&lt;/b&gt; より、このレポートにはデフォルトで報酬情報が含まれるようになります。</value>
+  </data>
+  <data name="WinLossDetail2Note" xml:space="preserve">
+    <value>&lt;b&gt;2025年2月1日 (mm/dd/yyyy)&lt;/b&gt; より、このレポートにはデフォルトで報酬情報が含まれるようになります。&lt;a href="{0}"&gt;現在のレポート&lt;/a&gt; に戻る。</value>
+  </data>
+  <data name="Reward" xml:space="preserve">
+    <value>報酬</value>
   </data>
 </root>
