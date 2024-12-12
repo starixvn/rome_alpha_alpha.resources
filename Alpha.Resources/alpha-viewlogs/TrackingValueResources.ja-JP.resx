@@ -249,7 +249,7 @@ Saba バスケットボール-1試合あたりの最大ペイアウト
     <value>無効化されたナンバーゲーム</value>
   </data>
   <data name="SystemId_10" xml:space="preserve">
-    <value>テレグラム</value>
+    <value>Telegram</value>
   </data>
   <data name="AutoTransfer" xml:space="preserve">
     <value>自動振込</value>
@@ -264,7 +264,7 @@ Saba バスケットボール-1試合あたりの最大ペイアウト
     <value>デフォルトで選択する</value>
   </data>
   <data name="Commision" xml:space="preserve">
-    <value>手数料</value>
+    <value>コミッション</value>
   </data>
   <data name="BetSetting" xml:space="preserve">
     <value>ベット設定</value>
@@ -309,10 +309,10 @@ Saba バスケットボール-1試合あたりの最大ペイアウト
     <value>保有ポジション</value>
   </data>
   <data name="CommForAgent" xml:space="preserve">
-    <value>エージェント向け手数料</value>
+    <value>エージェント向けコミッション</value>
   </data>
   <data name="CommForMember" xml:space="preserve">
-    <value>メンバー向け手数料</value>
+    <value>メンバー向けコミッション</value>
   </data>
   <data name="WinLossLimit" xml:space="preserve">
     <value>勝ち負け制限</value>
@@ -355,5 +355,1112 @@ Saba バスケットボール-1試合あたりの最大ペイアウト
   </data>
   <data name="unassigned" xml:space="preserve">
     <value>未割り当て</value>
+  </data>
+  <data name="isa_mpt_4" xml:space="preserve">
+    <value>正しいスコア</value>
+  </data>
+  <data name="isa_spt_4" xml:space="preserve">
+    <value>正しいスコア</value>
+  </data>
+  <data name="a_spt_4" xml:space="preserve">
+    <value>正しいスコア</value>
+  </data>
+  <data name="a_mpt_4" xml:space="preserve">
+    <value>正しいスコア</value>
+  </data>
+  <data name="apt_4" xml:space="preserve">
+    <value>正しいスコア</value>
+  </data>
+  <data name="mpt_4" xml:space="preserve">
+    <value>正しいスコア</value>
+  </data>
+  <data name="spt_4" xml:space="preserve">
+    <value>正しいスコア</value>
+  </data>
+  <data name="isa_smpt_4" xml:space="preserve">
+    <value>正しいスコア</value>
+  </data>
+  <data name="a_mpt_mem_1" xml:space="preserve">
+    <value>オハンディキャップ</value>
+  </data>
+  <data name="a_mpt_mem_10" xml:space="preserve">
+    <value>勝者予想</value>
+  </data>
+  <data name="a_mpt_mem_2" xml:space="preserve">
+    <value>奇/偶</value>
+  </data>
+  <data name="a_mpt_mem_3" xml:space="preserve">
+    <value>オーバー/アンダー</value>
+  </data>
+  <data name="a_mpt_mem_4" xml:space="preserve">
+    <value>正しいスコア</value>
+  </data>
+  <data name="a_mpt_mem_5" xml:space="preserve">
+    <value>フルタイム 1X2</value>
+  </data>
+  <data name="a_mpt_mem_6" xml:space="preserve">
+    <value>合計ゴール</value>
+  </data>
+  <data name="a_mpt_mem_7" xml:space="preserve">
+    <value>前半戦オハンディキャップ</value>
+  </data>
+  <data name="a_mpt_mem_8" xml:space="preserve">
+    <value>前半戦オオーバー/アンダー</value>
+  </data>
+  <data name="a_mpt_mem_9" xml:space="preserve">
+    <value>ミックスパーレー</value>
+  </data>
+  <data name="a_v10mpt_mem_1" xml:space="preserve">
+    <value>ハンディキャップ</value>
+  </data>
+  <data name="a_v10mpt_mem_2" xml:space="preserve">
+    <value>奇/偶</value>
+  </data>
+  <data name="a_v10mpt_mem_20" xml:space="preserve">
+    <value>マネーライン</value>
+  </data>
+  <data name="a_v10mpt_mem_3" xml:space="preserve">
+    <value>オーバー/アンダー</value>
+  </data>
+  <data name="a_v11mpt_mem_1" xml:space="preserve">
+    <value>ハンディキャップ</value>
+  </data>
+  <data name="a_v11mpt_mem_20" xml:space="preserve">
+    <value>マネーライン</value>
+  </data>
+  <data name="a_v2mpt_mem_1" xml:space="preserve">
+    <value>ハンディキャップ</value>
+  </data>
+  <data name="a_v2mpt_mem_2" xml:space="preserve">
+    <value>奇/偶</value>
+  </data>
+  <data name="a_v2mpt_mem_20" xml:space="preserve">
+    <value>マネーライン</value>
+  </data>
+  <data name="a_v2mpt_mem_3" xml:space="preserve">
+    <value>オーバー/アンダー</value>
+  </data>
+  <data name="a_v2mpt_mem_7" xml:space="preserve">
+    <value>前半戦オハンディキャップ</value>
+  </data>
+  <data name="a_v2mpt_mem_8" xml:space="preserve">
+    <value>前半戦オオーバー/アンダー</value>
+  </data>
+  <data name="a_v2mpt_mem_9" xml:space="preserve">
+    <value>ミックスパーレー</value>
+  </data>
+  <data name="a_v3mpt_mem_1" xml:space="preserve">
+    <value>ハンディキャップ</value>
+  </data>
+  <data name="a_v3mpt_mem_2" xml:space="preserve">
+    <value>奇/偶</value>
+  </data>
+  <data name="a_v3mpt_mem_20" xml:space="preserve">
+    <value>マネーライン</value>
+  </data>
+  <data name="a_v3mpt_mem_3" xml:space="preserve">
+    <value>オーバー/アンダー</value>
+  </data>
+  <data name="a_v5mpt_mem_1" xml:space="preserve">
+    <value>ハンディキャップ</value>
+  </data>
+  <data name="a_v5mpt_mem_2" xml:space="preserve">
+    <value>奇/偶</value>
+  </data>
+  <data name="a_v5mpt_mem_20" xml:space="preserve">
+    <value>マネーライン</value>
+  </data>
+  <data name="a_v5mpt_mem_3" xml:space="preserve">
+    <value>オーバー/アンダー</value>
+  </data>
+  <data name="a_v8mpt_mem_1" xml:space="preserve">
+    <value>ハンディキャップ</value>
+  </data>
+  <data name="a_v8mpt_mem_20" xml:space="preserve">
+    <value>マネーライン</value>
+  </data>
+  <data name="a_v8mpt_mem_3" xml:space="preserve">
+    <value>オーバー/アンダー</value>
+  </data>
+  <data name="a_v99mpt_mem_1" xml:space="preserve">
+    <value>ハンディキャップ</value>
+  </data>
+  <data name="a_v99mpt_mem_2" xml:space="preserve">
+    <value>奇/偶</value>
+  </data>
+  <data name="a_v99mpt_mem_20" xml:space="preserve">
+    <value>マネーライン</value>
+  </data>
+  <data name="a_v99mpt_mem_3" xml:space="preserve">
+    <value>オーバー/アンダー</value>
+  </data>
+  <data name="isa_mlivept_mem_1" xml:space="preserve">
+    <value>ライブハンディキャップ</value>
+  </data>
+  <data name="isa_mlivept_mem_3" xml:space="preserve">
+    <value>ライブオーバー/アンダー</value>
+  </data>
+  <data name="isa_mlivept_mem_7" xml:space="preserve">
+    <value>ライブ前半戦オハンディキャップ</value>
+  </data>
+  <data name="isa_mlivept_mem_8" xml:space="preserve">
+    <value>ライブ前半戦オオーバー/アンダー</value>
+  </data>
+  <data name="isa_mpt_mem_1" xml:space="preserve">
+    <value>ハンディキャップ</value>
+  </data>
+  <data name="isa_mpt_mem_10" xml:space="preserve">
+    <value>勝者予想</value>
+  </data>
+  <data name="isa_mpt_mem_2" xml:space="preserve">
+    <value>奇/偶</value>
+  </data>
+  <data name="isa_mpt_mem_3" xml:space="preserve">
+    <value>オーバー/アンダー</value>
+  </data>
+  <data name="isa_mpt_mem_4" xml:space="preserve">
+    <value>正しいスコア</value>
+  </data>
+  <data name="isa_mpt_mem_5" xml:space="preserve">
+    <value>フルタイム 1X2</value>
+  </data>
+  <data name="isa_mpt_mem_6" xml:space="preserve">
+    <value>合計ゴール</value>
+  </data>
+  <data name="isa_mpt_mem_7" xml:space="preserve">
+    <value>前半戦オハンディキャップ</value>
+  </data>
+  <data name="isa_mpt_mem_8" xml:space="preserve">
+    <value>前半戦オオーバー/アンダー</value>
+  </data>
+  <data name="isa_mpt_mem_9" xml:space="preserve">
+    <value>ミックスパーレー</value>
+  </data>
+  <data name="isa_v10mpt_mem_1" xml:space="preserve">
+    <value>ハンディキャップ</value>
+  </data>
+  <data name="isa_v10mpt_mem_2" xml:space="preserve">
+    <value>奇/偶</value>
+  </data>
+  <data name="isa_v10mpt_mem_20" xml:space="preserve">
+    <value>マネーライン</value>
+  </data>
+  <data name="isa_v10mpt_mem_3" xml:space="preserve">
+    <value>オーバー/アンダー</value>
+  </data>
+  <data name="isa_v11mpt_mem_1" xml:space="preserve">
+    <value>ハンディキャップ</value>
+  </data>
+  <data name="isa_v11mpt_mem_20" xml:space="preserve">
+    <value>マネーライン</value>
+  </data>
+  <data name="isa_v2mpt_mem_1" xml:space="preserve">
+    <value>ハンディキャップ</value>
+  </data>
+  <data name="isa_v2mpt_mem_2" xml:space="preserve">
+    <value>奇/偶</value>
+  </data>
+  <data name="isa_v2mpt_mem_20" xml:space="preserve">
+    <value>マネーライン</value>
+  </data>
+  <data name="isa_v2mpt_mem_3" xml:space="preserve">
+    <value>オーバー/アンダー</value>
+  </data>
+  <data name="isa_v2mpt_mem_7" xml:space="preserve">
+    <value>前半戦オハンディキャップ</value>
+  </data>
+  <data name="isa_v2mpt_mem_8" xml:space="preserve">
+    <value>前半戦オーバー/アンダー</value>
+  </data>
+  <data name="isa_v2mpt_mem_9" xml:space="preserve">
+    <value>ミックスパーレー</value>
+  </data>
+  <data name="isa_v3mpt_mem_1" xml:space="preserve">
+    <value>ハンディキャップ</value>
+  </data>
+  <data name="isa_v3mpt_mem_2" xml:space="preserve">
+    <value>奇/偶</value>
+  </data>
+  <data name="isa_v3mpt_mem_20" xml:space="preserve">
+    <value>マネーライン</value>
+  </data>
+  <data name="isa_v3mpt_mem_3" xml:space="preserve">
+    <value>オーバー/アンダー</value>
+  </data>
+  <data name="isa_v5mpt_mem_1" xml:space="preserve">
+    <value>ハンディキャップ</value>
+  </data>
+  <data name="isa_v5mpt_mem_2" xml:space="preserve">
+    <value>奇/偶</value>
+  </data>
+  <data name="isa_v5mpt_mem_20" xml:space="preserve">
+    <value>マネーライン</value>
+  </data>
+  <data name="isa_v5mpt_mem_3" xml:space="preserve">
+    <value>オーバー/アンダー</value>
+  </data>
+  <data name="isa_v8mpt_mem_1" xml:space="preserve">
+    <value>ハンディキャップ</value>
+  </data>
+  <data name="isa_v8mpt_mem_20" xml:space="preserve">
+    <value>マネーライン</value>
+  </data>
+  <data name="isa_v8mpt_mem_3" xml:space="preserve">
+    <value>オーバー/アンダー</value>
+  </data>
+  <data name="isa_v99mpt_mem_1" xml:space="preserve">
+    <value>ハンディキャップ</value>
+  </data>
+  <data name="isa_v99mpt_mem_2" xml:space="preserve">
+    <value>奇/偶</value>
+  </data>
+  <data name="isa_v99mpt_mem_20" xml:space="preserve">
+    <value>マネーライン</value>
+  </data>
+  <data name="isa_v99mpt_mem_3" xml:space="preserve">
+    <value>オーバー/アンダー</value>
+  </data>
+  <data name="AccName" xml:space="preserve">
+    <value>アカウント名</value>
+  </data>
+  <data name="AgentPT" xml:space="preserve">
+    <value>エージェント保有ポジション</value>
+  </data>
+  <data name="login_message_log" xml:space="preserve">
+    <value>メンバーのログインログは現在利用できません。</value>
+  </data>
+  <data name="Domain" xml:space="preserve">
+    <value>ドメイン</value>
+  </data>
+  <data name="Platform" xml:space="preserve">
+    <value>プラットフォーム</value>
+  </data>
+  <data name="Browser" xml:space="preserve">
+    <value>ブラウザ</value>
+  </data>
+  <data name="NumberGame" xml:space="preserve">
+    <value>ナンバーゲーム</value>
+  </data>
+  <data name="v161spt_81" xml:space="preserve">
+    <value>最初/最後 オーバー/アンダー</value>
+  </data>
+  <data name="v161spt_83" xml:space="preserve">
+    <value>最初/最後 奇/偶</value>
+  </data>
+  <data name="v161spt_85" xml:space="preserve">
+    <value>オーバー/アンダー</value>
+  </data>
+  <data name="v161spt_86" xml:space="preserve">
+    <value>オーバー/アンダー</value>
+  </data>
+  <data name="v161slivept_85" xml:space="preserve">
+    <value>フルタイム奇/偶</value>
+  </data>
+  <data name="v161slivept_86" xml:space="preserve">
+    <value>ライブ次のオーバー/アンダー</value>
+  </data>
+  <data name="v161slivept_87" xml:space="preserve">
+    <value>ライブ次の奇/偶</value>
+  </data>
+  <data name="mixsports" xml:space="preserve">
+    <value>ライブ次のハイ/ロー</value>
+  </data>
+  <data name="v99spt_9" xml:space="preserve">
+    <value>ミックスパーレー</value>
+  </data>
+  <data name="a_v161spt_81" xml:space="preserve">
+    <value>最初/最後 オーバー/アンダー</value>
+  </data>
+  <data name="a_v161spt_83" xml:space="preserve">
+    <value>最初/最後 奇/偶</value>
+  </data>
+  <data name="a_v161spt_85" xml:space="preserve">
+    <value>オーバー/アンダー</value>
+  </data>
+  <data name="a_v161spt_86" xml:space="preserve">
+    <value>フルタイム奇/偶</value>
+  </data>
+  <data name="a_v161slivept_85" xml:space="preserve">
+    <value>ライブ次のオーバー/アンダー</value>
+  </data>
+  <data name="a_v161slivept_86" xml:space="preserve">
+    <value>ライブ次の奇/偶</value>
+  </data>
+  <data name="a_v161slivept_87" xml:space="preserve">
+    <value>ライブ次のハイ/ロー</value>
+  </data>
+  <data name="a_v99spt_9" xml:space="preserve">
+    <value>ミックスパーレー</value>
+  </data>
+  <data name="isa_v161spt_81" xml:space="preserve">
+    <value>最初/最後 オーバー/アンダー</value>
+  </data>
+  <data name="isa_v161spt_83" xml:space="preserve">
+    <value>最初/最後 奇/偶</value>
+  </data>
+  <data name="isa_v161spt_85" xml:space="preserve">
+    <value>オーバー/アンダー</value>
+  </data>
+  <data name="isa_v161spt_86" xml:space="preserve">
+    <value>フルタイム奇/偶</value>
+  </data>
+  <data name="isa_v161slivept_85" xml:space="preserve">
+    <value>ライブ次のオーバー/アンダー</value>
+  </data>
+  <data name="isa_v161slivept_86" xml:space="preserve">
+    <value>ライブ次の奇/偶</value>
+  </data>
+  <data name="isa_v161slivept_87" xml:space="preserve">
+    <value>ライブ次のハイ/ロー</value>
+  </data>
+  <data name="isa_v99spt_9" xml:space="preserve">
+    <value>ミックスパーレー</value>
+  </data>
+  <data name="v161mpt_81" xml:space="preserve">
+    <value>最初/最後 オーバー/アンダー</value>
+  </data>
+  <data name="v161mpt_83" xml:space="preserve">
+    <value>最初/最後 奇/偶</value>
+  </data>
+  <data name="v161mpt_85" xml:space="preserve">
+    <value>オーバー/アンダー</value>
+  </data>
+  <data name="v161mpt_86" xml:space="preserve">
+    <value>フルタイム奇/偶</value>
+  </data>
+  <data name="v161mlivept_85" xml:space="preserve">
+    <value>ライブ次のオーバー/アンダー</value>
+  </data>
+  <data name="v161mlivept_86" xml:space="preserve">
+    <value>ライブ次の奇/偶</value>
+  </data>
+  <data name="v161mlivept_87" xml:space="preserve">
+    <value>ライブ次のハイ/ロー</value>
+  </data>
+  <data name="v99mpt_9" xml:space="preserve">
+    <value>ミックスパーレー</value>
+  </data>
+  <data name="MinBv99MP" xml:space="preserve">
+    <value>ミックススポーツパーレイ-最小ベット</value>
+  </data>
+  <data name="MaxBv99MP" xml:space="preserve">
+    <value>ミックススポーツパーレイ-最大ベット</value>
+  </data>
+  <data name="MPMv99MP" xml:space="preserve">
+    <value>ミックススポーツパーレイ-1試合あたりの最大値</value>
+  </data>
+  <data name="MinBv161" xml:space="preserve">
+    <value>ナンバーゲーム-最小ベット</value>
+  </data>
+  <data name="MaxBv161" xml:space="preserve">
+    <value>ナンバーゲーム-最大ベット</value>
+  </data>
+  <data name="MPMv161" xml:space="preserve">
+    <value>ナンバーゲーム-1試合あたりの最大値</value>
+  </data>
+  <data name="MPBv161" xml:space="preserve">
+    <value>ナンバーゲーム-1球あたりの最大値</value>
+  </data>
+  <data name="UMMBv99MP" xml:space="preserve">
+    <value>ミックススポーツパーレイの最小-最大ベットを更新します</value>
+  </data>
+  <data name="UMMBv161" xml:space="preserve">
+    <value>ナンバーゲームの最小-最大ベットを更新します</value>
+  </data>
+  <data name="v161apt_81" xml:space="preserve">
+    <value>最初/最後 オーバー/アンダー</value>
+  </data>
+  <data name="v161apt_83" xml:space="preserve">
+    <value>最初/最後 奇/偶</value>
+  </data>
+  <data name="v161apt_85" xml:space="preserve">
+    <value>オーバー/アンダー</value>
+  </data>
+  <data name="v161apt_86" xml:space="preserve">
+    <value>フルタイム奇/偶</value>
+  </data>
+  <data name="v161alivept_85" xml:space="preserve">
+    <value>ライブ次のオーバー/アンダー</value>
+  </data>
+  <data name="v161alivept_86" xml:space="preserve">
+    <value>ライブ次の奇/偶</value>
+  </data>
+  <data name="v161alivept_87" xml:space="preserve">
+    <value>ライブ次のハイ/ロー</value>
+  </data>
+  <data name="v99apt_9" xml:space="preserve">
+    <value>ミックスパーレー</value>
+  </data>
+  <data name="a_v161mpt_81" xml:space="preserve">
+    <value>最初/最後 オーバー/アンダー</value>
+  </data>
+  <data name="a_v161mpt_83" xml:space="preserve">
+    <value>最初/最後 奇/偶</value>
+  </data>
+  <data name="a_v161mpt_85" xml:space="preserve">
+    <value>オーバー/アンダー</value>
+  </data>
+  <data name="a_v161mpt_86" xml:space="preserve">
+    <value>フルタイム奇/偶</value>
+  </data>
+  <data name="a_v161mlivept_85" xml:space="preserve">
+    <value>ライブ次のオーバー/アンダー</value>
+  </data>
+  <data name="a_v161mlivept_86" xml:space="preserve">
+    <value>ライブ次の奇/偶</value>
+  </data>
+  <data name="a_v161mlivept_87" xml:space="preserve">
+    <value>ライブ次のハイ/ロー</value>
+  </data>
+  <data name="a_v99mpt_9" xml:space="preserve">
+    <value>ミックスパーレー</value>
+  </data>
+  <data name="isa_v161mpt_81" xml:space="preserve">
+    <value>最初/最後 オーバー/アンダー</value>
+  </data>
+  <data name="isa_v161mpt_83" xml:space="preserve">
+    <value>最初/最後 奇/偶</value>
+  </data>
+  <data name="isa_v161mpt_85" xml:space="preserve">
+    <value>オーバー/アンダー</value>
+  </data>
+  <data name="isa_v161mpt_86" xml:space="preserve">
+    <value>フルタイム奇/偶</value>
+  </data>
+  <data name="isa_v161mlivept_85" xml:space="preserve">
+    <value>ライブ次のオーバー/アンダー</value>
+  </data>
+  <data name="isa_v161mlivept_86" xml:space="preserve">
+    <value>ライブ次の奇/偶</value>
+  </data>
+  <data name="isa_v161mlivept_87" xml:space="preserve">
+    <value>ライブ次のハイ/ロー</value>
+  </data>
+  <data name="isa_v99mpt_9" xml:space="preserve">
+    <value>ミックスパーレー</value>
+  </data>
+  <data name="Updptv99MP" xml:space="preserve">
+    <value>ミックススポーツパーレイの保有ポジションを更新します</value>
+  </data>
+  <data name="Updptv161" xml:space="preserve">
+    <value>ナンバーゲームの保有ポジションを更新</value>
+  </data>
+  <data name="minv161pt_81" xml:space="preserve">
+    <value>最小 最初/最後 オーバー/アンダー</value>
+  </data>
+  <data name="minv161pt_83" xml:space="preserve">
+    <value>最小 最初/最後 奇/偶</value>
+  </data>
+  <data name="minv161pt_85" xml:space="preserve">
+    <value>最小オーバー/アンダー</value>
+  </data>
+  <data name="minv161pt_86" xml:space="preserve">
+    <value>最小フルタイム奇/偶</value>
+  </data>
+  <data name="minv161livept_85" xml:space="preserve">
+    <value>最小ライブ次のオーバー/アンダー</value>
+  </data>
+  <data name="minv161livept_86" xml:space="preserve">
+    <value>最小ライブ次の奇/偶</value>
+  </data>
+  <data name="minv161livept_87" xml:space="preserve">
+    <value>最小ライブ次のハイ/ロー</value>
+  </data>
+  <data name="maxv161pt_81" xml:space="preserve">
+    <value>最大 最初/最後 オーバー/アンダー</value>
+  </data>
+  <data name="maxv161pt_83" xml:space="preserve">
+    <value>最大 最初/最後 奇/偶</value>
+  </data>
+  <data name="maxv161pt_85" xml:space="preserve">
+    <value>最大オーバー/アンダー</value>
+  </data>
+  <data name="maxv161pt_86" xml:space="preserve">
+    <value>最大フルタイム 奇/偶</value>
+  </data>
+  <data name="maxv161livept_85" xml:space="preserve">
+    <value>最大ライブ次のオーバー/アンダー</value>
+  </data>
+  <data name="maxv161livept_86" xml:space="preserve">
+    <value>最大ライブ次の奇/偶</value>
+  </data>
+  <data name="maxv161livept_87" xml:space="preserve">
+    <value>最大ライブ次のハイ/ロー</value>
+  </data>
+  <data name="Disable161_81" xml:space="preserve">
+    <value>無効化されたナンバーゲーム</value>
+  </data>
+  <data name="isa_v161mpt_mem_81" xml:space="preserve">
+    <value>最初/最後  オーバー/アンダー</value>
+  </data>
+  <data name="isa_v161mpt_mem_83" xml:space="preserve">
+    <value>最初/最後  奇/偶</value>
+  </data>
+  <data name="isa_v161mpt_mem_85" xml:space="preserve">
+    <value>オーバー/アンダー</value>
+  </data>
+  <data name="isa_v161mpt_mem_86" xml:space="preserve">
+    <value>フルタイム 奇/偶</value>
+  </data>
+  <data name="isa_v161mlivept_mem_85" xml:space="preserve">
+    <value>ライブ次のオーバー/アンダー</value>
+  </data>
+  <data name="isa_v161mlivept_mem_86" xml:space="preserve">
+    <value>ライブ次の奇/偶</value>
+  </data>
+  <data name="isa_v161mlivept_mem_87" xml:space="preserve">
+    <value>ライブ次のハイ/ロー</value>
+  </data>
+  <data name="isa_v99mpt_mem_9" xml:space="preserve">
+    <value>ミックスパーレー</value>
+  </data>
+  <data name="a_v161mpt_mem_81" xml:space="preserve">
+    <value>最初/最後  オーバー/アンダー</value>
+  </data>
+  <data name="a_v161mpt_mem_83" xml:space="preserve">
+    <value>最初/最後  奇/偶</value>
+  </data>
+  <data name="a_v161mpt_mem_85" xml:space="preserve">
+    <value>オーバー/アンダー</value>
+  </data>
+  <data name="a_v161mpt_mem_86" xml:space="preserve">
+    <value>フルタイム 奇/偶</value>
+  </data>
+  <data name="a_v161mlivept_mem_85" xml:space="preserve">
+    <value>ライブ次のオーバー/アンダー</value>
+  </data>
+  <data name="a_v161mlivept_mem_86" xml:space="preserve">
+    <value>ライブ次の奇/偶</value>
+  </data>
+  <data name="a_v161mlivept_mem_87" xml:space="preserve">
+    <value>ライブ次のハイ/ロー</value>
+  </data>
+  <data name="a_v99mpt_mem_9" xml:space="preserve">
+    <value>ミックスパーレー</value>
+  </data>
+  <data name="minv99pt_9" xml:space="preserve">
+    <value>最小ミックスパーレー</value>
+  </data>
+  <data name="maxv99pt_9" xml:space="preserve">
+    <value>最大ミックスパーレー</value>
+  </data>
+  <data name="showOldValue" xml:space="preserve">
+    <value>古い値を表示</value>
+  </data>
+  <data name="nicknameOnly" xml:space="preserve">
+    <value>ニックネームのみ</value>
+  </data>
+  <data name="nickname" xml:space="preserve">
+    <value>ニックネーム</value>
+  </data>
+  <data name="v161spt_88" xml:space="preserve">
+    <value>戦士</value>
+  </data>
+  <data name="v161slivept_89" xml:space="preserve">
+    <value>ライブ次の組み合わせ</value>
+  </data>
+  <data name="v161slivept_90" xml:space="preserve">
+    <value>ライブナンバーホイール</value>
+  </data>
+  <data name="a_v161spt_88" xml:space="preserve">
+    <value>戦士</value>
+  </data>
+  <data name="a_v161slivept_89" xml:space="preserve">
+    <value>ライブ次の組み合わせ</value>
+  </data>
+  <data name="a_v161slivept_90" xml:space="preserve">
+    <value>ライブナンバーホイール</value>
+  </data>
+  <data name="isa_v161spt_88" xml:space="preserve">
+    <value>戦士</value>
+  </data>
+  <data name="isa_v161slivept_89" xml:space="preserve">
+    <value>ライブ次の組み合わせ</value>
+  </data>
+  <data name="isa_v161slivept_90" xml:space="preserve">
+    <value>ライブナンバーホイール</value>
+  </data>
+  <data name="v161mpt_88" xml:space="preserve">
+    <value>戦士</value>
+  </data>
+  <data name="v161mlivept_89" xml:space="preserve">
+    <value>ライブ次の組み合わせ</value>
+  </data>
+  <data name="v161mlivept_90" xml:space="preserve">
+    <value>ライブナンバーホイール</value>
+  </data>
+  <data name="isa_v161mpt_mem_88" xml:space="preserve">
+    <value>戦士</value>
+  </data>
+  <data name="isa_v161mlivept_mem_89" xml:space="preserve">
+    <value>ライブ次の組み合わせ</value>
+  </data>
+  <data name="isa_v161mlivept_mem_90" xml:space="preserve">
+    <value>ライブナンバーホイール</value>
+  </data>
+  <data name="a_v161mpt_mem_88" xml:space="preserve">
+    <value>戦士</value>
+  </data>
+  <data name="a_v161mlivept_mem_89" xml:space="preserve">
+    <value>ライブ次の組み合わせ</value>
+  </data>
+  <data name="a_v161mlivept_mem_90" xml:space="preserve">
+    <value>ライブナンバーホイール</value>
+  </data>
+  <data name="v161apt_88" xml:space="preserve">
+    <value>戦士</value>
+  </data>
+  <data name="v161alivept_89" xml:space="preserve">
+    <value>ライブ次の組み合わせ</value>
+  </data>
+  <data name="v161alivept_90" xml:space="preserve">
+    <value>ライブナンバーホイール</value>
+  </data>
+  <data name="a_v161mpt_88" xml:space="preserve">
+    <value>戦士</value>
+  </data>
+  <data name="a_v161mlivept_89" xml:space="preserve">
+    <value>ライブ次の組み合わせ</value>
+  </data>
+  <data name="a_v161mlivept_90" xml:space="preserve">
+    <value>ライブナンバーホイール</value>
+  </data>
+  <data name="isa_v161mpt_88" xml:space="preserve">
+    <value>戦士</value>
+  </data>
+  <data name="isa_v161mlivept_89" xml:space="preserve">
+    <value>ライブ次の組み合わせ</value>
+  </data>
+  <data name="isa_v161mlivept_90" xml:space="preserve">
+    <value>ライブナンバーホイール</value>
+  </data>
+  <data name="minv161pt_88" xml:space="preserve">
+    <value>最小戦士</value>
+  </data>
+  <data name="minv161livept_89" xml:space="preserve">
+    <value>最小ライブ次の組み合わせ</value>
+  </data>
+  <data name="minv161livept_90" xml:space="preserve">
+    <value>最小ライブナンバーホイール</value>
+  </data>
+  <data name="maxv161pt_88" xml:space="preserve">
+    <value>最大戦士</value>
+  </data>
+  <data name="maxv161livept_89" xml:space="preserve">
+    <value>最大ライブ次の組み合わせ</value>
+  </data>
+  <data name="maxv161livept_90" xml:space="preserve">
+    <value>最大ライブナンバーホイール</value>
+  </data>
+  <data name="copiedFromUsername" xml:space="preserve">
+    <value>ユーザー名より複写</value>
+  </data>
+  <data name="IsEnable" xml:space="preserve">
+    <value>有効ですか</value>
+  </data>
+  <data name="MinPT" xml:space="preserve">
+    <value>最小保有ポジション</value>
+  </data>
+  <data name="v162discount_1101" xml:space="preserve">
+    <value>コミッション</value>
+  </data>
+  <data name="maxPT" xml:space="preserve">
+    <value>最大保有ポジション</value>
+  </data>
+  <data name="isMasterAutoPT" xml:space="preserve">
+    <value>マスター自動保有ポジションですか</value>
+  </data>
+  <data name="isSuperAutoPT" xml:space="preserve">
+    <value>スーパー自動保有ポジションですか</value>
+  </data>
+  <data name="lblAutoPTSuper" xml:space="preserve">
+    <value>スーパー自動保有ポジション</value>
+  </data>
+  <data name="lblMaxPTMaster" xml:space="preserve">
+    <value>マスター最大保有ポジション</value>
+  </data>
+  <data name="lblPresetPTMaster" xml:space="preserve">
+    <value>マスター事前設定保有ポジション</value>
+  </data>
+  <data name="lblPresetPTSuper" xml:space="preserve">
+    <value>スーパー事前設定保有ポジション</value>
+  </data>
+  <data name="lblMaxPTAgent" xml:space="preserve">
+    <value>エージェント最大保有ポジション</value>
+  </data>
+  <data name="masterAutoPT" xml:space="preserve">
+    <value>マスター自動保有ポジション</value>
+  </data>
+  <data name="addFrom" xml:space="preserve">
+    <value>〜から追加</value>
+  </data>
+  <data name="agentId1" xml:space="preserve">
+    <value>エージェントID</value>
+  </data>
+  <data name="baccarat" xml:space="preserve">
+    <value>Baccarat</value>
+  </data>
+  <data name="casinoNo" xml:space="preserve">
+    <value>カジノ番号</value>
+  </data>
+  <data name="masterId" xml:space="preserve">
+    <value>マスターID</value>
+  </data>
+  <data name="sicbo" xml:space="preserve">
+    <value>Sicbo</value>
+  </data>
+  <data name="superId" xml:space="preserve">
+    <value>スーパーID</value>
+  </data>
+  <data name="Site_1" xml:space="preserve">
+    <value>会計サイト</value>
+  </data>
+  <data name="Site_2" xml:space="preserve">
+    <value>エージェンシーサイト</value>
+  </data>
+  <data name="roleId" xml:space="preserve">
+    <value>役割ID</value>
+  </data>
+  <data name="MaxTransfer" xml:space="preserve">
+    <value>最大振込額</value>
+  </data>
+  <data name="DailyAutoReset" xml:space="preserve">
+    <value>日次自動リセット制限</value>
+  </data>
+  <data name="games" xml:space="preserve">
+    <value>ゲーム</value>
+  </data>
+  <data name="privateGames" xml:space="preserve">
+    <value>プライベートゲーム</value>
+  </data>
+  <data name="copyFrom" xml:space="preserve">
+    <value>〜より複写</value>
+  </data>
+  <data name="isSearchAndCopy" xml:space="preserve">
+    <value>検索して複写</value>
+  </data>
+  <data name="isAgentAutoPT" xml:space="preserve">
+    <value>エージェントの自動保有ポジションですか</value>
+  </data>
+  <data name="MinPTAgent" xml:space="preserve">
+    <value>エージェント最小保有ポジション</value>
+  </data>
+  <data name="lblMinPTMaster" xml:space="preserve">
+    <value>マスター最小保有ポジション</value>
+  </data>
+  <data name="Disablevirtualsports" xml:space="preserve">
+    <value>バーチャルスポーツを無効化しました</value>
+  </data>
+  <data name="updateAllMembers" xml:space="preserve">
+    <value>全メンバーを更新</value>
+  </data>
+  <data name="newPT" xml:space="preserve">
+    <value>新しい保有ポジション</value>
+  </data>
+  <data name="isDefault" xml:space="preserve">
+    <value>既定値ですか</value>
+  </data>
+  <data name="MaximumWin" xml:space="preserve">
+    <value>最大勝ち額は</value>
+  </data>
+  <data name="lblMaxPTSuper" xml:space="preserve">
+    <value>スーパー最大保有ポジション</value>
+  </data>
+  <data name="lblMinPTSuper" xml:space="preserve">
+    <value>スーパー最小保有ポジション</value>
+  </data>
+  <data name="lblUpdatePT" xml:space="preserve">
+    <value>保有ポジションを更新</value>
+  </data>
+  <data name="ApplyDownlinesVS" xml:space="preserve">
+    <value>すべての下層ラインに適用</value>
+  </data>
+  <data name="disabled" xml:space="preserve">
+    <value>無効化された</value>
+  </data>
+  <data name="bettype" xml:space="preserve">
+    <value>ベットタイプ</value>
+  </data>
+  <data name="others" xml:space="preserve">
+    <value>その他</value>
+  </data>
+  <data name="DisabledESports" xml:space="preserve">
+    <value>E-Sportsを無効化しました</value>
+  </data>
+  <data name="CheckedSecurityCode" xml:space="preserve">
+    <value>セキュリティコードをチェック済み</value>
+  </data>
+  <data name="FunctionName" xml:space="preserve">
+    <value>機能名</value>
+  </data>
+  <data name="IsForcedChangeSecurityCode" xml:space="preserve">
+    <value>セキュリティコードの強制変更ですか</value>
+  </data>
+  <data name="v255playerdiscount_1701" xml:space="preserve">
+    <value>コミッション</value>
+  </data>
+  <data name="disableGoldDeluxe" xml:space="preserve">
+    <value>Gold Deluxeを無効化しました</value>
+  </data>
+  <data name="v255discount_1701" xml:space="preserve">
+    <value>コミッション</value>
+  </data>
+  <data name="Apply_downlines" xml:space="preserve">
+    <value>下層ラインに適用</value>
+  </data>
+  <data name="doublecommission" xml:space="preserve">
+    <value>ダブルコミッション</value>
+  </data>
+  <data name="v204discountvalue_cashinshare" xml:space="preserve">
+    <value>キャッシュイン共有</value>
+  </data>
+  <data name="v204discountvalue_commission" xml:space="preserve">
+    <value>コミッション</value>
+  </data>
+  <data name="isdisabled" xml:space="preserve">
+    <value>無効状態ですか</value>
+  </data>
+  <data name="isdisableddownline" xml:space="preserve">
+    <value>下層ラインが無効状態ですか</value>
+  </data>
+  <data name="IsLive" xml:space="preserve">
+    <value>ライブ状態ですか</value>
+  </data>
+  <data name="isSync" xml:space="preserve">
+    <value>同期状態ですか</value>
+  </data>
+  <data name="Sport" xml:space="preserve">
+    <value>スポーツ</value>
+  </data>
+  <data name="product" xml:space="preserve">
+    <value>製品</value>
+  </data>
+  <data name="MaximumLoss" xml:space="preserve">
+    <value>最大負け額は</value>
+  </data>
+  <data name="Disable50_501" xml:space="preserve">
+    <value>クリケットを無効化しました</value>
+  </data>
+  <data name="Disable212_4001" xml:space="preserve">
+    <value>Macau Gamesを無効化しました</value>
+  </data>
+  <data name="isa_v5spt_20" xml:space="preserve">
+    <value>マネーライン</value>
+  </data>
+  <data name="AllbetNormalGames" xml:space="preserve">
+    <value>バカラ, ルーレット, シックボー, ドラゴンタイガー, ウィン3カード, 牛牛</value>
+  </data>
+  <data name="MaxPerNumber" xml:space="preserve">
+    <value>1番号あたりの最大値</value>
+  </data>
+  <data name="checkedotp" xml:space="preserve">
+    <value>OTPをチェック済み</value>
+  </data>
+  <data name="MaxBv1MP" xml:space="preserve">
+    <value>サッカーパーレイ - 最大ベット</value>
+  </data>
+  <data name="MinBv1MP" xml:space="preserve">
+    <value>サッカーパーレイ - 最小ベット</value>
+  </data>
+  <data name="MPMv1MP" xml:space="preserve">
+    <value>サッカーパーレイ - 1試合あたりの最大値</value>
+  </data>
+  <data name="Disable180_1201" xml:space="preserve">
+    <value>バーチャルスポーツを無効化しました</value>
+  </data>
+  <data name="hideGD" xml:space="preserve">
+    <value>Gold Deluxeを隠す</value>
+  </data>
+  <data name="isDisabledAllAgents" xml:space="preserve">
+    <value>全てのエージェントが無効になっています</value>
+  </data>
+  <data name="isDisabledAllMasters" xml:space="preserve">
+    <value>全てのマスターが無効になっています</value>
+  </data>
+  <data name="isDisabledAllMembers" xml:space="preserve">
+    <value>全てのメンバーが無効になっています</value>
+  </data>
+  <data name="updateAllAgents" xml:space="preserve">
+    <value>全エージェントを更新</value>
+  </data>
+  <data name="updateAllMasters" xml:space="preserve">
+    <value>全マスターを更新</value>
+  </data>
+  <data name="LetstalkId" xml:space="preserve">
+    <value>Letstalk ID</value>
+  </data>
+  <data name="Outstanding" xml:space="preserve">
+    <value>未払い残高</value>
+  </data>
+  <data name="TodayWinLoss" xml:space="preserve">
+    <value>今日の勝ち負け</value>
+  </data>
+  <data name="BalanceInfo" xml:space="preserve">
+    <value>残高情報</value>
+  </data>
+  <data name="YesterdayWinLoss" xml:space="preserve">
+    <value>昨日の勝ち負け</value>
+  </data>
+  <data name="PersonalMessage" xml:space="preserve">
+    <value>個人メッセージ</value>
+  </data>
+  <data name="SpecialAnnouncement" xml:space="preserve">
+    <value>特別通知</value>
+  </data>
+  <data name="NormalAnnouncement" xml:space="preserve">
+    <value>通常通知</value>
+  </data>
+  <data name="SystemAnnouncement" xml:space="preserve">
+    <value>システム通知</value>
+  </data>
+  <data name="en-US" xml:space="preserve">
+    <value>英語</value>
+  </data>
+  <data name="zh-TW" xml:space="preserve">
+    <value>繁体中国語</value>
+  </data>
+  <data name="zh-CN" xml:space="preserve">
+    <value>簡体中国語</value>
+  </data>
+  <data name="ja-JP" xml:space="preserve">
+    <value>日本語</value>
+  </data>
+  <data name="th-TH" xml:space="preserve">
+    <value>タイ語</value>
+  </data>
+  <data name="ko-KR" xml:space="preserve">
+    <value>韓国語</value>
+  </data>
+  <data name="vi-VN" xml:space="preserve">
+    <value>ベトナム語</value>
+  </data>
+  <data name="period" xml:space="preserve">
+    <value>期間</value>
+  </data>
+  <data name="FifteenMinutes" xml:space="preserve">
+    <value>15分</value>
+  </data>
+  <data name="ThirtyMinutes" xml:space="preserve">
+    <value>30分</value>
+  </data>
+  <data name="OneHour" xml:space="preserve">
+    <value>1時間</value>
+  </data>
+  <data name="ThreeHours" xml:space="preserve">
+    <value>3時間</value>
+  </data>
+  <data name="SixHours" xml:space="preserve">
+    <value>6時間</value>
+  </data>
+  <data name="TwelveHours" xml:space="preserve">
+    <value>12時間</value>
+  </data>
+  <data name="OneDay" xml:space="preserve">
+    <value>1日</value>
+  </data>
+  <data name="ThreeDays" xml:space="preserve">
+    <value>3日</value>
+  </data>
+  <data name="SevenDays" xml:space="preserve">
+    <value>7日</value>
+  </data>
+  <data name="FifteenDays" xml:space="preserve">
+    <value>15日</value>
+  </data>
+  <data name="ThirtyDays" xml:space="preserve">
+    <value>30日</value>
+  </data>
+  <data name="SystemId_2" xml:space="preserve">
+    <value>ウェブ</value>
+  </data>
+  <data name="SystemId_8" xml:space="preserve">
+    <value>チャットボット</value>
+  </data>
+  <data name="CopyCustomer" xml:space="preserve">
+    <value>既存のアカウントから新しいメンバーを作成する</value>
+  </data>
+  <data name="MinBv164" xml:space="preserve">
+    <value>Happy 5 - 最小ベット</value>
+  </data>
+  <data name="MaxBv164" xml:space="preserve">
+    <value>Happy 5 - 最大ベット</value>
+  </data>
+  <data name="MPMv164" xml:space="preserve">
+    <value>Happy 5 - 1試合あたりの最大値</value>
+  </data>
+  <data name="UMMBv164" xml:space="preserve">
+    <value>Happy 5 の最小-最大ベットを更新する</value>
+  </data>
+  <data name="IsAllAffectedDownlines" xml:space="preserve">
+    <value>影響を受けた下層ラインはすべてですか</value>
+  </data>
+  <data name="IsAllDayBalTransfer" xml:space="preserve">
+    <value>全日残高振込ですか</value>
+  </data>
+  <data name="Account" xml:space="preserve">
+    <value>アカウント</value>
+  </data>
+  <data name="DownlineSubAcc" xml:space="preserve">
+    <value>下層ラインのサブアカウント</value>
+  </data>
+  <data name="UplineSubAcc" xml:space="preserve">
+    <value>上層ラインのサブアカウント</value>
+  </data>
+  <data name="DiscountMyanmarOdds" xml:space="preserve">
+    <value>ミャンマーオッズ割引</value>
+  </data>
+  <data name="PlayerDiscountMyanmarOdds" xml:space="preserve">
+    <value>プレイヤーのミャンマーオッズ割引</value>
+  </data>
+  <data name="PaymentDate" xml:space="preserve">
+    <value>支払日</value>
+  </data>
+  <data name="Locked" xml:space="preserve">
+    <value>ロックされ</value>
+  </data>
+  <data name="SourceAccount" xml:space="preserve">
+    <value>ソースアカウント</value>
+  </data>
+  <data name="SoccerSMP" xml:space="preserve">
+    <value>サッカー (SMP)</value>
+  </data>
+  <data name="Soccer2" xml:space="preserve">
+    <value>サッカー (2)</value>
+  </data>
+  <data name="Soccer35" xml:space="preserve">
+    <value>サッカー (3-5)</value>
+  </data>
+  <data name="Soccer6pSP" xml:space="preserve">
+    <value>サッカー (6+) &amp; SP</value>
+  </data>
+  <data name="MixSportsSMP" xml:space="preserve">
+    <value>ミックススポーツ (SMP)</value>
+  </data>
+  <data name="MixSport2" xml:space="preserve">
+    <value>ミックススポー (2)</value>
+  </data>
+  <data name="MixSports35" xml:space="preserve">
+    <value>ミックススポー (3-5)</value>
+  </data>
+  <data name="MixSports6pSP" xml:space="preserve">
+    <value>ミックススポー (6+) &amp; SP</value>
+  </data>
+  <data name="UpdateParlayMaxPayout" xml:space="preserve">
+    <value>パーレイ最大ペイアウトを更新する</value>
+  </data>
+  <data name="UpdateParlayMaxPayoutIndirectly" xml:space="preserve">
+    <value>パーレイ最大ペイアウトを間接更新</value>
+  </data>
+  <data name="DisableOpenTote" xml:space="preserve">
+    <value>UK/Irish Toteのプレイは許可されていません。</value>
+  </data>
+  <data name="hrmpm" xml:space="preserve">
+    <value>南アフリカ競馬 - 最高単場</value>
+  </data>
+  <data name="disableot" xml:space="preserve">
+    <value>イギリス/アイルランドの競馬プールを閉鎖する</value>
+  </data>
+  <data name="MinBv151" xml:space="preserve">
+    <value>南アフリカ競馬 - 最小ベット</value>
   </data>
 </root>

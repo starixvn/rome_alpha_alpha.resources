@@ -118,16 +118,16 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="aa" xml:space="preserve">
-    <value>AA</value>
+    <value>アウェイチーム アウェイチーム</value>
   </data>
   <data name="accbalancetrancondition" xml:space="preserve">
     <value>アカウント残高移行条件</value>
   </data>
   <data name="acomm1" xml:space="preserve">
-    <value>エージェント1手数料</value>
+    <value>エージェント1コミッション</value>
   </data>
   <data name="acomm2" xml:space="preserve">
-    <value>エージェント2手数料</value>
+    <value>エージェント2コミッション</value>
   </data>
   <data name="addsubaccount" xml:space="preserve">
     <value>サブアカウントを追加</value>
@@ -285,10 +285,10 @@
     <value>閉鎖済み</value>
   </data>
   <data name="com" xml:space="preserve">
-    <value>手数料</value>
+    <value>コミッション</value>
   </data>
   <data name="commission" xml:space="preserve">
-    <value>手数料</value>
+    <value>コミッション</value>
   </data>
   <data name="company" xml:space="preserve">
     <value>カンパニー</value>
@@ -380,7 +380,7 @@
     <value>すべてのエージェント残高</value>
   </data>
   <data name="acomm3" xml:space="preserve">
-    <value>エージェント3手数料</value>
+    <value>エージェント3コミッション</value>
   </data>
   <data name="apr" xml:space="preserve">
     <value>4月</value>
@@ -392,7 +392,7 @@
     <value>自動保有ポジションを許可 </value>
   </data>
   <data name="autoReset" xml:space="preserve">
-    <value>毎日の自動リセット制限 (GMT+8の正午12時にリセット)</value>
+    <value>日次自動リセット制限 (GMT+8の正午12時にリセット)</value>
   </data>
   <data name="confirmDisableOutright" xml:space="preserve">
     <value>この顧客に対して、アウトライトベッティングを禁止してもよろしいですか？警告：このエージェントに所属するすべてのメンバーはアウトライトベットを行うことができません！</value>
@@ -483,7 +483,7 @@
     <value>ベット数</value>
   </data>
   <data name="a" xml:space="preserve">
-    <value>A</value>
+    <value>アウェイ</value>
   </data>
   <data name="configuredNicknameSuccessfully" xml:space="preserve">
     <value>ニックネームが正常に設定されました。</value>
@@ -534,16 +534,16 @@
     <value>クリックして現在の最大勝利制限を確認</value>
   </data>
   <data name="Commission1Details" xml:space="preserve">
-    <value>手数料1の詳細</value>
+    <value>コミッション1の詳細</value>
   </data>
   <data name="Commission2Details" xml:space="preserve">
-    <value>手数料2の詳細</value>
+    <value>コミッション2の詳細</value>
   </data>
   <data name="allowed" xml:space="preserve">
     <value>許可済み</value>
   </data>
   <data name="confirmDisableDoubleComm" xml:space="preserve">
-    <value>このアカウントのスポーツブックにおける負けた賭けに対して、「ダブル手数料」機能を無効にしてもよろしいですか？警告：このアカウントに所属するすべてのメンバーもその機能が無効になります！</value>
+    <value>このアカウントのスポーツブックにおける負けた賭けに対して、「ダブルコミッション」機能を無効にしてもよろしいですか？警告：このアカウントに所属するすべてのメンバーもその機能が無効になります！</value>
   </data>
   <data name="allpages" xml:space="preserve">
     <value>すべてのページ
@@ -556,7 +556,7 @@
     <value>賭け種別ごとのエージェントコミッション</value>
   </data>
   <data name="Commission3Details" xml:space="preserve">
-    <value>手数料3の詳細</value>
+    <value>コミッション3の詳細</value>
   </data>
   <data name="contactMessage" xml:space="preserve">
     <value>セキュリティコードをお持ちでない場合は、アップラインまたはCSDにお問い合わせください。</value>
@@ -592,7 +592,7 @@
 </value>
   </data>
   <data name="bettype14" xml:space="preserve">
-    <value>最初の得点/最後の得点</value>
+    <value>最初のゴール/最終ゴール</value>
   </data>
   <data name="bettype140" xml:space="preserve">
     <value>最高スコアハーフ</value>
@@ -629,10 +629,10 @@
     <value>ハーフタイム/フルタイム</value>
   </data>
   <data name="ACommPercent" xml:space="preserve">
-    <value>エージェント%手数料</value>
+    <value>エージェント%コミッション</value>
   </data>
   <data name="CommissionRoundNote" xml:space="preserve">
-    <value>手数料（Com.）は参照用として四捨五入されています。そのため、手数料の小計（Subtotal Com.）は、すべての実際の手数料（Com.）を合計した値と異なる場合があります。</value>
+    <value>コミッション（Com.）は参照用として四捨五入されています。そのため、コミッションの小計（Subtotal Com.）は、すべての実際のコミッション（Com.）を合計した値と異なる場合があります。</value>
   </data>
   <data name="bettype24" xml:space="preserve">
     <value>ダブルチャンス</value>
@@ -668,5 +668,80 @@
   </data>
   <data name="live_name_0" xml:space="preserve">
     <value />
+  </data>
+  <data name="ad" xml:space="preserve">
+    <value>アウェイチーム / 引き分け</value>
+  </data>
+  <data name="consolidatedreport" xml:space="preserve">
+    <value>グループの勝敗</value>
+  </data>
+  <data name="consolidationreport" xml:space="preserve">
+    <value>グループの勝敗レポート</value>
+  </data>
+  <data name="ContactUs" xml:space="preserve">
+    <value>お問い合わせ</value>
+  </data>
+  <data name="content" xml:space="preserve">
+    <value>内容</value>
+  </data>
+  <data name="copyAllBetComStatusSettings" xml:space="preserve">
+    <value>以下のベット、コミッション、およびステータス設定を{0}からコピーしてください</value>
+  </data>
+  <data name="copyAllBetSettingFromExcludingNG" xml:space="preserve">
+    <value>以下のベット設定を{0}からコピーしてください</value>
+  </data>
+  <data name="copyFrom" xml:space="preserve">
+    <value>{0}からコピーしてください</value>
+  </data>
+  <data name="correctscore" xml:space="preserve">
+    <value>正しいスコア</value>
+  </data>
+  <data name="creditbalance" xml:space="preserve">
+    <value>クレジット/残高</value>
+  </data>
+  <data name="customerlist" xml:space="preserve">
+    <value>メンバーリスト</value>
+  </data>
+  <data name="firstGoalLastGoal" xml:space="preserve">
+    <value>最初のゴール/最終ゴール</value>
+  </data>
+  <data name="fthtfglg" xml:space="preserve">
+    <value>フルタイム &amp; 前半戦 最初のゴール/最終ゴール</value>
+  </data>
+  <data name="fthttotalgoal" xml:space="preserve">
+    <value>フルタイム &amp; 前半戦 合計ゴール</value>
+  </data>
+  <data name="htft" xml:space="preserve">
+    <value>前半戦/フルタイム</value>
+  </data>
+  <data name="lastgoal" xml:space="preserve">
+    <value>最終ゴール</value>
+  </data>
+  <data name="lblAgentList" xml:space="preserve">
+    <value>エージェントリスト</value>
+  </data>
+  <data name="lblAgentOutstanding" xml:space="preserve">
+    <value>エージェント未払い</value>
+  </data>
+  <data name="lblCancelledBets" xml:space="preserve">
+    <value>取り消されたベット</value>
+  </data>
+  <data name="lblForecast" xml:space="preserve">
+    <value>予想 </value>
+  </data>
+  <data name="lblHomeDrawAwayNoBet" xml:space="preserve">
+    <value>ホーム/引き分け/アウェイ ベットなし</value>
+  </data>
+  <data name="lblHOUL" xml:space="preserve">
+    <value>ハンディキャップ/オーバー・アンダー/ライブ</value>
+  </data>
+  <data name="memberList" xml:space="preserve">
+    <value>メンバーリスト</value>
+  </data>
+  <data name="reward" xml:space="preserve">
+    <value>内容</value>
+  </data>
+  <data name="total" xml:space="preserve">
+    <value>合計</value>
   </data>
 </root>

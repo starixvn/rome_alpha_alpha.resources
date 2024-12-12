@@ -133,7 +133,7 @@
     <value>高い </value>
   </data>
   <data name="ht" xml:space="preserve">
-    <value>ハーフタイム</value>
+    <value>前半戦</value>
   </data>
   <data name="lbl1x2" xml:space="preserve">
     <value>1X2</value>
@@ -169,7 +169,7 @@
     <value>次へ</value>
   </data>
   <data name="nogoal" xml:space="preserve">
-    <value>ゴールなし</value>
+    <value>ノーゴール</value>
   </data>
   <data name="noInfo" xml:space="preserve">
     <value>情報はありません</value>
@@ -217,7 +217,7 @@
     <value>正しいスコア</value>
   </data>
   <data name="lblMemberBetList" xml:space="preserve">
-    <value>会員のベットリスト</value>
+    <value>メンバー ベットリスト</value>
   </data>
   <data name="lblMixParlay" xml:space="preserve">
     <value>ミックスパーレー</value>
@@ -283,21 +283,46 @@
     <value>スコアマップ</value>
   </data>
   <data name="a" xml:space="preserve">
-    <value>A</value>
+    <value>アウェイ</value>
   </data>
   <data name="h" xml:space="preserve">
-    <value>H</value>
+    <value>ホーム</value>
   </data>
   <data name="betweenXandY" xml:space="preserve">
     <value>{0} から {1} の間</value>
   </data>
   <data name="points" xml:space="preserve">
-    <value>ポイント</value>
+    <value>得点</value>
   </data>
   <data name="exactly" xml:space="preserve">
     <value>正確に</value>
   </data>
   <data name="CombinationResultTooHuge" xml:space="preserve">
     <value>このパーレイチケットには膨大な組み合わせがあります。&lt;a href={0}&gt;こちらのリンク&lt;/a&gt;をクリックして、全ての組み合わせを含むExcelファイルをダウンロードしてください。</value>
+  </data>
+  <data name="agentPTcomm" xml:space="preserve">
+    <value>エージェント保有ポジション / &lt;br/&gt; コミッション</value>
+  </data>
+  <data name="masterPTcomm" xml:space="preserve">
+    <value>マスター保有ポジション / &lt;br/&gt; コミッション</value>
+  </data>
+  <data name="numbergameno" xml:space="preserve">
+    <value>ナンバーゲームNo.</value>
+  </data>
+  <data name="superPTcomm" xml:space="preserve">
+    <value>スーパー保有ポジション/ &lt;br/&gt; コミッション</value>
+  </data>
+  <data name="upPoints" xml:space="preserve">
+    <value>アップポイント
+</value>
+  </data>
+  <data name="set" xml:space="preserve">
+    <value>設定</value>
+    <comment>Set</comment>
+  </data>
+  <data name="noTiebreak" xml:space="preserve">
+    <value>タイブレークなし
+</value>
+    <comment>No Tiebreak</comment>
   </data>
 </root>

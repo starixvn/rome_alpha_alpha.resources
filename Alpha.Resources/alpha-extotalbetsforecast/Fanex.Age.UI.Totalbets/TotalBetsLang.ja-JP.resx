@@ -123,4 +123,22 @@
   <data name="noInfo" xml:space="preserve">
     <value>情報はありません</value>
   </data>
+  <data name="htft" xml:space="preserve">
+    <value>前半戦/フルタイム</value>
+  </data>
+  <data name="lblForecast" xml:space="preserve">
+    <value>予想 </value>
+  </data>
+  <data name="lblHomeDrawAwayNoBet" xml:space="preserve">
+    <value>ホーム/引き分け/アウェイ ベットなし</value>
+  </data>
+  <data name="lblHOUL" xml:space="preserve">
+    <value>ハンディキャップ/オーバー・アンダー/ライブ</value>
+  </data>
+  <data name="forecast" xml:space="preserve">
+    <value>予想 </value>
+  </data>
+  <data name="total" xml:space="preserve">
+    <value>合計</value>
+  </data>
 </root>

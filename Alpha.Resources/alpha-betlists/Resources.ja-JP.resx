@@ -123,4 +123,10 @@
   <data name="RefNo" xml:space="preserve">
     <value>受付番号</value>
   </data>
+  <data name="CancelledBet" xml:space="preserve">
+    <value>取り消されたベット</value>
+  </data>
+  <data name="total" xml:space="preserve">
+    <value>合計</value>
+  </data>
 </root>

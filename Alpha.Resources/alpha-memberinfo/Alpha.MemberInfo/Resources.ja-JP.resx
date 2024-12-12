@@ -123,4 +123,10 @@
   <data name="NoDataFound" xml:space="preserve">
     <value>情報はありません</value>
   </data>
+  <data name="CreditBalance" xml:space="preserve">
+    <value>クレジット/残高</value>
+  </data>
+  <data name="Total" xml:space="preserve">
+    <value>合計</value>
+  </data>
 </root>

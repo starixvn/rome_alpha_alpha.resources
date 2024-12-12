@@ -147,4 +147,10 @@
   <data name="SecurityCode" xml:space="preserve">
     <value>セキュリティコードFAQ</value>
   </data>
+  <data name="AgentWapUserGuide" xml:space="preserve">
+    <value>エージェント用WAPユーザーガイド</value>
+  </data>
+  <data name="MasterAutoPT" xml:space="preserve">
+    <value>マスター自動保有ポジション</value>
+  </data>
 </root>

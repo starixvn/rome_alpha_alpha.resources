@@ -117,4 +117,47 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="charts" xml:space="preserve">
+    <value>チャート</value>
+  </data>
+  <data name="correctscore" xml:space="preserve">
+    <value>正しいスコア</value>
+  </data>
+  <data name="creditbalance" xml:space="preserve">
+    <value>クレジット/残高</value>
+  </data>
+  <data name="customerlist" xml:space="preserve">
+    <value>メンバーリスト</value>
+  </data>
+  <data name="fthtfglg" xml:space="preserve">
+    <value>フルタイム &amp; 前半戦 最初のゴール/最終ゴール</value>
+  </data>
+  <data name="fthttotalgoal" xml:space="preserve">
+    <value>フルタイム &amp; 前半戦 合計ゴール</value>
+  </data>
+  <data name="htft" xml:space="preserve">
+    <value>前半戦/フルタイム</value>
+  </data>
+  <data name="lblAgentList" xml:space="preserve">
+    <value>エージェントリスト</value>
+  </data>
+  <data name="lblAgentOutstanding" xml:space="preserve">
+    <value>エージェント未払い</value>
+  </data>
+  <data name="lblCancelledBets" xml:space="preserve">
+    <value>取り消されたベット</value>
+  </data>
+  <data name="lblHomeDrawAwayNoBet" xml:space="preserve">
+    <value>ホーム/引き分け/アウェイ ベットなし
+</value>
+  </data>
+  <data name="lblHOUL" xml:space="preserve">
+    <value>ハンディキャップ/オーバー・アンダー/ライブ</value>
+  </data>
+  <data name="lblMasterList" xml:space="preserve">
+    <value>マスターリスト</value>
+  </data>
+  <data name="lblMemberCommission" xml:space="preserve">
+    <value>メンバーコミッション</value>
+  </data>
 </root>

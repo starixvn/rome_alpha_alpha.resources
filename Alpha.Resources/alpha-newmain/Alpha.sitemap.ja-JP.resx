@@ -117,4 +117,114 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="agentwinloss" xml:space="preserve">
+    <value>エージェント 勝ち負け</value>
+  </data>
+  <data name="agentwinlostdetail" xml:space="preserve">
+    <value>エージェントの勝ち負け詳細</value>
+  </data>
+  <data name="BetType24" xml:space="preserve">
+    <value>ダブルチャンス</value>
+  </data>
+  <data name="BetType26" xml:space="preserve">
+    <value>両チーム／1 チーム／得点なし</value>
+  </data>
+  <data name="charts" xml:space="preserve">
+    <value>チャート</value>
+  </data>
+  <data name="consolidatedreport" xml:space="preserve">
+    <value>グループの勝敗
+</value>
+  </data>
+  <data name="correctscore" xml:space="preserve">
+    <value>正しいスコア</value>
+  </data>
+  <data name="creditbalance" xml:space="preserve">
+    <value>クレジット/残高</value>
+  </data>
+  <data name="customerlist" xml:space="preserve">
+    <value>メンバーリスト</value>
+  </data>
+  <data name="dailywinlossanalysisreport" xml:space="preserve">
+    <value>毎日 勝ち負け分析</value>
+  </data>
+  <data name="fthtfglg" xml:space="preserve">
+    <value>フルタイム &amp; 前半戦 最初のゴール/最終ゴール</value>
+  </data>
+  <data name="fthttotalgoal" xml:space="preserve">
+    <value>フルタイム &amp; 前半戦 合計ゴール</value>
+  </data>
+  <data name="hr" xml:space="preserve">
+    <value>レーシング</value>
+  </data>
+  <data name="htft" xml:space="preserve">
+    <value>前半戦/フルタイム</value>
+  </data>
+  <data name="lbl1x2" xml:space="preserve">
+    <value>1X2</value>
+  </data>
+  <data name="agentList" xml:space="preserve">
+    <value>エージェントリスト</value>
+  </data>
+  <data name="agentOutstanding" xml:space="preserve">
+    <value>エージェント未払い</value>
+  </data>
+  <data name="cancelledBets" xml:space="preserve">
+    <value>取り消されたベット</value>
+  </data>
+  <data name="commissionByBettype" xml:space="preserve">
+    <value>ベットタイプ別コミッション</value>
+  </data>
+  <data name="commssionhorseracing" xml:space="preserve">
+    <value>レーシングコミッション</value>
+  </data>
+  <data name="forecast" xml:space="preserve">
+    <value>予想 </value>
+  </data>
+  <data name="homeDrawAwayNoBet" xml:space="preserve">
+    <value>ホーム/引き分け/アウェイ ベットなし</value>
+  </data>
+  <data name="HOUL" xml:space="preserve">
+    <value>ハンディキャップ/オーバー・アンダー/ライブ</value>
+  </data>
+  <data name="masterList" xml:space="preserve">
+    <value>マスターリスト</value>
+  </data>
+  <data name="masterOutstanding" xml:space="preserve">
+    <value>マスター未払い残高</value>
+  </data>
+  <data name="matchWinLostDetail" xml:space="preserve">
+    <value>試合勝ち負け詳細</value>
+  </data>
+  <data name="memberCommission" xml:space="preserve">
+    <value>メンバーコミッション</value>
+  </data>
+  <data name="memberInfo" xml:space="preserve">
+    <value>メンバー情報
+</value>
+  </data>
+  <data name="memberOutstanding" xml:space="preserve">
+    <value>メンバー未払い</value>
+  </data>
+  <data name="memberWinLoss" xml:space="preserve">
+    <value>メンバー 勝ち負け</value>
+  </data>
+  <data name="monitor" xml:space="preserve">
+    <value>最後のベットの監視</value>
+  </data>
+  <data name="newAgent" xml:space="preserve">
+    <value>新しいエージェント</value>
+  </data>
+  <data name="newMaster" xml:space="preserve">
+    <value>新しいマスター </value>
+  </data>
+  <data name="newMember" xml:space="preserve">
+    <value>新しいメンバー </value>
+  </data>
+  <data name="outRight" xml:space="preserve">
+    <value>勝者予想</value>
+  </data>
+  <data name="SettlementReport" xml:space="preserve">
+    <value>精算報告書</value>
+  </data>
 </root>

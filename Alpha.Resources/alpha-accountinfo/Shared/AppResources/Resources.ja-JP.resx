@@ -123,4 +123,13 @@
   <data name="NoInfo" xml:space="preserve">
     <value>情報はありません</value>
   </data>
+  <data name="AgentList" xml:space="preserve">
+    <value>エージェントリスト</value>
+  </data>
+  <data name="AgentOutstanding" xml:space="preserve">
+    <value>エージェント未払い</value>
+  </data>
+  <data name="MemberList" xml:space="preserve">
+    <value>メンバーリスト</value>
+  </data>
 </root>
