@@ -133,8 +133,7 @@
     <value>チャート</value>
   </data>
   <data name="consolidatedreport" xml:space="preserve">
-    <value>グループの勝敗
-</value>
+    <value>グループの勝敗</value>
   </data>
   <data name="correctscore" xml:space="preserve">
     <value>正しいスコア</value>
@@ -200,8 +199,7 @@
     <value>メンバーコミッション</value>
   </data>
   <data name="memberInfo" xml:space="preserve">
-    <value>メンバー情報
-</value>
+    <value>メンバー情報</value>
   </data>
   <data name="memberOutstanding" xml:space="preserve">
     <value>メンバー未払い</value>
@@ -223,9 +221,6 @@
   </data>
   <data name="outRight" xml:space="preserve">
     <value>勝者予想</value>
-  </data>
-  <data name="SettlementReport" xml:space="preserve">
-    <value>精算報告書</value>
   </data>
   <data name="positionTaking" xml:space="preserve">
     <value>保有ポジション (%)</value>
@@ -339,35 +334,8 @@
   <data name="Setting" xml:space="preserve">
     <value>設定</value>
   </data>
-  <data name="BetChoiceLimit" xml:space="preserve">
-    <value>ベット選択制限</value>
-  </data>
-  <data name="customerSetting" xml:space="preserve">
-    <value>顧客設定</value>
-  </data>
-  <data name="winLossByProduct" xml:space="preserve">
-    <value>製品別勝ち負け </value>
-  </data>
-  <data name="superWinLossDetailByPT" xml:space="preserve">
-    <value>保有ポジション別スーパー勝ち負け詳細</value>
-  </data>
-  <data name="LastBets" xml:space="preserve">
-    <value>最新のベット</value>
-  </data>
-  <data name="Beta" xml:space="preserve">
-    <value>ベータ</value>
-  </data>
   <data name="BetLists" xml:space="preserve">
     <value>ベットリスト</value>
-  </data>
-  <data name="ProgressiveGamesContribution" xml:space="preserve">
-    <value>プログレッシブゲームの貢献</value>
-  </data>
-  <data name="systemUpdate" xml:space="preserve">
-    <value>システム</value>
-  </data>
-  <data name="chatbot" xml:space="preserve">
-    <value>チャットボット</value>
   </data>
   <data name="TransferAllAndClearCredit" xml:space="preserve">
     <value>すべてを転送してクレジットをクリア</value>
@@ -375,14 +343,8 @@
   <data name="BetStatistics" xml:space="preserve">
     <value>リスク解析</value>
   </data>
-  <data name="problemAccountList" xml:space="preserve">
-    <value>問題アカウントリスト</value>
-  </data>
   <data name="IPMatching" xml:space="preserve">
     <value>IP マッチング</value>
-  </data>
-  <data name="BetChoiceMatching" xml:space="preserve">
-    <value>重複ベット</value>
   </data>
   <data name="agentOutstandingNew" xml:space="preserve">
     <value>エージェント未払い (新規）</value>
@@ -393,6 +355,45 @@
   <data name="memberOutstandingNew" xml:space="preserve">
     <value>メンバー未払い (新規）</value>
   </data>
+  <data name="TransferToDownlineHistory" xml:space="preserve">
+    <value>ダウンラインへの送金履歴</value>
+  </data>
+  <data name="superWinLossDetailByPT" xml:space="preserve">
+    <value>保有ポジション別スーパー勝ち負け詳細</value>
+  </data>
+  <data name="Old" xml:space="preserve">
+    <value>旧</value>
+  </data>
+  <data name="BetChoiceLimit" xml:space="preserve">
+    <value>ベット選択制限</value>
+  </data>
+  <data name="customerSetting" xml:space="preserve">
+    <value>顧客設定</value>
+  </data>
+  <data name="winLossByProduct" xml:space="preserve">
+    <value>製品別勝ち負け </value>
+  </data>
+  <data name="LastBets" xml:space="preserve">
+    <value>最新のベット</value>
+  </data>
+  <data name="Beta" xml:space="preserve">
+    <value>ベータ</value>
+  </data>
+  <data name="ProgressiveGamesContribution" xml:space="preserve">
+    <value>プログレッシブゲームの貢献</value>
+  </data>
+  <data name="systemUpdate" xml:space="preserve">
+    <value>システム</value>
+  </data>
+  <data name="chatbot" xml:space="preserve">
+    <value>チャットボット</value>
+  </data>
+  <data name="problemAccountList" xml:space="preserve">
+    <value>問題アカウントリスト</value>
+  </data>
+  <data name="BetChoiceMatching" xml:space="preserve">
+    <value>重複ベット</value>
+  </data>
   <data name="IndirectLoginAccount" xml:space="preserve">
     <value>間接ログインアカウント</value>
   </data>
@@ -401,12 +402,6 @@
   </data>
   <data name="BonusDetail" xml:space="preserve">
     <value>ボーナス詳細</value>
-  </data>
-  <data name="TransferToDownlineHistory" xml:space="preserve">
-    <value>ダウンラインへの送金履歴</value>
-  </data>
-  <data name="Old" xml:space="preserve">
-    <value>旧</value>
   </data>
   <data name="BetCreditTracking" xml:space="preserve">
     <value>ベットクレジット追跡</value>
@@ -440,5 +435,8 @@
   </data>
   <data name="WhiteLabel" xml:space="preserve">
     <value>ホワイトラベル</value>
+  </data>
+  <data name="SettlementReport" xml:space="preserve">
+    <value>精算報告書</value>
   </data>
 </root>

@@ -97,12 +97,6 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.3500.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="MemberOutstanding" xml:space="preserve">
-    <value>メンバー未払い</value>
-  </data>
-  <data name="AgentOutstanding" xml:space="preserve">
-    <value>エージェント未払い</value>
-  </data>
   <data name="ChatBotTitle" xml:space="preserve">
     <value>チャットボット</value>
   </data>
@@ -152,8 +146,7 @@
     <value>入力されたIDは、別のSMAアカウントにすでにリンクされ、確認されています。</value>
   </data>
   <data name="OverMaxAddAccountTimes" xml:space="preserve">
-    <value>本日はリクエスト回数が多すぎます。後でもう一度お試しください。
-</value>
+    <value>本日はリクエスト回数が多すぎます。後でもう一度お試しください。</value>
   </data>
   <data name="Command" xml:space="preserve">
     <value>コマンド</value>
@@ -294,8 +287,14 @@
   <data name="YesterdayWL" xml:space="preserve">
     <value>昨日の勝ち負け</value>
   </data>
+  <data name="MemberOutstanding" xml:space="preserve">
+    <value>メンバー未払い</value>
+  </data>
   <data name="MemberCredit" xml:space="preserve">
     <value>メンバークレジット</value>
+  </data>
+  <data name="AgentOutstanding" xml:space="preserve">
+    <value>エージェント未払い</value>
   </data>
   <data name="FifteenMinutes" xml:space="preserve">
     <value>15分</value>
@@ -447,8 +446,7 @@
     <value>今日の勝ち負け</value>
   </data>
   <data name="VerifyOTP" xml:space="preserve">
-    <value>OTPを確認してください。
-</value>
+    <value>OTPを確認してください。</value>
   </data>
   <data name="YesterdayWinLossNotificationDescription" xml:space="preserve">
     <value>毎日、前日のAlphaの勝ち負け報告書の合計行をGMT-4の午後3:00に送信します。</value>
@@ -466,8 +464,7 @@
     <value>OTPの有効期限が切れました。新しいOTPを生成するには、&lt;span id="btnResend" class="link resend-code"&gt;こちらをクリック&lt;/span&gt;してください。</value>
   </data>
   <data name="HasUnlinkedMessage" xml:space="preserve">
-    <value>あなたのTelegramは{0}とのリンクが解除されました。
-</value>
+    <value>あなたのTelegramは{0}とのリンクが解除されました。</value>
   </data>
   <data name="StartBeforeInputOTP" xml:space="preserve">
     <value>OTPを入力する前に、Telegramチャットボットで&lt;strong&gt;START&lt;/strong&gt;をクリックしてください。</value>

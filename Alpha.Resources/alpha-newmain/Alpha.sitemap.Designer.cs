@@ -448,6 +448,15 @@ namespace Alpha.Main.AppResources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Apply Nova Casino Agent.
+        /// </summary>
+        public static string JoinNovaCasinoNow {
+            get {
+                return ResourceManager.GetString("JoinNovaCasinoNow", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Last Bets.
         /// </summary>
         public static string LastBets {
@@ -799,6 +808,15 @@ namespace Alpha.Main.AppResources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Reward Payment.
+        /// </summary>
+        public static string RewardPayment {
+            get {
+                return ResourceManager.GetString("RewardPayment", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Risk Management.
         /// </summary>
         public static string riskManagement {
@@ -849,6 +867,15 @@ namespace Alpha.Main.AppResources {
         public static string SettlementReport {
             get {
                 return ResourceManager.GetString("SettlementReport", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Sign in To Nova Casino.
+        /// </summary>
+        public static string SigninToNovaCasino {
+            get {
+                return ResourceManager.GetString("SigninToNovaCasino", resourceCulture);
             }
         }
         

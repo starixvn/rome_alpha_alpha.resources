@@ -601,7 +601,7 @@ namespace Alpha.Main.AppResources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Find &lt;b&gt;consolidated guidelines&lt;/b&gt; and &lt;b&gt;glossary terms&lt;/b&gt; for quick and easy reference..
+        ///   Looks up a localized string similar to &lt;p&gt;We are excited to introduce our new Cash Reward Program. The company is responsible for the reward amounts, and once a Member receives their reward, it cannot be used for placing bets. Rewards will be distributed to uplines, and Members can cash out through their Agents.&lt;/p&gt;&lt;p&gt;Our new feature &lt;b&gt;Reward Payment&lt;/b&gt; supports your downline payment management, ensuring accurate distribution of all rewards.&lt;/p&gt;.
         /// </summary>
         public static string HighlightPopupNewFeatureIntro {
             get {
@@ -610,34 +610,7 @@ namespace Alpha.Main.AppResources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to &lt;b&gt;Navigate&lt;/b&gt; effortlessly and &lt;b&gt;boost your proficiency&lt;/b&gt;!.
-        /// </summary>
-        public static string HighlightPopupNewFeatureIntro2 {
-            get {
-                return ResourceManager.GetString("HighlightPopupNewFeatureIntro2", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Copy data from Report without exporting.
-        /// </summary>
-        public static string HighlightPopupNewFeatureIntro3 {
-            get {
-                return ResourceManager.GetString("HighlightPopupNewFeatureIntro3", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Filter tickets on Bet List.
-        /// </summary>
-        public static string HighlightPopupNewFeatureIntro4 {
-            get {
-                return ResourceManager.GetString("HighlightPopupNewFeatureIntro4", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Explore the &lt;b&gt;One-Stop Handbook&lt;/b&gt;!.
+        ///   Looks up a localized string similar to Welcome to the &lt;b&gt;Cash Reward Program&lt;/b&gt;!.
         /// </summary>
         public static string HighlightPopupNewFeatureTitle {
             get {
@@ -687,6 +660,15 @@ namespace Alpha.Main.AppResources {
         public static string Interested {
             get {
                 return ResourceManager.GetString("Interested", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to An error has occurred. Please contact Customer Service Department for assistance. Thank you. [500].
+        /// </summary>
+        public static string InternalServerError {
+            get {
+                return ResourceManager.GetString("InternalServerError", resourceCulture);
             }
         }
         
@@ -1196,6 +1178,17 @@ namespace Alpha.Main.AppResources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Nova Casino is a new platform with an Multiple Agents mode. Apply now to create Multiple downlines and players.
+        ///&lt;br&gt;&lt;br&gt;
+        ///Note: Please change your &lt;b&gt;password&lt;/b&gt; the first time you click &apos;Apply&apos; on the Nova Casino Back Office from the Agent site. Thanks.
+        /// </summary>
+        public static string NovaCasinoBriefIntroduction {
+            get {
+                return ResourceManager.GetString("NovaCasinoBriefIntroduction", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Old View.
         /// </summary>
         public static string OldView {
@@ -1412,6 +1405,51 @@ namespace Alpha.Main.AppResources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Reward.
+        /// </summary>
+        public static string Reward {
+            get {
+                return ResourceManager.GetString("Reward", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Reward Payable.
+        /// </summary>
+        public static string RewardPayable {
+            get {
+                return ResourceManager.GetString("RewardPayable", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Amount you can distribute to your downlines..
+        /// </summary>
+        public static string RewardPayableTooltip {
+            get {
+                return ResourceManager.GetString("RewardPayableTooltip", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Reward Receivable.
+        /// </summary>
+        public static string RewardReceivable {
+            get {
+                return ResourceManager.GetString("RewardReceivable", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Amount you can receive from your upline..
+        /// </summary>
+        public static string RewardReceivableTooltip {
+            get {
+                return ResourceManager.GetString("RewardReceivableTooltip", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Rich Products Collection.
         /// </summary>
         public static string RichProductsCollection {
@@ -1624,6 +1662,30 @@ namespace Alpha.Main.AppResources {
         public static string SwitchView {
             get {
                 return ResourceManager.GetString("SwitchView", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Dear Valued Agents,
+        /// 
+        ///Your downline, “{0}” has successfully joined Nova Casino. Kindly provide their score promptly to ensure smooth processing.
+        /// 
+        ///Should you have any questions, please contact the Customer Service Department.
+        /// 
+        ///Thank you for your continued cooperation!.
+        /// </summary>
+        public static string SyncedNovaCasinoPersonalMessage {
+            get {
+                return ResourceManager.GetString("SyncedNovaCasinoPersonalMessage", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to The system is currently under maintenance. Maintenance time: {0} - {1} (GMT+8). Please try again later. [503].
+        /// </summary>
+        public static string SystemUnderMaintenance {
+            get {
+                return ResourceManager.GetString("SystemUnderMaintenance", resourceCulture);
             }
         }
         

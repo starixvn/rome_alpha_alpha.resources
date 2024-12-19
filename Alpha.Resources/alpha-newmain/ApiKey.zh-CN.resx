@@ -187,7 +187,7 @@
     <value>Please input API Passphrase.</value>
   </data>
   <data name="Revoke" xml:space="preserve">
-    <value>Phạm vi cấp phép là bắt buộc.</value>
+    <value>Revoke</value>
   </data>
   <data name="ScopesIsRequired" xml:space="preserve">
     <value>Scopes is required.</value>
