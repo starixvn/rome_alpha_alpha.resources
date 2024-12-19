@@ -789,4 +789,39 @@
   <data name="ContactCSD" xml:space="preserve">
     <value>詳しくは顧客サービス部門（CSD）までお問い合わせください！</value>
   </data>
+  <data name="NovaCasinoBriefIntroduction" xml:space="preserve">
+    <value>Nova Casinoは新しいプラットフォームで、マルチエージェントモードをサポートしています。
+今すぐ申請して、さらに多くのダウンラインとプレイヤーを作成しましょう！&lt;br&gt;&lt;br&gt;
+注意: エージェントサイトのNova Casinoバックオフィスで「申請」を初めてクリックした際に、必ず&lt;b&gt;パスワード&lt;/b&gt;を変更してください。ありがとうございます。</value>
+  </data>
+  <data name="Reward" xml:space="preserve">
+    <value>賞金</value>
+  </data>
+  <data name="RewardPayableTooltip" xml:space="preserve">
+    <value>ダウンラインに分配できる金額</value>
+  </data>
+  <data name="SyncedNovaCasinoPersonalMessage" xml:space="preserve">
+    <value>親愛なるエージェントの皆様へ、
+
+あなたのダウンライン「{0}」がNova Casinoに正常に参加しました。円滑な処理を確保するために、速やかにスコアを提供してください。
+
+ご不明な点がございましたら、カスタマーサービス部門までお問い合わせください。
+
+引き続きご協力いただき、ありがとうございます！</value>
+  </data>
+  <data name="SystemUnderMaintenance" xml:space="preserve">
+    <value>システムは現在メンテナンス中です。メンテナンス時間: {0} - {1} (GMT+8)。後ほど再試行してください。[503]</value>
+  </data>
+  <data name="RewardReceivableTooltip" xml:space="preserve">
+    <value>アップラインから受け取れる金額。</value>
+  </data>
+  <data name="RewardPayable" xml:space="preserve">
+    <value>支払うべき賞金</value>
+  </data>
+  <data name="InternalServerError" xml:space="preserve">
+    <value>エラーが発生しました。サポートが必要な場合は、カスタマーサービス部門までお問い合わせください。ありがとうございます。[500]</value>
+  </data>
+  <data name="RewardReceivable" xml:space="preserve">
+    <value>未収賞金</value>
+  </data>
 </root>
