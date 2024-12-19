@@ -1,0 +1,450 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="Final" xml:space="preserve">
+    <value>Final</value>
+  </data>
+  <data name="MatchDay" xml:space="preserve">
+    <value>Match Day</value>
+  </data>
+  <data name="MatchDay1GroupAB" xml:space="preserve">
+    <value>Match Day 1 Groups A&amp;B</value>
+  </data>
+  <data name="MatchDay1GroupCD" xml:space="preserve">
+    <value>Match Day 1 Groups C&amp;D</value>
+  </data>
+  <data name="MatchDay1GroupEF" xml:space="preserve">
+    <value>Match Day 1 Groups E&amp;F</value>
+  </data>
+  <data name="MatchDay2GroupAB" xml:space="preserve">
+    <value>Match Day 2 Groups A&amp;B</value>
+  </data>
+  <data name="MatchDay2GroupCD" xml:space="preserve">
+    <value>Match Day 2 Groups C&amp;D</value>
+  </data>
+  <data name="MatchDay2GroupEF" xml:space="preserve">
+    <value>Match Day 2 Groups E&amp;F</value>
+  </data>
+  <data name="MatchDay3GroupAB" xml:space="preserve">
+    <value>Match Day 3 Groups A&amp;B</value>
+  </data>
+  <data name="MatchDay3GroupCD" xml:space="preserve">
+    <value>Match Day 3 Groups C&amp;D</value>
+  </data>
+  <data name="MatchDay3GroupEF" xml:space="preserve">
+    <value>Match Day 3 Groups E&amp;F</value>
+  </data>
+  <data name="NationsCup" xml:space="preserve">
+    <value>Nations Cup</value>
+  </data>
+  <data name="Quarterfinal" xml:space="preserve">
+    <value>Quarterfinal</value>
+  </data>
+  <data name="Round161" xml:space="preserve">
+    <value>Round16 - 1</value>
+  </data>
+  <data name="Round162" xml:space="preserve">
+    <value>Round16 - 2</value>
+  </data>
+  <data name="Season" xml:space="preserve">
+    <value>Season</value>
+  </data>
+  <data name="Semifinal1" xml:space="preserve">
+    <value>Semifinal Part 1</value>
+  </data>
+  <data name="Semifinal2" xml:space="preserve">
+    <value>Semifinal Part 2</value>
+  </data>
+  <data name="FT" xml:space="preserve">
+    <value>FT</value>
+  </data>
+  <data name="ESports_90020X" xml:space="preserve">
+    <value>Map {0} Total Kills Score</value>
+  </data>
+  <data name="ESports_90080X" xml:space="preserve">
+    <value>Map {0} Towers Score</value>
+  </data>
+  <data name="ESports_90120X" xml:space="preserve">
+    <value>Map {0} Roshans Score</value>
+  </data>
+  <data name="ESports_90180X" xml:space="preserve">
+    <value>Map {0} Barracks Score</value>
+  </data>
+  <data name="ESports_90240X" xml:space="preserve">
+    <value>Map {0} Turrets Score</value>
+  </data>
+  <data name="ESports_90280X" xml:space="preserve">
+    <value>Map {0} Dragons Score</value>
+  </data>
+  <data name="ESports_90340X" xml:space="preserve">
+    <value>Map {0} Barons Score</value>
+  </data>
+  <data name="ESports_90400X" xml:space="preserve">
+    <value>Map {0} Inhibitors Score</value>
+  </data>
+  <data name="ESports_90460X" xml:space="preserve">
+    <value>Map {0} Tyrants Score</value>
+  </data>
+  <data name="ESports_90520X" xml:space="preserve">
+    <value>Map {0} Overlords Score</value>
+  </data>
+  <data name="ESports_90580X" xml:space="preserve">
+    <value>Map {0} Duration</value>
+  </data>
+  <data name="ESports_90590X" xml:space="preserve">
+    <value>Map {0} Rounds Score</value>
+  </data>
+  <data name="ESports_90650X" xml:space="preserve">
+    <value>Map {0} Total First Kills</value>
+  </data>
+  <data name="ESports_90660X" xml:space="preserve">
+    <value>Map {0} Clutches Score</value>
+  </data>
+  <data name="ESports_90690X0Y" xml:space="preserve">
+    <value>Map {0} Round {1} Total Kills</value>
+  </data>
+  <data name="ESports_90740X" xml:space="preserve">
+    <value>Map {0} Rounds Score (including Overtime)</value>
+  </data>
+  <data name="ESports_90680X0Y" xml:space="preserve">
+    <value>Map {0} Round {1} Winner</value>
+  </data>
+  <data name="Selection" xml:space="preserve">
+    <value>Selection</value>
+  </data>
+  <data name="FinalResult" xml:space="preserve">
+    <value>Final Result</value>
+  </data>
+  <data name="TotalGoal" xml:space="preserve">
+    <value>Total Goal</value>
+  </data>
+  <data name="CorrectScore" xml:space="preserve">
+    <value>Correct Score</value>
+  </data>
+  <data name="ESports_90900X" xml:space="preserve">
+    <value>Map {0} First Blood Time</value>
+  </data>
+  <data name="ESports_90890X0K" xml:space="preserve">
+    <value>Map {0} First to {1} Kills Time</value>
+  </data>
+  <data name="ESports_90910X" xml:space="preserve">
+    <value>Map {0} Total Kills at 10 Mins</value>
+  </data>
+  <data name="ESports_90930X" xml:space="preserve">
+    <value>Map {0} Total Kills at 20 Mins</value>
+  </data>
+  <data name="ESports_91340X" xml:space="preserve">
+    <value>Map {0} First Tower Time</value>
+  </data>
+  <data name="ESports_91150X" xml:space="preserve">
+    <value>Map {0} Total Gold</value>
+  </data>
+  <data name="ESports_91360X" xml:space="preserve">
+    <value>Map {0} First Roshan Time</value>
+  </data>
+  <data name="ESports_91370X" xml:space="preserve">
+    <value>Map {0} First Barrack Time</value>
+  </data>
+  <data name="ESports_91310X" xml:space="preserve">
+    <value>Map {0} First Dragon Time</value>
+  </data>
+  <data name="ESports_91320X" xml:space="preserve">
+    <value>Map {0} Will Elder Dragon Be Killed</value>
+  </data>
+  <data name="ESports_91330X" xml:space="preserve">
+    <value>Map {0} Will First Aegis Be Snatched</value>
+  </data>
+  <data name="ESports_91270X" xml:space="preserve">
+    <value>Map {0} First Baron Time</value>
+  </data>
+  <data name="ESports_91280X" xml:space="preserve">
+    <value>Map {0} First Baron No. Players Buff</value>
+  </data>
+  <data name="ESports_91290X" xml:space="preserve">
+    <value>Map {0} First Inhibitor Time</value>
+  </data>
+  <data name="ESports_91210X" xml:space="preserve">
+    <value>Map {0} First Tyrant Time</value>
+  </data>
+  <data name="ESports_91230X" xml:space="preserve">
+    <value>Map {0} First Overlord Time</value>
+  </data>
+  <data name="ESports_91240X" xml:space="preserve">
+    <value>Map {0} Will Storm Dragon Be Killed</value>
+  </data>
+  <data name="ESports_91260X" xml:space="preserve">
+    <value>Map {0} First Herald Time</value>
+  </data>
+  <data name="ESports_91010X0K" xml:space="preserve">
+    <value>Map {0} {1} Kill</value>
+  </data>
+  <data name="FirstNumber" xml:space="preserve">
+    <value>1st</value>
+  </data>
+  <data name="SecondNumber" xml:space="preserve">
+    <value>2nd</value>
+  </data>
+  <data name="ThirdNumber" xml:space="preserve">
+    <value>3rd</value>
+  </data>
+  <data name="FourthNumber" xml:space="preserve">
+    <value>4th</value>
+  </data>
+  <data name="FifthNumber" xml:space="preserve">
+    <value>5th</value>
+  </data>
+  <data name="SixthNumber" xml:space="preserve">
+    <value>6th</value>
+  </data>
+  <data name="SeventhNumber" xml:space="preserve">
+    <value>7th</value>
+  </data>
+  <data name="EighthNumber" xml:space="preserve">
+    <value>8th</value>
+  </data>
+  <data name="NinthNumber" xml:space="preserve">
+    <value>9th</value>
+  </data>
+  <data name="TenthNumber" xml:space="preserve">
+    <value>10th</value>
+  </data>
+  <data name="fifteenthNumber" xml:space="preserve">
+    <value>15th</value>
+  </data>
+  <data name="TwentiethNumber" xml:space="preserve">
+    <value>20th</value>
+  </data>
+  <data name="ESports_91010X0Y" xml:space="preserve">
+    <value>Map {0} {1} Kill</value>
+  </data>
+  <data name="ESports_91390X" xml:space="preserve">
+    <value>Map {0} Total Bomb Detonations (Excl. OT)</value>
+  </data>
+  <data name="ESports_91400X" xml:space="preserve">
+    <value>Map {0} Total Bomb Defuses (Excl. OT)</value>
+  </data>
+  <data name="ESports_91420X" xml:space="preserve">
+    <value>Map {0} First Turret Location</value>
+  </data>
+  <data name="ESports_91410X" xml:space="preserve">
+    <value>Map {0} Lane With Most Turrets Destroyed</value>
+  </data>
+  <data name="TopMid" xml:space="preserve">
+    <value>Top or Mid</value>
+  </data>
+  <data name="MidBottom" xml:space="preserve">
+    <value>Mid or Bottom</value>
+  </data>
+  <data name="Overlord" xml:space="preserve">
+    <value>Overlord</value>
+  </data>
+  <data name="Tyrant" xml:space="preserve">
+    <value>Tyrant</value>
+  </data>
+  <data name="OverlordMiddle" xml:space="preserve">
+    <value>Overlord or Middle</value>
+  </data>
+  <data name="Mid" xml:space="preserve">
+    <value>Mid</value>
+  </data>
+  <data name="Top" xml:space="preserve">
+    <value>Top</value>
+  </data>
+  <data name="Bottom" xml:space="preserve">
+    <value>Bottom</value>
+  </data>
+  <data name="TopBottom" xml:space="preserve">
+    <value>Top or Bottom</value>
+  </data>
+  <data name="Bowled" xml:space="preserve">
+    <value>Bowled</value>
+  </data>
+  <data name="LBW" xml:space="preserve">
+    <value>LBW</value>
+  </data>
+  <data name="RunOut" xml:space="preserve">
+    <value>Run Out</value>
+  </data>
+  <data name="Stumped" xml:space="preserve">
+    <value>Stumped</value>
+  </data>
+  <data name="Others" xml:space="preserve">
+    <value>Others</value>
+  </data>
+  <data name="Caught" xml:space="preserve">
+    <value>Caught</value>
+  </data>
+  <data name="ESports_90010X" xml:space="preserve">
+    <value>Map {0} Result</value>
+  </data>
+  <data name="Volleyball_3903XXYY" xml:space="preserve">
+    <value>Set {0} Race to {1} Points</value>
+  </data>
+  <data name="Volleyball_3909XXYY" xml:space="preserve">
+    <value>Set {0} Point {1} Winner</value>
+  </data>
+  <data name="Volleyball_3915XXYY" xml:space="preserve">
+    <value>Set {0} {1} Points Played</value>
+  </data>
+  <data name="Dnf" xml:space="preserve">
+    <value>DNF</value>
+  </data>
+  <data name="Abandoned00" xml:space="preserve">
+    <value>Abandoned FT</value>
+  </data>
+  <data name="Abandoned01" xml:space="preserve">
+    <value>Abandoned HT</value>
+  </data>
+  <data name="Abandoned02" xml:space="preserve">
+    <value>Abandoned FT</value>
+  </data>
+  <data name="AbandonedOT" xml:space="preserve">
+    <value>Abandoned OT</value>
+  </data>
+  <data name="AbandonedQ1" xml:space="preserve">
+    <value>Abandoned Q1</value>
+  </data>
+  <data name="AbandonedQ2" xml:space="preserve">
+    <value>Abandoned Q2</value>
+  </data>
+  <data name="AbandonedQ3" xml:space="preserve">
+    <value>Abandoned Q3</value>
+  </data>
+  <data name="AbandonedQ4" xml:space="preserve">
+    <value>Abandoned Q4</value>
+  </data>
+  <data name="ESports_90150X" xml:space="preserve">
+    <value>Map {0} 1st Roshan</value>
+  </data>
+  <data name="Winner" xml:space="preserve">
+    <value>Winner</value>
+  </data>
+  <data name="Hits" xml:space="preserve">
+    <value>Hits</value>
+  </data>
+  <data name="Baseball_8823XX" xml:space="preserve">
+    <value>X Inning Hits</value>
+  </data>
+  <data name="Runs" xml:space="preserve">
+    <value>Runs</value>
+  </data>
+  <data name="SeriesMatch" xml:space="preserve">
+    <value>Series Match</value>
+  </data>
+</root>

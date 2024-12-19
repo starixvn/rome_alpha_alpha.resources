@@ -1,0 +1,450 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="Season" xml:space="preserve">
+    <value>Mùa</value>
+  </data>
+  <data name="NationsCup" xml:space="preserve">
+    <value>Cúp Quốc Gia</value>
+  </data>
+  <data name="MatchDay" xml:space="preserve">
+    <value>Ngày thi đấu</value>
+  </data>
+  <data name="ESports_90020X" xml:space="preserve">
+    <value>Bản Đồ {0} Tỷ Số Hạ Gục</value>
+  </data>
+  <data name="ESports_90080X" xml:space="preserve">
+    <value>Bản Đồ {0} Số Trụ Bị Phá</value>
+  </data>
+  <data name="ESports_90120X" xml:space="preserve">
+    <value>Bản Đồ {0} Số Lần diệt Roshan</value>
+  </data>
+  <data name="ESports_90180X" xml:space="preserve">
+    <value>Bản Đồ {0} Số Nhà Lính Bị Phá</value>
+  </data>
+  <data name="ESports_90240X" xml:space="preserve">
+    <value>Bản Đồ {0} Số Trụ Bị Phá</value>
+  </data>
+  <data name="ESports_90280X" xml:space="preserve">
+    <value>Bản Đồ {0} Số Lần diệt Rồng</value>
+  </data>
+  <data name="ESports_90340X" xml:space="preserve">
+    <value>Bản Đồ {0} Số Lần diệt Baron</value>
+  </data>
+  <data name="ESports_90400X" xml:space="preserve">
+    <value>Bản Đồ {0} Số Nhà Lính Bị Phá</value>
+  </data>
+  <data name="ESports_90460X" xml:space="preserve">
+    <value>Bản Đồ {0} Tổng Số Tyrant</value>
+  </data>
+  <data name="ESports_90520X" xml:space="preserve">
+    <value>Bản Đồ {0} Tổng Số Overlord</value>
+  </data>
+  <data name="ESports_90580X" xml:space="preserve">
+    <value>Bản Đồ {0} Thời Lượng Tài/Xỉu</value>
+  </data>
+  <data name="ESports_90590X" xml:space="preserve">
+    <value>Bản Đồ {0} Số Vòng Đấu</value>
+  </data>
+  <data name="ESports_90650X" xml:space="preserve">
+    <value>Bản Đồ {0} Tổng số Chiến công đầu</value>
+  </data>
+  <data name="ESports_90660X" xml:space="preserve">
+    <value>Bản Đồ {0} Tỷ Số Clutch</value>
+  </data>
+  <data name="ESports_90680X0Y" xml:space="preserve">
+    <value>Bản Đồ {0} Vòng {1} Người Thắng Cuộc</value>
+  </data>
+  <data name="ESports_90690X0Y" xml:space="preserve">
+    <value>Bản Đồ {0} Vòng {1} Tổng Hạ Gục</value>
+  </data>
+  <data name="ESports_90740X" xml:space="preserve">
+    <value>Bản Đồ {0} Số Vòng Đấu (gồm Hiệp Phụ)</value>
+  </data>
+  <data name="Selection" xml:space="preserve">
+    <value>Lựa chọn</value>
+  </data>
+  <data name="FinalResult" xml:space="preserve">
+    <value>Kết quả cuối cùng</value>
+  </data>
+  <data name="TotalGoal" xml:space="preserve">
+    <value>Tổng bàn thắng</value>
+  </data>
+  <data name="ESports_90890X0K" xml:space="preserve">
+    <value>Bản Đồ {0} Thời Gian Hạ Gục {1} Mạng Đầu</value>
+  </data>
+  <data name="ESports_90900X" xml:space="preserve">
+    <value>Bản Đồ {0} Thời Gian Lập Chiến Công Đầu</value>
+  </data>
+  <data name="ESports_90910X" xml:space="preserve">
+    <value>Bản đồ {0} Tổng Mạng Hạ Gục Phút thứ 10</value>
+  </data>
+  <data name="ESports_90930X" xml:space="preserve">
+    <value>Bản đồ {0} Tổng Mạng Hạ Gục Phút thứ 20</value>
+  </data>
+  <data name="ESports_91150X" xml:space="preserve">
+    <value>Bản Đồ {0} Tổng Số Vàng</value>
+  </data>
+  <data name="ESports_91210X" xml:space="preserve">
+    <value>Bản Đồ {0} Thời Gian Diệt Tyrant Đầu Tiên</value>
+  </data>
+  <data name="ESports_91230X" xml:space="preserve">
+    <value>Bản Đồ {0} Thời Gian Diệt Overlord Đầu Tiên</value>
+  </data>
+  <data name="ESports_91240X" xml:space="preserve">
+    <value>Bản Đồ {0} Rồng Bão Tố Sẽ Bị Tiêu Diệt?</value>
+  </data>
+  <data name="ESports_91260X" xml:space="preserve">
+    <value>Bản Đồ {0} Thời Gian Diệt Sứ Giả Đầu Tiên</value>
+  </data>
+  <data name="ESports_91270X" xml:space="preserve">
+    <value>Bản Đồ {0} Thời Gian Diệt Baron Đầu Tiên</value>
+  </data>
+  <data name="ESports_91280X" xml:space="preserve">
+    <value>Bản Đồ {0} Số Người Chơi Được Buff Baron Đầu Tiên</value>
+  </data>
+  <data name="ESports_91290X" xml:space="preserve">
+    <value>Bản Đồ {0} Thời Gian Phá Nhà Lính Đầu Tiên</value>
+  </data>
+  <data name="ESports_91310X" xml:space="preserve">
+    <value>Bản Đồ {0} Thời Gian Diệt Rồng Đầu Tiên</value>
+  </data>
+  <data name="ESports_91320X" xml:space="preserve">
+    <value>Bản Đồ {0} Rồng Ngàn Tuổi Sẽ Bị Diệt?</value>
+  </data>
+  <data name="ESports_91330X" xml:space="preserve">
+    <value>Bản Đồ {0} Aegis Đầu Tiên Sẽ Bị Cướp?</value>
+  </data>
+  <data name="ESports_91340X" xml:space="preserve">
+    <value>Bản Đồ {0} Thời Gian Phá Trụ Đầu Tiên</value>
+  </data>
+  <data name="ESports_91360X" xml:space="preserve">
+    <value>Bản Đồ {0} Thời Gian Diệt Roshan Đầu Tiên - Tài/Xỉu</value>
+  </data>
+  <data name="ESports_91370X" xml:space="preserve">
+    <value>Bản Đồ {0} Thời Gian Phá Nhà Lính Đầu Tiên - Tài/Xỉu</value>
+  </data>
+  <data name="ESports_91390X" xml:space="preserve">
+    <value>Bản Đồ {0} - Tổng Số Bom Nổ (Không Tính Hiệp Phụ)</value>
+  </data>
+  <data name="ESports_91400X" xml:space="preserve">
+    <value>Bản Đồ {0} - Tổng Số Bom Gỡ (Không Tính Hiệp Phụ)</value>
+  </data>
+  <data name="ESports_91010X0K" xml:space="preserve">
+    <value>Bản Đồ {0} Mạng {1}</value>
+  </data>
+  <data name="ESports_91010X0Y" xml:space="preserve">
+    <value>Bản Đồ {0} Mạng {1}</value>
+  </data>
+  <data name="ESports_91410X" xml:space="preserve">
+    <value>Bản Đồ {0} Đường Có Nhiều Trụ Bị Phá Nhất</value>
+  </data>
+  <data name="ESports_91420X" xml:space="preserve">
+    <value>Bản Đồ {0} Vị Trí Trụ Đầu Tiên Bị Phá</value>
+  </data>
+  <data name="FirstNumber" xml:space="preserve">
+    <value>Đầu Tiên</value>
+  </data>
+  <data name="SecondNumber" xml:space="preserve">
+    <value>Thứ 2</value>
+  </data>
+  <data name="ThirdNumber" xml:space="preserve">
+    <value>Thứ 3</value>
+  </data>
+  <data name="FourthNumber" xml:space="preserve">
+    <value>Thứ 4</value>
+  </data>
+  <data name="FifthNumber" xml:space="preserve">
+    <value>Thứ 5</value>
+  </data>
+  <data name="fifteenthNumber" xml:space="preserve">
+    <value>Thứ 15</value>
+  </data>
+  <data name="NinthNumber" xml:space="preserve">
+    <value>Thứ 9</value>
+  </data>
+  <data name="SeventhNumber" xml:space="preserve">
+    <value>Thứ 7</value>
+  </data>
+  <data name="SixthNumber" xml:space="preserve">
+    <value>Thứ 6</value>
+  </data>
+  <data name="TenthNumber" xml:space="preserve">
+    <value>Thứ 10</value>
+  </data>
+  <data name="TwentiethNumber" xml:space="preserve">
+    <value>Thứ 20</value>
+  </data>
+  <data name="EighthNumber" xml:space="preserve">
+    <value>Thứ 8</value>
+  </data>
+  <data name="Mid" xml:space="preserve">
+    <value>Giữa</value>
+  </data>
+  <data name="MidBottom" xml:space="preserve">
+    <value>Dưới</value>
+  </data>
+  <data name="Overlord" xml:space="preserve">
+    <value>Tyrant</value>
+  </data>
+  <data name="OverlordMiddle" xml:space="preserve">
+    <value>Overlord/Giữa</value>
+  </data>
+  <data name="Top" xml:space="preserve">
+    <value>Trên</value>
+  </data>
+  <data name="TopBottom" xml:space="preserve">
+    <value>Trên/Dưới</value>
+  </data>
+  <data name="TopMid" xml:space="preserve">
+    <value>Trên/Giữa</value>
+  </data>
+  <data name="Tyrant" xml:space="preserve">
+    <value>Overlord</value>
+  </data>
+  <data name="Bottom" xml:space="preserve">
+    <value>Dưới</value>
+  </data>
+  <data name="ESports_90010X" xml:space="preserve">
+    <value>Bản Đồ {0} - Kết Quả</value>
+  </data>
+  <data name="Dnf" xml:space="preserve">
+    <value>Không hoàn thành</value>
+  </data>
+  <data name="Final" xml:space="preserve">
+    <value>Chung kết</value>
+  </data>
+  <data name="MatchDay1GroupAB" xml:space="preserve">
+    <value>Ngày thi đấu thứ 1 của nhóm A&amp;B</value>
+  </data>
+  <data name="MatchDay1GroupCD" xml:space="preserve">
+    <value>Ngày thi đấu thứ 1 của nhóm C&amp;D</value>
+  </data>
+  <data name="MatchDay1GroupEF" xml:space="preserve">
+    <value>Ngày thi đấu thứ 1 của nhóm E&amp;F</value>
+  </data>
+  <data name="MatchDay2GroupAB" xml:space="preserve">
+    <value>Ngày thi đấu thứ 2 của nhóm A&amp;B</value>
+  </data>
+  <data name="MatchDay2GroupCD" xml:space="preserve">
+    <value>Ngày thi đấu thứ 2 của nhóm C&amp;D</value>
+  </data>
+  <data name="MatchDay2GroupEF" xml:space="preserve">
+    <value>Ngày thi đấu thứ 2 của nhóm E&amp;F</value>
+  </data>
+  <data name="MatchDay3GroupAB" xml:space="preserve">
+    <value>Ngày thi đấu thứ 3 của nhóm A&amp;B</value>
+  </data>
+  <data name="MatchDay3GroupCD" xml:space="preserve">
+    <value>Ngày thi đấu thứ 3 của nhóm C&amp;D</value>
+  </data>
+  <data name="MatchDay3GroupEF" xml:space="preserve">
+    <value>Ngày thi đấu thứ 3 của nhóm E&amp;F</value>
+  </data>
+  <data name="Quarterfinal" xml:space="preserve">
+    <value>Tứ kết</value>
+  </data>
+  <data name="Round161" xml:space="preserve">
+    <value>Vòng 16-1</value>
+  </data>
+  <data name="Round162" xml:space="preserve">
+    <value>Vòng 16-2</value>
+  </data>
+  <data name="Semifinal1" xml:space="preserve">
+    <value>Bán kết Phần 1</value>
+  </data>
+  <data name="Semifinal2" xml:space="preserve">
+    <value>Bán kết Phần 2</value>
+  </data>
+  <data name="FT" xml:space="preserve">
+    <value>Toàn trận</value>
+  </data>
+  <data name="CorrectScore" xml:space="preserve">
+    <value>Tỷ Số Chính Xác</value>
+  </data>
+  <data name="Bowled" xml:space="preserve">
+    <value>Bowled</value>
+  </data>
+  <data name="LBW" xml:space="preserve">
+    <value>Chân chắn bóng</value>
+  </data>
+  <data name="RunOut" xml:space="preserve">
+    <value>Run Out</value>
+  </data>
+  <data name="Stumped" xml:space="preserve">
+    <value>Stumped</value>
+  </data>
+  <data name="Others" xml:space="preserve">
+    <value>Khác</value>
+  </data>
+  <data name="Caught" xml:space="preserve">
+    <value>Bắt Bóng</value>
+  </data>
+  <data name="Volleyball_3903XXYY" xml:space="preserve">
+    <value>Set {0} ghi trước {1} điểm</value>
+  </data>
+  <data name="Volleyball_3909XXYY" xml:space="preserve">
+    <value>Set {0} Đội Thắng đạt {1} Điểm</value>
+  </data>
+  <data name="Volleyball_3915XXYY" xml:space="preserve">
+    <value>Set {0} {1} Điểm</value>
+  </data>
+  <data name="AbandonedQ1" xml:space="preserve">
+    <value>Hủy vào Ván 1</value>
+  </data>
+  <data name="AbandonedQ2" xml:space="preserve">
+    <value>Hủy vào Ván 2</value>
+  </data>
+  <data name="AbandonedQ3" xml:space="preserve">
+    <value>Hủy vào Ván 3</value>
+  </data>
+  <data name="AbandonedQ4" xml:space="preserve">
+    <value>Hủy vào Ván 4</value>
+  </data>
+  <data name="Abandoned01" xml:space="preserve">
+    <value>Hủy vào Hiệp 1</value>
+  </data>
+  <data name="AbandonedOT" xml:space="preserve">
+    <value>Hủy vào Ván Phụ</value>
+  </data>
+  <data name="Abandoned02" xml:space="preserve">
+    <value>Hủy Toàn Trận</value>
+  </data>
+  <data name="Abandoned00" xml:space="preserve">
+    <value>Hủy Toàn Trận</value>
+  </data>
+  <data name="ESports_90150X" xml:space="preserve">
+    <value>Bản Đồ {0} Diệt Roshan Thứ 1</value>
+  </data>
+  <data name="Winner" xml:space="preserve">
+    <value> Đội thắng trận</value>
+  </data>
+  <data name="Baseball_8823XX" xml:space="preserve">
+    <value>Lượt Đánh Hiệp X</value>
+  </data>
+  <data name="Hits" xml:space="preserve">
+    <value>Cú đánh</value>
+  </data>
+  <data name="Runs" xml:space="preserve">
+    <value>Điểm số</value>
+  </data>
+  <data name="SeriesMatch" xml:space="preserve">
+    <value>Loạt Trận Đấu</value>
+  </data>
+</root>

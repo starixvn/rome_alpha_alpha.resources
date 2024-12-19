@@ -1,0 +1,771 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="Closed" xml:space="preserve">
+    <value>关闭</value>
+  </data>
+  <data name="Completed" xml:space="preserve">
+    <value>已完场</value>
+  </data>
+  <data name="Even" xml:space="preserve">
+    <value>双</value>
+  </data>
+  <data name="Event" xml:space="preserve">
+    <value>项目</value>
+  </data>
+  <data name="FinalScore" xml:space="preserve">
+    <value>最后比分</value>
+  </data>
+  <data name="Refund" xml:space="preserve">
+    <value>退款</value>
+  </data>
+  <data name="Official" xml:space="preserve">
+    <value>官方</value>
+  </data>
+  <data name="Odd" xml:space="preserve">
+    <value>单</value>
+  </data>
+  <data name="Team" xml:space="preserve">
+    <value>队伍</value>
+  </data>
+  <data name="TF" xml:space="preserve">
+    <value>大热门</value>
+  </data>
+  <data name="TotalPoints" xml:space="preserve">
+    <value>总得分</value>
+  </data>
+  <data name="TotalSet" xml:space="preserve">
+    <value>总盘数</value>
+  </data>
+  <data name="TotalGames" xml:space="preserve">
+    <value>总局数</value>
+  </data>
+  <data name="Lbl1stBall" xml:space="preserve">
+    <value>第一球</value>
+  </data>
+  <data name="Lbl1st" xml:space="preserve">
+    <value>第一名</value>
+  </data>
+  <data name="Running" xml:space="preserve">
+    <value>进行中</value>
+  </data>
+  <data name="Score" xml:space="preserve">
+    <value>比分</value>
+  </data>
+  <data name="Refundft" xml:space="preserve">
+    <value>退款(全场)</value>
+  </data>
+  <data name="HTScore" xml:space="preserve">
+    <value>上半场比分</value>
+  </data>
+  <data name="Refundht" xml:space="preserve">
+    <value>退款(半场)</value>
+  </data>
+  <data name="LblOT" xml:space="preserve">
+    <value>延时</value>
+  </data>
+  <data name="Postponed" xml:space="preserve">
+    <value>延期</value>
+  </data>
+  <data name="Time" xml:space="preserve">
+    <value>时间</value>
+  </data>
+  <data name="Win" xml:space="preserve">
+    <value>赢</value>
+  </data>
+  <data name="Won" xml:space="preserve">
+    <value>赢</value>
+  </data>
+  <data name="Place" xml:space="preserve">
+    <value>位置</value>
+  </data>
+  <data name="Warrior3rdBall" xml:space="preserve">
+    <value>第三颗球赢</value>
+  </data>
+  <data name="Lbl3rd" xml:space="preserve">
+    <value>第三</value>
+  </data>
+  <data name="Status" xml:space="preserve">
+    <value>状态</value>
+  </data>
+  <data name="Pending" xml:space="preserve">
+    <value>等待中</value>
+  </data>
+  <data name="SCR" xml:space="preserve">
+    <value>退出</value>
+  </data>
+  <data name="Match" xml:space="preserve">
+    <value>赛事</value>
+  </data>
+  <data name="LastBall" xml:space="preserve">
+    <value>最后一球</value>
+  </data>
+  <data name="NumberGameNo" xml:space="preserve">
+    <value>百练赛编号</value>
+  </data>
+  <data name="Lbl2nd" xml:space="preserve">
+    <value>第二</value>
+  </data>
+  <data name="Lbl4th" xml:space="preserve">
+    <value>第四</value>
+  </data>
+  <data name="Internal" xml:space="preserve">
+    <value>内部</value>
+  </data>
+  <data name="Race" xml:space="preserve">
+    <value>赛事</value>
+  </data>
+  <data name="KickOffTime" xml:space="preserve">
+    <value>开赛时间</value>
+  </data>
+  <data name="Warrior" xml:space="preserve">
+    <value>斗士</value>
+  </data>
+  <data name="Result" xml:space="preserve">
+    <value>赛果</value>
+  </data>
+  <data name="Results" xml:space="preserve">
+    <value>赛果</value>
+  </data>
+  <data name="NoInfo" xml:space="preserve">
+    <value>没资料显示</value>
+  </data>
+  <data name="Lbl5S" xml:space="preserve">
+    <value>第五盘</value>
+  </data>
+  <data name="Lbl4Q" xml:space="preserve">
+    <value>第四节</value>
+  </data>
+  <data name="Lbl4S" xml:space="preserve">
+    <value>第四盘</value>
+  </data>
+  <data name="Lbl3P" xml:space="preserve">
+    <value>第三节</value>
+  </data>
+  <data name="Lbl3Q" xml:space="preserve">
+    <value>第三节</value>
+  </data>
+  <data name="Lbl3S" xml:space="preserve">
+    <value>第三盘</value>
+  </data>
+  <data name="Lbl2P" xml:space="preserve">
+    <value>第二节</value>
+  </data>
+  <data name="Lbl2Q" xml:space="preserve">
+    <value>第二节</value>
+  </data>
+  <data name="Lbl2S" xml:space="preserve">
+    <value>第二盘</value>
+  </data>
+  <data name="Warrior2ndBall" xml:space="preserve">
+    <value>第二颗球赢</value>
+  </data>
+  <data name="Lbl1P" xml:space="preserve">
+    <value>第一节</value>
+  </data>
+  <data name="Lbl1Q" xml:space="preserve">
+    <value>第一节</value>
+  </data>
+  <data name="Lbl1S" xml:space="preserve">
+    <value>第一盘</value>
+  </data>
+  <data name="Lose" xml:space="preserve">
+    <value>输</value>
+  </data>
+  <data name="LiveScore" xml:space="preserve">
+    <value>即 时 比 分</value>
+  </data>
+  <data name="Abandoned1h" xml:space="preserve">
+    <value>在上半场中止</value>
+  </data>
+  <data name="Abandoned2h" xml:space="preserve">
+    <value>在下半场中止</value>
+  </data>
+  <data name="BetType" xml:space="preserve">
+    <value>投注类别</value>
+  </data>
+  <data name="ResultPending" xml:space="preserve">
+    <value>赛果待定</value>
+  </data>
+  <data name="UnderSettlement" xml:space="preserve">
+    <value>结算中</value>
+  </data>
+  <data name="Map" xml:space="preserve">
+    <value>地图</value>
+  </data>
+  <data name="MinSec" xml:space="preserve">
+    <value>{0}分钟{1}秒</value>
+  </data>
+  <data name="MoreResults" xml:space="preserve">
+    <value>更多赛果</value>
+  </data>
+  <data name="Away" xml:space="preserve">
+    <value>客</value>
+  </data>
+  <data name="Banker" xml:space="preserve">
+    <value>庄</value>
+  </data>
+  <data name="Corner" xml:space="preserve">
+    <value>角球</value>
+  </data>
+  <data name="Dragon" xml:space="preserve">
+    <value>龙</value>
+  </data>
+  <data name="Details" xml:space="preserve">
+    <value>[i]</value>
+  </data>
+  <data name="Draw" xml:space="preserve">
+    <value>和局</value>
+  </data>
+  <data name="ExtraTime" xml:space="preserve">
+    <value>加时时间</value>
+  </data>
+  <data name="FirstLastCorners" xml:space="preserve">
+    <value>首个/末个角球</value>
+  </data>
+  <data name="GameID" xml:space="preserve">
+    <value>游戏代码</value>
+  </data>
+  <data name="GameResult" xml:space="preserve">
+    <value>比赛结果</value>
+  </data>
+  <data name="GoalRecord" xml:space="preserve">
+    <value>进球纪录</value>
+  </data>
+  <data name="Goals" xml:space="preserve">
+    <value>进球数</value>
+  </data>
+  <data name="GoalScorer" xml:space="preserve">
+    <value>进球球员</value>
+  </data>
+  <data name="GoalTime" xml:space="preserve">
+    <value>进球时间</value>
+  </data>
+  <data name="Home" xml:space="preserve">
+    <value>主</value>
+  </data>
+  <data name="HomeAwayPlayerSentOff" xml:space="preserve">
+    <value>主/客 - 球员驱逐离场</value>
+  </data>
+  <data name="ID" xml:space="preserve">
+    <value>代码</value>
+  </data>
+  <data name="LblOEFT" xml:space="preserve">
+    <value>全场单/双</value>
+  </data>
+  <data name="MatchCode" xml:space="preserve">
+    <value>比赛代码</value>
+  </data>
+  <data name="Min" xml:space="preserve">
+    <value>分</value>
+  </data>
+  <data name="No" xml:space="preserve">
+    <value>否</value>
+  </data>
+  <data name="None" xml:space="preserve">
+    <value>无</value>
+  </data>
+  <data name="Penalty" xml:space="preserve">
+    <value>点球</value>
+  </data>
+  <data name="Player" xml:space="preserve">
+    <value>球员</value>
+  </data>
+  <data name="PlayerSentOff" xml:space="preserve">
+    <value>球员驱逐离场</value>
+  </data>
+  <data name="PS" xml:space="preserve">
+    <value>PS</value>
+  </data>
+  <data name="RegularTime" xml:space="preserve">
+    <value>正规时间</value>
+  </data>
+  <data name="RS04" xml:space="preserve">
+    <value>全场</value>
+  </data>
+  <data name="RS05" xml:space="preserve">
+    <value>上半场</value>
+  </data>
+  <data name="RS135" xml:space="preserve">
+    <value>点球决胜 是/否</value>
+  </data>
+  <data name="RS160" xml:space="preserve">
+    <value>全场- 进球数{0}</value>
+  </data>
+  <data name="RS164" xml:space="preserve">
+    <value>加时赛- 进球数{0}</value>
+  </data>
+  <data name="RS168" xml:space="preserve">
+    <value>哪一队可晋级</value>
+  </data>
+  <data name="RS169" xml:space="preserve">
+    <value>进球数{0}</value>
+  </data>
+  <data name="RS173" xml:space="preserve">
+    <value>加时赛 是/否</value>
+  </data>
+  <data name="RS174" xml:space="preserve">
+    <value>加时赛&amp;进球数</value>
+  </data>
+  <data name="RS175" xml:space="preserve">
+    <value>决定赛事方式</value>
+  </data>
+  <data name="RS176" xml:space="preserve">
+    <value>前10分钟1X2</value>
+  </data>
+  <data name="RS180" xml:space="preserve">
+    <value>上半场- 进球数{0}</value>
+  </data>
+  <data name="RS192" xml:space="preserve">
+    <value>特定时间的第一个进球(10 分钟)</value>
+  </data>
+  <data name="RS193" xml:space="preserve">
+    <value>特定时间的第一个进球(15 分钟)</value>
+  </data>
+  <data name="RS206" xml:space="preserve">
+    <value>全场- 第一个角球</value>
+  </data>
+  <data name="RS207" xml:space="preserve">
+    <value>上半场第一个角球</value>
+  </data>
+  <data name="RS208" xml:space="preserve">
+    <value>全场- 最后一个角球</value>
+  </data>
+  <data name="RS209" xml:space="preserve">
+    <value>上半场最后一个角球</value>
+  </data>
+  <data name="RS210" xml:space="preserve">
+    <value>全场</value>
+  </data>
+  <data name="RS211" xml:space="preserve">
+    <value>上半场</value>
+  </data>
+  <data name="RS212" xml:space="preserve">
+    <value>全场</value>
+  </data>
+  <data name="RS213" xml:space="preserve">
+    <value>上半场</value>
+  </data>
+  <data name="RS214" xml:space="preserve">
+    <value>全场</value>
+  </data>
+  <data name="RS215" xml:space="preserve">
+    <value>上半场</value>
+  </data>
+  <data name="RS216" xml:space="preserve">
+    <value>进球数{0}</value>
+  </data>
+  <data name="RS217" xml:space="preserve">
+    <value>第一个进球</value>
+  </data>
+  <data name="Set" xml:space="preserve">
+    <value>总局数</value>
+  </data>
+  <data name="Special" xml:space="preserve">
+    <value>特别</value>
+  </data>
+  <data name="Tiger" xml:space="preserve">
+    <value>老虎</value>
+  </data>
+  <data name="VS" xml:space="preserve">
+    <value>比</value>
+  </data>
+  <data name="Yes" xml:space="preserve">
+    <value>是</value>
+  </data>
+  <data name="FiveRoundsCompleted" xml:space="preserve">
+    <value>5回合完成</value>
+  </data>
+  <data name="KOInRound" xml:space="preserve">
+    <value>第{0}回击倒</value>
+  </data>
+  <data name="RS424" xml:space="preserve">
+    <value>第一个进球方式</value>
+  </data>
+  <data name="FreeKick" xml:space="preserve">
+    <value>任意球</value>
+  </data>
+  <data name="Header" xml:space="preserve">
+    <value>头球</value>
+  </data>
+  <data name="NoGoal" xml:space="preserve">
+    <value>两者皆不</value>
+  </data>
+  <data name="OwnGoal" xml:space="preserve">
+    <value>乌龙球</value>
+  </data>
+  <data name="Shot" xml:space="preserve">
+    <value>射门</value>
+  </data>
+  <data name="RS08" xml:space="preserve">
+    <value>全场进球顺序</value>
+  </data>
+  <data name="RS455" xml:space="preserve">
+    <value>第一个进球时间</value>
+  </data>
+  <data name="M1" xml:space="preserve">
+    <value>地图1</value>
+  </data>
+  <data name="M2" xml:space="preserve">
+    <value>地图2</value>
+  </data>
+  <data name="M3" xml:space="preserve">
+    <value>地图3</value>
+  </data>
+  <data name="M4" xml:space="preserve">
+    <value>地图4</value>
+  </data>
+  <data name="M5" xml:space="preserve">
+    <value>地图5</value>
+  </data>
+  <data name="M6" xml:space="preserve">
+    <value>地图6</value>
+  </data>
+  <data name="M7" xml:space="preserve">
+    <value>地图7</value>
+  </data>
+  <data name="M8" xml:space="preserve">
+    <value>地图8</value>
+  </data>
+  <data name="M9" xml:space="preserve">
+    <value>地图9</value>
+  </data>
+  <data name="EI" xml:space="preserve">
+    <value>延长赛</value>
+  </data>
+  <data name="RS479" xml:space="preserve">
+    <value>第一个角球时段</value>
+  </data>
+  <data name="RS481" xml:space="preserve">
+    <value>下半场第一个角球时段</value>
+  </data>
+  <data name="RS09" xml:space="preserve">
+    <value>上半场进球顺序</value>
+  </data>
+  <data name="Corners" xml:space="preserve">
+    <value>角球</value>
+  </data>
+  <data name="NoCorner" xml:space="preserve">
+    <value>无角球</value>
+  </data>
+  <data name="IsNeutral" xml:space="preserve">
+    <value>(中)</value>
+  </data>
+  <data name="Game01" xml:space="preserve">
+    <value>第一局</value>
+  </data>
+  <data name="Game02" xml:space="preserve">
+    <value>第二局</value>
+  </data>
+  <data name="Game03" xml:space="preserve">
+    <value>第三局</value>
+  </data>
+  <data name="Game04" xml:space="preserve">
+    <value>第四局</value>
+  </data>
+  <data name="Game05" xml:space="preserve">
+    <value>第五局</value>
+  </data>
+  <data name="Lbl1G" xml:space="preserve">
+    <value> 第一局</value>
+  </data>
+  <data name="Lbl2G" xml:space="preserve">
+    <value>第二局</value>
+  </data>
+  <data name="Lbl3G" xml:space="preserve">
+    <value> 第三局</value>
+  </data>
+  <data name="Lbl4G" xml:space="preserve">
+    <value>第四局</value>
+  </data>
+  <data name="Lbl5G" xml:space="preserve">
+    <value>第五局</value>
+  </data>
+  <data name="RS395" xml:space="preserve">
+    <value>第{0}个进球方式</value>
+  </data>
+  <data name="PenaltyShootoutFirstTen" xml:space="preserve">
+    <value>点球决胜 – 前十</value>
+  </data>
+  <data name="RS381" xml:space="preserve">
+    <value>第 {0} 轮 - 进球/没进</value>
+  </data>
+  <data name="RS382" xml:space="preserve">
+    <value>第 {0} 轮 - 进球/没进</value>
+  </data>
+  <data name="RS385" xml:space="preserve">
+    <value>第 {0} 轮 - 独赢盘 </value>
+  </data>
+  <data name="RS384" xml:space="preserve">
+    <value>第 {0} 轮 - 双方/一方/两者皆不</value>
+  </data>
+  <data name="RS383" xml:space="preserve">
+    <value>第 {0} 轮 - 击中门柱</value>
+  </data>
+  <data name="Hit" xml:space="preserve">
+    <value>中门柱</value>
+  </data>
+  <data name="NotHit" xml:space="preserve">
+    <value>未中门柱</value>
+  </data>
+  <data name="NotTaken" xml:space="preserve">
+    <value>没有执行</value>
+  </data>
+  <data name="PenaltyShootoutRoundOne" xml:space="preserve">
+    <value>点球决战 - 第 1 轮</value>
+  </data>
+  <data name="PenaltyShootoutRoundTwo" xml:space="preserve">
+    <value>点球决战 - 第 2 轮</value>
+  </data>
+  <data name="PenaltyShootoutRoundThree" xml:space="preserve">
+    <value>点球决战 - 第 3 轮</value>
+  </data>
+  <data name="PenaltyShootoutRoundFour" xml:space="preserve">
+    <value>点球决战 - 第 4 轮</value>
+  </data>
+  <data name="PenaltyShootoutRoundFive" xml:space="preserve">
+    <value>点球决战 - 第 5 轮</value>
+  </data>
+  <data name="HomeScoreAwayNotTaken" xml:space="preserve">
+    <value>主队进球-客队不需执行罚球</value>
+  </data>
+  <data name="HomeNotTakenAwayScore" xml:space="preserve">
+    <value>主队不需执行罚球-客队进球</value>
+  </data>
+  <data name="HomeNotTakenAwayMiss" xml:space="preserve">
+    <value>主队不需执行罚球-客队没进</value>
+  </data>
+  <data name="HomeMissAwayNotTaken" xml:space="preserve">
+    <value>主队没进-客队不需执行罚球 </value>
+  </data>
+  <data name="HomeHitAwayNotTaken" xml:space="preserve">
+    <value>主队中门柱-客队不需执行罚球</value>
+  </data>
+  <data name="HomeNotTakenAwayHit" xml:space="preserve">
+    <value>主队不需执行罚球-客队中门柱</value>
+  </data>
+  <data name="HomeNotTakenAwayNotHit" xml:space="preserve">
+    <value>主队不需执行罚球-客队未中门柱</value>
+  </data>
+  <data name="Miss" xml:space="preserve">
+    <value>没进</value>
+  </data>
+  <data name="Both" xml:space="preserve">
+    <value>双方</value>
+  </data>
+  <data name="One" xml:space="preserve">
+    <value>一方</value>
+  </data>
+  <data name="HomeNotHitAwayNotTaken" xml:space="preserve">
+    <value>主队未中门柱-客队不需执行罚球</value>
+  </data>
+  <data name="RS393" xml:space="preserve">
+    <value>点球决胜 - 单双盘 (前十)</value>
+  </data>
+  <data name="RS387" xml:space="preserve">
+    <value>点球决胜 - 主队大小盘 (前十)</value>
+  </data>
+  <data name="RS386" xml:space="preserve">
+    <value>点球决胜 - 客队大小盘 (前十)</value>
+  </data>
+  <data name="RS391" xml:space="preserve">
+    <value>点球决胜 – 准确的总进球(前十)</value>
+  </data>
+  <data name="RS390" xml:space="preserve">
+    <value>球大战骤死赛</value>
+  </data>
+  <data name="RS488" xml:space="preserve">
+    <value>第一个角球</value>
+  </data>
+  <data name="RS489" xml:space="preserve">
+    <value>上半场第一个角球</value>
+  </data>
+  <data name="RS490" xml:space="preserve">
+    <value>下半场第一个角球</value>
+  </data>
+  <data name="Neither" xml:space="preserve">
+    <value>两者皆不</value>
+  </data>
+  <data name="PenaltyShootoutSuddenDeath" xml:space="preserve">
+    <value>点球决战 - 骤死赛</value>
+  </data>
+  <data name="RefundWithSettleDetermined" xml:space="preserve">
+    <value>已无条件确定</value>
+  </data>
+  <data name="Scored" xml:space="preserve">
+    <value>得分</value>
+  </data>
+  <data name="Goal" xml:space="preserve">
+    <value>进球</value>
+  </data>
+  <data name="PenaltyShootoutComboFirstTen" xml:space="preserve">
+    <value>点球决战-结果组合（前十）</value>
+  </data>
+  <data name="RS376" xml:space="preserve">
+    <value>第 {0} 轮 - 进球/没进</value>
+  </data>
+  <data name="2HScore" xml:space="preserve">
+    <value>下半场总分</value>
+  </data>
+  <data name="Lbl2ndBall" xml:space="preserve">
+    <value>第二球</value>
+  </data>
+  <data name="LblThirdBall" xml:space="preserve">
+    <value>第三球</value>
+  </data>
+  <data name="LblFTOE" xml:space="preserve">
+    <value>全场单/双</value>
+  </data>
+  <data name="Caught" xml:space="preserve">
+    <value>接球出局</value>
+  </data>
+  <data name="NotCaught" xml:space="preserve">
+    <value>非接球出局</value>
+  </data>
+  <data name="Inns1" xml:space="preserve">
+    <value>首局</value>
+  </data>
+  <data name="Inns2" xml:space="preserve">
+    <value>次局</value>
+  </data>
+  <data name="BaseballGame01" xml:space="preserve">
+    <value>第一场比赛</value>
+  </data>
+  <data name="BaseballGame02" xml:space="preserve">
+    <value>第二场比赛</value>
+  </data>
+  <data name="BaseballGame03" xml:space="preserve">
+    <value>第三场比赛</value>
+  </data>
+  <data name="BaseballGame04" xml:space="preserve">
+    <value>第四场比赛</value>
+  </data>
+  <data name="BaseballGame05" xml:space="preserve">
+    <value>第五场比赛</value>
+  </data>
+  <data name="BaseballGame06" xml:space="preserve">
+    <value>第六场比赛</value>
+  </data>
+  <data name="BaseballGame07" xml:space="preserve">
+    <value>第七场比赛</value>
+  </data>
+  <data name="BaseballTotalGames" xml:space="preserve">
+    <value>总局数</value>
+  </data>
+</root>

@@ -1,0 +1,783 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="Away" xml:space="preserve">
+    <value>Away</value>
+  </data>
+  <data name="Banker" xml:space="preserve">
+    <value>Banker</value>
+  </data>
+  <data name="Closed" xml:space="preserve">
+    <value>Closed</value>
+  </data>
+  <data name="Completed" xml:space="preserve">
+    <value>Completed</value>
+  </data>
+  <data name="Corner" xml:space="preserve">
+    <value>Corner</value>
+  </data>
+  <data name="Dragon" xml:space="preserve">
+    <value>Dragon</value>
+  </data>
+  <data name="Details" xml:space="preserve">
+    <value>[i]</value>
+  </data>
+  <data name="Draw" xml:space="preserve">
+    <value>Draw</value>
+  </data>
+  <data name="Even" xml:space="preserve">
+    <value>Even</value>
+  </data>
+  <data name="Event" xml:space="preserve">
+    <value>Event</value>
+  </data>
+  <data name="ExtraTime" xml:space="preserve">
+    <value>Extra Time</value>
+  </data>
+  <data name="FinalScore" xml:space="preserve">
+    <value>Final Score</value>
+  </data>
+  <data name="FirstLastCorners" xml:space="preserve">
+    <value>First/Last Corners</value>
+  </data>
+  <data name="GameID" xml:space="preserve">
+    <value>Game ID</value>
+  </data>
+  <data name="GameResult" xml:space="preserve">
+    <value>Game Result</value>
+  </data>
+  <data name="GoalRecord" xml:space="preserve">
+    <value>Goal Record</value>
+  </data>
+  <data name="Goals" xml:space="preserve">
+    <value>Goals</value>
+  </data>
+  <data name="GoalScorer" xml:space="preserve">
+    <value>Goal Scorer</value>
+  </data>
+  <data name="GoalTime" xml:space="preserve">
+    <value>Goal Time</value>
+  </data>
+  <data name="Home" xml:space="preserve">
+    <value>Home</value>
+  </data>
+  <data name="HomeAwayPlayerSentOff" xml:space="preserve">
+    <value>Home/Away - Player Sent Off</value>
+  </data>
+  <data name="HTScore" xml:space="preserve">
+    <value>HT Score</value>
+  </data>
+  <data name="ID" xml:space="preserve">
+    <value>ID</value>
+  </data>
+  <data name="Internal" xml:space="preserve">
+    <value>Internal</value>
+  </data>
+  <data name="IsNeutral" xml:space="preserve">
+    <value>(N)</value>
+  </data>
+  <data name="KickOffTime" xml:space="preserve">
+    <value>Kick Off. Time</value>
+  </data>
+  <data name="LastBall" xml:space="preserve">
+    <value>Last Ball</value>
+  </data>
+  <data name="Lbl1P" xml:space="preserve">
+    <value>1P</value>
+  </data>
+  <data name="Lbl1Q" xml:space="preserve">
+    <value>1Q</value>
+  </data>
+  <data name="Lbl1S" xml:space="preserve">
+    <value>1S</value>
+  </data>
+  <data name="Lbl1st" xml:space="preserve">
+    <value>1st</value>
+  </data>
+  <data name="Lbl1stBall" xml:space="preserve">
+    <value>1st Ball</value>
+  </data>
+  <data name="Lbl2nd" xml:space="preserve">
+    <value>2nd</value>
+  </data>
+  <data name="Lbl2P" xml:space="preserve">
+    <value>2P</value>
+  </data>
+  <data name="Lbl2Q" xml:space="preserve">
+    <value>2Q</value>
+  </data>
+  <data name="Lbl2S" xml:space="preserve">
+    <value>2S</value>
+  </data>
+  <data name="Lbl3P" xml:space="preserve">
+    <value>3P</value>
+  </data>
+  <data name="Lbl3Q" xml:space="preserve">
+    <value>3Q</value>
+  </data>
+  <data name="Lbl3rd" xml:space="preserve">
+    <value>3rd</value>
+  </data>
+  <data name="Lbl3S" xml:space="preserve">
+    <value>3S</value>
+  </data>
+  <data name="Lbl4Q" xml:space="preserve">
+    <value>4Q</value>
+  </data>
+  <data name="Lbl4S" xml:space="preserve">
+    <value>4S</value>
+  </data>
+  <data name="Lbl4th" xml:space="preserve">
+    <value>4th</value>
+  </data>
+  <data name="Lbl5S" xml:space="preserve">
+    <value>5S</value>
+  </data>
+  <data name="LblOEFT" xml:space="preserve">
+    <value>O/E FT</value>
+  </data>
+  <data name="LblOT" xml:space="preserve">
+    <value>OT</value>
+  </data>
+  <data name="Match" xml:space="preserve">
+    <value>Match</value>
+  </data>
+  <data name="MatchCode" xml:space="preserve">
+    <value>Match Code</value>
+  </data>
+  <data name="Min" xml:space="preserve">
+    <value>Min</value>
+  </data>
+  <data name="MoreResults" xml:space="preserve">
+    <value>More Results</value>
+  </data>
+  <data name="No" xml:space="preserve">
+    <value>No</value>
+  </data>
+  <data name="NoInfo" xml:space="preserve">
+    <value>No information is available</value>
+  </data>
+  <data name="None" xml:space="preserve">
+    <value>None</value>
+  </data>
+  <data name="Noothers" xml:space="preserve">
+    <value>th</value>
+  </data>
+  <data name="NumberGameNo" xml:space="preserve">
+    <value>Number Game No</value>
+  </data>
+  <data name="Odd" xml:space="preserve">
+    <value>Odd</value>
+  </data>
+  <data name="Official" xml:space="preserve">
+    <value>Official</value>
+  </data>
+  <data name="Penalty" xml:space="preserve">
+    <value>Penalty</value>
+  </data>
+  <data name="Pending" xml:space="preserve">
+    <value>Pending</value>
+  </data>
+  <data name="Place" xml:space="preserve">
+    <value>Place</value>
+  </data>
+  <data name="Player" xml:space="preserve">
+    <value>Player</value>
+  </data>
+  <data name="PlayerSentOff" xml:space="preserve">
+    <value>Player Sent Off</value>
+  </data>
+  <data name="Postponed" xml:space="preserve">
+    <value>Postponed</value>
+  </data>
+  <data name="PS" xml:space="preserve">
+    <value>PS</value>
+  </data>
+  <data name="Race" xml:space="preserve">
+    <value>Race</value>
+  </data>
+  <data name="Refund" xml:space="preserve">
+    <value>Refund</value>
+  </data>
+  <data name="Refundft" xml:space="preserve">
+    <value>Refund FT</value>
+  </data>
+  <data name="Refundht" xml:space="preserve">
+    <value>Refund HT</value>
+  </data>
+  <data name="RegularTime" xml:space="preserve">
+    <value>Regular Time</value>
+  </data>
+  <data name="Result" xml:space="preserve">
+    <value>Result</value>
+  </data>
+  <data name="Results" xml:space="preserve">
+    <value>Results</value>
+  </data>
+  <data name="RS04" xml:space="preserve">
+    <value>Full Time</value>
+  </data>
+  <data name="RS05" xml:space="preserve">
+    <value>1st Half</value>
+  </data>
+  <data name="RS135" xml:space="preserve">
+    <value>Penalty Shootout Yes/No</value>
+  </data>
+  <data name="RS160" xml:space="preserve">
+    <value>FT - Goal {0}</value>
+  </data>
+  <data name="RS164" xml:space="preserve">
+    <value>ET - Goal {0}</value>
+  </data>
+  <data name="RS168" xml:space="preserve">
+    <value>Who advances to next round</value>
+  </data>
+  <data name="RS169" xml:space="preserve">
+    <value>Goal {0}</value>
+  </data>
+  <data name="RS173" xml:space="preserve">
+    <value>Extra Time Yes/No</value>
+  </data>
+  <data name="RS174" xml:space="preserve">
+    <value>Extra Time and Goal</value>
+  </data>
+  <data name="RS175" xml:space="preserve">
+    <value>Match Decided Method</value>
+  </data>
+  <data name="RS176" xml:space="preserve">
+    <value>First 10 Minutes 1X2</value>
+  </data>
+  <data name="RS180" xml:space="preserve">
+    <value>1H - Goal {0}</value>
+  </data>
+  <data name="RS192" xml:space="preserve">
+    <value>First Goal Time (10 Min)</value>
+  </data>
+  <data name="RS193" xml:space="preserve">
+    <value>First Goal Time (15 Min)</value>
+  </data>
+  <data name="RS206" xml:space="preserve">
+    <value>FT - First Corner</value>
+  </data>
+  <data name="RS207" xml:space="preserve">
+    <value>1H - First Corner</value>
+  </data>
+  <data name="RS208" xml:space="preserve">
+    <value>FT - Last Corner</value>
+  </data>
+  <data name="RS209" xml:space="preserve">
+    <value>1H - Last Corner</value>
+  </data>
+  <data name="RS210" xml:space="preserve">
+    <value>Full Time</value>
+  </data>
+  <data name="RS211" xml:space="preserve">
+    <value>1st Half</value>
+  </data>
+  <data name="RS212" xml:space="preserve">
+    <value>Full Time</value>
+  </data>
+  <data name="RS213" xml:space="preserve">
+    <value>1st Half</value>
+  </data>
+  <data name="RS214" xml:space="preserve">
+    <value>Full Time</value>
+  </data>
+  <data name="RS215" xml:space="preserve">
+    <value>1st Half</value>
+  </data>
+  <data name="RS216" xml:space="preserve">
+    <value>Goal {0}</value>
+  </data>
+  <data name="RS217" xml:space="preserve">
+    <value>First Goal</value>
+  </data>
+  <data name="Running" xml:space="preserve">
+    <value>Running</value>
+  </data>
+  <data name="Score" xml:space="preserve">
+    <value>Score</value>
+  </data>
+  <data name="SCR" xml:space="preserve">
+    <value>SCR</value>
+  </data>
+  <data name="Set" xml:space="preserve">
+    <value>Set</value>
+  </data>
+  <data name="Special" xml:space="preserve">
+    <value>Special</value>
+  </data>
+  <data name="Status" xml:space="preserve">
+    <value>Status</value>
+  </data>
+  <data name="Team" xml:space="preserve">
+    <value>Team</value>
+  </data>
+  <data name="TF" xml:space="preserve">
+    <value>TF</value>
+  </data>
+  <data name="Tiger" xml:space="preserve">
+    <value>Tiger</value>
+  </data>
+  <data name="Time" xml:space="preserve">
+    <value>Time</value>
+  </data>
+  <data name="TotalGames" xml:space="preserve">
+    <value>Total Games</value>
+  </data>
+  <data name="TotalPoints" xml:space="preserve">
+    <value>Total Points</value>
+  </data>
+  <data name="TotalSet" xml:space="preserve">
+    <value>Total Sets</value>
+  </data>
+  <data name="VS" xml:space="preserve">
+    <value>vs</value>
+  </data>
+  <data name="Warrior" xml:space="preserve">
+    <value>Warrior</value>
+  </data>
+  <data name="Warrior2ndBall" xml:space="preserve">
+    <value>2nd ball win</value>
+  </data>
+  <data name="Warrior3rdBall" xml:space="preserve">
+    <value>3rd ball win</value>
+  </data>
+  <data name="Win" xml:space="preserve">
+    <value>Win</value>
+  </data>
+  <data name="Won" xml:space="preserve">
+    <value>Won</value>
+  </data>
+  <data name="Yes" xml:space="preserve">
+    <value>Yes</value>
+  </data>
+  <data name="Lose" xml:space="preserve">
+    <value>Lose</value>
+  </data>
+  <data name="FiveRoundsCompleted" xml:space="preserve">
+    <value>5 rounds completed</value>
+  </data>
+  <data name="KOInRound" xml:space="preserve">
+    <value>KO in round {0}</value>
+  </data>
+  <data name="RS424" xml:space="preserve">
+    <value>First Goal Method</value>
+  </data>
+  <data name="FreeKick" xml:space="preserve">
+    <value>Free Kick</value>
+  </data>
+  <data name="Header" xml:space="preserve">
+    <value>Header</value>
+  </data>
+  <data name="NoGoal" xml:space="preserve">
+    <value>No Goal</value>
+  </data>
+  <data name="OwnGoal" xml:space="preserve">
+    <value>Own Goal</value>
+  </data>
+  <data name="Shot" xml:space="preserve">
+    <value>Shot</value>
+  </data>
+  <data name="RS08" xml:space="preserve">
+    <value>FT Sequence</value>
+  </data>
+  <data name="LiveScore" xml:space="preserve">
+    <value>Live Score</value>
+  </data>
+  <data name="Abandoned1h" xml:space="preserve">
+    <value>Abandoned 1H</value>
+  </data>
+  <data name="Abandoned2h" xml:space="preserve">
+    <value>Abandoned 2H</value>
+  </data>
+  <data name="BetType" xml:space="preserve">
+    <value>Bet Type</value>
+  </data>
+  <data name="RS455" xml:space="preserve">
+    <value>Time Of First Goal</value>
+  </data>
+  <data name="ResultPending" xml:space="preserve">
+    <value>Result Pending</value>
+  </data>
+  <data name="UnderSettlement" xml:space="preserve">
+    <value>Under Settlement</value>
+  </data>
+  <data name="Map" xml:space="preserve">
+    <value>Map</value>
+  </data>
+  <data name="MinSec" xml:space="preserve">
+    <value>{0} min {1} sec</value>
+  </data>
+  <data name="M1" xml:space="preserve">
+    <value>M1</value>
+  </data>
+  <data name="M2" xml:space="preserve">
+    <value>M2</value>
+  </data>
+  <data name="M3" xml:space="preserve">
+    <value>M3</value>
+  </data>
+  <data name="M4" xml:space="preserve">
+    <value>M4</value>
+  </data>
+  <data name="M5" xml:space="preserve">
+    <value>M5</value>
+  </data>
+  <data name="M6" xml:space="preserve">
+    <value>M6</value>
+  </data>
+  <data name="M7" xml:space="preserve">
+    <value>M7</value>
+  </data>
+  <data name="M8" xml:space="preserve">
+    <value>M8</value>
+  </data>
+  <data name="M9" xml:space="preserve">
+    <value>M9</value>
+  </data>
+  <data name="EI" xml:space="preserve">
+    <value>E.I.</value>
+  </data>
+  <data name="RS09" xml:space="preserve">
+    <value>1H Sequence</value>
+  </data>
+  <data name="RS479" xml:space="preserve">
+    <value>Time Of First Corner</value>
+  </data>
+  <data name="RS481" xml:space="preserve">
+    <value>Time Of 2H First Corner</value>
+  </data>
+  <data name="NoCorner" xml:space="preserve">
+    <value>No Corner</value>
+  </data>
+  <data name="Corners" xml:space="preserve">
+    <value>Corners</value>
+  </data>
+  <data name="Lbl1G" xml:space="preserve">
+    <value>1G</value>
+  </data>
+  <data name="Lbl2G" xml:space="preserve">
+    <value>2G</value>
+  </data>
+  <data name="Lbl3G" xml:space="preserve">
+    <value>3G</value>
+  </data>
+  <data name="Lbl4G" xml:space="preserve">
+    <value>4G</value>
+  </data>
+  <data name="Lbl5G" xml:space="preserve">
+    <value>5G</value>
+  </data>
+  <data name="Game01" xml:space="preserve">
+    <value>Game 1</value>
+  </data>
+  <data name="Game02" xml:space="preserve">
+    <value>Game 2</value>
+  </data>
+  <data name="Game03" xml:space="preserve">
+    <value>Game 3</value>
+  </data>
+  <data name="Game04" xml:space="preserve">
+    <value>Game 4</value>
+  </data>
+  <data name="Game05" xml:space="preserve">
+    <value>Game 5</value>
+  </data>
+  <data name="RS488" xml:space="preserve">
+    <value>First Corner</value></data>
+  <data name="RS395" xml:space="preserve">
+    <value>Goal {0} Method</value>
+  </data>
+  <data name="RS489" xml:space="preserve">
+    <value>1H First Corner</value></data>
+  <data name="PenaltyShootoutFirstTen" xml:space="preserve">
+    <value>Penalty Shootout - First 10</value>
+  </data>
+  <data name="RS490" xml:space="preserve">
+    <value>2H First Corner</value></data>
+  <data name="RS393" xml:space="preserve">
+    <value>Penalty Shootout Odd/Even (First 10)</value>
+  </data>
+  <data name="RS486" xml:space="preserve">
+    <value>Corner Race To {0}</value></data>
+  <data name="RS387" xml:space="preserve">
+    <value>Home Penalty Shootout Over/Under (First 10)</value>
+  </data>
+  <data name="RS487" xml:space="preserve">
+    <value>1H Corner Race To {0}</value></data>
+  <data name="RS386" xml:space="preserve">
+    <value>Away Penalty Shootout Over/Under (First 10)</value>
+  </data>
+  <data name="Neither" xml:space="preserve">
+    <value>Neither</value></data>
+  <data name="RS391" xml:space="preserve">
+    <value>Penalty Shootout Exact Total Goals (First 10)</value>
+  </data>
+  <data name="RS390" xml:space="preserve">
+    <value>Penalty Shootout to Go to Sudden Death</value>
+  </data>
+  <data name="RefundWithSettleDetermined" xml:space="preserve">
+    <value>Unconditionally Determined</value>
+  </data>
+  <data name="PenaltyShootoutRoundOne" xml:space="preserve">
+    <value>Penalty Shootout - Round 1</value>
+  </data>
+  <data name="RS381" xml:space="preserve">
+    <value>Round {0} - Goal/Miss</value>
+  </data>
+  <data name="RS382" xml:space="preserve">
+    <value>Round {0} - Goal/Miss</value>
+  </data>
+  <data name="RS385" xml:space="preserve">
+    <value>Round {0} - 1X2</value>
+  </data>
+  <data name="RS384" xml:space="preserve">
+    <value>Round {0} - Both/One/Neither</value>
+  </data>
+  <data name="RS383" xml:space="preserve">
+    <value>Round {0} - Woodwork</value>
+  </data>
+  <data name="Miss" xml:space="preserve">
+    <value>Miss</value>
+  </data>
+  <data name="NotTaken" xml:space="preserve">
+    <value>Not Taken</value>
+  </data>
+  <data name="Hit" xml:space="preserve">
+    <value>Hit</value>
+  </data>
+  <data name="NotHit" xml:space="preserve">
+    <value>Not Hit</value>
+  </data>
+  <data name="PenaltyShootoutRoundTwo" xml:space="preserve">
+    <value>Penalty Shootout - Round 2</value>
+  </data>
+  <data name="PenaltyShootoutRoundThree" xml:space="preserve">
+    <value>Penalty Shootout - Round 3</value>
+  </data>
+  <data name="PenaltyShootoutRoundFour" xml:space="preserve">
+    <value>Penalty Shootout - Round 4</value>
+  </data>
+  <data name="PenaltyShootoutRoundFive" xml:space="preserve">
+    <value>Penalty Shootout - Round 5</value>
+  </data>
+  <data name="HomeScoreAwayNotTaken" xml:space="preserve">
+    <value>Home Goal - Away Not Taken</value>
+  </data>
+  <data name="HomeNotTakenAwayScore" xml:space="preserve">
+    <value>Home Not Taken - Away Goal</value>
+  </data>
+  <data name="HomeNotTakenAwayMiss" xml:space="preserve">
+    <value>Home Not Taken - Away Miss</value>
+  </data>
+  <data name="Both" xml:space="preserve">
+    <value>Both</value>
+  </data>
+  <data name="One" xml:space="preserve">
+    <value>One</value>
+  </data>
+  <data name="HomeMissAwayNotTaken" xml:space="preserve">
+    <value>Home Miss - Away Not Taken</value>
+  </data>
+  <data name="HomeHitAwayNotTaken" xml:space="preserve">
+    <value>Home Hit - Away Not Taken</value>
+  </data>
+  <data name="HomeNotHitAwayNotTaken" xml:space="preserve">
+    <value>Home Not Hit - Away Not Taken</value>
+  </data>
+  <data name="HomeNotTakenAwayHit" xml:space="preserve">
+    <value>Home Not Taken - Away Hit</value>
+  </data>
+  <data name="HomeNotTakenAwayNotHit" xml:space="preserve">
+    <value>Home Not Taken - Away Not Hit</value>
+  </data>
+  <data name="PenaltyShootoutSuddenDeath" xml:space="preserve">
+    <value>Penalty Shootout - Sudden Death</value>
+  </data>
+  <data name="Scored" xml:space="preserve">
+    <value>Score</value>
+  </data>
+  <data name="Goal" xml:space="preserve">
+    <value>Goal</value>
+  </data>
+  <data name="PenaltyShootoutComboFirstTen" xml:space="preserve">
+    <value>Penalty Shootout Combo (First 10)</value>
+  </data>
+  <data name="RS376" xml:space="preserve">
+    <value>Round {0} - Goal/Miss</value>
+  </data>
+  <data name="2HScore" xml:space="preserve">
+    <value>2H Score</value>
+  </data>
+  <data name="Lbl2ndBall" xml:space="preserve">
+    <value>2nd Ball</value>
+  </data>
+  <data name="LblThirdBall" xml:space="preserve">
+    <value>3rd Ball</value>
+  </data>
+  <data name="LblFTOE" xml:space="preserve">
+    <value>FT.O/E</value>
+  </data>
+  <data name="Inns1" xml:space="preserve">
+    <value>Inns 1</value>
+  </data>
+  <data name="Inns2" xml:space="preserve">
+    <value>Inns 2</value>
+  </data>
+  <data name="Caught" xml:space="preserve">
+    <value>Caught</value>
+  </data>
+  <data name="NotCaught" xml:space="preserve">
+    <value>Not Caught</value>
+  </data>
+  <data name="BaseballGame01" xml:space="preserve">
+    <value>Game 1</value>
+  </data>
+  <data name="BaseballGame02" xml:space="preserve">
+    <value>Game 2</value>
+  </data>
+  <data name="BaseballGame03" xml:space="preserve">
+    <value>Game 3</value>
+  </data>
+  <data name="EventTime" xml:space="preserve">
+    <value>Event Time</value>
+  </data>
+  <data name="RacerName" xml:space="preserve">
+    <value>Racer Name</value>
+  </data>
+  <data name="Lane" xml:space="preserve">
+    <value>Lane</value>
+  </data>
+  <data name="BaseballGame04" xml:space="preserve">
+    <value>Game 4</value>
+  </data>
+  <data name="BaseballGame05" xml:space="preserve">
+    <value>Game 5</value>
+  </data>
+  <data name="BaseballGame06" xml:space="preserve">
+    <value>Game 6</value>
+  </data>
+  <data name="BaseballGame07" xml:space="preserve">
+    <value>Game 7</value>
+  </data>
+  <data name="BaseballTotalGames" xml:space="preserve">
+    <value>Total Games</value>
+  </data>
+</root>
