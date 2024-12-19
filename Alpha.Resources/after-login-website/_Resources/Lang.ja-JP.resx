@@ -282,7 +282,7 @@
     <value>閉じる</value>
   </data>
   <data name="closed" xml:space="preserve">
-    <value>閉鎖済み</value>
+    <value>解約</value>
   </data>
   <data name="com" xml:space="preserve">
     <value>コミッション</value>
@@ -301,8 +301,7 @@
 </value>
   </data>
   <data name="confirmtransfer" xml:space="preserve">
-    <value>転送してもよろしいですか？
-</value>
+    <value>転送してもよろしいですか？</value>
   </data>
   <data name="confrmtransnotdownline" xml:space="preserve">
     <value>この転送条件を更新してもよろしいですか？
@@ -743,5 +742,14 @@
   </data>
   <data name="total" xml:space="preserve">
     <value>合計</value>
+  </data>
+  <data name="lblMatchWinLostDetail" xml:space="preserve">
+    <value>試合勝ち負け詳細</value>
+  </data>
+  <data name="statistic" xml:space="preserve">
+    <value>あなたの統計</value>
+  </data>
+  <data name="yesterdaywinloss" xml:space="preserve">
+    <value>昨日の勝ち負け</value>
   </data>
 </root>

@@ -331,7 +331,7 @@
     <value>Problem Member Accounts</value>
   </data>
   <data name="ReviewStatus" xml:space="preserve">
-    <value>Review Status</value>
+    <value>Mark as Reviewed</value>
   </data>
   <data name="MarkAsReviewed" xml:space="preserve">
     <value>Mark as Reviewed</value>
@@ -1237,5 +1237,8 @@ Notes: your password is cAsE sEnSiTiVe.</value>
   </data>
   <data name="introCopyNote" xml:space="preserve">
     <value>Click 'Copy' to copy and share the account details</value>
+  </data>
+  <data name="パスワード" xml:space="preserve">
+    <value>Password</value>
   </data>
 </root>

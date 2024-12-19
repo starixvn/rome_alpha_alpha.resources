@@ -3429,4 +3429,7 @@
   <data name="unassigned" xml:space="preserve">
     <value>未分配</value>
   </data>
+  <data name="パスワード" xml:space="preserve">
+    <value>密码</value>
+  </data>
 </root>

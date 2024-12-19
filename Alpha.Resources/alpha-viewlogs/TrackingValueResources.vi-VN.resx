@@ -3171,4 +3171,7 @@
   <data name="unassigned" xml:space="preserve">
     <value>Chưa chỉ định</value>
   </data>
+  <data name="パスワード" xml:space="preserve">
+    <value>Mật Khẩu</value>
+  </data>
 </root>

@@ -159,4 +159,7 @@
   <data name="total" xml:space="preserve">
     <value>合計</value>
   </data>
+  <data name="password" xml:space="preserve">
+    <value>パスワード</value>
+  </data>
 </root>

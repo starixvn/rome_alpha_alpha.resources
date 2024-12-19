@@ -1305,13 +1305,13 @@ Saba バスケットボール-1試合あたりの最大ペイアウト
     <value>個人メッセージ</value>
   </data>
   <data name="SpecialAnnouncement" xml:space="preserve">
-    <value>特別通知</value>
+    <value>特別告知</value>
   </data>
   <data name="NormalAnnouncement" xml:space="preserve">
-    <value>通常通知</value>
+    <value>通常告知</value>
   </data>
   <data name="SystemAnnouncement" xml:space="preserve">
-    <value>システム通知</value>
+    <value>システム告知</value>
   </data>
   <data name="en-US" xml:space="preserve">
     <value>英語</value>
@@ -1462,5 +1462,38 @@ Saba バスケットボール-1試合あたりの最大ペイアウト
   </data>
   <data name="MinBv151" xml:space="preserve">
     <value>南アフリカ競馬 - 最小ベット</value>
+  </data>
+  <data name="パスワード" xml:space="preserve">
+    <value>パスワード</value>
+  </data>
+  <data name="MinBet" xml:space="preserve">
+    <value>最小ベット</value>
+  </data>
+  <data name="MaxBet" xml:space="preserve">
+    <value>最大ベット</value>
+  </data>
+  <data name="MaxPerMatch" xml:space="preserve">
+    <value>1試合あたりの最大値</value>
+  </data>
+  <data name="BonusCode" xml:space="preserve">
+    <value>ボーナスコード</value>
+  </data>
+  <data name="isaPTonM" xml:space="preserve">
+    <value>スーパー自動保有ポジションはマスター上にあるのですか？</value>
+  </data>
+  <data name="swimming" xml:space="preserve">
+    <value>水泳</value>
+  </data>
+  <data name="a_mlivept_mem_1" xml:space="preserve">
+    <value>ライブハンディキャップ</value>
+  </data>
+  <data name="a_mlivept_mem_3" xml:space="preserve">
+    <value>ライブオーバー/アンダー</value>
+  </data>
+  <data name="a_mlivept_mem_7" xml:space="preserve">
+    <value>ライブ前半戦オハンディキャップ</value>
+  </data>
+  <data name="a_mlivept_mem_8" xml:space="preserve">
+    <value>ライブ前半戦オオーバー/アンダー</value>
   </data>
 </root>

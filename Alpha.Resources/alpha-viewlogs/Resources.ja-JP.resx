@@ -120,4 +120,7 @@
   <data name="Forecast" xml:space="preserve">
     <value>予想 </value>
   </data>
+  <data name="NoInfo" xml:space="preserve">
+    <value>情報はありません</value>
+  </data>
 </root>

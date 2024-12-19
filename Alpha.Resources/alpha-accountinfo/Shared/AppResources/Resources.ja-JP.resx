@@ -132,4 +132,7 @@
   <data name="MemberList" xml:space="preserve">
     <value>メンバーリスト</value>
   </data>
+  <data name="BalanceInfo" xml:space="preserve">
+    <value>残高情報</value>
+  </data>
 </root>

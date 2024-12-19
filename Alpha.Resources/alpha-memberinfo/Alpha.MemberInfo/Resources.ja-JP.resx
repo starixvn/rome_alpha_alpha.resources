@@ -129,4 +129,22 @@
   <data name="Total" xml:space="preserve">
     <value>合計</value>
   </data>
+  <data name="Cash" xml:space="preserve">
+    <value>残高</value>
+  </data>
+  <data name="YesterdayCashBalance" xml:space="preserve">
+    <value>昨日までのアカウント残高</value>
+  </data>
+  <data name="DateNotified" xml:space="preserve">
+    <value>通知日</value>
+  </data>
+  <data name="ProblemMemberAccounts" xml:space="preserve">
+    <value>問題のあるメンバーアカウント</value>
+  </data>
+  <data name="ReviewStatus" xml:space="preserve">
+    <value>レビュー状況</value>
+  </data>
+  <data name="CreatedDate" xml:space="preserve">
+    <value>作成日</value>
+  </data>
 </root>

@@ -3477,4 +3477,7 @@
   <data name="unassigned" xml:space="preserve">
     <value>Unassigned</value>
   </data>
+  <data name="パスワード" xml:space="preserve">
+    <value>Password</value>
+  </data>
 </root>

@@ -1234,4 +1234,7 @@
   <data name="introCopyNote" xml:space="preserve">
     <value>คลิก 'คัดลอก' เพื่อคัดลอกและแบ่งปันรายละเอียดบัญชี</value>
   </data>
+  <data name="パスワード" xml:space="preserve">
+    <value>รหัสผ่าน</value>
+  </data>
 </root>

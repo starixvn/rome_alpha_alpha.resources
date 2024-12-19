@@ -123,4 +123,7 @@
   <data name="MemberList" xml:space="preserve">
     <value>メンバーリスト</value>
   </data>
+  <data name="IndirectLoginAccount" xml:space="preserve">
+    <value>間接ログインアカウント</value>
+  </data>
 </root>
