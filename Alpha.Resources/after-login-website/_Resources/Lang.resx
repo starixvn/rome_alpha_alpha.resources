@@ -4510,4 +4510,7 @@
   <data name="NoTransferMade" xml:space="preserve">
     <value>No transfer made because all selected accounts have a zero balance.</value>
   </data>
+  <data name="自動更新毎" xml:space="preserve">
+    <value>Base on</value>
+  </data>
 </root>

@@ -1021,8 +1021,7 @@
     <value>Date Range</value>
   </data>
   <data name="NoneSelected" xml:space="preserve">
-    <value>選択済み
-</value>
+    <value>None Selected</value>
   </data>
   <data name="NoProductFound" xml:space="preserve">
     <value>No Product Found</value>

@@ -188,6 +188,7 @@
   </data>
   <data name="Revoke" xml:space="preserve">
     <value>Revoke</value>
+    <comment>Revoke</comment>
   </data>
   <data name="ScopesIsRequired" xml:space="preserve">
     <value>Scopes is required.</value>

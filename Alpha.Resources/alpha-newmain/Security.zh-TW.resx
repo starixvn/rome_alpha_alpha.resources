@@ -505,4 +505,7 @@
   <data name="PositionTakingTemplate" xml:space="preserve">
     <value>佔成數模板</value>
   </data>
+  <data name="送信" xml:space="preserve">
+    <value>提交</value>
+  </data>
 </root>

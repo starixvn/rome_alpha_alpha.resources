@@ -235,4 +235,7 @@
   <data name="Forecast_Popup_3" xml:space="preserve">
     <value>Dự Đoán Thắng Thua cũ luôn bắt đầu từ tỷ số 0.</value>
   </data>
+  <data name="日付" xml:space="preserve">
+    <value>Sự kiện</value>
+  </data>
 </root>

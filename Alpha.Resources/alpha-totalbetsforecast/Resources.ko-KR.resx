@@ -225,4 +225,7 @@
   <data name="Player" xml:space="preserve">
     <value>플레이어</value>
   </data>
+  <data name="日付" xml:space="preserve">
+    <value>경기</value>
+  </data>
 </root>

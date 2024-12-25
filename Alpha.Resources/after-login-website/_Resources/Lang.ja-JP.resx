@@ -524,7 +524,7 @@
     <value>エージェント最小保有ポジション</value>
   </data>
   <data name="agentPT" xml:space="preserve">
-    <value>エージェントPT</value>
+    <value>エージェント保有ポジション</value>
   </data>
   <data name="CurrentWinLimit" xml:space="preserve">
     <value>現在の最大勝利制</value>
@@ -583,12 +583,10 @@
 </value>
   </data>
   <data name="bettype133" xml:space="preserve">
-    <value>前半戦および後半戦ともホームが勝ち
-</value>
+    <value>前半戦および後半戦ともホームが勝ち</value>
   </data>
   <data name="bettype134" xml:space="preserve">
-    <value>前半戦および後半戦ともアウェイが勝ち
-</value>
+    <value>前半戦および後半戦ともアウェイが勝ち</value>
   </data>
   <data name="bettype14" xml:space="preserve">
     <value>最初のゴール/最終ゴール</value>
@@ -751,5 +749,14 @@
   </data>
   <data name="yesterdaywinloss" xml:space="preserve">
     <value>昨日の勝ち負け</value>
+  </data>
+  <data name="自動更新毎" xml:space="preserve">
+    <value>～に基づく</value>
+  </data>
+  <data name="lblMin" xml:space="preserve">
+    <value>最小</value>
+  </data>
+  <data name="parlay" xml:space="preserve">
+    <value>パーレイ</value>
   </data>
 </root>

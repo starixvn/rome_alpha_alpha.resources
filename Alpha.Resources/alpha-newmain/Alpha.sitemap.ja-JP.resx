@@ -133,7 +133,8 @@
     <value>チャート</value>
   </data>
   <data name="consolidatedreport" xml:space="preserve">
-    <value>グループの勝敗</value>
+    <value>グループの勝敗
+</value>
   </data>
   <data name="correctscore" xml:space="preserve">
     <value>正しいスコア</value>
@@ -199,7 +200,8 @@
     <value>メンバーコミッション</value>
   </data>
   <data name="memberInfo" xml:space="preserve">
-    <value>メンバー情報</value>
+    <value>メンバー情報
+</value>
   </data>
   <data name="memberOutstanding" xml:space="preserve">
     <value>メンバー未払い</value>

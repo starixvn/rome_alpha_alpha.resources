@@ -4560,4 +4560,7 @@ Please use the form below to set your Security Code again.</value>
   <data name="sabaBasketball_VS" xml:space="preserve">
     <value>虚拟篮球</value>
   </data>
+  <data name="自動更新毎" xml:space="preserve">
+    <value>基于</value>
+  </data>
 </root>

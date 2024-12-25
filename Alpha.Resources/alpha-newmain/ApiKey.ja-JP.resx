@@ -155,7 +155,7 @@
 必ずメモを取り、安全な場所に保管してください。</value>
   </data>
   <data name="AreYouSureRevokeAPIKey" xml:space="preserve">
-    <value>このAPIキーを取り消してもよろしいですか？</value>
+    <value>このAPIキーを取り消してもよろしいですか</value>
   </data>
   <data name="CantSelectTimeFromPast" xml:space="preserve">
     <value>期限日は過去の日付に設定できません。</value>
@@ -179,8 +179,7 @@
     <value>決して</value>
   </data>
   <data name="NoMoreThan50Characters" xml:space="preserve">
-    <value>API名は50文字以内でなければなりません！
-</value>
+    <value>API名は50文字以内でなければなりません！</value>
   </data>
   <data name="PleaseInputAPIKeyName" xml:space="preserve">
     <value>APIキー名を入力してください</value>
@@ -204,20 +203,19 @@
     <value>未払い報告書</value>
   </data>
   <data name="SelectScopes" xml:space="preserve">
-    <value>スコープを選択
-</value>
+    <value>スコープを選択</value>
   </data>
   <data name="ThisActionCannotBeUndone" xml:space="preserve">
     <value>この操作は戻せません。</value>
   </data>
   <data name="UpdateSuccessful" xml:space="preserve">
-    <value>更新に成功しました。</value>
+    <value>更新に成功しました</value>
   </data>
   <data name="Expired" xml:space="preserve">
     <value>期限切れ</value>
   </data>
   <data name="Save" xml:space="preserve">
-    <value>保存する </value>
+    <value>セーブ</value>
   </data>
   <data name="Cancel" xml:space="preserve">
     <value>キャンセルする</value>
@@ -226,7 +224,7 @@
     <value>7～32文字</value>
   </data>
   <data name="APIKey_Intro" xml:space="preserve">
-    <value>&lt;span&gt; Agency APIは、APIサービスを通じてレポートにアクセスする新しい方法を提供します。カスタマイズされたAPIキーを作成することで、特定のニーズに合わせたレポートを取得できます。詳細については、APIドキュメントをご参照ください。</value>
+    <value>&lt;span&gt; エージェンシーAPIは、APIサービスを通じてレポートにアクセスする新しい方法を提供します。カスタマイズされたAPIキーを作成することで、特定のニーズに合わせたレポートを取得できます。詳細については、こちらの&lt;a id="lnk-api-guides" href="{0}" target="_blank"&gt;リンク&lt;/a&gt;のAPIドキュメントをご参照ください。&lt;/span&gt;</value>
   </data>
   <data name="APIKey_KeyNameInfo" xml:space="preserve">
     <value>APIキー名：管理を容易にするために、各APIキーを区別する一意の識別子です。</value>

@@ -255,4 +255,7 @@
   <data name="MatchOfferNonLive" xml:space="preserve">
     <value>ไม่สด</value>
   </data>
+  <data name="日付" xml:space="preserve">
+    <value>การแข่งขัน</value>
+  </data>
 </root>

@@ -4566,4 +4566,7 @@ Please use the form below to set your Security Code again.</value>
   <data name="sabaBasketball_VS" xml:space="preserve">
     <value>虛擬籃球</value>
   </data>
+  <data name="自動更新毎" xml:space="preserve">
+    <value>基於</value>
+  </data>
 </root>

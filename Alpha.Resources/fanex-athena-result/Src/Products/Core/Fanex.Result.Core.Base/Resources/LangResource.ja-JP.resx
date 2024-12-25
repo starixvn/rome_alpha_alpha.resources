@@ -243,4 +243,265 @@
   <data name="NotCaught" xml:space="preserve">
     <value>キャッチされてない</value>
   </data>
+  <data name="Away" xml:space="preserve">
+    <value>アウェイ</value>
+  </data>
+  <data name="Banker" xml:space="preserve">
+    <value>バンカー</value>
+  </data>
+  <data name="Corner" xml:space="preserve">
+    <value>コーナー</value>
+  </data>
+  <data name="Dragon" xml:space="preserve">
+    <value>ドラゴン</value>
+  </data>
+  <data name="Details" xml:space="preserve">
+    <value>[i]</value>
+  </data>
+  <data name="Draw" xml:space="preserve">
+    <value>ドロー</value>
+  </data>
+  <data name="FirstLastCorners" xml:space="preserve">
+    <value>ファースト/ラストコーナー</value>
+  </data>
+  <data name="GameID" xml:space="preserve">
+    <value>ゲームID </value>
+  </data>
+  <data name="GameResult" xml:space="preserve">
+    <value>ゲーム結果</value>
+  </data>
+  <data name="GoalRecord" xml:space="preserve">
+    <value>ゴール記録</value>
+  </data>
+  <data name="Goals" xml:space="preserve">
+    <value>ゴール</value>
+  </data>
+  <data name="GoalScorer" xml:space="preserve">
+    <value>ゴールスコアラー</value>
+  </data>
+  <data name="GoalTime" xml:space="preserve">
+    <value>ゴール時間</value>
+  </data>
+  <data name="Home" xml:space="preserve">
+    <value>ホーム</value>
+  </data>
+  <data name="HomeAwayPlayerSentOff" xml:space="preserve">
+    <value>ホーム/アウェイ - 退場選手</value>
+  </data>
+  <data name="ID" xml:space="preserve">
+    <value>ID</value>
+  </data>
+  <data name="Internal" xml:space="preserve">
+    <value>内部</value>
+  </data>
+  <data name="LastBall" xml:space="preserve">
+    <value>ラストボール</value>
+  </data>
+  <data name="Lbl1P" xml:space="preserve">
+    <value>第1ハーフ</value>
+  </data>
+  <data name="Lbl1Q" xml:space="preserve">
+    <value>第1ハーフ</value>
+  </data>
+  <data name="Lbl1S" xml:space="preserve">
+    <value>第1セット</value>
+  </data>
+  <data name="Lbl1stBall" xml:space="preserve">
+    <value>最初のボール</value>
+  </data>
+  <data name="Lbl2P" xml:space="preserve">
+    <value>第2ハーフ</value>
+  </data>
+  <data name="Lbl2Q" xml:space="preserve">
+    <value>第2ハーフ</value>
+  </data>
+  <data name="Lbl2S" xml:space="preserve">
+    <value>第2セット</value>
+  </data>
+  <data name="Lbl3P" xml:space="preserve">
+    <value>第3ハーフ</value>
+  </data>
+  <data name="Lbl3Q" xml:space="preserve">
+    <value>第3ハーフ</value>
+  </data>
+  <data name="Lbl3S" xml:space="preserve">
+    <value>第3セット</value>
+  </data>
+  <data name="Lbl4Q" xml:space="preserve">
+    <value>第4ハーフ</value>
+  </data>
+  <data name="Lbl4S" xml:space="preserve">
+    <value>第4セット</value>
+  </data>
+  <data name="Lbl4th" xml:space="preserve">
+    <value>第4</value>
+  </data>
+  <data name="Lbl5S" xml:space="preserve">
+    <value>第5セット</value>
+  </data>
+  <data name="LblOEFT" xml:space="preserve">
+    <value>フルタイム奇数/偶数</value>
+  </data>
+  <data name="LblOT" xml:space="preserve">
+    <value>延長戦</value>
+  </data>
+  <data name="MatchCode" xml:space="preserve">
+    <value>試合コード</value>
+  </data>
+  <data name="Min" xml:space="preserve">
+    <value>最小</value>
+  </data>
+  <data name="MoreResults" xml:space="preserve">
+    <value>さらに結果を見る</value>
+  </data>
+  <data name="No" xml:space="preserve">
+    <value>いいえ</value>
+  </data>
+  <data name="None" xml:space="preserve">
+    <value>なし</value>
+  </data>
+  <data name="NumberGameNo" xml:space="preserve">
+    <value>ナンバーゲーム番号</value>
+  </data>
+  <data name="Official" xml:space="preserve">
+    <value>公式</value>
+  </data>
+  <data name="Pending" xml:space="preserve">
+    <value>保留中</value>
+  </data>
+  <data name="Place" xml:space="preserve">
+    <value>プレース</value>
+  </data>
+  <data name="Player" xml:space="preserve">
+    <value>プレイヤー</value>
+  </data>
+  <data name="PlayerSentOff" xml:space="preserve">
+    <value>退場選手</value>
+  </data>
+  <data name="Race" xml:space="preserve">
+    <value>レース</value>
+  </data>
+  <data name="RegularTime" xml:space="preserve">
+    <value>規定時間 </value>
+  </data>
+  <data name="Result" xml:space="preserve">
+    <value>結果</value>
+  </data>
+  <data name="RS04" xml:space="preserve">
+    <value>フルタイム</value>
+  </data>
+  <data name="RS05" xml:space="preserve">
+    <value>前半戦</value>
+  </data>
+  <data name="RS135" xml:space="preserve">
+    <value>PK戦 はい/いいえ</value>
+  </data>
+  <data name="RS160" xml:space="preserve">
+    <value>フルタイム - {0} ゴール</value>
+  </data>
+  <data name="RS164" xml:space="preserve">
+    <value>延長戦 -  {0} ゴール</value>
+  </data>
+  <data name="RS168" xml:space="preserve">
+    <value>誰が次のラウンドに進むのか？
+</value>
+  </data>
+  <data name="RS169" xml:space="preserve">
+    <value>{0} ゴール</value>
+  </data>
+  <data name="RS173" xml:space="preserve">
+    <value>延長戦 はい/いいえ
+</value>
+  </data>
+  <data name="RS174" xml:space="preserve">
+    <value>延長戦とゴール</value>
+  </data>
+  <data name="RS175" xml:space="preserve">
+    <value>試合決定方法
+</value>
+  </data>
+  <data name="RS176" xml:space="preserve">
+    <value>最初の10分間 1X2
+</value>
+  </data>
+  <data name="RS180" xml:space="preserve">
+    <value>前半 - {0} ゴール</value>
+  </data>
+  <data name="RS192" xml:space="preserve">
+    <value>最初のゴール (10分以内)
+</value>
+  </data>
+  <data name="RS193" xml:space="preserve">
+    <value>最初のゴール (15分以内)</value>
+  </data>
+  <data name="RS206" xml:space="preserve">
+    <value>フルタイム - 最初のコーナー</value>
+  </data>
+  <data name="RS207" xml:space="preserve">
+    <value>前半 - 最初のコーナー</value>
+  </data>
+  <data name="RS208" xml:space="preserve">
+    <value>フルタイム - 最後のコーナー</value>
+  </data>
+  <data name="RS209" xml:space="preserve">
+    <value>前半 - 最後のコーナー</value>
+  </data>
+  <data name="RS210" xml:space="preserve">
+    <value>フルタイム</value>
+  </data>
+  <data name="RS211" xml:space="preserve">
+    <value>前半戦</value>
+  </data>
+  <data name="RS212" xml:space="preserve">
+    <value>フルタイム</value>
+  </data>
+  <data name="RS213" xml:space="preserve">
+    <value>前半戦</value>
+  </data>
+  <data name="RS214" xml:space="preserve">
+    <value>フルタイム</value>
+  </data>
+  <data name="RS215" xml:space="preserve">
+    <value>前半戦</value>
+  </data>
+  <data name="RS216" xml:space="preserve">
+    <value>{0} ゴール</value>
+  </data>
+  <data name="RS217" xml:space="preserve">
+    <value>先制ゴール</value>
+  </data>
+  <data name="Set" xml:space="preserve">
+    <value>セット</value>
+  </data>
+  <data name="Special" xml:space="preserve">
+    <value>特別</value>
+  </data>
+  <data name="Team" xml:space="preserve">
+    <value>チーム</value>
+  </data>
+  <data name="TotalGames" xml:space="preserve">
+    <value>総試合数
+</value>
+  </data>
+  <data name="TotalPoints" xml:space="preserve">
+    <value>総得点</value>
+  </data>
+  <data name="TotalSet" xml:space="preserve">
+    <value>総セット数</value>
+  </data>
+  <data name="VS" xml:space="preserve">
+    <value>vs</value>
+  </data>
+  <data name="Warrior" xml:space="preserve">
+    <value>戦士</value>
+  </data>
+  <data name="Warrior2ndBall" xml:space="preserve">
+    <value>2球目で勝利</value>
+  </data>
+  <data name="Warrior3rdBall" xml:space="preserve">
+    <value>3球目で勝利</value>
+  </data>
+  <data name="FiveRoundsCompleted" xml:space="preserve">
+    <value>5ラウンド完了</value>
+  </data>
 </root>

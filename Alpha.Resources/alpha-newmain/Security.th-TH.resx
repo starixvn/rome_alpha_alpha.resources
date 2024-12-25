@@ -507,4 +507,7 @@
   <data name="PositionTakingTemplate" xml:space="preserve">
     <value>เทมเพลตค่าความเสี่ยง</value>
   </data>
+  <data name="送信" xml:space="preserve">
+    <value>ส่ง</value>
+  </data>
 </root>

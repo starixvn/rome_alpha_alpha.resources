@@ -120,4 +120,16 @@
   <data name="Total" xml:space="preserve">
     <value>合計</value>
   </data>
+  <data name="Combo" xml:space="preserve">
+    <value>コンボ</value>
+  </data>
+  <data name="NA" xml:space="preserve">
+    <value>該当なし</value>
+  </data>
+  <data name="Soccer5" xml:space="preserve">
+    <value>サッカー5</value>
+  </data>
+  <data name="Soccer5Tooltip" xml:space="preserve">
+    <value>詳細を見る</value>
+  </data>
 </root>

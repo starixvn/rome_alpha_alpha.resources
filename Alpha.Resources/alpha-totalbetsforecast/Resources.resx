@@ -258,4 +258,7 @@
   <data name="Forecast_Popup_5" xml:space="preserve">
     <value>Each bet type has its own Forecast Win Loss display, please refer to this guideline for more details.</value>
   </data>
+  <data name="日付" xml:space="preserve">
+    <value>Event</value>
+  </data>
 </root>

@@ -302,7 +302,8 @@
     <value>あなたの最小保有ポジションの値が上層ラインによって変更されました。&lt;br&gt;ご確認のうえ、下層ラインの詳細をご確認ください。</value>
   </data>
   <data name="doNotShowAgain" xml:space="preserve">
-    <value>再表示しない</value>
+    <value>再表示しない
+</value>
   </data>
   <data name="PrivateMessage" xml:space="preserve">
     <value>プライベートメッセージ</value>
@@ -317,7 +318,7 @@
     <value>次へ</value>
   </data>
   <data name="submit" xml:space="preserve">
-    <value>提出する</value>
+    <value>送信</value>
   </data>
   <data name="to" xml:space="preserve">
     <value>に</value>
@@ -823,5 +824,14 @@
   </data>
   <data name="RewardReceivable" xml:space="preserve">
     <value>未収賞金</value>
+  </data>
+  <data name="HighlightPopupNewFeatureIntro3" xml:space="preserve">
+    <value>エクスポートせずに報告書からデータをコピーする</value>
+  </data>
+  <data name="HighlightPopupNewFeatureIntro4" xml:space="preserve">
+    <value>ベットリストのチケットを選別する</value>
+  </data>
+  <data name="HighlightPopupNewFeatureIntro2" xml:space="preserve">
+    <value>&lt;b&gt;スムーズにナビゲート&lt;/b&gt;し、&lt;b&gt;熟練度を向上&lt;/b&gt;させましょう！</value>
   </data>
 </root>

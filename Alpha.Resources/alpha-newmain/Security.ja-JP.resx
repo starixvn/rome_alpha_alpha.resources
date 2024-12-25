@@ -503,4 +503,7 @@
   <data name="PositionTakingTemplate" xml:space="preserve">
     <value>保有ポジションテンプレート</value>
   </data>
+  <data name="送信" xml:space="preserve">
+    <value>送信</value>
+  </data>
 </root>

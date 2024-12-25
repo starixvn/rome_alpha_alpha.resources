@@ -130,8 +130,7 @@
     <value>昨日</value>
   </data>
   <data name="Submit" xml:space="preserve">
-    <value>確認
-</value>
+    <value>送信</value>
   </data>
   <data name="Page" xml:space="preserve">
     <value>ページ</value>
@@ -186,7 +185,7 @@
 </value>
   </data>
   <data name="To" xml:space="preserve">
-    <value>まで</value>
+    <value>に</value>
   </data>
   <data name="From" xml:space="preserve">
     <value>から</value>
@@ -289,7 +288,7 @@
     <value>ベットリスト</value>
   </data>
   <data name="BetList_Running" xml:space="preserve">
-    <value>ベットリスト (進行中の)</value>
+    <value>ベットリスト (進行中)</value>
   </data>
   <data name="MemberCount" xml:space="preserve">
     <value>メンバー数</value>
@@ -328,7 +327,7 @@
     <value>オーバー</value>
   </data>
   <data name="under" xml:space="preserve">
-    <value>オーバー</value>
+    <value>アンダー</value>
   </data>
   <data name="Upline" xml:space="preserve">
     <value>上層ライン</value>
@@ -508,20 +507,16 @@
 </value>
   </data>
   <data name="ThereIsNoSelectedProduct" xml:space="preserve">
-    <value>選択された製品がありません。
-</value>
+    <value>選択された製品がありません。</value>
   </data>
   <data name="SelectProducts" xml:space="preserve">
-    <value>製品を選択
-</value>
+    <value>製品を選択</value>
   </data>
   <data name="AllProducts" xml:space="preserve">
-    <value>すべての製品
-</value>
+    <value>すべての製品</value>
   </data>
   <data name="Selected" xml:space="preserve">
-    <value>選択済み
-</value>
+    <value>選択済み</value>
   </data>
   <data name="ShowFilter" xml:space="preserve">
     <value>フィルターを表示</value>
@@ -832,7 +827,7 @@
     <value>累積金額</value>
   </data>
   <data name="ContributionAmountRoundNote" xml:space="preserve">
-    <value>累積金額は小数点以下4桁に丸められます。</value>
+    <value>- 累積金額は小数点以下4桁に丸められます。</value>
   </data>
   <data name="TaxComm" xml:space="preserve">
     <value>合計税収コミッション</value>

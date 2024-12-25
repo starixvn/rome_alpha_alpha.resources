@@ -146,7 +146,8 @@
     <value>入力されたIDは、別のSMAアカウントにすでにリンクされ、確認されています。</value>
   </data>
   <data name="OverMaxAddAccountTimes" xml:space="preserve">
-    <value>本日はリクエスト回数が多すぎます。後でもう一度お試しください。</value>
+    <value>本日はリクエスト回数が多すぎます。後でもう一度お試しください。
+</value>
   </data>
   <data name="Command" xml:space="preserve">
     <value>コマンド</value>
@@ -173,7 +174,7 @@
     <value>あなたの保有ポジションの最小値がアップラインによって変更されました。ご確認の上、ダウンラインの詳細をご確認ください。</value>
   </data>
   <data name="specialAnnouncementSample" xml:space="preserve">
-    <value>お客様各位: 2018年1月18日より、弊社は香港からのエージェントサイトへのアクセスを制限いたします。 ご理解のほど、よろしくお願いいたします。</value>
+    <value>お客様各位: 2018年1月18日より、弊社は香港からのエージェントサイトへのアクセスを制限いたします。 ご理解のほど、よろしくお願いいたします!</value>
   </data>
   <data name="normalAnnouncementSample" xml:space="preserve">
     <value>お知らせ：[eスポーツ] 試合が中止されました。すべての賭け金は返金されます。 ご理解のほど、よろしくお願いいたします。</value>
@@ -189,7 +190,7 @@
     <value>コードを受け取っていませんか？</value>
   </data>
   <data name="IntroChatbot" xml:space="preserve">
-    <value>&lt;strong&gt;エージェンシーチャットボットサービス&lt;/strong&gt;は、この&lt;strong&gt;Letstalk IM&lt;/strong&gt;と統合されており、&lt;strong&gt;このサイトにアクセスすることなく、ビジネスに関する最新かつ重要な情報を便利かつ安全に受け取ることができます。&lt;/strong&gt;&lt;br /&gt;チャットボットのセットアップを開始するには、以下の手順に従ってください。</value>
+    <value>&lt;strong&gt;エージェンシーチャットボットサービス&lt;/strong&gt;は、この&lt;strong&gt;Letstalk IM&lt;/strong&gt;と統合されており、&lt;strong&gt;このサイトにアクセスすることなく、ビジネスに関する最新かつ重要な情報を便利かつ安全に受け取ることができます。&lt;/strong&gt;&lt;br /&gt;チャットボットのセットアップを開始するには、以下の手順に従ってください:</value>
   </data>
   <data name="IntroLetstalk" xml:space="preserve">
     <value>最も&lt;strong&gt;安全なメッセンジャー&lt;/strong&gt;であり、あなたの会話を強力に&lt;strong&gt;暗号化&lt;/strong&gt;します。</value>
@@ -237,10 +238,10 @@
     <value>あなたのLetstalk IDを確認してください。</value>
   </data>
   <data name="IntroVerificationCode" xml:space="preserve">
-    <value>「&lt;strong&gt;Atom&lt;/strong&gt;」というボットがLetstalk IMを通じて6桁の確認コードを送信しました。Letstalk IDを確認するために、確認コードを入力してください。</value>
+    <value>"&lt;strong&gt;Atom&lt;/strong&gt;" というボットがLetstalk IMを通じて6桁の確認コードを送信しました。Letstalk IDを確認するために、確認コードを入力してください。</value>
   </data>
   <data name="inputCommand" xml:space="preserve">
-    <value>コマンドを入力してください。</value>
+    <value>コマンドを入力してください</value>
   </data>
   <data name="systemAnnouncement" xml:space="preserve">
     <value>システムからのお知らせ</value>
@@ -276,7 +277,7 @@
     <value>他の97人のメンバーは表示されていません。</value>
   </data>
   <data name="OutstandingHint" xml:space="preserve">
-    <value>ヒント：クイックコマンドを使用するには、/os 50 と入力してください。</value>
+    <value>ヒント：クイックコマンドを使用するには、/os 50 と入力してください</value>
   </data>
   <data name="YesterdayTotalBalance" xml:space="preserve">
     <value>昨日の残高</value>
@@ -351,7 +352,7 @@
     <value>新しいメンバーが member01 からコピーされました。</value>
   </data>
   <data name="HintMessage" xml:space="preserve">
-    <value>ヒント：クイックコマンドを使用するには、次のように入力してください：</value>
+    <value>*ヒント：クイックコマンドを使用するには、次のように入力してください：</value>
   </data>
   <data name="actionExample" xml:space="preserve">
     <value>アクションの例</value>
@@ -375,7 +376,7 @@
     <value>使い方の説明</value>
   </data>
   <data name="InstallTelegram" xml:space="preserve">
-    <value>Google PlayやApp Storeからアプリをダウンロードするか、&lt;strong&gt;QRコードを表示&lt;/strong&gt;をクリックして、スマートフォンでQRコードをスキャンしてください。</value>
+    <value>Google PlayやApp Storeからアプリをダウンロードするか、&lt;strong&gt;QRコードを表示&lt;/strong&gt;をクリックして、スマートフォンでQRコードをスキャンしてください:</value>
   </data>
   <data name="IntroTelegramChatbot" xml:space="preserve">
     <value>&lt;strong&gt;Telegramチャットボット&lt;/strong&gt;を利用すると、エージェンシーサイトにアクセスせずに、チャットボットとやり取りすることで最新のビジネス情報を取得できます。このチャットボットは、無料で安全、暗号化され、クロスプラットフォーム対応のインスタントメッセージアプリであるTelegram上で動作します。&lt;br/&gt;
@@ -407,7 +408,7 @@
     <value>OTPを入力してください。</value>
   </data>
   <data name="Outstanding" xml:space="preserve">
-    <value>未払い残高</value>
+    <value>未払い</value>
   </data>
   <data name="PersonalMessage" xml:space="preserve">
     <value>個人メッセージ</value>
@@ -446,7 +447,8 @@
     <value>今日の勝ち負け</value>
   </data>
   <data name="VerifyOTP" xml:space="preserve">
-    <value>OTPを確認してください。</value>
+    <value>OTPを確認してください。
+</value>
   </data>
   <data name="YesterdayWinLossNotificationDescription" xml:space="preserve">
     <value>毎日、前日のAlphaの勝ち負け報告書の合計行をGMT-4の午後3:00に送信します。</value>
@@ -464,7 +466,8 @@
     <value>OTPの有効期限が切れました。新しいOTPを生成するには、&lt;span id="btnResend" class="link resend-code"&gt;こちらをクリック&lt;/span&gt;してください。</value>
   </data>
   <data name="HasUnlinkedMessage" xml:space="preserve">
-    <value>あなたのTelegramは{0}とのリンクが解除されました。</value>
+    <value>あなたのTelegramは{0}とのリンクが解除されました。
+</value>
   </data>
   <data name="StartBeforeInputOTP" xml:space="preserve">
     <value>OTPを入力する前に、Telegramチャットボットで&lt;strong&gt;START&lt;/strong&gt;をクリックしてください。</value>

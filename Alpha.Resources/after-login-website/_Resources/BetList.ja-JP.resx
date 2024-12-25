@@ -307,14 +307,13 @@
     <value>マスター保有ポジション / &lt;br/&gt; コミッション</value>
   </data>
   <data name="numbergameno" xml:space="preserve">
-    <value>ナンバーゲームNo.</value>
+    <value>ナンバーゲーム番号</value>
   </data>
   <data name="superPTcomm" xml:space="preserve">
     <value>スーパー保有ポジション/ &lt;br/&gt; コミッション</value>
   </data>
   <data name="upPoints" xml:space="preserve">
-    <value>アップポイント
-</value>
+    <value>アップポイント</value>
   </data>
   <data name="set" xml:space="preserve">
     <value>設定</value>

@@ -508,4 +508,7 @@ Notes: your password is cAsE sEnSiTiVe.</value>
   <data name="PositionTakingTemplate" xml:space="preserve">
     <value>Position Taking Template</value>
   </data>
+  <data name="送信" xml:space="preserve">
+    <value>Submit</value>
+  </data>
 </root>

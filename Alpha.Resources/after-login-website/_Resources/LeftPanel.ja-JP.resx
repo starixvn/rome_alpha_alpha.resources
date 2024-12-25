@@ -160,4 +160,7 @@
   <data name="lblMemberCommission" xml:space="preserve">
     <value>メンバーコミッション</value>
   </data>
+  <data name="parlay" xml:space="preserve">
+    <value>パーレイ</value>
+  </data>
 </root>

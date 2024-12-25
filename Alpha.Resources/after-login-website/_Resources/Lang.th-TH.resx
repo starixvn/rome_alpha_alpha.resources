@@ -4548,4 +4548,7 @@ Please use the form below to set your Security Code again.</value>
   <data name="sabaBasketball_VS" xml:space="preserve">
     <value>บาสเกตบอลเสมือนจริง</value>
   </data>
+  <data name="自動更新毎" xml:space="preserve">
+    <value>ขึ้นอยู่กับ</value>
+  </data>
 </root>

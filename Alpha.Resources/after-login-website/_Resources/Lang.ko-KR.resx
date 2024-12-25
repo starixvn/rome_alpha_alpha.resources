@@ -4289,4 +4289,7 @@ Please use the form below to set your Security Code again.</value>
   <data name="lblNew" xml:space="preserve">
     <value>새로운</value>
   </data>
+  <data name="自動更新毎" xml:space="preserve">
+    <value>기본으로 합니다.</value>
+  </data>
 </root>

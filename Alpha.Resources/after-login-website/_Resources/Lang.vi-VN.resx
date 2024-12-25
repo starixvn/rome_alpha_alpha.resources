@@ -4774,4 +4774,7 @@ Chú ý: Mã bảo mật mới phải khác với Mã bảo mật bạn nhận �
   <data name="txtMaxPayoutSettingInfo_Table_Header1" xml:space="preserve">
     <value>Thể thao Ảo</value>
   </data>
+  <data name="自動更新毎" xml:space="preserve">
+    <value>Dựa trên</value>
+  </data>
 </root>

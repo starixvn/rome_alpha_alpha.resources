@@ -971,6 +971,7 @@
   </data>
   <data name="Up" xml:space="preserve">
     <value>+</value>
+    <comment>+</comment>
   </data>
   <data name="NoAndOver" xml:space="preserve">
     <value>ไม่มี หรือ มากกว่า</value>

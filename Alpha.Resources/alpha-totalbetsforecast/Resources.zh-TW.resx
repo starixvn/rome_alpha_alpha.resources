@@ -235,4 +235,7 @@
   <data name="MatchOfferNonLive" xml:space="preserve">
     <value>非現場</value>
   </data>
+  <data name="日付" xml:space="preserve">
+    <value>賽事</value>
+  </data>
 </root>

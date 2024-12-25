@@ -183,4 +183,7 @@
   <data name="PleaseSelect" xml:space="preserve">
     <value>กรุณาเลือก</value>
   </data>
+  <data name="まで" xml:space="preserve">
+    <value>ถึง</value>
+  </data>
 </root>
