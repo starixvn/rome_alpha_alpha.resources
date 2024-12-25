@@ -870,4 +870,13 @@
   <data name="AgentRisk" xml:space="preserve">
     <value>エージェントリスク</value>
   </data>
+  <data name="nSelected" xml:space="preserve">
+    <value># 選択済み</value>
+  </data>
+  <data name="MemberWinNote" xml:space="preserve">
+    <value>&lt;b&gt;勝つための&lt;/b&gt;: メンバーがスポーツブックの進行中のベットチケットで期待できる金額。&lt;b&gt;あなたのリスク額&lt;/b&gt;: メンバーがチケットで勝つ場合に負う可能性のあるリスクで、以下の式で計算されます：&lt;b&gt;あなたのリスク額 = 勝つための金額 × あなたの保有ポジション&lt;/b&gt;。&lt;b&gt;これらの値&lt;/b&gt;は&lt;b&gt;スポーツブックの清算済みチケットや他の商品のチケット&lt;/b&gt;（進行中および清算済み）には適用されず、&lt;b&gt;'N/A'&lt;/b&gt;（該当なし）として表示されます。</value>
+  </data>
+  <data name="number" xml:space="preserve">
+    <value>#</value>
+  </data>
 </root>
