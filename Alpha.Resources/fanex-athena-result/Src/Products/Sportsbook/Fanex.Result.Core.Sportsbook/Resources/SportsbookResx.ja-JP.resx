@@ -121,10 +121,10 @@
     <value>シーズン</value>
   </data>
   <data name="NationsCup" xml:space="preserve">
-    <value>Nations Cup</value>
+    <value>ネイションズカップ</value>
   </data>
   <data name="MatchDay" xml:space="preserve">
-    <value>Match Day</value>
+    <value>試合日</value>
   </data>
   <data name="TotalGoal" xml:space="preserve">
     <value> 合計ゴール数</value>
@@ -338,7 +338,7 @@
     <value>第7</value>
   </data>
   <data name="EighthNumber" xml:space="preserve">
-    <value> </value>
+    <value>第8</value>
   </data>
   <data name="NinthNumber" xml:space="preserve">
     <value>第9</value>

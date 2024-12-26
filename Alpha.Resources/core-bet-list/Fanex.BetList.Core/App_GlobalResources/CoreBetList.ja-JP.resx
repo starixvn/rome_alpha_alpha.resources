@@ -247,7 +247,7 @@
     <value>試合</value>
   </data>
   <data name="of" xml:space="preserve">
-    <value>/</value>
+    <value>の </value>
   </data>
   <data name="open" xml:space="preserve">
     <value>開設</value>
@@ -374,10 +374,11 @@
     <value>前半戦</value>
   </data>
   <data name="AOSFTExcluding" xml:space="preserve">
-    <value>AOS FT 除外</value>
+    <value>試合全体の他のスコアを除外する</value>
   </data>
   <data name="AOSHTExcluding" xml:space="preserve">
-    <value>AOS HT 除外</value>
+    <value>前半の他のスコアを除外する
+</value>
   </data>
   <data name="ResultPending" xml:space="preserve">
     <value>結果が保留中</value>
@@ -1102,5 +1103,8 @@
   </data>
   <data name="More" xml:space="preserve">
     <value>もっと</value>
+  </data>
+  <data name="Rebate" xml:space="preserve">
+    <value>リベート</value>
   </data>
 </root>

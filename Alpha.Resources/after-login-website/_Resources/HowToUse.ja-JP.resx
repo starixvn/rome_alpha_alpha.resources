@@ -142,7 +142,7 @@
     <value>ユーザーガイド</value>
   </data>
   <data name="ViewLogFunction" xml:space="preserve">
-    <value>ログ表示機能</value>
+    <value>ログを見る機能</value>
   </data>
   <data name="SecurityCode" xml:space="preserve">
     <value>セキュリティコードFAQ</value>

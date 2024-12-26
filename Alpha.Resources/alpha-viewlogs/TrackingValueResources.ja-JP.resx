@@ -1496,4 +1496,118 @@ Saba バスケットボール-1試合あたりの最大ペイアウト
   <data name="a_mlivept_mem_8" xml:space="preserve">
     <value>ライブ前半戦オオーバー/アンダー</value>
   </data>
+  <data name="creditlog" xml:space="preserve">
+    <value>与信</value>
+  </data>
+  <data name="defaultlog" xml:space="preserve">
+    <value>顧客設定</value>
+  </data>
+  <data name="editby" xml:space="preserve">
+    <value>による編集</value>
+  </data>
+  <data name="logdate" xml:space="preserve">
+    <value>ログ日付</value>
+  </data>
+  <data name="logid" xml:space="preserve">
+    <value>ログID</value>
+  </data>
+  <data name="loginlog" xml:space="preserve">
+    <value>ログイン</value>
+  </data>
+  <data name="usernameEdited" xml:space="preserve">
+    <value>による編集</value>
+  </data>
+  <data name="viewlog" xml:space="preserve">
+    <value>ログを見る</value>
+  </data>
+  <data name="viewby" xml:space="preserve">
+    <value>による表示を見る</value>
+  </data>
+  <data name="statuslog" xml:space="preserve">
+    <value>状態</value>
+  </data>
+  <data name="admin" xml:space="preserve">
+    <value>管理者</value>
+  </data>
+  <data name="PlsInputUsername" xml:space="preserve">
+    <value>検索するためにユーザー名を入力してください</value>
+  </data>
+  <data name="search" xml:space="preserve">
+    <value>検索</value>
+  </data>
+  <data name="noInfo" xml:space="preserve">
+    <value>情報が利用できません</value>
+  </data>
+  <data name="Detail" xml:space="preserve">
+    <value>詳細</value>
+  </data>
+  <data name="Baseball" xml:space="preserve">
+    <value>野球</value>
+  </data>
+  <data name="Basketball" xml:space="preserve">
+    <value>バスケットボール</value>
+  </data>
+  <data name="Football" xml:space="preserve">
+    <value>アメフト</value>
+  </data>
+  <data name="Golf" xml:space="preserve">
+    <value>ゴルフ</value>
+  </data>
+  <data name="Motosports" xml:space="preserve">
+    <value>モータースポーツ</value>
+  </data>
+  <data name="motorsports" xml:space="preserve">
+    <value>モータースポーツ</value>
+  </data>
+  <data name="OtherSports" xml:space="preserve">
+    <value>その他のスポーツ</value>
+  </data>
+  <data name="soccer" xml:space="preserve">
+    <value>サッカー</value>
+  </data>
+  <data name="Tennis" xml:space="preserve">
+    <value>テニス</value>
+  </data>
+  <data name="[a]" xml:space="preserve">
+    <value>アカウントを作成</value>
+  </data>
+  <data name="[b]" xml:space="preserve">
+    <value>アカウントを更新</value>
+  </data>
+  <data name="[c]" xml:space="preserve">
+    <value>[振込]</value>
+  </data>
+  <data name="[d]" xml:space="preserve">
+    <value>[合計ベット]</value>
+  </data>
+  <data name="[e]" xml:space="preserve">
+    <value>[報告書]</value>
+  </data>
+  <data name="Daily" xml:space="preserve">
+    <value>[毎日]</value>
+  </data>
+  <data name="mon" xml:space="preserve">
+    <value>[月]</value>
+  </data>
+  <data name="tue" xml:space="preserve">
+    <value>[火]</value>
+  </data>
+  <data name="wed" xml:space="preserve">
+    <value>[水]</value>
+  </data>
+  <data name="thurs" xml:space="preserve">
+    <value>[木]</value>
+  </data>
+  <data name="fri" xml:space="preserve">
+    <value>[金]</value>
+  </data>
+  <data name="sat" xml:space="preserve">
+    <value>[土]</value>
+  </data>
+  <data name="sun" xml:space="preserve">
+    <value>[日]</value>
+  </data>
+  <data name="agID" xml:space="preserve">
+    <value>エージェントID</value>
+  </data>
 </root>

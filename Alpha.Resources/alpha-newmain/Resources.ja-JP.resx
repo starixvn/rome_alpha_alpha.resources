@@ -422,7 +422,7 @@
     <value>ホームアイコン – ホームページへのアクセス</value>
   </data>
   <data name="TransferAndViewLogIntroduction" xml:space="preserve">
-    <value>「振込」と「ログ表示」は現在、メインメニューにあります。</value>
+    <value>「振込」と「ログを見る」は現在、メインメニューにあります。</value>
   </data>
   <data name="QuickMenuIntroduction" xml:space="preserve">
     <value>アカウント設定へのクイックアクセス</value>
@@ -470,7 +470,7 @@
     <value>振込は現在メインメニューにあります。</value>
   </data>
   <data name="ViewLogMenuIntroduction" xml:space="preserve">
-    <value>ログの表示は現在メインメニューにあります。</value>
+    <value>ログを見るは現在メインメニューにあります。</value>
   </data>
   <data name="ShowMainMenu" xml:space="preserve">
     <value>メインメニューを表示</value>
