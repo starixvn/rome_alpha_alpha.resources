@@ -852,4 +852,10 @@
   <data name="number" xml:space="preserve">
     <value>#</value>
   </data>
+  <data name="ShutdownOldLastBetsMessage" xml:space="preserve">
+    <value>从 &lt;b&gt;10/12/2024 (日/月/年)&lt;/b&gt; 起，经典版不再使用，并将由新版本取代。通过新版本享受经过改进的新增账号体验。</value>
+  </data>
+  <data name="SwitchToNewView" xml:space="preserve">
+    <value>切换到新版本</value>
+  </data>
 </root>

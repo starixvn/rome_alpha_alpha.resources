@@ -250,8 +250,7 @@
     <value>先週</value>
   </data>
   <data name="LastMonth" xml:space="preserve">
-    <value>先月
-</value>
+    <value>先月</value>
   </data>
   <data name="SinceLastMonth" xml:space="preserve">
     <value>先月以降</value>
@@ -383,8 +382,7 @@
     <value>プログレッシブジャックポット当選詳細</value>
   </data>
   <data name="AllStatus" xml:space="preserve">
-    <value>すべてのステータス
-</value>
+    <value>すべてのステータス</value>
   </data>
   <data name="Void" xml:space="preserve">
     <value>無効</value>
@@ -399,8 +397,7 @@
     <value>ベットリスト</value>
   </data>
   <data name="selectStatuses" xml:space="preserve">
-    <value>ステータスを選択
-</value>
+    <value>ステータスを選択</value>
   </data>
   <data name="Neutral" xml:space="preserve">
     <value>(中)</value>
@@ -412,8 +409,7 @@
     <value>PPジャックポット当選詳細</value>
   </data>
   <data name="NoteCancelledBetPage" xml:space="preserve">
-    <value>{0} からレポートデータを表示できます。
-</value>
+    <value>{0} からレポートデータを表示できます。</value>
   </data>
   <data name="ExceededMaxTotalRowWithExcelFunc" xml:space="preserve">
     <value>レポートには {0} 件のチケットが含まれていますが、ページには最大 {1} 件までしか表示できません。より短い日付範囲を選択するか、Excel にエクスポートしてください。</value>
@@ -422,8 +418,7 @@
     <value>システムでは最大 {0} 件のチケットしかエクスポートできません。より短い日付範囲を選択してください。</value>
   </data>
   <data name="CashOutHistoryTitle" xml:space="preserve">
-    <value>チケット販売履歴
-</value>
+    <value>チケット販売履歴</value>
   </data>
   <data name="DateTime" xml:space="preserve">
     <value>日付/時間</value>
@@ -723,8 +718,7 @@
     <value>新しいスポーツは自動的に含まれます。</value>
   </data>
   <data name="FilterConfigurationSpecificSportsContent" xml:space="preserve">
-    <value>
-選択した条件（スポーツ/リーグ）に基づいてチケットを監視します。</value>
+    <value>選択した条件（スポーツ/リーグ）に基づいてチケットを監視します。</value>
   </data>
   <data name="FilterConfigurationSpecificSportsContent2" xml:space="preserve">
     <value>完了したリーグはフィルター条件から削除されます。</value>

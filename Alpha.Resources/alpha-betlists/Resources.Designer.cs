@@ -1996,6 +1996,15 @@ namespace Alpha.BetLists.AppResources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to From &lt;b&gt;10/12/2024 (dd/mm/yyyy)&lt;/b&gt;, Classic View will no longer be available and will be replaced by the New View. Enjoy an improved user experience with the New View..
+        /// </summary>
+        public static string ShutdownOldLastBetsMessage {
+            get {
+                return ResourceManager.GetString("ShutdownOldLastBetsMessage", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Since Last Month.
         /// </summary>
         public static string SinceLastMonth {
@@ -2136,6 +2145,15 @@ namespace Alpha.BetLists.AppResources {
         public static string SuperRisk {
             get {
                 return ResourceManager.GetString("SuperRisk", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Switch to New View.
+        /// </summary>
+        public static string SwitchToNewView {
+            get {
+                return ResourceManager.GetString("SwitchToNewView", resourceCulture);
             }
         }
         

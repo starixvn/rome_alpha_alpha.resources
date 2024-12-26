@@ -857,4 +857,10 @@
   <data name="number" xml:space="preserve">
     <value>#</value>
   </data>
+  <data name="ShutdownOldLastBetsMessage" xml:space="preserve">
+    <value>ตั้งแต่วันที่ &lt;b&gt;0/12/2024 (dd/mm/yyyy)&lt;/b&gt; มุมมองคลาสสิค จะไม่สามารถใช้งานได้อีกต่อไป โดยจะถูกแทนที่ด้วย มุมมองใหม่ เพลิดเพลินกับประสบการณ์ผู้ใช้ที่ได้รับการปรับปรุงให้ดีขึ้นจาก มุมมองใหม่</value>
+  </data>
+  <data name="SwitchToNewView" xml:space="preserve">
+    <value>เปลี่ยนไปยัง มุมมองแบบใหม่</value>
+  </data>
 </root>
