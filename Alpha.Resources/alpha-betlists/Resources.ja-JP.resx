@@ -873,4 +873,10 @@
   <data name="number" xml:space="preserve">
     <value>#</value>
   </data>
+  <data name="ShutdownOldLastBetsMessage" xml:space="preserve">
+    <value>2024年12月10日（dd/mm/yyyy）より、クラシック表示は利用できなくなり、新しい表示に置き換わります。新しい表示でより快適なユーザー体験をお楽しみください。</value>
+  </data>
+  <data name="SwitchToNewView" xml:space="preserve">
+    <value>新しい表示に変更する</value>
+  </data>
 </root>
