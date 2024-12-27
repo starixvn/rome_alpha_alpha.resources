@@ -127,7 +127,7 @@
     <value>試合日</value>
   </data>
   <data name="TotalGoal" xml:space="preserve">
-    <value> 合計ゴール数</value>
+    <value>合計ゴール数</value>
   </data>
   <data name="Volleyball_3903XXYY" xml:space="preserve">
     <value>第 {0} セットの {1} ポイント先取</value>
@@ -307,8 +307,7 @@
     <value>マップ{0} 初の主宰の時間</value>
   </data>
   <data name="ESports_91240X" xml:space="preserve">
-    <value>マップ{0} 風暴龍王は倒されるのか
-</value>
+    <value>マップ{0} 風暴龍王は倒されるのか</value>
   </data>
   <data name="ESports_91260X" xml:space="preserve">
     <value>マップ{0} 初ヘラルドの時間</value>

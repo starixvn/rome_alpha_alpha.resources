@@ -127,7 +127,7 @@
     <value>低い</value>
   </data>
   <data name="high" xml:space="preserve">
-    <value>高い </value>
+    <value>高い</value>
   </data>
   <data name="warrior2ndBall" xml:space="preserve">
     <value>2球目で勝利</value>
@@ -154,6 +154,6 @@
     <value>赤</value>
   </data>
   <data name="Blue" xml:space="preserve">
-    <value>青 </value>
+    <value>青</value>
   </data>
 </root>

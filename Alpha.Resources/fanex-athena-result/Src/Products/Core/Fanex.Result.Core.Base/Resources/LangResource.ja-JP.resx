@@ -182,12 +182,10 @@
     <value>後半最初のコーナーキックの時間</value>
   </data>
   <data name="RS09" xml:space="preserve">
-    <value>シーケンス - 前半
-</value>
+    <value>シーケンス - 前半</value>
   </data>
   <data name="RS08" xml:space="preserve">
-    <value>シーケンス - フルタイム
-</value>
+    <value>シーケンス - フルタイム</value>
   </data>
   <data name="Corners" xml:space="preserve">
     <value>コーナー</value>
@@ -267,7 +265,7 @@
     <value>ファースト/ラストコーナー</value>
   </data>
   <data name="GameID" xml:space="preserve">
-    <value>ゲームID </value>
+    <value>ゲームID</value>
   </data>
   <data name="GameResult" xml:space="preserve">
     <value>ゲーム結果</value>
@@ -384,7 +382,7 @@
     <value>レース</value>
   </data>
   <data name="RegularTime" xml:space="preserve">
-    <value>規定時間 </value>
+    <value>規定時間</value>
   </data>
   <data name="Result" xml:space="preserve">
     <value>結果</value>
@@ -405,33 +403,28 @@
     <value>延長戦 -  {0} ゴール</value>
   </data>
   <data name="RS168" xml:space="preserve">
-    <value>誰が次のラウンドに進むのか？
-</value>
+    <value>誰が次のラウンドに進むのか？</value>
   </data>
   <data name="RS169" xml:space="preserve">
     <value>{0} ゴール</value>
   </data>
   <data name="RS173" xml:space="preserve">
-    <value>延長戦 はい/いいえ
-</value>
+    <value>延長戦 はい/いいえ</value>
   </data>
   <data name="RS174" xml:space="preserve">
     <value>延長戦とゴール</value>
   </data>
   <data name="RS175" xml:space="preserve">
-    <value>試合決定方法
-</value>
+    <value>試合決定方法</value>
   </data>
   <data name="RS176" xml:space="preserve">
-    <value>最初の10分間 1X2
-</value>
+    <value>最初の10分間 1X2</value>
   </data>
   <data name="RS180" xml:space="preserve">
     <value>前半 - {0} ゴール</value>
   </data>
   <data name="RS192" xml:space="preserve">
-    <value>最初のゴール (10分以内)
-</value>
+    <value>最初のゴール (10分以内)</value>
   </data>
   <data name="RS193" xml:space="preserve">
     <value>最初のゴール (15分以内)</value>
@@ -482,8 +475,7 @@
     <value>チーム</value>
   </data>
   <data name="TotalGames" xml:space="preserve">
-    <value>総試合数
-</value>
+    <value>総試合数</value>
   </data>
   <data name="TotalPoints" xml:space="preserve">
     <value>総得点</value>
@@ -519,12 +511,10 @@
     <value>はい</value>
   </data>
   <data name="KOInRound" xml:space="preserve">
-    <value>{0}ラウンドでKO
-</value>
+    <value>{0}ラウンドでKO</value>
   </data>
   <data name="RS424" xml:space="preserve">
-    <value>最初のゴール方法
-</value>
+    <value>最初のゴール方法</value>
   </data>
   <data name="FreeKick" xml:space="preserve">
     <value>フリーキック</value>
@@ -632,8 +622,7 @@
     <value>{0}回のコーナーキック獲得</value>
   </data>
   <data name="RS487" xml:space="preserve">
-    <value>前半で{0}回のコーナーキック獲得
-</value>
+    <value>前半で{0}回のコーナーキック獲得</value>
   </data>
   <data name="RefundWithSettleDetermined" xml:space="preserve">
     <value>無条件に決定された</value>
@@ -642,19 +631,16 @@
     <value>PK戦 - 第1ラウンド</value>
   </data>
   <data name="RS381" xml:space="preserve">
-    <value>ラウンド{0} - ゴール/ミス
-</value>
+    <value>ラウンド{0} - ゴール/ミス</value>
   </data>
   <data name="RS382" xml:space="preserve">
-    <value>ラウンド{0} - ゴール/ミス
-</value>
+    <value>ラウンド{0} - ゴール/ミス</value>
   </data>
   <data name="RS385" xml:space="preserve">
     <value>ラウンド{0} - 1X2</value>
   </data>
   <data name="RS384" xml:space="preserve">
-    <value>ラウンド{0} - 両方/一方/どちらもない
-</value>
+    <value>ラウンド{0} - 両方/一方/どちらもない</value>
   </data>
   <data name="RS383" xml:space="preserve">
     <value>ラウンド{0} - ゴールポストへのシュート</value>
@@ -672,16 +658,13 @@
     <value>枠外シュート</value>
   </data>
   <data name="PenaltyShootoutRoundTwo" xml:space="preserve">
-    <value>PK戦 - 第2ラウンド
-</value>
+    <value>PK戦 - 第2ラウンド</value>
   </data>
   <data name="PenaltyShootoutRoundThree" xml:space="preserve">
-    <value>PK戦 - 第3ラウンド
-</value>
+    <value>PK戦 - 第3ラウンド</value>
   </data>
   <data name="PenaltyShootoutRoundFour" xml:space="preserve">
-    <value>PK戦 - 第4ラウンド
-</value>
+    <value>PK戦 - 第4ラウンド</value>
   </data>
   <data name="PenaltyShootoutRoundFive" xml:space="preserve">
     <value>PK戦 - 第5ラウンド</value>
@@ -690,17 +673,16 @@
     <value>ホームチームが得点 - アウェイチームはキックしない</value>
   </data>
   <data name="HomeNotTakenAwayScore" xml:space="preserve">
-    <value>ホームチームはキックしない - アウェイチームが得点
-</value>
+    <value>ホームチームはキックしない - アウェイチームが得点</value>
   </data>
   <data name="HomeNotTakenAwayMiss" xml:space="preserve">
     <value>ホームチームはキックしない - アウェイチームがミス</value>
   </data>
   <data name="HomeMissAwayNotTaken" xml:space="preserve">
-    <value>ホームが外す - アウェイチーム蹴らず </value>
+    <value>ホームが外す - アウェイチーム蹴らず</value>
   </data>
   <data name="HomeHitAwayNotTaken" xml:space="preserve">
-    <value>ホームがゴールポストに当たる - アウェイチーム蹴らず </value>
+    <value>ホームがゴールポストに当たる - アウェイチーム蹴らず</value>
   </data>
   <data name="HomeNotHitAwayNotTaken" xml:space="preserve">
     <value>ホームがゴールポストを外す - アウェイ  チーム蹴らず</value>
