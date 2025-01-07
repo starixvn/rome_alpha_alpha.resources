@@ -117,4 +117,73 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="Keno" xml:space="preserve">
+    <value>RNG キノ</value>
+  </data>
+  <data name="MixParlay" xml:space="preserve">
+    <value>ミックスパーレイ</value>
+  </data>
+  <data name="Normal" xml:space="preserve">
+    <value>通常</value>
+  </data>
+  <data name="Outright" xml:space="preserve">
+    <value>アウトライト</value>
+  </data>
+  <data name="OutrightResults" xml:space="preserve">
+    <value>アウトライト結果</value>
+  </data>
+  <data name="SystemParlay" xml:space="preserve">
+    <value>システムパーレイ</value>
+  </data>
+  <data name="Results" xml:space="preserve">
+    <value>結果</value>
+  </data>
+  <data name="ViewDataFromDate" xml:space="preserve">
+    <value>{0} からレポートデータを表示できます。</value>
+  </data>
+  <data name="まで" xml:space="preserve">
+    <value>まで</value>
+  </data>
+  <data name="Submit" xml:space="preserve">
+    <value>提出</value>
+  </data>
+  <data name="ExportToExcel" xml:space="preserve">
+    <value>Excel にエクスポート</value>
+  </data>
+  <data name="From" xml:space="preserve">
+    <value>から</value>
+  </data>
+  <data name="Sport" xml:space="preserve">
+    <value>スポーツ</value>
+  </data>
+  <data name="League" xml:space="preserve">
+    <value>リーグ</value>
+  </data>
+  <data name="ShowAllLeagues" xml:space="preserve">
+    <value>すべてのリーグ</value>
+  </data>
+  <data name="ThereIsNoData" xml:space="preserve">
+    <value>データがありません</value>
+  </data>
+  <data name="ShowAllLeaguesExcelTitle" xml:space="preserve">
+    <value>すべてのリーグを表示</value>
+  </data>
+  <data name="Date" xml:space="preserve">
+    <value>日付</value>
+  </data>
+  <data name="ConnectionFailedTo3rd" xml:space="preserve">
+    <value>{0} への接続に失敗しました</value>
+  </data>
+  <data name="ResultLinkText" xml:space="preserve">
+    <value>ここをクリックして {0} の結果を表示</value>
+  </data>
+  <data name="ResultPopupTitle" xml:space="preserve">
+    <value>{0} 結果</value>
+  </data>
+  <data name="PartialUMAnnouncement" xml:space="preserve">
+    <value>より良い体験のため、この機能を更新しています。そのため、この機能は一時的に停止中です（{0} - {1} (GMT+8)）。後ほど再度お試しください。ご不便をおかけして申し訳ありません。</value>
+  </data>
+  <data name="PleaseSelect" xml:space="preserve">
+    <value>選択してください</value>
+  </data>
 </root>

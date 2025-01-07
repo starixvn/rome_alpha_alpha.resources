@@ -4392,7 +4392,7 @@ Chú ý: Mã bảo mật mới phải khác với Mã bảo mật bạn nhận �
     <value>&lt;div class=\"new-info\"&gt;&lt;p&gt;Thiết lập Position Taking cho loại \"Cược khác\" được áp dụng cho các loại hình cược trong môn Bóng Rổ, như sau:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Tỷ số thắng cách biệt 14 chiều&lt;/li&gt;&lt;li&gt;Tỷ số thắng cách biệt 12 chiều&lt;/li&gt;&lt;li&gt;Hiệp 1 - Tỷ số thắng cách biệt 13 chiều&lt;/li&gt;&lt;li&gt;Ván chơi thứ X - Tỷ số thắng cách biệt 7 chiều&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Thiết lập mặc định cho Position Taking \"Cược khác\" sẽ được sao chép từ loại Cược Chấp.&lt;/p&gt;&lt;/div&gt;</value>
   </data>
   <data name="COPY_ALL_BETTING_LIMIT_FROM_VIRTUAL_SOCCER" xml:space="preserve">
-    <value>Sao chép tất cả thiết lập về tiền cược của {0}</value>
+    <value>Sao chép tất cả giới hạn cược của {0}</value>
   </data>
   <data name="COPY_ALL_POSITION_TAKING_FROM_VIRTUAL_SOCCER" xml:space="preserve">
     <value>Sao chép tất cả thiết lập Position Taking của {0}</value>
@@ -4470,7 +4470,7 @@ Chú ý: Mã bảo mật mới phải khác với Mã bảo mật bạn nhận �
     <value>Remaining Buy-in Amount</value>
   </data>
   <data name="copyAllBetSettingOfNumberGame" xml:space="preserve">
-    <value>Sao chép tất cả thiết lập về tiền cược từ Number Game</value>
+    <value>Sao chép tất cả giới hạn cược từ Number Game</value>
   </data>
   <data name="MemberUnlimitedBetSettingWarningMessage" xml:space="preserve">
     <value>Nhập tất cả giá trị của giới hạn cược = 0 để ngăn không cho Member đặt cược.</value>
@@ -4765,8 +4765,7 @@ Chú ý: Mã bảo mật mới phải khác với Mã bảo mật bạn nhận �
     <value>Thông tin Giới Hạn Cược của Saba Thể thao Ảo</value>
   </data>
   <data name="txtMaxPayoutSettingInfo_SabaDetails" xml:space="preserve">
-    <value>Giới Hạn Cược của Saba Thể thao Ảo được áp dụng cho các môn thể thao được liệt kê trong bảng dưới đây.
-</value>
+    <value>Giới Hạn Cược của Saba Thể thao Ảo được áp dụng cho các môn thể thao được liệt kê trong bảng dưới đây.</value>
   </data>
   <data name="txtMaxPayoutSettingInfo_SabaTable_Header1" xml:space="preserve">
     <value>Saba Thể thao Ảo</value>

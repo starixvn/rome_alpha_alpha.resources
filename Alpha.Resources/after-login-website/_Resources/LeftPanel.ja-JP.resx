@@ -142,13 +142,13 @@
     <value>エージェントリスト</value>
   </data>
   <data name="lblAgentOutstanding" xml:space="preserve">
-    <value>エージェント未払い</value>
+    <value>エージェント未決済</value>
   </data>
   <data name="lblCancelledBets" xml:space="preserve">
     <value>取り消されたベット</value>
   </data>
   <data name="lblHomeDrawAwayNoBet" xml:space="preserve">
-    <value>ホーム/引き分け/アウェイ ベットなし
+    <value>ホーム/ドロー/アウェイ ベットなし
 </value>
   </data>
   <data name="lblHOUL" xml:space="preserve">
@@ -162,5 +162,14 @@
   </data>
   <data name="parlay" xml:space="preserve">
     <value>パーレイ</value>
+  </data>
+  <data name="lblMemberInfo" xml:space="preserve">
+    <value>メンバー情報</value>
+  </data>
+  <data name="lblOutRight" xml:space="preserve">
+    <value>アウトライト</value>
+  </data>
+  <data name="moneyline" xml:space="preserve">
+    <value>マネーライン</value>
   </data>
 </root>

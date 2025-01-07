@@ -133,7 +133,7 @@
     <value>残高</value>
   </data>
   <data name="YesterdayCashBalance" xml:space="preserve">
-    <value>昨日までのアカウント残高</value>
+    <value>昨日の現金残高</value>
   </data>
   <data name="DateNotified" xml:space="preserve">
     <value>通知日</value>
@@ -146,5 +146,83 @@
   </data>
   <data name="CreatedDate" xml:space="preserve">
     <value>作成日</value>
+  </data>
+  <data name="Username" xml:space="preserve">
+    <value>ユーザー名</value>
+  </data>
+  <data name="All" xml:space="preserve">
+    <value>全て</value>
+  </data>
+  <data name="Closed" xml:space="preserve">
+    <value>クローズ</value>
+  </data>
+  <data name="Open" xml:space="preserve">
+    <value>開設</value>
+  </data>
+  <data name="Suspended" xml:space="preserve">
+    <value>停止</value>
+  </data>
+  <data name="EnterUsername" xml:space="preserve">
+    <value>ユーザー名または姓/名</value>
+  </data>
+  <data name="LastLogin" xml:space="preserve">
+    <value>最後のログイン</value>
+  </data>
+  <data name="LastName" xml:space="preserve">
+    <value>姓</value>
+  </data>
+  <data name="LoginIP" xml:space="preserve">
+    <value>ログインIP</value>
+  </data>
+  <data name="UsernamePlaceHolder" xml:space="preserve">
+    <value>ユーザー名または姓/名</value>
+  </data>
+  <data name="MaximumWin" xml:space="preserve">
+    <value>最大勝ち額 （与信ベース）</value>
+  </data>
+  <data name="MaximumLoss" xml:space="preserve">
+    <value>最大負け額</value>
+  </data>
+  <data name="EnterAccount" xml:space="preserve">
+    <value>ユーザー名</value>
+  </data>
+  <data name="AccountInformation" xml:space="preserve">
+    <value>アカウント情報</value>
+  </data>
+  <data name="lblPasswordRequire" xml:space="preserve">
+    <value>パスワードは8文字以上で、スペースを含まず、以下のうち少なくとも3つを含める必要があります:&lt;br&gt;
+&lt;br&gt;
+• 大文字 [A-Z] &lt;br&gt;
+• 小文字 [a-z] &lt;br&gt;
+• 数字 [0-9] &lt;br&gt;
+• 特殊文字 (!,@,# など)&lt;br&gt;
+&lt;br&lt;
+例: 59D7!4$h、493abcDE&lt;br&gt;
+注意: パスワードは大文字と小文字を区別します&lt;br&gt;</value>
+  </data>
+  <data name="MemberMaxCredit" xml:space="preserve">
+    <value>メンバー最大与信</value>
+  </data>
+  <data name="Usernames" xml:space="preserve">
+    <value>ユーザー名</value>
+  </data>
+  <data name="lblUsername" xml:space="preserve">
+    <value>ユーザー名</value>
+  </data>
+  <data name="lblPasswordMemberRequire" xml:space="preserve">
+    <value>パスワードは6～10文字で、スペースを含まず、少なくとも1つの大文字、1つの小文字、1つの数字を含める必要があります。（例: 493abcDE、59D7!4$h）
+注意: パスワードは大文字と小文字を区別します。</value>
+  </data>
+  <data name="AddNewMaster" xml:space="preserve">
+    <value>新しいマスターを追加</value>
+  </data>
+  <data name="AddNewAgent" xml:space="preserve">
+    <value>新しいエージェントを追加</value>
+  </data>
+  <data name="AddNewMember" xml:space="preserve">
+    <value>新しいメンバーを追加</value>
+  </data>
+  <data name="Betsetting" xml:space="preserve">
+    <value>ベット設定</value>
   </data>
 </root>

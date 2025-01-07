@@ -123,4 +123,13 @@
   <data name="NoInfo" xml:space="preserve">
     <value>情報はありません</value>
   </data>
+  <data name="MemberInfo" xml:space="preserve">
+    <value>メンバー情報</value>
+  </data>
+  <data name="UsernameOrFirstLastName" xml:space="preserve">
+    <value>ユーザー名または姓/名</value>
+  </data>
+  <data name="Username" xml:space="preserve">
+    <value>ユーザー名</value>
+  </data>
 </root>

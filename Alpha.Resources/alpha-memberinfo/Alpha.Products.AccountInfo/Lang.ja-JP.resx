@@ -142,7 +142,7 @@
     <value>水曜日</value>
   </data>
   <data name="TurnOnTransferBalanceDailyNoteMessage" xml:space="preserve">
-    <value>&lt;div style="font-weight:normal"&gt;&lt;b&gt;注意:&lt;/b&gt; 終日バランス振込を有効化すると、自動振込が無効化され、{0} およびそのすべての下層ラインによって設定された自動振込スケジュールがすべてクリアされます。&lt;/div&gt;</value>
+    <value>&lt;div style="font-weight:normal"&gt;&lt;b&gt;注意:&lt;/b&gt; 終日バランス振込を有効化すると、自動振込が無効化され、{0} およびそのすべてのダウンラインによって設定された自動振込スケジュールがすべてクリアされます。&lt;/div&gt;</value>
   </data>
   <data name="Update" xml:space="preserve">
     <value>更新</value>

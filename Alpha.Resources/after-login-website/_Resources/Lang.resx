@@ -833,7 +833,7 @@
     <value>Daily reset</value>
   </data>
   <data name="dailystatement" xml:space="preserve">
-    <value>Daily Statement</value>
+    <value>日次詳細レポート</value>
   </data>
   <data name="Darts" xml:space="preserve">
     <value>Darts</value>
@@ -845,7 +845,7 @@
     <value>D.Chance</value>
   </data>
   <data name="dcommMultiEditPopupAllowOption" xml:space="preserve">
-    <value>Allow Double Commission</value>
+    <value>日付</value>
   </data>
   <data name="dcommMultiEditPopupDisallowOption" xml:space="preserve">
     <value>Disallow Double Commission</value>
@@ -1019,7 +1019,7 @@
     <value>Win Place</value>
   </data>
   <data name="exporttoexcel" xml:space="preserve">
-    <value>Export to Excel</value>
+    <value>イベント</value>
   </data>
   <data name="feb" xml:space="preserve">
     <value>Feb</value>
@@ -1442,7 +1442,7 @@
     <value>1st Hdp</value>
   </data>
   <data name="lbl1stMoneyLine" xml:space="preserve">
-    <value>1st Money Line</value>
+    <value>1st Moneyline</value>
   </data>
   <data name="lbl1stOE" xml:space="preserve">
     <value>1st OE</value>
@@ -2647,7 +2647,7 @@
     <value>Monday</value>
   </data>
   <data name="moneyline" xml:space="preserve">
-    <value>Money Line</value>
+    <value>Moneyline</value>
   </data>
   <data name="monthly" xml:space="preserve">
     <value>Monthly</value>

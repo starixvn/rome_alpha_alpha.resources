@@ -120,4 +120,37 @@
   <data name="No_Data_Found" xml:space="preserve">
     <value>情報はありません</value>
   </data>
+  <data name="AllAgent" xml:space="preserve">
+    <value>すべてのエージェント</value>
+  </data>
+  <data name="Comm1" xml:space="preserve">
+    <value>コミッション 1</value>
+  </data>
+  <data name="Comm2" xml:space="preserve">
+    <value>コミッション 2</value>
+  </data>
+  <data name="Comm3" xml:space="preserve">
+    <value>コミッション 3: その他のベットタイプに適用されます。</value>
+  </data>
+  <data name="MAP" xml:space="preserve">
+    <value>M = マスター、A = エージェント、P = メンバー</value>
+  </data>
+  <data name="NoteContent" xml:space="preserve">
+    <value>この情報は参考用です。古くなる可能性がありますので、詳細は 顧客サービス部門にお問い合わせください。</value>
+  </data>
+  <data name="Note" xml:space="preserve">
+    <value>注意</value>
+  </data>
+  <data name="Bettype" xml:space="preserve">
+    <value>賭けの種類</value>
+  </data>
+  <data name="CommissionInformation" xml:space="preserve">
+    <value>コミッション情報</value>
+  </data>
+  <data name="CommissionGroup" xml:space="preserve">
+    <value>コミッショングループ</value>
+  </data>
+  <data name="MyanmarOddsComm" xml:space="preserve">
+    <value>ャンマーオッズ: ミャンマーオッズタイプの {0} 賭けの種類に適用されます。</value>
+  </data>
 </root>

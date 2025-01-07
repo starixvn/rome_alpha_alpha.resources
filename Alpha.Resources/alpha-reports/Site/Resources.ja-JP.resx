@@ -181,8 +181,7 @@
     <value>未入力</value>
   </data>
   <data name="Results" xml:space="preserve">
-    <value>結果
-</value>
+    <value>結果</value>
   </data>
   <data name="To" xml:space="preserve">
     <value>に</value>
@@ -203,23 +202,23 @@
     <value>試合</value>
   </data>
   <data name="Outright" xml:space="preserve">
-    <value>勝者予想</value>
+    <value>アウトライト</value>
   </data>
   <data name="MatchWinLossDetail" xml:space="preserve">
     <value>試合勝ち負け詳細</value>
   </data>
   <data name="Outstanding" xml:space="preserve">
-    <value>未払い</value>
+    <value>未決済</value>
   </data>
   <data name="MemberOutstanding" xml:space="preserve">
-    <value>メンバー未払い</value>
+    <value>メンバー未決済</value>
   </data>
   <data name="AgentOutstanding" xml:space="preserve">
-    <value>エージェント未払い
+    <value>エージェント未決済
 </value>
   </data>
   <data name="MasterOutstanding" xml:space="preserve">
-    <value>マスター未払い残高</value>
+    <value>マスター未決済</value>
   </data>
   <data name="Status" xml:space="preserve">
     <value>状態</value>
@@ -252,7 +251,7 @@
     <value>コミッション</value>
   </data>
   <data name="Gaming" xml:space="preserve">
-    <value>ゲーム</value>
+    <value>Gaming</value>
   </data>
   <data name="Others" xml:space="preserve">
     <value>他の</value>
@@ -330,7 +329,7 @@
     <value>アンダー</value>
   </data>
   <data name="Upline" xml:space="preserve">
-    <value>上層ライン</value>
+    <value>アップライン</value>
   </data>
   <data name="IP_used_by" xml:space="preserve">
     <value>〜によって使用されたIP</value>
@@ -440,16 +439,13 @@
     <value>{0}からレポートデータを表示できます。</value>
   </data>
   <data name="LastWeek" xml:space="preserve">
-    <value>先週
-</value>
+    <value>先週</value>
   </data>
   <data name="LastMonth" xml:space="preserve">
-    <value>先月
-</value>
+    <value>先月</value>
   </data>
   <data name="SinceLastMonth" xml:space="preserve">
-    <value>先月以降
-</value>
+    <value>先月以降</value>
   </data>
   <data name="SpecificDate" xml:space="preserve">
     <value>特定の日付</value>
@@ -541,7 +537,7 @@
     <value>勝ち負け</value>
   </data>
   <data name="Tooltip_NetTurnover" xml:space="preserve">
-    <value>スポーツブックにおいて、純賭金総額とは、引き分けのチケットおよび半勝半敗のチケットの賭金総額の半分を除いた賭金総額を指します。</value>
+    <value>スポーツブックにおいて、純賭金総額とは、ドローのチケットおよび半勝半敗のチケットの賭金総額の半分を除いた賭金総額を指します。</value>
   </data>
   <data name="DoNotShowAgain" xml:space="preserve">
     <value>再表示しない</value>
@@ -607,10 +603,10 @@
     <value>フルタイム</value>
   </data>
   <data name="WinLossByBetType" xml:space="preserve">
-    <value>ベットタイプ別勝ち負け</value>
+    <value>賭けの種類別勝ち負け</value>
   </data>
   <data name="All" xml:space="preserve">
-    <value>すべて</value>
+    <value>全て</value>
   </data>
   <data name="Enabled" xml:space="preserve">
     <value>有効</value>
@@ -640,7 +636,7 @@
     <value>保有ポジション</value>
   </data>
   <data name="BetType" xml:space="preserve">
-    <value>ベットタイプ</value>
+    <value>賭けの種類</value>
   </data>
   <data name="Race" xml:space="preserve">
     <value>レース</value>
@@ -759,7 +755,7 @@
     <value>進行中のチケットの合計賭け金額。進行中のチケットの賭けリストを表示するにはクリックしてください。</value>
   </data>
   <data name="Guidelines_WinLoss_Member" xml:space="preserve">
-    <value>賭けチケットの合計勝ち負け額（会員コミッションを除く、無効/却下/未決チケットは除く）。詳細な賭けリストを表示するにはクリックしてください。</value>
+    <value>賭けチケットの合計勝ち負け額（メンバーコミッションを除く、無効/却下/未決チケットは除く）。詳細な賭けリストを表示するにはクリックしてください。</value>
   </data>
   <data name="Guidelines_Commission_Member" xml:space="preserve">
     <value>合計メンバーコミッション</value>
@@ -815,7 +811,7 @@
     <value>オーナー</value>
   </data>
   <data name="Tooltip_CommissionByBetType" xml:space="preserve">
-    <value>その他: {0} のベットタイプに適用されます。</value>
+    <value>その他: {0} の賭けの種類に適用されます。</value>
   </data>
   <data name="ProgressiveGamesContribution" xml:space="preserve">
     <value>プログレッシブゲームの貢献 </value>
@@ -920,22 +916,22 @@
     <value>この機能を使用する権限がありません。</value>
   </data>
   <data name="GrossCommNoteForMember" xml:space="preserve">
-    <value>メンバーの視点では、エージェントが各メンバーごとに上層ラインから受け取れるコミッション（保有ポジションなし）。</value>
+    <value>メンバーの視点では、エージェントが各メンバーごとにアップラインから受け取れるコミッション（保有ポジションなし）。</value>
   </data>
   <data name="GrossCommNoteForAgent" xml:space="preserve">
-    <value>エージェントの視点では、マスターが各エージェントごとに上層ラインから受け取れるコミッション（保有ポジションなし）。</value>
+    <value>エージェントの視点では、マスターが各エージェントごとにアップラインから受け取れるコミッション（保有ポジションなし）。</value>
   </data>
   <data name="GrossCommNoteForMaster" xml:space="preserve">
-    <value>マスターの視点では、スーパーが各マスターにおいて上層ラインから受け取れるコミッション（保有ポジションなし）。</value>
+    <value>マスターの視点では、スーパーが各マスターにおいてアップラインから受け取れるコミッション（保有ポジションなし）。</value>
   </data>
   <data name="GrossCommNoteForConsolidationReportAgent" xml:space="preserve">
-    <value>エージェント視点での表示：エージェントが上層ラインから受領可能なコミッション（保有ポジションを含まない）。</value>
+    <value>エージェント視点での表示：エージェントがアップラインから受領可能なコミッション（保有ポジションを含まない）。</value>
   </data>
   <data name="GrossCommNoteForConsolidationReportMaster" xml:space="preserve">
-    <value>マスター視点での表示：マスターが上層ラインから受領可能なコミッション（保有ポジションを含まない）。</value>
+    <value>マスター視点での表示：マスターがアップラインから受領可能なコミッション（保有ポジションを含まない）。</value>
   </data>
   <data name="GrossCommNoteForConsolidationReportSuper" xml:space="preserve">
-    <value>スーパー視点での表示：スーパーが上層ラインから受領可能なコミッション（保有ポジションを含まない）。</value>
+    <value>スーパー視点での表示：スーパーがアップラインから受領可能なコミッション（保有ポジションを含まない）。</value>
   </data>
   <data name="Tooltip_NetTurnover_RNGCasino" xml:space="preserve">
     <value>{0}の場合、純賭金総額とは無効/拒否/払い戻しチケットを除外した賭金総額を指します。</value>

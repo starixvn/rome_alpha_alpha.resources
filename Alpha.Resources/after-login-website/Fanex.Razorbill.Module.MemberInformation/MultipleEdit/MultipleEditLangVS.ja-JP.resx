@@ -117,4 +117,133 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="MasterEditsMultipleMembers_Figure4" xml:space="preserve">
+    <value>&lt;strong&gt;図5:&lt;/strong&gt; 複数のバーチャルスポーツ編集ポップアップ</value>
+  </data>
+  <data name="MasterEditsMultipleMembers_Figure5" xml:space="preserve">
+    <value>&lt;strong&gt;図6:&lt;/strong&gt; Member02 の旧設定</value>
+  </data>
+  <data name="MasterEditsMultipleMembers_Figure6" xml:space="preserve">
+    <value>&lt;strong&gt;図7:&lt;/strong&gt; Member02 の新設定</value>
+  </data>
+  <data name="MasterEditsMultipleAgents" xml:space="preserve">
+    <value>マスターが複数のエージェントを編集</value>
+  </data>
+  <data name="MasterEditsMultipleAgents_Guideline2" xml:space="preserve">
+    <value>&lt;strong&gt;送信&lt;/strong&gt; をクリックして新しい設定を保存してください。また、すべてのメンバーに保有ポジションを更新するかどうかを尋ねられます。</value>
+  </data>
+  <data name="MasterEditsMultipleAgents_Guideline1" xml:space="preserve">
+    <value>希望の設定を入力してください。</value>
+  </data>
+  <data name="MasterEditsMultipleAgents_Figure1" xml:space="preserve">
+    <value>&lt;strong&gt;図1:&lt;/strong&gt; 複数のバーチャルスポーツ編集ポップアップ</value>
+  </data>
+  <data name="MasterEditsMultipleAgents_Figure3" xml:space="preserve">
+    <value>&lt;strong&gt;図3:&lt;/strong&gt; Agent02 の旧設定</value>
+  </data>
+  <data name="MasterEditsMultipleAgents_Figure2" xml:space="preserve">
+    <value>&lt;strong&gt;図2:&lt;/strong&gt; メンバーの保有ポジション更新の確認</value>
+  </data>
+  <data name="MasterEditsMultipleAgents_Figure4" xml:space="preserve">
+    <value>&lt;strong&gt;図4:&lt;/strong&gt; Agent02 の新設定</value>
+  </data>
+  <data name="PageTitleIntroduction_Master" xml:space="preserve">
+    <value>ダウンラインアカウントを1つずつ編集するのは手間がかかる作業です。そのため、複数のアカウントに同じ設定を一度に適用できるマルチ編集機能に慣れることをお勧めします。</value>
+  </data>
+  <data name="SuperEditsMultipleMembers_Note" xml:space="preserve">
+    <value>それらのメンバーに対する保有ポジションのみ変更できます。</value>
+  </data>
+  <data name="SuperEditsMultipleMasters_Figure1" xml:space="preserve">
+    <value>&lt;strong&gt;図1:&lt;/strong&gt; 複数のバーチャルスポーツ編集ポップアップ</value>
+  </data>
+  <data name="SuperEditsMultipleMasters_Figure3" xml:space="preserve">
+    <value>&lt;strong&gt;図3:&lt;/strong&gt; Master02 の旧設定</value>
+  </data>
+  <data name="SuperEditsMultipleMasters_Figure2" xml:space="preserve">
+    <value>&lt;strong&gt;図2:&lt;/strong&gt; メンバーの保有ポジション更新の確認</value>
+  </data>
+  <data name="SuperEditsMultipleMasters_Figure4" xml:space="preserve">
+    <value>&lt;strong&gt;図4:&lt;/strong&gt; Master02 の新設定</value>
+  </data>
+  <data name="MasterEditsMultipleMembers_Note" xml:space="preserve">
+    <value>それらのメンバーに対する保有ポジションのみ変更できます。</value>
+  </data>
+  <data name="PageTitle" xml:space="preserve">
+    <value>複数編集顧客設定</value>
+  </data>
+  <data name="MasterEditsMultipleMembers_Guideline4" xml:space="preserve">
+    <value>ドロップダウンボックスをクリックして、希望の値を選択してください。</value>
+  </data>
+  <data name="MasterEditsMultipleMembers_Guideline5" xml:space="preserve">
+    <value>&lt;strong&gt;送信&lt;/strong&gt; をクリックして新しい設定を保存してください。</value>
+  </data>
+  <data name="Notes" xml:space="preserve">
+    <value>注意事項:</value>
+  </data>
+  <data name="SuperEditsMultipleMembers" xml:space="preserve">
+    <value>スーパーが複数のメンバーを編集</value>
+  </data>
+  <data name="SuperEditsMultipleMasters" xml:space="preserve">
+    <value>スーパーが複数のマスターを編集</value>
+  </data>
+  <data name="MasterEditsMultipleMembers" xml:space="preserve">
+    <value>マスターが複数のメンバーを編集</value>
+  </data>
+  <data name="SuperEditsMultipleMasters_Guideline2" xml:space="preserve">
+    <value>&lt;strong&gt;送信&lt;/strong&gt; をクリックして新しい設定を保存してください。また、すべてのメンバーに保有ポジションを更新するかどうかを尋ねられます。</value>
+  </data>
+  <data name="SuperEditsMultipleMasters_Guideline1" xml:space="preserve">
+    <value>希望の設定を入力してください。</value>
+  </data>
+  <data name="Notes_Super" xml:space="preserve">
+    <value>スーパーはエージェントの設定を変更できません</value>
+  </data>
+  <data name="Notes_Agent" xml:space="preserve">
+    <value>複数編集ポップアップ内では：</value>
+  </data>
+  <data name="AgentEditsMultipleMembers_Figure1" xml:space="preserve">
+    <value>&lt;strong&gt;図1:&lt;/strong&gt; 複数のバーチャルスポーツ編集ポップアップ</value>
+  </data>
+  <data name="AgentEditsMultipleMembers_Figure3" xml:space="preserve">
+    <value>&lt;strong&gt;図3:&lt;/strong&gt; Member02 の新設定</value>
+  </data>
+  <data name="AgentEditsMultipleMembers_Figure2" xml:space="preserve">
+    <value>&lt;strong&gt;図2:&lt;/strong&gt; Member02 の旧設定</value>
+  </data>
+  <data name="Notes_Master" xml:space="preserve">
+    <value>アップラインのベット設定が 0 の場合、ダウンラインのベット設定は上位レベルのベット設定に従います。</value>
+  </data>
+  <data name="Notes_Agent1" xml:space="preserve">
+    <value>デフォルト設定は、選択リストの一番上にあるアカウントの設定です。</value>
+  </data>
+  <data name="Notes_Agent2" xml:space="preserve">
+    <value>ポップアップに表示されるすべての設定は、変更の有無にかかわらず、選択されたアカウントに更新されます。</value>
+  </data>
+  <data name="SuperEditsMultipleMembers_Guideline5" xml:space="preserve">
+    <value>&lt;strong&gt;送信&lt;/strong&gt; をクリックして新しい設定を保存してください。</value>
+  </data>
+  <data name="SuperEditsMultipleMembers_Guideline4" xml:space="preserve">
+    <value>ドロップダウンボックスをクリックして、希望の値を選択してください。</value>
+  </data>
+  <data name="PageTitleIntroduction_Agent" xml:space="preserve">
+    <value>メンバーを1人ずつ編集するのは手間がかかる作業です。そのため、複数のメンバーに同じ設定を一度に適用できるマルチ編集機能に慣れることをお勧めします。</value>
+  </data>
+  <data name="PageTitleIntroduction_Super" xml:space="preserve">
+    <value>ダウンラインアカウントを1つずつ編集するのは手間がかかる作業です。そのため、複数のアカウントに同じ設定を一度に適用できるマルチ編集機能に慣れることをお勧めします。</value>
+  </data>
+  <data name="SuperEditsMultipleMembers_Figure5" xml:space="preserve">
+    <value>&lt;strong&gt;図6:&lt;/strong&gt; Member02 の旧設定</value>
+  </data>
+  <data name="SuperEditsMultipleMembers_Figure4" xml:space="preserve">
+    <value>&lt;strong&gt;図5:&lt;/strong&gt; 複数のバーチャルスポーツ編集ポップアップ</value>
+  </data>
+  <data name="SuperEditsMultipleMembers_Figure6" xml:space="preserve">
+    <value>&lt;strong&gt;図7:&lt;/strong&gt; Member02 の新設定</value>
+  </data>
+  <data name="AgentEditsMultipleMembers_Guideline2" xml:space="preserve">
+    <value>&lt;strong&gt;送信&lt;/strong&gt; をクリックして新しい設定を保存してください。</value>
+  </data>
+  <data name="AgentEditsMultipleMembers_Guideline1" xml:space="preserve">
+    <value>編集するには、希望の設定を入力してください。</value>
+  </data>
 </root>

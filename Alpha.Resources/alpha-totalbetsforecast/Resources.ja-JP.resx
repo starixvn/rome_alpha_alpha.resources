@@ -103,4 +103,28 @@
   <data name="Total" xml:space="preserve">
     <value>合計</value>
   </data>
+  <data name="ForecastTotal" xml:space="preserve">
+    <value>予測合計</value>
+  </data>
+  <data name="ForecastWinLoss" xml:space="preserve">
+    <value>予測勝敗</value>
+  </data>
+  <data name="Live" xml:space="preserve">
+    <value>ライブ！</value>
+  </data>
+  <data name="League" xml:space="preserve">
+    <value>リーグ</value>
+  </data>
+  <data name="Deadball" xml:space="preserve">
+    <value>非ライブ</value>
+  </data>
+  <data name="BetType_1" xml:space="preserve">
+    <value>ハンディキャップ</value>
+  </data>
+  <data name="NonLive" xml:space="preserve">
+    <value>非ライブ</value>
+  </data>
+  <data name="MatchOfferNonLive" xml:space="preserve">
+    <value>非ライブ</value>
+  </data>
 </root>

@@ -731,7 +731,7 @@ Vui lòng điền vào mẫu phía dưới để thiết lập giá trị cho M�
     <value>Trang chủ</value>
   </data>
   <data name="HttpError_403" xml:space="preserve">
-    <value>Truy câp bi chặn</value>
+    <value>Truy cập bị chặn</value>
   </data>
   <data name="HttpError_404" xml:space="preserve">
     <value>Website không tìm thấy, Vui lòng kiểm tra lại địa chỉ</value>
@@ -755,7 +755,7 @@ Vui lòng điền vào mẫu phía dưới để thiết lập giá trị cho M�
     <value>Nhấn Bỏ Qua để tiếp tục mà không cần xem qua các thiết lập.</value>
   </data>
   <data name="informSecCode" xml:space="preserve">
-    <value>Vui lòng nhập Mã bảo mật trước khi thực hiện các thiết lập.!</value>
+    <value>Vui lòng nhập Mã bảo mật trước khi thực hiện các thiết lập!</value>
   </data>
   <data name="introNickname" xml:space="preserve">
     <value>&lt;div&gt;Chào những thành viên thân mến !.Bây giò bạn có thể đăng nhập bằng chính Biệt Danh của mình&lt;/div&gt;</value>
@@ -774,7 +774,7 @@ Vui lòng điền vào mẫu phía dưới để thiết lập giá trị cho M�
   </data>
   <data name="ipnote" xml:space="preserve">
     <value>Thông tin hỗ trợ tại DNSstuff:&lt;a href="{0}" target="_blank"&gt; click here&lt;/a&gt;.
-Lưu ý:Thông tin về Quốc gia, Thành Phố được cung cấp bởi  IP2Location™ và DNSstuff chỉ được dùng với mục đích tham khào .Vui lòng kiềm tra thêm từ những nơi khác để có được nguồn thông tin chính xác nếu cần</value>
+Lưu ý:Thông tin về Quốc gia, Thành Phố được cung cấp bởi  IP2Location™ và DNSstuff chỉ được dùng với mục đích tham khảo .Vui lòng kiểm tra thêm từ những nơi khác để có được nguồn thông tin chính xác nếu cần</value>
   </data>
   <data name="isAuto" xml:space="preserve">
     <value>Auto PT</value>
@@ -879,7 +879,7 @@ Lưu ý:Thông tin về Quốc gia, Thành Phố được cung cấp bởi  IP2L
     <value>Tiền chưa xử lý của Agent</value>
   </data>
   <data name="lblAgOutst" xml:space="preserve">
-    <value>Số  tiền chưa xử lý của Ag</value>
+    <value>Số tiền chưa xử lý của Ag</value>
   </data>
   <data name="lblAlertDisableSATote" xml:space="preserve">
     <value>Cảnh báo: Bạn có muốn chặn thành viên này chơi SA Tote và tất cả những thành viên cấp dưới trực thuộc </value>
@@ -954,7 +954,7 @@ Lưu ý:Thông tin về Quốc gia, Thành Phố được cung cấp bởi  IP2L
     <value>Hoa hồng cho Super</value>
   </data>
   <data name="lblConfirmAllowDownline" xml:space="preserve">
-    <value>Bạn có muốn cho phép tài khoản {tên đăng nhập} này chơi  number game và tất cả những thành viên trực thuộc?</value>
+    <value>Bạn có muốn cho phép tài khoản {tên đăng nhập} này chơi number game và tất cả những thành viên trực thuộc?</value>
   </data>
   <data name="lblConfirmClearCredit" xml:space="preserve">
     <value>Bạn có chắc sẻ thu hồi hạn mức tín dụng của tài khoản { tên đăng nhập } này và tất cả cấp dưới trực thuộc tài khoản này cũng bị thu hồi?</value>
@@ -1008,7 +1008,7 @@ Lưu ý:Thông tin về Quốc gia, Thành Phố được cung cấp bởi  IP2L
     <value>CS</value>
   </data>
   <data name="lblCSOutstanding" xml:space="preserve">
-    <value>Số  tiền chưa xử lý từ Casino</value>
+    <value>Số tiền chưa xử lý từ Casino</value>
   </data>
   <data name="lblCSTransfer" xml:space="preserve">
     <value>Chuyển khoản cho Casino</value>

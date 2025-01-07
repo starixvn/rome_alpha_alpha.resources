@@ -142,7 +142,7 @@
     <value>両方</value>
   </data>
   <data name="lblDraw" xml:space="preserve">
-    <value>引き分け</value>
+    <value>ドロー</value>
   </data>
   <data name="lblNo" xml:space="preserve">
     <value>いいえ</value>
@@ -238,7 +238,7 @@
     <value>進行中</value>
   </data>
   <data name="draw" xml:space="preserve">
-    <value>引き分け</value>
+    <value>ドロー</value>
   </data>
   <data name="waiting" xml:space="preserve">
     <value>承認中</value>

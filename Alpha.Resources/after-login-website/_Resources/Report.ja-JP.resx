@@ -120,4 +120,7 @@
   <data name="Total" xml:space="preserve">
     <value>合計</value>
   </data>
+  <data name="all" xml:space="preserve">
+    <value>全て</value>
+  </data>
 </root>

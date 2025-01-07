@@ -255,4 +255,7 @@
   <data name="ServiceURL" xml:space="preserve">
     <value>Đường dẫn dịch vụ</value>
   </data>
+  <data name="金曜日" xml:space="preserve">
+    <value>Ngày hết hạn không được trong quá khứ.</value>
+  </data>
 </root>

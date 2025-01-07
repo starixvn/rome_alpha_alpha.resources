@@ -120,4 +120,13 @@
   <data name="NoInformationIsAvailable" xml:space="preserve">
     <value>情報はありません</value>
   </data>
+  <data name="message" xml:space="preserve">
+    <value>メッセージ</value>
+  </data>
+  <data name="normal" xml:space="preserve">
+    <value>通常</value>
+  </data>
+  <data name="normal2" xml:space="preserve">
+    <value>通常</value>
+  </data>
 </root>

@@ -924,7 +924,7 @@
     <value>Ngày thắng thua</value>
   </data>
   <data name="UsernameIsRequired" xml:space="preserve">
-    <value>Cần nhập tên người dùng</value>
+    <value>Cần nhập tên đăng nhập</value>
   </data>
   <data name="MoveStatementHistory" xml:space="preserve">
     <value>Lịch sử thay đổi sao kê</value>
@@ -933,7 +933,7 @@
     <value>Báo cáo này sẽ hiển thị tất cả vé cược có ngày diễn ra mới/cũ nằm trong khoảng ngày tháng tìm kiếm.</value>
   </data>
   <data name="InvalidUsername" xml:space="preserve">
-    <value>Tên người dùng không đúng</value>
+    <value>Tên đăng nhập không đúng</value>
   </data>
   <data name="DuplicatedTicketMessage" xml:space="preserve">
     <value>Vé cược nào có ngày diễn ra bị thay đổi nhiều lần sẽ được hiển thị lại và tô đỏ.</value>

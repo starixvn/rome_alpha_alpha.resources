@@ -100,4 +100,7 @@
   <data name="transtime" xml:space="preserve">
     <value>取引時間</value>
   </data>
+  <data name="agentPT" xml:space="preserve">
+    <value>エージェント保有ポジション</value>
+  </data>
 </root>

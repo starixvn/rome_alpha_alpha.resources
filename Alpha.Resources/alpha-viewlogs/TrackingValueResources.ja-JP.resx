@@ -237,7 +237,7 @@ Saba バスケットボール-1試合あたりの最大ペイアウト
     <value>勝ち負けの詳細報告書</value>
   </data>
   <data name="APIKeyScope_2" xml:space="preserve">
-    <value>未払い報告書</value>
+    <value>未決済報告書</value>
   </data>
   <data name="Never" xml:space="preserve">
     <value>決して</value>
@@ -384,13 +384,13 @@ Saba バスケットボール-1試合あたりの最大ペイアウト
     <value>オハンディキャップ</value>
   </data>
   <data name="a_mpt_mem_10" xml:space="preserve">
-    <value>勝者予想</value>
+    <value>アウトライト</value>
   </data>
   <data name="a_mpt_mem_2" xml:space="preserve">
-    <value>奇/偶</value>
+    <value>オッドイーブン</value>
   </data>
   <data name="a_mpt_mem_3" xml:space="preserve">
-    <value>オーバー/アンダー</value>
+    <value>オーバーアンダー</value>
   </data>
   <data name="a_mpt_mem_4" xml:space="preserve">
     <value>正しいスコア</value>
@@ -405,7 +405,7 @@ Saba バスケットボール-1試合あたりの最大ペイアウト
     <value>前半戦オハンディキャップ</value>
   </data>
   <data name="a_mpt_mem_8" xml:space="preserve">
-    <value>前半戦オオーバー/アンダー</value>
+    <value>前半ハーフのオーバーアンダー</value>
   </data>
   <data name="a_mpt_mem_9" xml:space="preserve">
     <value>ミックスパーレー</value>
@@ -414,13 +414,13 @@ Saba バスケットボール-1試合あたりの最大ペイアウト
     <value>ハンディキャップ</value>
   </data>
   <data name="a_v10mpt_mem_2" xml:space="preserve">
-    <value>奇/偶</value>
+    <value>オッドイーブン</value>
   </data>
   <data name="a_v10mpt_mem_20" xml:space="preserve">
     <value>マネーライン</value>
   </data>
   <data name="a_v10mpt_mem_3" xml:space="preserve">
-    <value>オーバー/アンダー</value>
+    <value>オーバーアンダー</value>
   </data>
   <data name="a_v11mpt_mem_1" xml:space="preserve">
     <value>ハンディキャップ</value>
@@ -432,19 +432,19 @@ Saba バスケットボール-1試合あたりの最大ペイアウト
     <value>ハンディキャップ</value>
   </data>
   <data name="a_v2mpt_mem_2" xml:space="preserve">
-    <value>奇/偶</value>
+    <value>オッドイーブン</value>
   </data>
   <data name="a_v2mpt_mem_20" xml:space="preserve">
     <value>マネーライン</value>
   </data>
   <data name="a_v2mpt_mem_3" xml:space="preserve">
-    <value>オーバー/アンダー</value>
+    <value>オーバーアンダー</value>
   </data>
   <data name="a_v2mpt_mem_7" xml:space="preserve">
     <value>前半戦オハンディキャップ</value>
   </data>
   <data name="a_v2mpt_mem_8" xml:space="preserve">
-    <value>前半戦オオーバー/アンダー</value>
+    <value>前半ハーフのオーバーアンダー</value>
   </data>
   <data name="a_v2mpt_mem_9" xml:space="preserve">
     <value>ミックスパーレー</value>
@@ -453,25 +453,25 @@ Saba バスケットボール-1試合あたりの最大ペイアウト
     <value>ハンディキャップ</value>
   </data>
   <data name="a_v3mpt_mem_2" xml:space="preserve">
-    <value>奇/偶</value>
+    <value>オッドイーブン</value>
   </data>
   <data name="a_v3mpt_mem_20" xml:space="preserve">
     <value>マネーライン</value>
   </data>
   <data name="a_v3mpt_mem_3" xml:space="preserve">
-    <value>オーバー/アンダー</value>
+    <value>オーバーアンダー</value>
   </data>
   <data name="a_v5mpt_mem_1" xml:space="preserve">
     <value>ハンディキャップ</value>
   </data>
   <data name="a_v5mpt_mem_2" xml:space="preserve">
-    <value>奇/偶</value>
+    <value>オッドイーブン</value>
   </data>
   <data name="a_v5mpt_mem_20" xml:space="preserve">
     <value>マネーライン</value>
   </data>
   <data name="a_v5mpt_mem_3" xml:space="preserve">
-    <value>オーバー/アンダー</value>
+    <value>オーバーアンダー</value>
   </data>
   <data name="a_v8mpt_mem_1" xml:space="preserve">
     <value>ハンディキャップ</value>
@@ -480,19 +480,19 @@ Saba バスケットボール-1試合あたりの最大ペイアウト
     <value>マネーライン</value>
   </data>
   <data name="a_v8mpt_mem_3" xml:space="preserve">
-    <value>オーバー/アンダー</value>
+    <value>オーバーアンダー</value>
   </data>
   <data name="a_v99mpt_mem_1" xml:space="preserve">
     <value>ハンディキャップ</value>
   </data>
   <data name="a_v99mpt_mem_2" xml:space="preserve">
-    <value>奇/偶</value>
+    <value>オッドイーブン</value>
   </data>
   <data name="a_v99mpt_mem_20" xml:space="preserve">
     <value>マネーライン</value>
   </data>
   <data name="a_v99mpt_mem_3" xml:space="preserve">
-    <value>オーバー/アンダー</value>
+    <value>オーバーアンダー</value>
   </data>
   <data name="isa_mlivept_mem_1" xml:space="preserve">
     <value>ライブハンディキャップ</value>
@@ -510,13 +510,13 @@ Saba バスケットボール-1試合あたりの最大ペイアウト
     <value>ハンディキャップ</value>
   </data>
   <data name="isa_mpt_mem_10" xml:space="preserve">
-    <value>勝者予想</value>
+    <value>アウトライト</value>
   </data>
   <data name="isa_mpt_mem_2" xml:space="preserve">
-    <value>奇/偶</value>
+    <value>オッドイーブン</value>
   </data>
   <data name="isa_mpt_mem_3" xml:space="preserve">
-    <value>オーバー/アンダー</value>
+    <value>オーバーアンダー</value>
   </data>
   <data name="isa_mpt_mem_4" xml:space="preserve">
     <value>正しいスコア</value>
@@ -531,7 +531,7 @@ Saba バスケットボール-1試合あたりの最大ペイアウト
     <value>前半戦オハンディキャップ</value>
   </data>
   <data name="isa_mpt_mem_8" xml:space="preserve">
-    <value>前半戦オオーバー/アンダー</value>
+    <value>前半ハーフのオーバーアンダー</value>
   </data>
   <data name="isa_mpt_mem_9" xml:space="preserve">
     <value>ミックスパーレー</value>
@@ -540,13 +540,13 @@ Saba バスケットボール-1試合あたりの最大ペイアウト
     <value>ハンディキャップ</value>
   </data>
   <data name="isa_v10mpt_mem_2" xml:space="preserve">
-    <value>奇/偶</value>
+    <value>オッドイーブン</value>
   </data>
   <data name="isa_v10mpt_mem_20" xml:space="preserve">
     <value>マネーライン</value>
   </data>
   <data name="isa_v10mpt_mem_3" xml:space="preserve">
-    <value>オーバー/アンダー</value>
+    <value>オーバーアンダー</value>
   </data>
   <data name="isa_v11mpt_mem_1" xml:space="preserve">
     <value>ハンディキャップ</value>
@@ -558,19 +558,19 @@ Saba バスケットボール-1試合あたりの最大ペイアウト
     <value>ハンディキャップ</value>
   </data>
   <data name="isa_v2mpt_mem_2" xml:space="preserve">
-    <value>奇/偶</value>
+    <value>オッドイーブン</value>
   </data>
   <data name="isa_v2mpt_mem_20" xml:space="preserve">
     <value>マネーライン</value>
   </data>
   <data name="isa_v2mpt_mem_3" xml:space="preserve">
-    <value>オーバー/アンダー</value>
+    <value>オーバーアンダー</value>
   </data>
   <data name="isa_v2mpt_mem_7" xml:space="preserve">
     <value>前半戦オハンディキャップ</value>
   </data>
   <data name="isa_v2mpt_mem_8" xml:space="preserve">
-    <value>前半戦オーバー/アンダー</value>
+    <value>前半ハーフのオーバーアンダー</value>
   </data>
   <data name="isa_v2mpt_mem_9" xml:space="preserve">
     <value>ミックスパーレー</value>
@@ -579,25 +579,25 @@ Saba バスケットボール-1試合あたりの最大ペイアウト
     <value>ハンディキャップ</value>
   </data>
   <data name="isa_v3mpt_mem_2" xml:space="preserve">
-    <value>奇/偶</value>
+    <value>オッドイーブン</value>
   </data>
   <data name="isa_v3mpt_mem_20" xml:space="preserve">
     <value>マネーライン</value>
   </data>
   <data name="isa_v3mpt_mem_3" xml:space="preserve">
-    <value>オーバー/アンダー</value>
+    <value>オーバーアンダー</value>
   </data>
   <data name="isa_v5mpt_mem_1" xml:space="preserve">
     <value>ハンディキャップ</value>
   </data>
   <data name="isa_v5mpt_mem_2" xml:space="preserve">
-    <value>奇/偶</value>
+    <value>オッドイーブン</value>
   </data>
   <data name="isa_v5mpt_mem_20" xml:space="preserve">
     <value>マネーライン</value>
   </data>
   <data name="isa_v5mpt_mem_3" xml:space="preserve">
-    <value>オーバー/アンダー</value>
+    <value>オーバーアンダー</value>
   </data>
   <data name="isa_v8mpt_mem_1" xml:space="preserve">
     <value>ハンディキャップ</value>
@@ -606,19 +606,19 @@ Saba バスケットボール-1試合あたりの最大ペイアウト
     <value>マネーライン</value>
   </data>
   <data name="isa_v8mpt_mem_3" xml:space="preserve">
-    <value>オーバー/アンダー</value>
+    <value>オーバーアンダー</value>
   </data>
   <data name="isa_v99mpt_mem_1" xml:space="preserve">
     <value>ハンディキャップ</value>
   </data>
   <data name="isa_v99mpt_mem_2" xml:space="preserve">
-    <value>奇/偶</value>
+    <value>オッドイーブン</value>
   </data>
   <data name="isa_v99mpt_mem_20" xml:space="preserve">
     <value>マネーライン</value>
   </data>
   <data name="isa_v99mpt_mem_3" xml:space="preserve">
-    <value>オーバー/アンダー</value>
+    <value>オーバーアンダー</value>
   </data>
   <data name="AccName" xml:space="preserve">
     <value>アカウント名</value>
@@ -642,49 +642,49 @@ Saba バスケットボール-1試合あたりの最大ペイアウト
     <value>ナンバーゲーム</value>
   </data>
   <data name="v161spt_81" xml:space="preserve">
-    <value>最初/最後 オーバー/アンダー</value>
+    <value>前半/最後 オーバー/アンダー</value>
   </data>
   <data name="v161spt_83" xml:space="preserve">
-    <value>最初/最後 奇/偶</value>
+    <value>最初/最後 オッド/イーブン</value>
   </data>
   <data name="v161spt_85" xml:space="preserve">
-    <value>オーバー/アンダー</value>
+    <value>オーバーアンダー</value>
   </data>
   <data name="v161spt_86" xml:space="preserve">
-    <value>オーバー/アンダー</value>
+    <value>フルタイムオッド/イーブン</value>
   </data>
   <data name="v161slivept_85" xml:space="preserve">
-    <value>フルタイム奇/偶</value>
+    <value>ライブ次のオーバーアンダー</value>
   </data>
   <data name="v161slivept_86" xml:space="preserve">
-    <value>ライブ次のオーバー/アンダー</value>
+    <value>ライブ次のオッド/イーブン</value>
   </data>
   <data name="v161slivept_87" xml:space="preserve">
-    <value>ライブ次の奇/偶</value>
+    <value>ライブ次のハイ/ロー</value>
   </data>
   <data name="mixsports" xml:space="preserve">
-    <value>ライブ次のハイ/ロー</value>
+    <value>ミックススポーツパーレイ</value>
   </data>
   <data name="v99spt_9" xml:space="preserve">
     <value>ミックスパーレー</value>
   </data>
   <data name="a_v161spt_81" xml:space="preserve">
-    <value>最初/最後 オーバー/アンダー</value>
+    <value>前半/最後 オーバー/アンダー</value>
   </data>
   <data name="a_v161spt_83" xml:space="preserve">
-    <value>最初/最後 奇/偶</value>
+    <value>最初/最後 オッド/イーブン</value>
   </data>
   <data name="a_v161spt_85" xml:space="preserve">
-    <value>オーバー/アンダー</value>
+    <value>オーバーアンダー</value>
   </data>
   <data name="a_v161spt_86" xml:space="preserve">
-    <value>フルタイム奇/偶</value>
+    <value>フルタイムオッド/イーブン</value>
   </data>
   <data name="a_v161slivept_85" xml:space="preserve">
     <value>ライブ次のオーバー/アンダー</value>
   </data>
   <data name="a_v161slivept_86" xml:space="preserve">
-    <value>ライブ次の奇/偶</value>
+    <value>ライブ次のオッド/イーブン</value>
   </data>
   <data name="a_v161slivept_87" xml:space="preserve">
     <value>ライブ次のハイ/ロー</value>
@@ -693,22 +693,22 @@ Saba バスケットボール-1試合あたりの最大ペイアウト
     <value>ミックスパーレー</value>
   </data>
   <data name="isa_v161spt_81" xml:space="preserve">
-    <value>最初/最後 オーバー/アンダー</value>
+    <value>前半/最後 オーバー/アンダー</value>
   </data>
   <data name="isa_v161spt_83" xml:space="preserve">
-    <value>最初/最後 奇/偶</value>
+    <value>最初/最後 オッド/イーブン</value>
   </data>
   <data name="isa_v161spt_85" xml:space="preserve">
-    <value>オーバー/アンダー</value>
+    <value>オーバーアンダー</value>
   </data>
   <data name="isa_v161spt_86" xml:space="preserve">
-    <value>フルタイム奇/偶</value>
+    <value>フルタイムオッド/イーブン</value>
   </data>
   <data name="isa_v161slivept_85" xml:space="preserve">
     <value>ライブ次のオーバー/アンダー</value>
   </data>
   <data name="isa_v161slivept_86" xml:space="preserve">
-    <value>ライブ次の奇/偶</value>
+    <value>ライブ次のオッド/イーブン</value>
   </data>
   <data name="isa_v161slivept_87" xml:space="preserve">
     <value>ライブ次のハイ/ロー</value>
@@ -717,22 +717,22 @@ Saba バスケットボール-1試合あたりの最大ペイアウト
     <value>ミックスパーレー</value>
   </data>
   <data name="v161mpt_81" xml:space="preserve">
-    <value>最初/最後 オーバー/アンダー</value>
+    <value>前半/最後 オーバー/アンダー</value>
   </data>
   <data name="v161mpt_83" xml:space="preserve">
-    <value>最初/最後 奇/偶</value>
+    <value>最初/最後 オッド/イーブン</value>
   </data>
   <data name="v161mpt_85" xml:space="preserve">
-    <value>オーバー/アンダー</value>
+    <value>オーバーアンダー</value>
   </data>
   <data name="v161mpt_86" xml:space="preserve">
-    <value>フルタイム奇/偶</value>
+    <value>フルタイムオッド/イーブン</value>
   </data>
   <data name="v161mlivept_85" xml:space="preserve">
     <value>ライブ次のオーバー/アンダー</value>
   </data>
   <data name="v161mlivept_86" xml:space="preserve">
-    <value>ライブ次の奇/偶</value>
+    <value>ライブ次のオッド/イーブン</value>
   </data>
   <data name="v161mlivept_87" xml:space="preserve">
     <value>ライブ次のハイ/ロー</value>
@@ -768,22 +768,22 @@ Saba バスケットボール-1試合あたりの最大ペイアウト
     <value>ナンバーゲームの最小-最大ベットを更新します</value>
   </data>
   <data name="v161apt_81" xml:space="preserve">
-    <value>最初/最後 オーバー/アンダー</value>
+    <value>前半/最後 オーバー/アンダー</value>
   </data>
   <data name="v161apt_83" xml:space="preserve">
-    <value>最初/最後 奇/偶</value>
+    <value>前半/最後 オッド/イーブン</value>
   </data>
   <data name="v161apt_85" xml:space="preserve">
-    <value>オーバー/アンダー</value>
+    <value>オーバーアンダー</value>
   </data>
   <data name="v161apt_86" xml:space="preserve">
-    <value>フルタイム奇/偶</value>
+    <value>フルタイムオッド/イーブン</value>
   </data>
   <data name="v161alivept_85" xml:space="preserve">
     <value>ライブ次のオーバー/アンダー</value>
   </data>
   <data name="v161alivept_86" xml:space="preserve">
-    <value>ライブ次の奇/偶</value>
+    <value>ライブ次のオッド/イーブン</value>
   </data>
   <data name="v161alivept_87" xml:space="preserve">
     <value>ライブ次のハイ/ロー</value>
@@ -792,22 +792,22 @@ Saba バスケットボール-1試合あたりの最大ペイアウト
     <value>ミックスパーレー</value>
   </data>
   <data name="a_v161mpt_81" xml:space="preserve">
-    <value>最初/最後 オーバー/アンダー</value>
+    <value>前半/最後 オーバー/アンダー</value>
   </data>
   <data name="a_v161mpt_83" xml:space="preserve">
-    <value>最初/最後 奇/偶</value>
+    <value>前半/最後 オッド/イーブン</value>
   </data>
   <data name="a_v161mpt_85" xml:space="preserve">
-    <value>オーバー/アンダー</value>
+    <value>オーバーアンダー</value>
   </data>
   <data name="a_v161mpt_86" xml:space="preserve">
-    <value>フルタイム奇/偶</value>
+    <value>フルタイムオッド/イーブン</value>
   </data>
   <data name="a_v161mlivept_85" xml:space="preserve">
     <value>ライブ次のオーバー/アンダー</value>
   </data>
   <data name="a_v161mlivept_86" xml:space="preserve">
-    <value>ライブ次の奇/偶</value>
+    <value>ライブ次のオッド/イーブン</value>
   </data>
   <data name="a_v161mlivept_87" xml:space="preserve">
     <value>ライブ次のハイ/ロー</value>
@@ -816,22 +816,22 @@ Saba バスケットボール-1試合あたりの最大ペイアウト
     <value>ミックスパーレー</value>
   </data>
   <data name="isa_v161mpt_81" xml:space="preserve">
-    <value>最初/最後 オーバー/アンダー</value>
+    <value>前半/最後 オーバー/アンダー</value>
   </data>
   <data name="isa_v161mpt_83" xml:space="preserve">
-    <value>最初/最後 奇/偶</value>
+    <value>前半/最後 オッド/イーブン</value>
   </data>
   <data name="isa_v161mpt_85" xml:space="preserve">
-    <value>オーバー/アンダー</value>
+    <value>オーバーアンダー</value>
   </data>
   <data name="isa_v161mpt_86" xml:space="preserve">
-    <value>フルタイム奇/偶</value>
+    <value>フルタイムオッド/イーブン</value>
   </data>
   <data name="isa_v161mlivept_85" xml:space="preserve">
     <value>ライブ次のオーバー/アンダー</value>
   </data>
   <data name="isa_v161mlivept_86" xml:space="preserve">
-    <value>ライブ次の奇/偶</value>
+    <value>ライブ次のオッド/イーブン</value>
   </data>
   <data name="isa_v161mlivept_87" xml:space="preserve">
     <value>ライブ次のハイ/ロー</value>
@@ -846,43 +846,43 @@ Saba バスケットボール-1試合あたりの最大ペイアウト
     <value>ナンバーゲームの保有ポジションを更新</value>
   </data>
   <data name="minv161pt_81" xml:space="preserve">
-    <value>最小 最初/最後 オーバー/アンダー</value>
+    <value>最小 前半/最後 オーバー/アンダー</value>
   </data>
   <data name="minv161pt_83" xml:space="preserve">
-    <value>最小 最初/最後 奇/偶</value>
+    <value>最小 前半/最後 オッド/イーブン</value>
   </data>
   <data name="minv161pt_85" xml:space="preserve">
-    <value>最小オーバー/アンダー</value>
+    <value>最小オーバーアンダー</value>
   </data>
   <data name="minv161pt_86" xml:space="preserve">
-    <value>最小フルタイム奇/偶</value>
+    <value>最小フルタイムオッド/イーブン</value>
   </data>
   <data name="minv161livept_85" xml:space="preserve">
     <value>最小ライブ次のオーバー/アンダー</value>
   </data>
   <data name="minv161livept_86" xml:space="preserve">
-    <value>最小ライブ次の奇/偶</value>
+    <value>最小ライブ次のオッド/イーブン</value>
   </data>
   <data name="minv161livept_87" xml:space="preserve">
     <value>最小ライブ次のハイ/ロー</value>
   </data>
   <data name="maxv161pt_81" xml:space="preserve">
-    <value>最大 最初/最後 オーバー/アンダー</value>
+    <value>最大 前半/最後 オーバー/アンダー</value>
   </data>
   <data name="maxv161pt_83" xml:space="preserve">
-    <value>最大 最初/最後 奇/偶</value>
+    <value>最大 前半/最後 オッド/イーブン</value>
   </data>
   <data name="maxv161pt_85" xml:space="preserve">
     <value>最大オーバー/アンダー</value>
   </data>
   <data name="maxv161pt_86" xml:space="preserve">
-    <value>最大フルタイム 奇/偶</value>
+    <value>最大フルタイム オッド/イーブン</value>
   </data>
   <data name="maxv161livept_85" xml:space="preserve">
     <value>最大ライブ次のオーバー/アンダー</value>
   </data>
   <data name="maxv161livept_86" xml:space="preserve">
-    <value>最大ライブ次の奇/偶</value>
+    <value>最大ライブ次のオッド/イーブン</value>
   </data>
   <data name="maxv161livept_87" xml:space="preserve">
     <value>最大ライブ次のハイ/ロー</value>
@@ -891,22 +891,22 @@ Saba バスケットボール-1試合あたりの最大ペイアウト
     <value>無効化されたナンバーゲーム</value>
   </data>
   <data name="isa_v161mpt_mem_81" xml:space="preserve">
-    <value>最初/最後  オーバー/アンダー</value>
+    <value>前半/最後  オーバー/アンダー</value>
   </data>
   <data name="isa_v161mpt_mem_83" xml:space="preserve">
-    <value>最初/最後  奇/偶</value>
+    <value>最初/最後  オッド/イーブン</value>
   </data>
   <data name="isa_v161mpt_mem_85" xml:space="preserve">
-    <value>オーバー/アンダー</value>
+    <value>オーバーアンダー</value>
   </data>
   <data name="isa_v161mpt_mem_86" xml:space="preserve">
-    <value>フルタイム 奇/偶</value>
+    <value>フルタイム オッド/イーブン</value>
   </data>
   <data name="isa_v161mlivept_mem_85" xml:space="preserve">
     <value>ライブ次のオーバー/アンダー</value>
   </data>
   <data name="isa_v161mlivept_mem_86" xml:space="preserve">
-    <value>ライブ次の奇/偶</value>
+    <value>ライブ次のオッド/イーブン</value>
   </data>
   <data name="isa_v161mlivept_mem_87" xml:space="preserve">
     <value>ライブ次のハイ/ロー</value>
@@ -915,22 +915,22 @@ Saba バスケットボール-1試合あたりの最大ペイアウト
     <value>ミックスパーレー</value>
   </data>
   <data name="a_v161mpt_mem_81" xml:space="preserve">
-    <value>最初/最後  オーバー/アンダー</value>
+    <value>前半/最後  オーバー/アンダー</value>
   </data>
   <data name="a_v161mpt_mem_83" xml:space="preserve">
-    <value>最初/最後  奇/偶</value>
+    <value>前半/最後  オッド/イーブン</value>
   </data>
   <data name="a_v161mpt_mem_85" xml:space="preserve">
-    <value>オーバー/アンダー</value>
+    <value>オーバーアンダー</value>
   </data>
   <data name="a_v161mpt_mem_86" xml:space="preserve">
-    <value>フルタイム 奇/偶</value>
+    <value>フルタイム オッド/イーブン</value>
   </data>
   <data name="a_v161mlivept_mem_85" xml:space="preserve">
     <value>ライブ次のオーバー/アンダー</value>
   </data>
   <data name="a_v161mlivept_mem_86" xml:space="preserve">
-    <value>ライブ次の奇/偶</value>
+    <value>ライブ次のオッド/イーブン</value>
   </data>
   <data name="a_v161mlivept_mem_87" xml:space="preserve">
     <value>ライブ次のハイ/ロー</value>
@@ -1080,10 +1080,10 @@ Saba バスケットボール-1試合あたりの最大ペイアウト
     <value>マスター最大保有ポジション</value>
   </data>
   <data name="lblPresetPTMaster" xml:space="preserve">
-    <value>マスター事前設定保有ポジション</value>
+    <value>マスタープリセット保有ポジション</value>
   </data>
   <data name="lblPresetPTSuper" xml:space="preserve">
-    <value>スーパー事前設定保有ポジション</value>
+    <value>スーパープリセット保有ポジション</value>
   </data>
   <data name="lblMaxPTAgent" xml:space="preserve">
     <value>エージェント最大保有ポジション</value>
@@ -1098,7 +1098,7 @@ Saba バスケットボール-1試合あたりの最大ペイアウト
     <value>エージェントID</value>
   </data>
   <data name="baccarat" xml:space="preserve">
-    <value>Baccarat</value>
+    <value>バカラ</value>
   </data>
   <data name="casinoNo" xml:space="preserve">
     <value>カジノ番号</value>
@@ -1161,7 +1161,7 @@ Saba バスケットボール-1試合あたりの最大ペイアウト
     <value>既定値ですか</value>
   </data>
   <data name="MaximumWin" xml:space="preserve">
-    <value>最大勝ち額は</value>
+    <value>最大勝ち額</value>
   </data>
   <data name="lblMaxPTSuper" xml:space="preserve">
     <value>スーパー最大保有ポジション</value>
@@ -1173,13 +1173,13 @@ Saba バスケットボール-1試合あたりの最大ペイアウト
     <value>保有ポジションを更新</value>
   </data>
   <data name="ApplyDownlinesVS" xml:space="preserve">
-    <value>すべての下層ラインに適用</value>
+    <value>すべてのダウンラインに適用</value>
   </data>
   <data name="disabled" xml:space="preserve">
-    <value>無効化された</value>
+    <value>無効</value>
   </data>
   <data name="bettype" xml:space="preserve">
-    <value>ベットタイプ</value>
+    <value>賭けの種類</value>
   </data>
   <data name="others" xml:space="preserve">
     <value>その他</value>
@@ -1206,7 +1206,7 @@ Saba バスケットボール-1試合あたりの最大ペイアウト
     <value>コミッション</value>
   </data>
   <data name="Apply_downlines" xml:space="preserve">
-    <value>下層ラインに適用</value>
+    <value>ダウンラインに適用</value>
   </data>
   <data name="doublecommission" xml:space="preserve">
     <value>ダブルコミッション</value>
@@ -1221,7 +1221,7 @@ Saba バスケットボール-1試合あたりの最大ペイアウト
     <value>無効状態ですか</value>
   </data>
   <data name="isdisableddownline" xml:space="preserve">
-    <value>下層ラインが無効状態ですか</value>
+    <value>ダウンラインが無効状態ですか</value>
   </data>
   <data name="IsLive" xml:space="preserve">
     <value>ライブ状態ですか</value>
@@ -1236,7 +1236,7 @@ Saba バスケットボール-1試合あたりの最大ペイアウト
     <value>製品</value>
   </data>
   <data name="MaximumLoss" xml:space="preserve">
-    <value>最大負け額は</value>
+    <value>最大負け額</value>
   </data>
   <data name="Disable50_501" xml:space="preserve">
     <value>クリケットを無効化しました</value>
@@ -1290,7 +1290,7 @@ Saba バスケットボール-1試合あたりの最大ペイアウト
     <value>Letstalk ID</value>
   </data>
   <data name="Outstanding" xml:space="preserve">
-    <value>未払い</value>
+    <value>未決済</value>
   </data>
   <data name="TodayWinLoss" xml:space="preserve">
     <value>今日の勝ち負け</value>
@@ -1392,7 +1392,7 @@ Saba バスケットボール-1試合あたりの最大ペイアウト
     <value>Happy 5 の最小-最大ベットを更新する</value>
   </data>
   <data name="IsAllAffectedDownlines" xml:space="preserve">
-    <value>影響を受けた下層ラインはすべてですか</value>
+    <value>影響を受けたダウンラインはすべてですか</value>
   </data>
   <data name="IsAllDayBalTransfer" xml:space="preserve">
     <value>全日残高振込ですか</value>
@@ -1401,10 +1401,10 @@ Saba バスケットボール-1試合あたりの最大ペイアウト
     <value>アカウント</value>
   </data>
   <data name="DownlineSubAcc" xml:space="preserve">
-    <value>下層ラインのサブアカウント</value>
+    <value>ダウンラインのサブアカウント</value>
   </data>
   <data name="UplineSubAcc" xml:space="preserve">
-    <value>上層ラインのサブアカウント</value>
+    <value>アップラインのサブアカウント</value>
   </data>
   <data name="DiscountMyanmarOdds" xml:space="preserve">
     <value>ミャンマーオッズ割引</value>
@@ -1609,5 +1609,719 @@ Saba バスケットボール-1試合あたりの最大ペイアウト
   </data>
   <data name="agID" xml:space="preserve">
     <value>エージェントID</value>
+  </data>
+  <data name="v10mpt_20" xml:space="preserve">
+    <value>マネーライン</value>
+  </data>
+  <data name="v3apt_20" xml:space="preserve">
+    <value>マネーライン</value>
+  </data>
+  <data name="lblPhone" xml:space="preserve">
+    <value>電話</value>
+  </data>
+  <data name="isa_v3spt_20" xml:space="preserve">
+    <value>マネーライン</value>
+  </data>
+  <data name="isa_v3smpt_3" xml:space="preserve">
+    <value>オーバーアンダー</value>
+  </data>
+  <data name="isa_v3smpt_2" xml:space="preserve">
+    <value>オッドイーブン</value>
+  </data>
+  <data name="username" xml:space="preserve">
+    <value>ユーザー名</value>
+  </data>
+  <data name="a_v3spt_20" xml:space="preserve">
+    <value>マネーライン</value>
+  </data>
+  <data name="a_v10mpt_2" xml:space="preserve">
+    <value>オッドイーブン</value>
+  </data>
+  <data name="a_v10mpt_3" xml:space="preserve">
+    <value>オーバーアンダー</value>
+  </data>
+  <data name="a_v10spt_2" xml:space="preserve">
+    <value>オッドイーブン</value>
+  </data>
+  <data name="a_v10spt_3" xml:space="preserve">
+    <value>オーバーアンダー</value>
+  </data>
+  <data name="isa_v10mpt_20" xml:space="preserve">
+    <value>マネーライン</value>
+  </data>
+  <data name="lastname" xml:space="preserve">
+    <value>姓</value>
+  </data>
+  <data name="isa_v2spt_20" xml:space="preserve">
+    <value>マネーライン</value>
+  </data>
+  <data name="isa_v2smpt_2" xml:space="preserve">
+    <value>オッドイーブン</value>
+  </data>
+  <data name="isa_v2smpt_3" xml:space="preserve">
+    <value>オーバーアンダー</value>
+  </data>
+  <data name="isa_v2smpt_8" xml:space="preserve">
+    <value>前半ハーフのオーバーアンダー</value>
+  </data>
+  <data name="isa_v2smpt_9" xml:space="preserve">
+    <value>ミックスパーレイ</value>
+  </data>
+  <data name="isa_mpt_3" xml:space="preserve">
+    <value>オーバーアンダー</value>
+  </data>
+  <data name="isa_mpt_2" xml:space="preserve">
+    <value>オッドイーブン</value>
+  </data>
+  <data name="isa_mpt_9" xml:space="preserve">
+    <value>ミックスパーレイ</value>
+  </data>
+  <data name="isa_mpt_8" xml:space="preserve">
+    <value>前半ハーフのオーバーアンダー</value>
+  </data>
+  <data name="isa_spt_9" xml:space="preserve">
+    <value>ミックスパーレイ</value>
+  </data>
+  <data name="isa_spt_8" xml:space="preserve">
+    <value>前半ハーフのオーバーアンダー</value>
+  </data>
+  <data name="isa_spt_3" xml:space="preserve">
+    <value>オーバーアンダー</value>
+  </data>
+  <data name="isa_spt_2" xml:space="preserve">
+    <value>オッドイーブン</value>
+  </data>
+  <data name="a_v8mpt_20" xml:space="preserve">
+    <value>マネーライン</value>
+  </data>
+  <data name="a_v11spt_20" xml:space="preserve">
+    <value>マネーライン</value>
+  </data>
+  <data name="v3mpt_20" xml:space="preserve">
+    <value>マネーライン</value>
+  </data>
+  <data name="v3spt_20" xml:space="preserve">
+    <value>マネーライン</value>
+  </data>
+  <data name="v10spt_2" xml:space="preserve">
+    <value>オッドイーブン</value>
+  </data>
+  <data name="v10spt_3" xml:space="preserve">
+    <value>オーバーアンダー</value>
+  </data>
+  <data name="a_v3mpt_20" xml:space="preserve">
+    <value>マネーライン</value>
+  </data>
+  <data name="a_v99spt_20" xml:space="preserve">
+    <value>マネーライン</value>
+  </data>
+  <data name="v10apt_2" xml:space="preserve">
+    <value>オッドイーブン</value>
+  </data>
+  <data name="v10apt_3" xml:space="preserve">
+    <value>オーバーアンダー</value>
+  </data>
+  <data name="v10mpt_2" xml:space="preserve">
+    <value>オッドイーブン</value>
+  </data>
+  <data name="v10mpt_3" xml:space="preserve">
+    <value>オーバーアンダー</value>
+  </data>
+  <data name="isa_v11smpt_20" xml:space="preserve">
+    <value>マネーライン</value>
+  </data>
+  <data name="a_v10mpt_20" xml:space="preserve">
+    <value>マネーライン</value>
+  </data>
+  <data name="isa_v10spt_2" xml:space="preserve">
+    <value>オッドイーブン</value>
+  </data>
+  <data name="isa_v10spt_3" xml:space="preserve">
+    <value>オーバーアンダー</value>
+  </data>
+  <data name="isa_v10mpt_2" xml:space="preserve">
+    <value>オッドイーブン</value>
+  </data>
+  <data name="isa_v10mpt_3" xml:space="preserve">
+    <value>オーバーアンダー</value>
+  </data>
+  <data name="suspended" xml:space="preserve">
+    <value>停止</value>
+  </data>
+  <data name="a_spt_10" xml:space="preserve">
+    <value>アウトライト</value>
+  </data>
+  <data name="isa_v3smpt_20" xml:space="preserve">
+    <value>マネーライン</value>
+  </data>
+  <data name="lblMobilePhone" xml:space="preserve">
+    <value>携帯電話</value>
+  </data>
+  <data name="a_mpt_10" xml:space="preserve">
+    <value>アウトライト</value>
+  </data>
+  <data name="v99spt_20" xml:space="preserve">
+    <value>マネーライン</value>
+  </data>
+  <data name="isa_v99smpt_20" xml:space="preserve">
+    <value>マネーライン</value>
+  </data>
+  <data name="a_v8spt_3" xml:space="preserve">
+    <value>オーバーアンダー</value>
+  </data>
+  <data name="loginIP" xml:space="preserve">
+    <value>ログインIP</value>
+  </data>
+  <data name="a_v8mpt_3" xml:space="preserve">
+    <value>オーバーアンダー</value>
+  </data>
+  <data name="a_spt_3" xml:space="preserve">
+    <value>オーバーアンダー</value>
+  </data>
+  <data name="a_spt_2" xml:space="preserve">
+    <value>オッドイーブン</value>
+  </data>
+  <data name="a_spt_9" xml:space="preserve">
+    <value>ミックスパーレイ</value>
+  </data>
+  <data name="a_spt_8" xml:space="preserve">
+    <value>前半ハーフのオーバーアンダー</value>
+  </data>
+  <data name="a_mpt_9" xml:space="preserve">
+    <value>ミックスパーレイ</value>
+  </data>
+  <data name="a_mpt_8" xml:space="preserve">
+    <value>前半ハーフのオーバーアンダー</value>
+  </data>
+  <data name="a_mpt_3" xml:space="preserve">
+    <value>オーバーアンダー</value>
+  </data>
+  <data name="a_mpt_2" xml:space="preserve">
+    <value>オッドイーブン</value>
+  </data>
+  <data name="mobilephone" xml:space="preserve">
+    <value>携帯電話</value>
+  </data>
+  <data name="v11spt_20" xml:space="preserve">
+    <value>マネーライン</value>
+  </data>
+  <data name="isa_smpt_10" xml:space="preserve">
+    <value>アウトライト</value>
+  </data>
+  <data name="a_v10spt_20" xml:space="preserve">
+    <value>マネーライン</value>
+  </data>
+  <data name="a_v5spt_20" xml:space="preserve">
+    <value>マネーライン</value>
+  </data>
+  <data name="v99spt_3" xml:space="preserve">
+    <value>オーバーアンダー</value>
+  </data>
+  <data name="v99spt_2" xml:space="preserve">
+    <value>オッドイーブン</value>
+  </data>
+  <data name="a_v5spt_2" xml:space="preserve">
+    <value>オッドイーブン</value>
+  </data>
+  <data name="a_v5spt_3" xml:space="preserve">
+    <value>オーバーアンダー</value>
+  </data>
+  <data name="v99apt_3" xml:space="preserve">
+    <value>オーバーアンダー</value>
+  </data>
+  <data name="v99apt_2" xml:space="preserve">
+    <value>オッドイーブン</value>
+  </data>
+  <data name="a_v5mpt_2" xml:space="preserve">
+    <value>オッドイーブン</value>
+  </data>
+  <data name="a_v5mpt_3" xml:space="preserve">
+    <value>オーバーアンダー</value>
+  </data>
+  <data name="v99mpt_3" xml:space="preserve">
+    <value>オーバーアンダー</value>
+  </data>
+  <data name="v99mpt_2" xml:space="preserve">
+    <value>オッドイーブン</value>
+  </data>
+  <data name="a_v2spt_3" xml:space="preserve">
+    <value>オーバーアンダー</value>
+  </data>
+  <data name="a_v2spt_2" xml:space="preserve">
+    <value>オッドイーブン</value>
+  </data>
+  <data name="a_v2spt_9" xml:space="preserve">
+    <value>ミックスパーレイ</value>
+  </data>
+  <data name="a_v2spt_8" xml:space="preserve">
+    <value>前半ハーフのオーバーアンダー</value>
+  </data>
+  <data name="a_v2mpt_9" xml:space="preserve">
+    <value>ミックスパーレイ</value>
+  </data>
+  <data name="a_v2mpt_8" xml:space="preserve">
+    <value>前半ハーフのオーバーアンダー</value>
+  </data>
+  <data name="a_v2mpt_3" xml:space="preserve">
+    <value>オーバーアンダー</value>
+  </data>
+  <data name="a_v2mpt_2" xml:space="preserve">
+    <value>オッドイーブン</value>
+  </data>
+  <data name="v8mpt_20" xml:space="preserve">
+    <value>マネーライン</value>
+  </data>
+  <data name="a_v3spt_2" xml:space="preserve">
+    <value>オッドイーブン</value>
+  </data>
+  <data name="a_v3spt_3" xml:space="preserve">
+    <value>オーバーアンダー</value>
+  </data>
+  <data name="a_v3mpt_2" xml:space="preserve">
+    <value>オッドイーブン</value>
+  </data>
+  <data name="a_v3mpt_3" xml:space="preserve">
+    <value>オーバーアンダー</value>
+  </data>
+  <data name="m" xml:space="preserve">
+    <value>マスター保有ポジション</value>
+  </data>
+  <data name="s" xml:space="preserve">
+    <value>スーパー保有ポジション</value>
+  </data>
+  <data name="ag" xml:space="preserve">
+    <value>エージェント保有ポジション</value>
+  </data>
+  <data name="isa_v2smpt_20" xml:space="preserve">
+    <value>マネーライン</value>
+  </data>
+  <data name="v8apt_20" xml:space="preserve">
+    <value>マネーライン</value>
+  </data>
+  <data name="isa_v99spt_3" xml:space="preserve">
+    <value>オーバーアンダー</value>
+  </data>
+  <data name="isa_v99spt_2" xml:space="preserve">
+    <value>オッドイーブン</value>
+  </data>
+  <data name="v99apt_20" xml:space="preserve">
+    <value>マネーライン</value>
+  </data>
+  <data name="isa_v99mpt_3" xml:space="preserve">
+    <value>オーバーアンダー</value>
+  </data>
+  <data name="isa_v99mpt_2" xml:space="preserve">
+    <value>オッドイーブン</value>
+  </data>
+  <data name="apt_9" xml:space="preserve">
+    <value>ミックスパーレイ</value>
+  </data>
+  <data name="apt_8" xml:space="preserve">
+    <value>前半ハーフのオーバーアンダー</value>
+  </data>
+  <data name="apt_3" xml:space="preserve">
+    <value>オーバーアンダー</value>
+  </data>
+  <data name="apt_2" xml:space="preserve">
+    <value>オッドイーブン</value>
+  </data>
+  <data name="lname" xml:space="preserve">
+    <value>姓</value>
+  </data>
+  <data name="mpt_3" xml:space="preserve">
+    <value>オーバーアンダー</value>
+  </data>
+  <data name="mpt_2" xml:space="preserve">
+    <value>オッドイーブン</value>
+  </data>
+  <data name="mpt_9" xml:space="preserve">
+    <value>ミックスパーレイ</value>
+  </data>
+  <data name="mpt_8" xml:space="preserve">
+    <value>前半ハーフのオーバーアンダー</value>
+  </data>
+  <data name="phone" xml:space="preserve">
+    <value>電話</value>
+  </data>
+  <data name="fax" xml:space="preserve">
+    <value>ファックス</value>
+  </data>
+  <data name="spt_9" xml:space="preserve">
+    <value>ミックスパーレイ</value>
+  </data>
+  <data name="spt_8" xml:space="preserve">
+    <value>前半ハーフのオーバーアンダー</value>
+  </data>
+  <data name="spt_3" xml:space="preserve">
+    <value>オーバーアンダー</value>
+  </data>
+  <data name="spt_2" xml:space="preserve">
+    <value>オッドイーブン</value>
+  </data>
+  <data name="v11apt_20" xml:space="preserve">
+    <value>マネーライン</value>
+  </data>
+  <data name="isa_v99smpt_2" xml:space="preserve">
+    <value>オッドイーブン</value>
+  </data>
+  <data name="isa_v99smpt_3" xml:space="preserve">
+    <value>オーバーアンダー</value>
+  </data>
+  <data name="isa_v99spt_20" xml:space="preserve">
+    <value>マネーライン</value>
+  </data>
+  <data name="isa_mpt_10" xml:space="preserve">
+    <value>アウトライト</value>
+  </data>
+  <data name="isa_v5smpt_3" xml:space="preserve">
+    <value>オーバーアンダー</value>
+  </data>
+  <data name="isa_v5smpt_2" xml:space="preserve">
+    <value>オッドイーブン</value>
+  </data>
+  <data name="isa_v11spt_20" xml:space="preserve">
+    <value>マネーライン</value>
+  </data>
+  <data name="a_v5mpt_20" xml:space="preserve">
+    <value>マネーライン</value>
+  </data>
+  <data name="isa_v5mpt_20" xml:space="preserve">
+    <value>マネーライン</value>
+  </data>
+  <data name="isa_v3mpt_2" xml:space="preserve">
+    <value>オッドイーブン</value>
+  </data>
+  <data name="isa_v3mpt_3" xml:space="preserve">
+    <value>オーバーアンダー</value>
+  </data>
+  <data name="isa_v3spt_2" xml:space="preserve">
+    <value>オッドイーブン</value>
+  </data>
+  <data name="isa_v3spt_3" xml:space="preserve">
+    <value>オーバーアンダー</value>
+  </data>
+  <data name="isa_v8mpt_20" xml:space="preserve">
+    <value>マネーライン</value>
+  </data>
+  <data name="isa_spt_10" xml:space="preserve">
+    <value>アウトライト</value>
+  </data>
+  <data name="v99mpt_20" xml:space="preserve">
+    <value>マネーライン</value>
+  </data>
+  <data name="isa_smpt_2" xml:space="preserve">
+    <value>オッドイーブン</value>
+  </data>
+  <data name="isa_smpt_3" xml:space="preserve">
+    <value>オーバーアンダー</value>
+  </data>
+  <data name="isa_smpt_8" xml:space="preserve">
+    <value>前半ハーフのオーバーアンダー</value>
+  </data>
+  <data name="isa_smpt_9" xml:space="preserve">
+    <value>ミックスパーレイ</value>
+  </data>
+  <data name="v5apt_20" xml:space="preserve">
+    <value>マネーライン</value>
+  </data>
+  <data name="isa_v5spt_2" xml:space="preserve">
+    <value>オッドイーブン</value>
+  </data>
+  <data name="isa_v5spt_3" xml:space="preserve">
+    <value>オーバーアンダー</value>
+  </data>
+  <data name="isa_v5mpt_2" xml:space="preserve">
+    <value>オッドイーブン</value>
+  </data>
+  <data name="isa_v5mpt_3" xml:space="preserve">
+    <value>オーバーアンダー</value>
+  </data>
+  <data name="v11mpt_20" xml:space="preserve">
+    <value>マネーライン</value>
+  </data>
+  <data name="v8spt_20" xml:space="preserve">
+    <value>マネーライン</value>
+  </data>
+  <data name="v2apt_20" xml:space="preserve">
+    <value>マネーライン</value>
+  </data>
+  <data name="v5mpt_20" xml:space="preserve">
+    <value>マネーライン</value>
+  </data>
+  <data name="isa_v2mpt_3" xml:space="preserve">
+    <value>オーバーアンダー</value>
+  </data>
+  <data name="isa_v2mpt_2" xml:space="preserve">
+    <value>オッドイーブン</value>
+  </data>
+  <data name="isa_v2mpt_9" xml:space="preserve">
+    <value>ミックスパーレイ</value>
+  </data>
+  <data name="isa_v2mpt_8" xml:space="preserve">
+    <value>前半ハーフのオーバーアンダー</value>
+  </data>
+  <data name="isa_v2spt_9" xml:space="preserve">
+    <value>ミックスパーレイ</value>
+  </data>
+  <data name="isa_v2spt_8" xml:space="preserve">
+    <value>前半ハーフのオーバーアンダー</value>
+  </data>
+  <data name="isa_v2spt_3" xml:space="preserve">
+    <value>オーバーアンダー</value>
+  </data>
+  <data name="isa_v2spt_2" xml:space="preserve">
+    <value>オッドイーブン</value>
+  </data>
+  <data name="v10spt_20" xml:space="preserve">
+    <value>マネーライン</value>
+  </data>
+  <data name="isa_v99mpt_20" xml:space="preserve">
+    <value>マネーライン</value>
+  </data>
+  <data name="a_v99mpt_3" xml:space="preserve">
+    <value>オーバーアンダー</value>
+  </data>
+  <data name="a_v99mpt_2" xml:space="preserve">
+    <value>オッドイーブン</value>
+  </data>
+  <data name="a_v99spt_3" xml:space="preserve">
+    <value>オーバーアンダー</value>
+  </data>
+  <data name="a_v99spt_2" xml:space="preserve">
+    <value>オッドイーブン</value>
+  </data>
+  <data name="v5spt_20" xml:space="preserve">
+    <value>マネーライン</value>
+  </data>
+  <data name="isa_v11mpt_20" xml:space="preserve">
+    <value>マネーライン</value>
+  </data>
+  <data name="isa_v8mpt_3" xml:space="preserve">
+    <value>オーバーアンダー</value>
+  </data>
+  <data name="isa_v8spt_3" xml:space="preserve">
+    <value>オーバーアンダー</value>
+  </data>
+  <data name="v2mpt_20" xml:space="preserve">
+    <value>マネーライン</value>
+  </data>
+  <data name="isa_v5smpt_20" xml:space="preserve">
+    <value>マネーライン</value>
+  </data>
+  <data name="a_v2spt_20" xml:space="preserve">
+    <value>マネーライン</value>
+  </data>
+  <data name="apt_10" xml:space="preserve">
+    <value>アウトライト</value>
+  </data>
+  <data name="a_v2mpt_20" xml:space="preserve">
+    <value>マネーライン</value>
+  </data>
+  <data name="lblFax" xml:space="preserve">
+    <value>ファックス</value>
+  </data>
+  <data name="isa_v10smpt_3" xml:space="preserve">
+    <value>オーバーアンダー</value>
+  </data>
+  <data name="isa_v10smpt_2" xml:space="preserve">
+    <value>オッドイーブン</value>
+  </data>
+  <data name="mpt_10" xml:space="preserve">
+    <value>アウトライト</value>
+  </data>
+  <data name="isa_v10spt_20" xml:space="preserve">
+    <value>マネーライン</value>
+  </data>
+  <data name="closed" xml:space="preserve">
+    <value>クローズ</value>
+  </data>
+  <data name="isa_v8smpt_20" xml:space="preserve">
+    <value>マネーライン</value>
+  </data>
+  <data name="v2spt_20" xml:space="preserve">
+    <value>マネーライン</value>
+  </data>
+  <data name="isa_v10smpt_20" xml:space="preserve">
+    <value>マネーライン</value>
+  </data>
+  <data name="v10apt_20" xml:space="preserve">
+    <value>マネーライン</value>
+  </data>
+  <data name="a_v11mpt_20" xml:space="preserve">
+    <value>マネーライン</value>
+  </data>
+  <data name="v2apt_9" xml:space="preserve">
+    <value>ミックスパーレイ</value>
+  </data>
+  <data name="v2apt_8" xml:space="preserve">
+    <value>前半ハーフのオーバーアンダー</value>
+  </data>
+  <data name="v2apt_3" xml:space="preserve">
+    <value>オーバーアンダー</value>
+  </data>
+  <data name="v2apt_2" xml:space="preserve">
+    <value>オッドイーブン</value>
+  </data>
+  <data name="v2mpt_3" xml:space="preserve">
+    <value>オーバーアンダー</value>
+  </data>
+  <data name="v2mpt_2" xml:space="preserve">
+    <value>オッドイーブン</value>
+  </data>
+  <data name="v2mpt_9" xml:space="preserve">
+    <value>ミックスパーレイ</value>
+  </data>
+  <data name="v2mpt_8" xml:space="preserve">
+    <value>前半ハーフのオーバーアンダー</value>
+  </data>
+  <data name="isa_v8spt_20" xml:space="preserve">
+    <value>マネーライン</value>
+  </data>
+  <data name="isa_v8smpt_3" xml:space="preserve">
+    <value>オーバーアンダー</value>
+  </data>
+  <data name="v2spt_9" xml:space="preserve">
+    <value>ミックスパーレイ</value>
+  </data>
+  <data name="v2spt_8" xml:space="preserve">
+    <value>前半ハーフのオーバーアンダー</value>
+  </data>
+  <data name="v2spt_3" xml:space="preserve">
+    <value>オーバーアンダー</value>
+  </data>
+  <data name="v2spt_2" xml:space="preserve">
+    <value>オッドイーブン</value>
+  </data>
+  <data name="v3apt_2" xml:space="preserve">
+    <value>オッドイーブン</value>
+  </data>
+  <data name="v3apt_3" xml:space="preserve">
+    <value>オーバーアンダー</value>
+  </data>
+  <data name="v3mpt_2" xml:space="preserve">
+    <value>オッドイーブン</value>
+  </data>
+  <data name="v3mpt_3" xml:space="preserve">
+    <value>オーバーアンダー</value>
+  </data>
+  <data name="v3spt_2" xml:space="preserve">
+    <value>オッドイーブン</value>
+  </data>
+  <data name="v3spt_3" xml:space="preserve">
+    <value>オーバーアンダー</value>
+  </data>
+  <data name="a_v99mpt_20" xml:space="preserve">
+    <value>マネーライン</value>
+  </data>
+  <data name="v5apt_2" xml:space="preserve">
+    <value>オッドイーブン</value>
+  </data>
+  <data name="v5apt_3" xml:space="preserve">
+    <value>オーバーアンダー</value>
+  </data>
+  <data name="v5mpt_2" xml:space="preserve">
+    <value>オッドイーブン</value>
+  </data>
+  <data name="v5mpt_3" xml:space="preserve">
+    <value>オーバーアンダー</value>
+  </data>
+  <data name="v5spt_2" xml:space="preserve">
+    <value>オッドイーブン</value>
+  </data>
+  <data name="v5spt_3" xml:space="preserve">
+    <value>オーバーアンダー</value>
+  </data>
+  <data name="isa_v2mpt_20" xml:space="preserve">
+    <value>マネーライン</value>
+  </data>
+  <data name="isa_v3mpt_20" xml:space="preserve">
+    <value>マネーライン</value>
+  </data>
+  <data name="v8mpt_3" xml:space="preserve">
+    <value>オーバーアンダー</value>
+  </data>
+  <data name="v8apt_3" xml:space="preserve">
+    <value>オーバーアンダー</value>
+  </data>
+  <data name="v8spt_3" xml:space="preserve">
+    <value>オーバーアンダー</value>
+  </data>
+  <data name="v8spt_1" xml:space="preserve">
+    <value>ハンディキャップ</value>
+  </data>
+  <data name="minv5pt_20" xml:space="preserve">
+    <value>最小マネーライン</value>
+  </data>
+  <data name="minv2pt_20" xml:space="preserve">
+    <value>最小マネーライン</value>
+  </data>
+  <data name="suspendedMultiple" xml:space="preserve">
+    <value>複数が停止中</value>
+  </data>
+  <data name="aume" xml:space="preserve">
+    <value>マスター自動保有ポジション</value>
+  </data>
+  <data name="lang" xml:space="preserve">
+    <value>言語</value>
+  </data>
+  <data name="minb" xml:space="preserve">
+    <value>サッカー最小ベット</value>
+  </data>
+  <data name="maxb" xml:space="preserve">
+    <value>サッカー最大ベット</value>
+  </data>
+  <data name="city" xml:space="preserve">
+    <value>シティ</value>
+  </data>
+  <data name="iame" xml:space="preserve">
+    <value>マスター自動保有ポジションはマスターで有効ですか？</value>
+  </data>
+  <data name="isau" xml:space="preserve">
+    <value>スーパー自動保有ポジションはマスターで有効ですか？</value>
+  </data>
+  <data name="ummb" xml:space="preserve">
+    <value>最小最大ベットサッカーの更新 </value>
+  </data>
+  <data name="site" xml:space="preserve">
+    <value>サイト</value>
+  </data>
+  <data name="From" xml:space="preserve">
+    <value>から</value>
+  </data>
+  <data name="To" xml:space="preserve">
+    <value>まで</value>
+  </data>
+  <data name="Rate" xml:space="preserve">
+    <value>レート</value>
+  </data>
+  <data name="Size" xml:space="preserve">
+    <value>サイズ</value>
+  </data>
+  <data name="disabledCS" xml:space="preserve">
+    <value>無効化されたカジノ</value>
+  </data>
+  <data name="remark" xml:space="preserve">
+    <value>リマーク</value>
+  </data>
+  <data name="a_v8spt_20" xml:space="preserve">
+    <value>マネーライン</value>
+  </data>
+  <data name="status" xml:space="preserve">
+    <value>状態</value>
+  </data>
+  <data name="spt_10" xml:space="preserve">
+    <value>アウトライト</value>
+  </data>
+  <data name="All" xml:space="preserve">
+    <value>全て</value>
+  </data>
+  <data name="TypeAUserName" xml:space="preserve">
+    <value>ユーザー名を入力する</value>
+  </data>
+  <data name="actionDesc" xml:space="preserve">
+    <value>詳細</value>
+  </data>
+  <data name="actionname" xml:space="preserve">
+    <value>アクション</value>
   </data>
 </root>

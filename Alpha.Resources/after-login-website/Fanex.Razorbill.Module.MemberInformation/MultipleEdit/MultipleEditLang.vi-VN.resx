@@ -127,7 +127,7 @@
     <value>&lt;strong&gt;Hình 3.&lt;/strong&gt; Thiết lập mới của Member02</value>
   </data>
   <data name="AgentEditsMultipleMembers_Guideline1" xml:space="preserve">
-    <value>Chọn vùng thiết lập cần chỉnh sửa và nhập dữ liệu mong muốn.</value>
+    <value>Chọn vùng thiết lập cần chỉnh sửa và chọn dữ liệu mong muốn.</value>
   </data>
   <data name="AgentEditsMultipleMembers_Guideline2" xml:space="preserve">
     <value>Nhấp vào &lt;strong&gt;Cập Nhật&lt;/strong&gt; để lưu trữ thiết lập mới cho các Member.</value>
@@ -163,7 +163,7 @@
     <value>&lt;strong&gt;Hình 6.&lt;/strong&gt; Thiết lập mới của Member02</value>
   </data>
   <data name="MasterEditsMultipleMembers_Guideline4" xml:space="preserve">
-    <value>Chọn vùng thiết lập cần chỉnh sửa và nhập dữ liệu mong muốn.</value>
+    <value>Chọn vùng thiết lập cần chỉnh sửa và chọn dữ liệu mong muốn.</value>
   </data>
   <data name="MasterEditsMultipleMembers_Guideline5" xml:space="preserve">
     <value>Nhấp vào &lt;strong&gt;Cập Nhật&lt;/strong&gt; để lưu trữ thiết lập mới cho các Member.</value>
@@ -232,7 +232,7 @@
     <value>&lt;strong&gt;Hình 6.&lt;/strong&gt; Thiết lập mới của Member02</value>
   </data>
   <data name="SuperEditsMultipleMembers_Guideline4" xml:space="preserve">
-    <value>Chọn vùng thiết lập cần chỉnh sửa và nhập dữ liệu mong muốn.</value>
+    <value>Chọn vùng thiết lập cần chỉnh sửa và chọn dữ liệu mong muốn.</value>
   </data>
   <data name="SuperEditsMultipleMembers_Guideline5" xml:space="preserve">
     <value>Nhấp vào &lt;strong&gt;Cập Nhật&lt;/strong&gt; để lưu trữ thiết lập mới cho các Member.</value>

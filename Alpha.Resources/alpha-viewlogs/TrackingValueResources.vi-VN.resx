@@ -169,7 +169,7 @@
     <value>Chiết khấu cho người chơi</value>
   </data>
   <data name="minv11pt_20" xml:space="preserve">
-    <value>PT nhỏ nhất cho  Moneyline</value>
+    <value>PT nhỏ nhất cho Moneyline</value>
   </data>
   <data name="username" xml:space="preserve">
     <value>Tên đăng nhập</value>
@@ -3121,7 +3121,7 @@
     <value>Hoa hồng</value>
   </data>
   <data name="BetSetting" xml:space="preserve">
-    <value>Tiền Cược</value>
+    <value>Giới Hạn Cược</value>
   </data>
   <data name="ParlayMaxPayout" xml:space="preserve">
     <value>Thanh toán tối đa cho Cược Xiên</value>

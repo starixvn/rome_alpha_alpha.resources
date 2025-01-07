@@ -143,13 +143,13 @@
   </data>
   <data name="ClosedByAdmin" xml:space="preserve">
     <value>
-このアカウントは管理者によって閉鎖されました。</value>
+このアカウントは管理者によってクローズされました。</value>
   </data>
   <data name="ClosedByUpline" xml:space="preserve">
-    <value>このアカウントは上位者によって閉鎖されました。</value>
+    <value>このアカウントは上位者によってクローズされました。</value>
   </data>
   <data name="ClosedByArchive" xml:space="preserve">
-    <value>このアカウントは非活動により閉鎖されました。</value>
+    <value>このアカウントは非活動によりクローズされました。</value>
   </data>
   <data name="FalseOTPSCUnlockConfirm" xml:space="preserve">
     <value>このアカウントは複数回のOTP/セキュリティコード認証失敗によりロックされています。本当にロックを解除しますか？</value>

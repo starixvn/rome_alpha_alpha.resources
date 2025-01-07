@@ -2046,7 +2046,7 @@
     <comment />
   </data>
   <data name="moneyline" xml:space="preserve">
-    <value>Money Line</value>
+    <value>Moneyline</value>
     <comment />
   </data>
   <data name="monthly" xml:space="preserve">
@@ -2262,7 +2262,7 @@
     <comment />
   </data>
   <data name="password" xml:space="preserve">
-    <value>パスワード</value>
+    <value>Password</value>
     <comment />
   </data>
   <data name="pcomm1" xml:space="preserve">
@@ -2510,7 +2510,7 @@
     <comment />
   </data>
   <data name="settingOf" xml:space="preserve">
-    <value>'s setting</value>
+    <value>s setting</value>
     <comment />
   </data>
   <data name="showhidecolumnAd" xml:space="preserve">

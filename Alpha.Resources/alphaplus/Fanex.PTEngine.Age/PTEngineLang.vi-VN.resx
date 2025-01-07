@@ -666,7 +666,7 @@
   </data>
   <data name="ipnote" xml:space="preserve">
     <value>Thông tin hỗ trợ tại DNSstuff:&lt;a href="{0}" target="_blank"&gt; click here&lt;/a&gt;.
-Lưu ý:Thông tin về Quốc gia, Thành Phố được cung cấp bởi  IP2Location™ và DNSstuff chỉ được dùng với mục đích tham khào .Vui lòng kiềm tra thêm từ những nơi khác để có được nguồn thông tin chính xác nếu cần</value>
+Lưu ý:Thông tin về Quốc gia, Thành Phố được cung cấp bởi  IP2Location™ và DNSstuff chỉ được dùng với mục đích tham khảo .Vui lòng kiểm tra thêm từ những nơi khác để có được nguồn thông tin chính xác nếu cần.</value>
   </data>
   <data name="isAuto" xml:space="preserve">
     <value>Auto PT</value>

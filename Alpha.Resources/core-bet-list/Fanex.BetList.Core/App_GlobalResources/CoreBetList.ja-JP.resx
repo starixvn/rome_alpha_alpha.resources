@@ -247,13 +247,13 @@
     <value>試合</value>
   </data>
   <data name="of" xml:space="preserve">
-    <value>の</value>
+    <value>の </value>
   </data>
   <data name="open" xml:space="preserve">
     <value>開設</value>
   </data>
   <data name="outstanding" xml:space="preserve">
-    <value>未払い</value>
+    <value>未決済</value>
   </data>
   <data name="P2P" xml:space="preserve">
     <value>プレイヤー対プレイヤー</value>
@@ -377,7 +377,8 @@
     <value>試合全体の他のスコアを除外する</value>
   </data>
   <data name="AOSHTExcluding" xml:space="preserve">
-    <value>前半の他のスコアを除外する</value>
+    <value>前半の他のスコアを除外する
+</value>
   </data>
   <data name="ResultPending" xml:space="preserve">
     <value>結果が保留中</value>
@@ -521,7 +522,7 @@
     <value>アウェイが4ラン以上で勝つ</value>
   </data>
   <data name="voucherid" xml:space="preserve">
-    <value>バウチャーID:</value>
+    <value> バウチャーID:</value>
   </data>
   <data name="bingo" xml:space="preserve">
     <value>ビンゴ</value>
@@ -599,16 +600,16 @@
     <value>PlayTechカジノ</value>
   </data>
   <data name="ee" xml:space="preserve">
-    <value>偶数/偶数</value>
+    <value>イーブン/イーブン</value>
   </data>
   <data name="eo" xml:space="preserve">
-    <value>偶数/奇数</value>
+    <value>イーブン/オッド</value>
   </data>
   <data name="oe" xml:space="preserve">
-    <value>奇数/偶数</value>
+    <value>オッド／イーブン</value>
   </data>
   <data name="oo" xml:space="preserve">
-    <value>奇数/奇数</value>
+    <value>オッド/オッド</value>
   </data>
   <data name="FiveAndOver" xml:space="preserve">
     <value>5+</value>
@@ -623,7 +624,7 @@
     <value>ゴールなし</value>
   </data>
   <data name="OneGoal" xml:space="preserve">
-    <value>1ゴール</value>
+    <value> 1ゴール</value>
   </data>
   <data name="SevenAndOver" xml:space="preserve">
     <value>7+</value>
@@ -644,7 +645,7 @@
     <value>4+</value>
   </data>
   <data name="all" xml:space="preserve">
-    <value>すべて</value>
+    <value>全て</value>
   </data>
   <data name="AM" xml:space="preserve">
     <value>AM</value>
@@ -656,7 +657,7 @@
     <value>に</value>
   </data>
   <data name="bettype" xml:space="preserve">
-    <value>ベットタイプ</value>
+    <value>賭けの種類</value>
   </data>
   <data name="casino" xml:space="preserve">
     <value>カジノ</value>
@@ -704,7 +705,7 @@
     <value>M = マスター</value>
   </data>
   <data name="lblNoDraw" xml:space="preserve">
-    <value>引き分けなし</value>
+    <value>ドローなし</value>
   </data>
   <data name="lblS" xml:space="preserve">
     <value>S = スーパー</value>
@@ -752,7 +753,7 @@
     <value>2人のプレイヤー</value>
   </data>
   <data name="p2pGame" xml:space="preserve">
-    <value>ポーカーゲーム</value>
+    <value>ポーカーゲーム </value>
   </data>
   <data name="PartyBaccarat" xml:space="preserve">
     <value>パーティーバカラ</value>
@@ -782,7 +783,7 @@
     <value>小計</value>
   </data>
   <data name="UpdateAll" xml:space="preserve">
-    <value>すべて更新</value>
+    <value>すべて更新 </value>
   </data>
   <data name="warrior" xml:space="preserve">
     <value>戦士</value>
@@ -791,7 +792,7 @@
     <value>水曜日</value>
   </data>
   <data name="Roulette" xml:space="preserve">
-    <value>ルーレット</value>
+    <value>ルーレット </value>
   </data>
   <data name="table" xml:space="preserve">
     <value>表</value>
@@ -806,10 +807,12 @@
     <value>3+</value>
   </data>
   <data name="ExtraTimeHTDotOne" xml:space="preserve">
-    <value>前半追加時間 ホームチーム勝利</value>
+    <value>前半追加時間 ホームチーム勝利
+</value>
   </data>
   <data name="ExtraTimeHTDotX" xml:space="preserve">
-    <value>前半追加時間 引き分け</value>
+    <value>前半追加時間 ドロー
+</value>
   </data>
   <data name="ExtraTimeHTDotTwo" xml:space="preserve">
     <value>前半追加時間 アウェイチーム勝利</value>
@@ -818,7 +821,7 @@
     <value>最小</value>
   </data>
   <data name="RegularTime" xml:space="preserve">
-    <value>規定時間</value>
+    <value>規定時間 </value>
   </data>
   <data name="ExtraTime" xml:space="preserve">
     <value>追加時間</value>
@@ -893,13 +896,13 @@
     <value>3+</value>
   </data>
   <data name="BoughtLabel" xml:space="preserve">
-    <value>番号から購入 :</value>
+    <value>番号から購入：</value>
   </data>
   <data name="CashOut" xml:space="preserve">
     <value>賭け券販売</value>
   </data>
   <data name="CashOutLabel" xml:space="preserve">
-    <value>賭け券販売番号 : </value>
+    <value>賭け券販売番号</value>
   </data>
   <data name="FT455" xml:space="preserve">
     <value>フルタイム</value>
@@ -959,7 +962,8 @@
     <value>ジャックポット当選詳細</value>
   </data>
   <data name="h12" xml:space="preserve">
-    <value>ホームチームが第1セットと第2セットで勝利</value>
+    <value>ホームチームが第1セットと第2セットで勝利
+</value>
   </data>
   <data name="h13" xml:space="preserve">
     <value>ホームチームが第1セットと第3セットで勝利</value>
@@ -1001,7 +1005,8 @@
     <value>第1クォーターと第3クォーターの別のスコア</value>
   </data>
   <data name="aos14" xml:space="preserve">
-    <value>第1クォーターと第4クォーターの別のスコア</value>
+    <value>第1クォーターと第4クォーターの別のスコア
+</value>
   </data>
   <data name="aos23" xml:space="preserve">
     <value>第2クォーターと第3クォーターの別のスコア</value>

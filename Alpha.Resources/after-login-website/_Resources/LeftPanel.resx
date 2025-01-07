@@ -205,7 +205,7 @@
     <value>Member Win Limit</value>
   </data>
   <data name="moneyline" xml:space="preserve">
-    <value>Money Line</value>
+    <value>Moneyline</value>
   </data>
   <data name="OE1x2DND" xml:space="preserve">
     <value>Odd/Even + 1X2 + DND</value>

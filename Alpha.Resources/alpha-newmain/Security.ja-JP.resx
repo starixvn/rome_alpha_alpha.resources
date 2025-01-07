@@ -166,7 +166,7 @@
     <value>セキュリティコードの有効性確認</value>
   </data>
   <data name="LearnMore" xml:space="preserve">
-    <value>詳細を確認</value>
+    <value>詳しく見る</value>
   </data>
   <data name="Password" xml:space="preserve">
     <value>パスワード</value>
@@ -184,7 +184,7 @@
     <value>ユーザー名とパスワードを入力してください。</value>
   </data>
   <data name="lblConfirmClosed" xml:space="preserve">
-    <value>アカウントが閉鎖されたため、強制的にログアウトされました。上層ラインに連絡してサポートを受けてください。</value>
+    <value>アカウントがクローズされたため、強制的にログアウトされました。アップラインに連絡してサポートを受けてください。</value>
   </data>
   <data name="Login" xml:space="preserve">
     <value>入力</value>
@@ -193,7 +193,7 @@
     <value>ユーザー名またはパスワードを6回間違えました。5分後に再度お試しください。</value>
   </data>
   <data name="stringSessionLogged" xml:space="preserve">
-    <value>アカウントが別のセッションにログインされたため、ログアウトされました。このアクティビティに心当たりがない場合は、上層ラインに連絡してください</value>
+    <value>アカウントが別のセッションにログインされたため、ログアウトされました。このアクティビティに心当たりがない場合は、アップラインに連絡してください</value>
   </data>
   <data name="undermaintenance" xml:space="preserve">
     <value>現在サーバーメンテナンス中のため、ウェブサイトは{0}から{1}まで利用できません。ご不便をおかけして申し訳ありません！</value>
@@ -202,7 +202,7 @@
     <value>パスワードが正しく確認されませんでした。</value>
   </data>
   <data name="alertInputOldPwd" xml:space="preserve">
-    <value>古いパスワードを入力してください！！！</value>
+    <value>旧パスワードを入力してください!!!</value>
   </data>
   <data name="alertPasswordEmpty" xml:space="preserve">
     <value>申し訳ありませんが、パスワードを空にすることはできません！！！</value>
@@ -217,7 +217,7 @@
     <value>パスワードにはユーザー名またはニックネームを含めてはいけません。</value>
   </data>
   <data name="lblPasswordDOldOne" xml:space="preserve">
-    <value>新しいパスワードは現在のパスワードと完全に異なるものである必要があります。</value>
+    <value>新しいパスワードは現在のものと完全に異なる必要があります。</value>
   </data>
   <data name="lblPasswordExpired" xml:space="preserve">
     <value>お客様のセキュリティおよびプライバシーを最優先に考えています。そのため、データを保護するためにセキュリティ対策を継続的に改善しています。このため、パスワードリセットを行うことにしました。以下のフォームをご利用いただき、パスワードを変更してください。</value>
@@ -232,7 +232,7 @@
     <value>パスワードを確認</value>
   </data>
   <data name="lblOldPassword" xml:space="preserve">
-    <value>古いパスワード</value>
+    <value>旧パスワード</value>
   </data>
   <data name="NewPassword" xml:space="preserve">
     <value>新規パスワード</value>
@@ -260,19 +260,21 @@
     <value>戻る</value>
   </data>
   <data name="lblChangePassword" xml:space="preserve">
-    <value>パスワードを変更</value>
+    <value>パスワード変更</value>
   </data>
   <data name="lblresetpassword" xml:space="preserve">
     <value>パスワードをリセット</value>
   </data>
   <data name="lblPasswordRequire" xml:space="preserve">
-    <value>パスワードは少なくとも8文字以上で、空白を含まず、以下のうち3つ以上を含む必要があります：
-・大文字 [A-Z]
-・小文字 [a-z]
-・数字 [0-9]
-・特殊文字 (!,@,#など)
-例: 59D7!4$h, 493abcDE
-注意: パスワードは大文字小文字を区別します。</value>
+    <value>パスワードは8文字以上で、スペースを含まず、以下のうち少なくとも3つを含める必要があります:
+
+• 大文字 [A-Z]
+• 小文字 [a-z]
+• 数字 [0-9]
+• 特殊文字 (!,@,# など)
+
+例: 59D7!4$h、493abcDE
+注意: パスワードは大文字と小文字を区別します。</value>
   </data>
   <data name="createSecurityCode" xml:space="preserve">
     <value>設定を更新する際に本人確認のために使用されるセキュリティコードを作成してください。</value>
@@ -281,7 +283,7 @@
     <value>例えば: 123456、765432、456789 などは使用できません。</value>
   </data>
   <data name="KickoutMessageByForceChangePassword" xml:space="preserve">
-    <value>あなたのアカウントのパスワードが上層ラインによってリセットされたため、ログアウトされました。新しいパスワードで再度ログインしてください。ご不明な点がある場合は、上層ラインにお問い合わせください。</value>
+    <value>あなたのアカウントのパスワードがアップラインによってリセットされたため、ログアウトされました。新しいパスワードで再度ログインしてください。ご不明な点がある場合は、アップラインにお問い合わせください。</value>
   </data>
   <data name="VerifySecurityCodeShower" xml:space="preserve">
     <value>やあ、{0}さん</value>
@@ -290,10 +292,10 @@
     <value>「OK」と入力してスキップし、リスクを受け入れてください。</value>
   </data>
   <data name="SkipForceChangePasswordWarning" xml:space="preserve">
-    <value>古いパスワードを保持することに確信がありますか？頻繁にパスワードを変更しないと、セキュリティリスクが高まります。</value>
+    <value>旧パスワードを保持することに確信がありますか？頻繁にパスワードを変更しないと、セキュリティリスクが高まります。</value>
   </data>
   <data name="lblConfirmLocked" xml:space="preserve">
-    <value>あなたのアカウントは複数回のセキュリティチェック失敗によりロックされ、強制ログアウトされました。解除するには上層ラインにお問い合わせください。</value>
+    <value>あなたのアカウントは複数回のセキュリティチェック失敗によりロックされ、強制ログアウトされました。解除するにはアップラインにお問い合わせください。</value>
   </data>
   <data name="SecurityCode" xml:space="preserve">
     <value>セキュリティコード</value>
@@ -378,7 +380,7 @@
     <value>OTPを削除 - {0}</value>
   </data>
   <data name="ResetOtpWarning" xml:space="preserve">
-    <value>下層ラインのモバイル認証アカウントを削除し、下層ラインのTelegram OTP通知を無効にするために削除をクリックしてください。</value>
+    <value>ダウンラインのモバイル認証アカウントを削除し、ダウンラインのTelegram OTP通知を無効にするために削除をクリックしてください。</value>
   </data>
   <data name="OtpValidation" xml:space="preserve">
     <value>OTP 有効性確認</value>
@@ -420,16 +422,16 @@
     <value>確かめる</value>
   </data>
   <data name="LockAccountOtpMessage" xml:space="preserve">
-    <value>複数回のセキュリティチェック失敗により、アカウントがロックされました。解除するには上層ラインにお問い合わせください。</value>
+    <value>複数回のセキュリティチェック失敗により、アカウントがロックされました。解除するにはアップラインにお問い合わせください。</value>
   </data>
   <data name="OtpInvalidOrExpiredAndContactUpline" xml:space="preserve">
-    <value>OTPが無効または期限切れです。別のOTPをお試しいただくか、上層ラインに連絡してOTPをリセットしてください。</value>
+    <value>OTPが無効または期限切れです。別のOTPをお試しいただくか、アップラインに連絡してOTPをリセットしてください。</value>
   </data>
   <data name="Skip" xml:space="preserve">
     <value>スキップ</value>
   </data>
   <data name="KickoutMessageByProtectedMode" xml:space="preserve">
-    <value>あなたのアカウントは強制的にログアウトされました。詳細は上層ラインにお問い合わせください。</value>
+    <value>あなたのアカウントは強制的にログアウトされました。詳細はアップラインにお問い合わせください。</value>
   </data>
   <data name="SwitchLabelOff" xml:space="preserve">
     <value>オフ</value>
@@ -444,7 +446,7 @@
     <value>ステートメントレポートへのアクセス</value>
   </data>
   <data name="CreateNewDownline" xml:space="preserve">
-    <value>新規下層ラインを作成</value>
+    <value>新規ダウンラインを作成</value>
   </data>
   <data name="MandatoryActions" xml:space="preserve">
     <value>必須の行動</value>
@@ -459,7 +461,7 @@
     <value>振込</value>
   </data>
   <data name="UpdateDownlineCreditAndSettings" xml:space="preserve">
-    <value>下層ラインの付与済み与信と設定を更新</value>
+    <value>ダウンラインの付与済み与信と設定を更新</value>
   </data>
   <data name="UpdateSecurityInformation" xml:space="preserve">
     <value>セキュリティ情報（パスワード、セキュリティコード、OTPなど）の更新</value>

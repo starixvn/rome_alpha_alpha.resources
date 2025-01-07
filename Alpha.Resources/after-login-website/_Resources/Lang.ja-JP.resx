@@ -209,7 +209,7 @@
 </value>
   </data>
   <data name="all" xml:space="preserve">
-    <value>すべて</value>
+    <value>全て</value>
   </data>
   <data name="allagent" xml:space="preserve">
     <value>すべてのエージェント</value>
@@ -218,7 +218,7 @@
     <value>すべてのリーグ</value>
   </data>
   <data name="allmember" xml:space="preserve">
-    <value>すべてのメンバー</value>
+    <value>全メンバー</value>
   </data>
   <data name="allowtransfer" xml:space="preserve">
     <value>振込が許可されています：</value>
@@ -260,7 +260,7 @@
     <value>ベット概要</value>
   </data>
   <data name="bettype" xml:space="preserve">
-    <value>ベットタイプ</value>
+    <value>賭けの種類</value>
   </data>
   <data name="btnAdd" xml:space="preserve">
     <value>追加する
@@ -282,7 +282,7 @@
     <value>閉じる</value>
   </data>
   <data name="closed" xml:space="preserve">
-    <value>解約</value>
+    <value>クローズ</value>
   </data>
   <data name="com" xml:space="preserve">
     <value>コミッション</value>
@@ -308,7 +308,7 @@
 </value>
   </data>
   <data name="lblDraw" xml:space="preserve">
-    <value>引き分け</value>
+    <value>ドロー</value>
   </data>
   <data name="noInfo" xml:space="preserve">
     <value>情報はありません</value>
@@ -404,7 +404,7 @@
     <value>このアカウントは無効化されました</value>
   </data>
   <data name="and" xml:space="preserve">
-    <value>および</value>
+    <value>と</value>
   </data>
   <data name="confirmAllowOutright" xml:space="preserve">
     <value>この顧客に対して、アウトライトベッティングを許可してもよろしいですか？</value>
@@ -422,7 +422,7 @@
     <value>このマスターの自動保有ポジション機能を有効にしてもよろしいですか？</value>
   </data>
   <data name="bettingLimitMsg" xml:space="preserve">
-    <value>各ゲームタイプで少なくとも1つの賭け制限を選択してください。</value>
+    <value>各ゲームタイプで少なくとも1つのベット制限を選択してください。</value>
   </data>
   <data name="betperline" xml:space="preserve">
     <value>ラインごとのベット</value>
@@ -509,7 +509,7 @@
     <value>エージェントの最大信用限度額は{0}から{1}の間でなければなりません</value>
   </data>
   <data name="accClosed" xml:space="preserve">
-    <value>このアカウントは閉鎖されました</value>
+    <value>このアカウントはクローズされました</value>
   </data>
   <data name="accSuspended" xml:space="preserve">
     <value>このアカウントは停止されました</value>
@@ -552,7 +552,7 @@
     <value>エージェントリスト</value>
   </data>
   <data name="agentCommissionByBetType" xml:space="preserve">
-    <value>賭け種別ごとのエージェントコミッション</value>
+    <value>ベットタイプ別エージェントコミッション</value>
   </data>
   <data name="Commission3Details" xml:space="preserve">
     <value>コミッション3の詳細</value>
@@ -667,7 +667,7 @@
     <value />
   </data>
   <data name="ad" xml:space="preserve">
-    <value>アウェイチーム / 引き分け</value>
+    <value>アウェイチーム / ドロー</value>
   </data>
   <data name="consolidatedreport" xml:space="preserve">
     <value>グループの勝敗</value>
@@ -718,7 +718,7 @@
     <value>エージェントリスト</value>
   </data>
   <data name="lblAgentOutstanding" xml:space="preserve">
-    <value>エージェント未払い</value>
+    <value>エージェント未決済</value>
   </data>
   <data name="lblCancelledBets" xml:space="preserve">
     <value>取り消されたベット</value>
@@ -727,7 +727,7 @@
     <value>予想 </value>
   </data>
   <data name="lblHomeDrawAwayNoBet" xml:space="preserve">
-    <value>ホーム/引き分け/アウェイ ベットなし</value>
+    <value>ホーム/ドロー/アウェイ ベットなし</value>
   </data>
   <data name="lblHOUL" xml:space="preserve">
     <value>ハンディキャップ/オーバー・アンダー/ライブ</value>
@@ -759,7 +759,455 @@
   <data name="parlay" xml:space="preserve">
     <value>パーレイ</value>
   </data>
-  <data name="HttpError_Default" xml:space="preserve">
-    <value>申し訳ありませんが、サーバーで予期しない問題が発生しました。カスタマーサポートにお問い合わせください。[{0}]</value>
+  <data name="baccarat" xml:space="preserve">
+    <value>バカラ</value>
+  </data>
+  <data name="bonusFreeSpin" xml:space="preserve">
+    <value>ボーナスフリースピン</value>
+  </data>
+  <data name="enterusername" xml:space="preserve">
+    <value>ユーザー名または姓/名</value>
+  </data>
+  <data name="firstlastoddeven" xml:space="preserve">
+    <value>第1/最後 オッドイーブン</value>
+  </data>
+  <data name="firstlastoverunder" xml:space="preserve">
+    <value>第1/最後/オーバーアンダー</value>
+  </data>
+  <data name="Golf" xml:space="preserve">
+    <value>ゴルフ</value>
+  </data>
+  <data name="gotopage" xml:space="preserve">
+    <value>ページへ移動</value>
+  </data>
+  <data name="hideLeague" xml:space="preserve">
+    <value>リーグを非表示</value>
+  </data>
+  <data name="hideMatch" xml:space="preserve">
+    <value>試合を非表示</value>
+  </data>
+  <data name="highestturnoverofthemonth" xml:space="preserve">
+    <value>今月の売上高が最も高いメンバー</value>
+  </data>
+  <data name="HttpError_404" xml:space="preserve">
+    <value>ページが見つかりません。アドレスを確認してください。</value>
+  </data>
+  <data name="ImgLogOut" xml:space="preserve">
+    <value>ログアウト</value>
+  </data>
+  <data name="incentivesetting" xml:space="preserve">
+    <value>インセンティブ設定</value>
+  </data>
+  <data name="InfoAllSetting" xml:space="preserve">
+    <value>入力されたユーザー名の設定がすべてコピーされます。</value>
+  </data>
+  <data name="InfoClickNext" xml:space="preserve">
+    <value>次へをクリックして新しいメンバーを作成してください。</value>
+  </data>
+  <data name="InfoClickPreview" xml:space="preserve">
+    <value>プレビューをクリックして設定を簡単に確認してください（一部のみ参考用として表示されます）。</value>
+  </data>
+  <data name="informSecCode" xml:space="preserve">
+    <value>続行する前にセキュリティコードを入力してください！
+</value>
+  </data>
+  <data name="introNickname" xml:space="preserve">
+    <value>&lt;div&gt;お客様各位！現在、お客様自身のニックネームでログインできます&lt;/div&gt;&lt;div&gt;…より安全で個別化されています。&lt;/div&gt;</value>
+  </data>
+  <data name="invalidDateMessage" xml:space="preserve">
+    <value>「開始日」が「終了日」より後の日付にすることはできません。</value>
+  </data>
+  <data name="invalidLogin" xml:space="preserve">
+    <value>ユーザー名またはパスワードに誤りがあります。</value>
+  </data>
+  <data name="ipnote" xml:space="preserve">
+    <value>DNSstuffで追加情報を確認できます：&lt;a href="{0}" target="_blank"&gt;ここをクリック&lt;/a&gt;。注意: 国と都市の情報はIP2Location™およびDNSstuffによって提供され、参考情報としてのみ使用され、保証はありません。必要に応じて、現在の正確な情報については他の信頼できる情報源をご確認ください。</value>
+  </data>
+  <data name="last" xml:space="preserve">
+    <value>最後</value>
+  </data>
+  <data name="lastcheckin" xml:space="preserve">
+    <value>ログイン時間</value>
+  </data>
+  <data name="lastlogin" xml:space="preserve">
+    <value>最後のログイン</value>
+  </data>
+  <data name="lastloginIP" xml:space="preserve">
+    <value>ログインIP</value>
+  </data>
+  <data name="lastname" xml:space="preserve">
+    <value>姓</value>
+  </data>
+  <data name="LastOU" xml:space="preserve">
+    <value>第1/最後/オーバーアンダー</value>
+  </data>
+  <data name="lasttxn" xml:space="preserve">
+    <value>最終取引</value>
+  </data>
+  <data name="lbl1stOU" xml:space="preserve">
+    <value>前半ハーフのオーバーアンダー</value>
+  </data>
+  <data name="lblA" xml:space="preserve">
+    <value>A = エージェント</value>
+  </data>
+  <data name="lblABalInfo" xml:space="preserve">
+    <value>エージェント残高情報</value>
+  </data>
+  <data name="lblAccountInformation" xml:space="preserve">
+    <value>アカウント情報</value>
+  </data>
+  <data name="lblAccumulatedWinLoss" xml:space="preserve">
+    <value>累積転送可能金額</value>
+  </data>
+  <data name="lblAddNewAgent" xml:space="preserve">
+    <value>新しいエージェントを追加</value>
+  </data>
+  <data name="lblAddNewMaster" xml:space="preserve">
+    <value>新しいマスターを追加</value>
+  </data>
+  <data name="lblAddNewMember" xml:space="preserve">
+    <value>新しいメンバーを追加</value>
+  </data>
+  <data name="lblAgentCredit" xml:space="preserve">
+    <value>エージェント与信</value>
+  </data>
+  <data name="lblAgentInfo" xml:space="preserve">
+    <value>エージェント情報</value>
+  </data>
+  <data name="lblAgentMaxCredit" xml:space="preserve">
+    <value>エージェント最大与信</value>
+  </data>
+  <data name="lblAllowTransfer" xml:space="preserve">
+    <value>振込が許可されています：</value>
+  </data>
+  <data name="lblAsianHDC_OU_OE" xml:space="preserve">
+    <value>アジアンハンディキャップ, オーバーアンダー, オッドイーブン</value>
+  </data>
+  <data name="lblAutoMasterResestPosition" xml:space="preserve">
+    <value>自動マスタープリセット</value>
+  </data>
+  <data name="lblAutoPTSuper" xml:space="preserve">
+    <value>スーパー自動保有ポジション</value>
+  </data>
+  <data name="lblAutoSuperPresetPosition" xml:space="preserve">
+    <value>自動スーパープリセット</value>
+  </data>
+  <data name="lblBetListRunning" xml:space="preserve">
+    <value>ベットリスト (進行中)</value>
+  </data>
+  <data name="lblBetLists" xml:space="preserve">
+    <value>ベットリスト</value>
+  </data>
+  <data name="lblBetSetting" xml:space="preserve">
+    <value>ベット設定</value>
+  </data>
+  <data name="lblBettingLimit" xml:space="preserve">
+    <value>ベット制限</value>
+  </data>
+  <data name="lblCashBalance" xml:space="preserve">
+    <value>現金残高</value>
+  </data>
+  <data name="lblChangePassword" xml:space="preserve">
+    <value>パスワード変更</value>
+  </data>
+  <data name="lblClosed" xml:space="preserve">
+    <value>クローズ</value>
+  </data>
+  <data name="lblConfirmAllowDownline" xml:space="preserve">
+    <value>この{ユーザー名}アカウントおよびすべてのダウンラインでナンバーゲームを許可してもよろしいですか？</value>
+  </data>
+  <data name="lblConfirmClearCredit" xml:space="preserve">
+    <value>この{ユーザー名}アカウントおよびすべてのダウンラインの与信をクリアしてもよろしいですか？</value>
+  </data>
+  <data name="lblConfirmClearCreditMember" xml:space="preserve">
+    <value>この{ユーザー名}アカウントの与信をクリアしてもよろしいですか？</value>
+  </data>
+  <data name="lblConfirmPassword" xml:space="preserve">
+    <value>パスワードを確認</value>
+  </data>
+  <data name="lblCopyAllPTfromHdp" xml:space="preserve">
+    <value>サッカーハンディキャップからすべてのベット設定と保有ポジションをコピー</value>
+  </data>
+  <data name="lblCopyAllPTfromHdpNoNumberGame" xml:space="preserve">
+    <value>サッカーハンディキャップからすべてのベット設定と保有ポジションをコピー</value>
+  </data>
+  <data name="lblCopyBasketHdp" xml:space="preserve">
+    <value>バスケットボールハンディキャップからすべてのベット設定と保有ポジションをコピー</value>
+  </data>
+  <data name="lblCopyBasketHdpMin" xml:space="preserve">
+    <value>バスケットボールハンディキャップからすべての保有ポジションをコピー</value>
+  </data>
+  <data name="lblCopyBasketHdpMinNoNumberGame" xml:space="preserve">
+    <value>バスケットボールハンディキャップからすべての保有ポジションをコピー</value>
+  </data>
+  <data name="lblCopyBasketHdpNoNumberGame" xml:space="preserve">
+    <value>バスケットボールハンディキャップからすべてのベット設定と保有ポジションをコピー</value>
+  </data>
+  <data name="lblCreditInvalid" xml:space="preserve">
+    <value>{0} は {1} と {2} の間でなければなりません</value>
+  </data>
+  <data name="lblDateAndTime" xml:space="preserve">
+    <value>日付＆時間</value>
+  </data>
+  <data name="lblDeadball" xml:space="preserve">
+    <value>非ライブ</value>
+  </data>
+  <data name="lblEditAgent" xml:space="preserve">
+    <value>エージェントを編集</value>
+  </data>
+  <data name="lbleditbetsetting" xml:space="preserve">
+    <value>ベット設定を編集</value>
+  </data>
+  <data name="lbleditcomm" xml:space="preserve">
+    <value>コミッションを編集</value>
+  </data>
+  <data name="lblEditInfo" xml:space="preserve">
+    <value>情報を編集</value>
+  </data>
+  <data name="lblEditMaster" xml:space="preserve">
+    <value>マスターを編集</value>
+  </data>
+  <data name="lblEditMember" xml:space="preserve">
+    <value>メンバーを編集</value>
+  </data>
+  <data name="lblEditSB" xml:space="preserve">
+    <value>スポーツブックを編集</value>
+  </data>
+  <data name="lblEnableNumber" xml:space="preserve">
+    <value>ナンバーゲームを有効化</value>
+  </data>
+  <data name="lblenableOutRight" xml:space="preserve">
+    <value>アウトライトを許可</value>
+  </data>
+  <data name="lblEndBalance" xml:space="preserve">
+    <value>終了残高</value>
+  </data>
+  <data name="lblFax" xml:space="preserve">
+    <value>ファックス</value>
+  </data>
+  <data name="lblGroupSetting" xml:space="preserve">
+    <value>グループ設定</value>
+  </data>
+  <data name="lblHandicapFC" xml:space="preserve">
+    <value>ハンディキャップ</value>
+  </data>
+  <data name="lblLearnMore" xml:space="preserve">
+    <value>詳しく見る</value>
+  </data>
+  <data name="lblM" xml:space="preserve">
+    <value>M = マスター</value>
+  </data>
+  <data name="lblMasterOutstanding" xml:space="preserve">
+    <value>マスター未決済</value>
+  </data>
+  <data name="lblMasterPresetPosition" xml:space="preserve">
+    <value>マスタープリセット</value>
+  </data>
+  <data name="lblMaxBet" xml:space="preserve">
+    <value>最大ベット</value>
+  </data>
+  <data name="lblMaxLoseAllowed" xml:space="preserve">
+    <value>許容最大損失</value>
+  </data>
+  <data name="lblMaxPTAgent" xml:space="preserve">
+    <value>エージェント最大保有ポジション</value>
+  </data>
+  <data name="lblMaxPTMaster" xml:space="preserve">
+    <value>マスター最大保有ポジション</value>
+  </data>
+  <data name="lblMaxPTSuper" xml:space="preserve">
+    <value>スーパー最大保有ポジション</value>
+  </data>
+  <data name="lblMaxTransferCredit" xml:space="preserve">
+    <value>メンバー最大移行与信</value>
+  </data>
+  <data name="lblMaxWinAllowed" xml:space="preserve">
+    <value>許容最大勝利額</value>
+  </data>
+  <data name="lblMBalInfo" xml:space="preserve">
+    <value>許容最大勝利額</value>
+  </data>
+  <data name="lblMe" xml:space="preserve">
+    <value>P = メンバー</value>
+  </data>
+  <data name="lblMemberCommission" xml:space="preserve">
+    <value>メンバーコミッション</value>
+  </data>
+  <data name="lblMemberInfo" xml:space="preserve">
+    <value>メンバー情報</value>
+  </data>
+  <data name="lblMemberMax" xml:space="preserve">
+    <value>メンバー最大与信</value>
+  </data>
+  <data name="lblMemberMaxCredit" xml:space="preserve">
+    <value>メンバー最大与信</value>
+  </data>
+  <data name="lblMessage" xml:space="preserve">
+    <value>メッセージ</value>
+  </data>
+  <data name="lblMinBet" xml:space="preserve">
+    <value>最小ベット</value>
+  </data>
+  <data name="lblMixParlay" xml:space="preserve">
+    <value>ミックスパーレイ</value>
+  </data>
+  <data name="lblML2" xml:space="preserve">
+    <value>マネーライン</value>
+  </data>
+  <data name="lblMobilePhone" xml:space="preserve">
+    <value>携帯電話</value>
+  </data>
+  <data name="lblMP" xml:space="preserve">
+    <value>ミックスパーレイ</value>
+  </data>
+  <data name="lblMultipleTransfer" xml:space="preserve">
+    <value>複数転送</value>
+  </data>
+  <data name="lblNoDraw" xml:space="preserve">
+    <value>ドローなし</value>
+  </data>
+  <data name="lblNormal" xml:space="preserve">
+    <value>通常</value>
+  </data>
+  <data name="lblOdd" xml:space="preserve">
+    <value>オッド</value>
+  </data>
+  <data name="lblOddEven" xml:space="preserve">
+    <value>オッドイーブン</value>
+  </data>
+  <data name="lblOE" xml:space="preserve">
+    <value>オッドイーブン</value>
+  </data>
+  <data name="lblOldPassword" xml:space="preserve">
+    <value>旧パスワード</value>
+  </data>
+  <data name="lblOtherTypes" xml:space="preserve">
+    <value>その他のベットタイプ</value>
+  </data>
+  <data name="lblOU" xml:space="preserve">
+    <value>オーバーアンダー</value>
+  </data>
+  <data name="lblOutRight" xml:space="preserve">
+    <value>アウトライト</value>
+  </data>
+  <data name="lblOvE" xml:space="preserve">
+    <value>オッド/イーブン</value>
+  </data>
+  <data name="lblOverUnder" xml:space="preserve">
+    <value>オーバーアンダー</value>
+  </data>
+  <data name="lblPasswordChangedOK" xml:space="preserve">
+    <value>パスワードが正常に変更されました。</value>
+  </data>
+  <data name="lblPasswordDAccountName" xml:space="preserve">
+    <value>パスワードにはユーザー名やニックネームを含めてはいけません。</value>
+  </data>
+  <data name="lblPasswordDOldOne" xml:space="preserve">
+    <value>新しいパスワードは現在のものと完全に異なる必要があります。</value>
+  </data>
+  <data name="lblPasswordExpired" xml:space="preserve">
+    <value>お客様のセキュリティとプライバシーは非常に重要です。そのため、データを保護するためのセキュリティ対策を継続的に改善しています。この理由から、パスワードリセットを実施することを決定しました。以下のフォームを使用して、今すぐパスワードを変更してください。</value>
+  </data>
+  <data name="lblPasswordHint" xml:space="preserve">
+    <value>注意: セキュリティを強化するため、定期的にパスワードを変更することを強くお勧めします。</value>
+  </data>
+  <data name="lblPasswordMemberRequire" xml:space="preserve">
+    <value>パスワードは6～10文字で、スペースを含まず、少なくとも1つの大文字、1つの小文字、1つの数字を含める必要があります。（例: 493abcDE、59D7!4$h）
+注意: パスワードは大文字と小文字を区別します。</value>
+  </data>
+  <data name="lblPasswordRequire" xml:space="preserve">
+    <value>パスワードは8文字以上で、スペースを含まず、以下のうち少なくとも3つを含める必要があります:
+
+• 大文字 [A-Z]
+• 小文字 [a-z]
+• 数字 [0-9]
+• 特殊文字 (!,@,# など)
+
+例: 59D7!4$h、493abcDE
+注意: パスワードは大文字と小文字を区別します。</value>
+  </data>
+  <data name="lblPasswordWrongRule" xml:space="preserve">
+    <value>パスワードが最低限のセキュリティ要件を満たしていません。</value>
+  </data>
+  <data name="lblPhone" xml:space="preserve">
+    <value>電話</value>
+  </data>
+  <data name="lblPlayerHistoryNo" xml:space="preserve">
+    <value>プレイヤー履歴番号</value>
+  </data>
+  <data name="lblPositionTakingAgent" xml:space="preserve">
+    <value>エージェント保有ポジション</value>
+  </data>
+  <data name="lblPositionTakingMaster" xml:space="preserve">
+    <value>マスター保有ポジション</value>
+  </data>
+  <data name="lblPositionTakingSuper" xml:space="preserve">
+    <value>スーパー保有ポジション</value>
+  </data>
+  <data name="lblPostdate" xml:space="preserve">
+    <value>投稿日</value>
+  </data>
+  <data name="lblPresetPTAgent" xml:space="preserve">
+    <value>エージェントプリセット保有ポジション</value>
+  </data>
+  <data name="lblPresetPTMaster" xml:space="preserve">
+    <value>マスタープリセット保有ポジション</value>
+  </data>
+  <data name="lblPresetPTSuper" xml:space="preserve">
+    <value>スーパープリセット保有ポジション</value>
+  </data>
+  <data name="lblStatusClosed" xml:space="preserve">
+    <value>クローズ</value>
+  </data>
+  <data name="masterCommissionByBetType" xml:space="preserve">
+    <value>ベットタイプ別マスターコミッション</value>
+  </data>
+  <data name="masterMaxPT" xml:space="preserve">
+    <value>マスター最大保有ポジション</value>
+  </data>
+  <data name="MaximumWin" xml:space="preserve">
+    <value>最大勝ち額</value>
+  </data>
+  <data name="membercomm" xml:space="preserve">
+    <value>メンバーコミッション</value>
+  </data>
+  <data name="memberinfo" xml:space="preserve">
+    <value>メンバー情報</value>
+  </data>
+  <data name="moneyline" xml:space="preserve">
+    <value>マネーライン</value>
+  </data>
+  <data name="normal" xml:space="preserve">
+    <value>通常</value>
+  </data>
+  <data name="OE1x2" xml:space="preserve">
+    <value>オッドイーブン + 1x2</value>
+  </data>
+  <data name="OnGivenCredit" xml:space="preserve">
+    <value>与信ベース</value>
+  </data>
+  <data name="open" xml:space="preserve">
+    <value>開設</value>
+  </data>
+  <data name="OtherBettypes" xml:space="preserve">
+    <value>その他のベットタイプ</value>
+  </data>
+  <data name="superCommissionByBetType" xml:space="preserve">
+    <value>ベットタイプ別スーパーコミッション</value>
+  </data>
+  <data name="suspended" xml:space="preserve">
+    <value>停止</value>
+  </data>
+  <data name="username" xml:space="preserve">
+    <value>ユーザー名</value>
+  </data>
+  <data name="usernameEdited" xml:space="preserve">
+    <value>ユーザー名</value>
+  </data>
+  <data name="yesterdaycashbalance" xml:space="preserve">
+    <value>昨日の現金残高</value>
+  </data>
+  <data name="EditSingleSportsbook2" xml:space="preserve">
+    <value>スポーツブック2を編集</value>
   </data>
 </root>

@@ -117,4 +117,25 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="LabelAsianHDC_OU_OE" xml:space="preserve">
+    <value>アジアンハンディキャップ, オーバーアンダー, オッドイーブン</value>
+  </data>
+  <data name="LabelHandicapFC" xml:space="preserve">
+    <value>ハンディキャップ</value>
+  </data>
+  <data name="LabelOddEven" xml:space="preserve">
+    <value>オッドイーブン</value>
+  </data>
+  <data name="LabelOtherTypes" xml:space="preserve">
+    <value>その他のベットタイプ</value>
+  </data>
+  <data name="LabelOverUnder" xml:space="preserve">
+    <value>オーバーアンダー</value>
+  </data>
+  <data name="moneyline" xml:space="preserve">
+    <value>マネーライン</value>
+  </data>
+  <data name="AllowTransfer" xml:space="preserve">
+    <value>振込が許可されています：</value>
+  </data>
 </root>

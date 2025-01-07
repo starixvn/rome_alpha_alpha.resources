@@ -120,4 +120,19 @@
   <data name="NoDataFound" xml:space="preserve">
     <value>情報はありません</value>
   </data>
+  <data name="DeadBall" xml:space="preserve">
+    <value>非ライブ</value>
+  </data>
+  <data name="NoteContent" xml:space="preserve">
+    <value>この情報は参考用です。古くなる可能性がありますので、詳細は 顧客サービス部門にお問い合わせください。</value>
+  </data>
+  <data name="HideMatch" xml:space="preserve">
+    <value>試合を非表示</value>
+  </data>
+  <data name="All" xml:space="preserve">
+    <value>全て</value>
+  </data>
+  <data name="BetType1x2" xml:space="preserve">
+    <value>1X2</value>
+  </data>
 </root>

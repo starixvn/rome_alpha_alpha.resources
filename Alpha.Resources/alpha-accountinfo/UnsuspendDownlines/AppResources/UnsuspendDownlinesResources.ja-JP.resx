@@ -120,4 +120,10 @@
   <data name="Total" xml:space="preserve">
     <value>合計</value>
   </data>
+  <data name="All" xml:space="preserve">
+    <value>全て</value>
+  </data>
+  <data name="Suspended" xml:space="preserve">
+    <value>停止</value>
+  </data>
 </root>

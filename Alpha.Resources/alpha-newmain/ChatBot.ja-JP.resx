@@ -289,13 +289,13 @@
     <value>昨日の勝ち負け</value>
   </data>
   <data name="MemberOutstanding" xml:space="preserve">
-    <value>メンバー未払い</value>
+    <value>メンバー未決済</value>
   </data>
   <data name="MemberCredit" xml:space="preserve">
     <value>メンバークレジット</value>
   </data>
   <data name="AgentOutstanding" xml:space="preserve">
-    <value>エージェント未払い</value>
+    <value>エージェント未決済</value>
   </data>
   <data name="FifteenMinutes" xml:space="preserve">
     <value>15分</value>
@@ -408,7 +408,7 @@
     <value>OTPを入力してください。</value>
   </data>
   <data name="Outstanding" xml:space="preserve">
-    <value>未払い</value>
+    <value>未決済</value>
   </data>
   <data name="PersonalMessage" xml:space="preserve">
     <value>個人メッセージ</value>
@@ -492,7 +492,7 @@
     <value>残高情報報告書</value>
   </data>
   <data name="OutstandingReport" xml:space="preserve">
-    <value>未払い報告書</value>
+    <value>未決済報告書</value>
   </data>
   <data name="WinLossReport" xml:space="preserve">
     <value>勝ち負け報告書</value>

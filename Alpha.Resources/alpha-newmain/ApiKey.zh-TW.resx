@@ -226,4 +226,7 @@
   <data name="Guideline" xml:space="preserve">
     <value>指南</value>
   </data>
+  <data name="金曜日" xml:space="preserve">
+    <value>Expiration Date must not be in the past.</value>
+  </data>
 </root>

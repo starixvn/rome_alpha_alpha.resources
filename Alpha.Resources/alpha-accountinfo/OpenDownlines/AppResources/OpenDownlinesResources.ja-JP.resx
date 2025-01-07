@@ -120,4 +120,16 @@
   <data name="Total" xml:space="preserve">
     <value>合計</value>
   </data>
+  <data name="All" xml:space="preserve">
+    <value>全て</value>
+  </data>
+  <data name="Username" xml:space="preserve">
+    <value>ユーザー名</value>
+  </data>
+  <data name="Closed" xml:space="preserve">
+    <value>クローズ</value>
+  </data>
+  <data name="Open" xml:space="preserve">
+    <value>開設</value>
+  </data>
 </root>

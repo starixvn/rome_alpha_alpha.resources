@@ -120,4 +120,25 @@
   <data name="NoInformationIsAvailable" xml:space="preserve">
     <value>情報はありません</value>
   </data>
+  <data name="Allbet" xml:space="preserve">
+    <value>Allbet</value>
+  </data>
+  <data name="BetChoice" xml:space="preserve">
+    <value>ベット選択</value>
+  </data>
+  <data name="BetChoiceLimit" xml:space="preserve">
+    <value>ベット選択制限</value>
+  </data>
+  <data name="BetLimit" xml:space="preserve">
+    <value>ベットリミット</value>
+  </data>
+  <data name="BetType" xml:space="preserve">
+    <value>賭けの種類</value>
+  </data>
+  <data name="Game" xml:space="preserve">
+    <value>ゲーム</value>
+  </data>
+  <data name="MinMaxBetInfo" xml:space="preserve">
+    <value>最低ベット額は異なるベット選択やテーブルによって異なる場合があります。</value>
+  </data>
 </root>

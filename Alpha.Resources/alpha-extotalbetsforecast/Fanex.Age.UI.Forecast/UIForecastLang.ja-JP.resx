@@ -129,4 +129,13 @@
   <data name="forecast" xml:space="preserve">
     <value>予想 </value>
   </data>
+  <data name="lblDeadball" xml:space="preserve">
+    <value>非ライブ</value>
+  </data>
+  <data name="lblHandicapFC" xml:space="preserve">
+    <value>ハンディキャップ</value>
+  </data>
+  <data name="lblOverUnder" xml:space="preserve">
+    <value>オーバーアンダー</value>
+  </data>
 </root>

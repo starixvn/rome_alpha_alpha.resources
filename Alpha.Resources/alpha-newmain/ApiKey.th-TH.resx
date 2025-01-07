@@ -255,4 +255,7 @@
   <data name="APIKey_Intro" xml:space="preserve">
     <value>&lt;span&gt;API สำหรับเอเย่นท์จะช่วยให้ท่านสามารถเข้าถึงรายงานและบริการผ่านการเรียกใช้งาน API.  ด้วยการสร้าง API Key ท่านสามารถปรับแต่งการเข้าถึงข้อมูลให้เหมาะสมกับการใช้งาน   สำหรับรายละเอียดเพิ่มเติม สามารถศึกษาได้จากคู่มือการใช้งาน API  &lt;a id="lnk-api-guides" href="{0}" target="_blank"&gt;ในลิงค์นี้&lt;/a&gt;.&lt;/span&gt;</value>
   </data>
+  <data name="金曜日" xml:space="preserve">
+    <value>วันหมดอายุต้องมากกว่าวันที่ปัจจุบัน</value>
+  </data>
 </root>

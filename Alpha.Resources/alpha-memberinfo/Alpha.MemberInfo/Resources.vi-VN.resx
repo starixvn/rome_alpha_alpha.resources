@@ -298,7 +298,7 @@
     <value>Số dư</value>
   </data>
   <data name="YesterdayCashBalance" xml:space="preserve">
-    <value>Số dư tài khoản đến hết  hôm qua</value>
+    <value>Số dư tài khoản đến hết hôm qua</value>
   </data>
   <data name="Balance" xml:space="preserve">
     <value>Số dư</value>
@@ -879,7 +879,7 @@ Lưu ý : Mật khẩu có phân biệt chữ hoa và chữ thường.</value>
     <value>Hãy chọn tên tài khoản khả dụng trước và hệ thống sẽ đề xuất tên cho các tài khoản còn lại.</value>
   </data>
   <data name="Usernames" xml:space="preserve">
-    <value>Tên người dùng</value>
+    <value>Tên đăng nhập</value>
   </data>
   <data name="MemberMaxCredit" xml:space="preserve">
     <value>Hạn mức tín dụng tối đa của Member</value>
@@ -918,7 +918,7 @@ Lưu ý : Mật khẩu có phân biệt chữ hoa và chữ thường.</value>
     <value>Sao chép</value>
   </data>
   <data name="lblUsername" xml:space="preserve">
-    <value>Tên người dùng</value>
+    <value>Tên đăng nhập</value>
   </data>
   <data name="pendingTransfer3rd" xml:space="preserve">
     <value>Tiền Chưa Chuyển Về Từ Trò Chơi</value>
@@ -1118,7 +1118,7 @@ Lưu ý:  Mật khẩu có phân biệt chữ hoa và chữ thường.</value>
     <value>Trung bình</value>
   </data>
   <data name="MemberUsernameIsInvalid" xml:space="preserve">
-    <value>Tên người dùng không đúng.</value>
+    <value>Tên đăng nhập không đúng.</value>
   </data>
   <data name="Canceled" xml:space="preserve">
     <value>Hủy</value>

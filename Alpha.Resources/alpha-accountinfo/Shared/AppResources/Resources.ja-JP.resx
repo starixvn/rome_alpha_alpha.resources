@@ -127,12 +127,51 @@
     <value>エージェントリスト</value>
   </data>
   <data name="AgentOutstanding" xml:space="preserve">
-    <value>エージェント未払い</value>
+    <value>エージェント未決済</value>
   </data>
   <data name="MemberList" xml:space="preserve">
     <value>メンバーリスト</value>
   </data>
   <data name="BalanceInfo" xml:space="preserve">
     <value>残高情報</value>
+  </data>
+  <data name="BetSettingViewModelText" xml:space="preserve">
+    <value>ベット設定</value>
+  </data>
+  <data name="ConfirmAllowOutrightViewModelText" xml:space="preserve">
+    <value>アウトライトを許可</value>
+  </data>
+  <data name="ConfirmClosedViewModelText" xml:space="preserve">
+    <value>クローズ</value>
+  </data>
+  <data name="ConfirmSuspendedViewModelText" xml:space="preserve">
+    <value>停止</value>
+  </data>
+  <data name="Fax" xml:space="preserve">
+    <value>ファックス</value>
+  </data>
+  <data name="LastLogin" xml:space="preserve">
+    <value>最後のログイン</value>
+  </data>
+  <data name="LoginIP" xml:space="preserve">
+    <value>ログインIP</value>
+  </data>
+  <data name="LoginTime" xml:space="preserve">
+    <value>ログイン時間</value>
+  </data>
+  <data name="MasterOutstanding" xml:space="preserve">
+    <value>マスター未決済</value>
+  </data>
+  <data name="MemberMaxCredit" xml:space="preserve">
+    <value>メンバー最大与信</value>
+  </data>
+  <data name="UserNamePlaceHolder" xml:space="preserve">
+    <value>ユーザー名または姓/名</value>
+  </data>
+  <data name="Phone" xml:space="preserve">
+    <value>電話</value>
+  </data>
+  <data name="And" xml:space="preserve">
+    <value>と</value>
   </data>
 </root>

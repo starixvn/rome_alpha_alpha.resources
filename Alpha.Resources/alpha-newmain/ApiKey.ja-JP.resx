@@ -121,7 +121,7 @@
     <value>アクション</value>
   </data>
   <data name="All" xml:space="preserve">
-    <value>すべて</value>
+    <value>全て</value>
   </data>
   <data name="API" xml:space="preserve">
     <value>API</value>
@@ -200,7 +200,7 @@
     <value>勝ち負けの詳細報告書</value>
   </data>
   <data name="Scope_2" xml:space="preserve">
-    <value>未払い報告書</value>
+    <value>未決済報告書</value>
   </data>
   <data name="SelectScopes" xml:space="preserve">
     <value>スコープを選択</value>
@@ -255,5 +255,8 @@
   </data>
   <data name="Guideline" xml:space="preserve">
     <value>ガイドライン</value>
+  </data>
+  <data name="金曜日" xml:space="preserve">
+    <value>期限日は過去の日付に設定できません。</value>
   </data>
 </root>

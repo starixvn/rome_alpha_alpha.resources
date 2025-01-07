@@ -524,7 +524,7 @@
     <value>Member đã nhập</value>
   </data>
   <data name="InvalidUsername" xml:space="preserve">
-    <value>Tên người dùng không hợp lệ</value>
+    <value>Tên đăng nhập không hợp lệ</value>
   </data>
   <data name="Live" xml:space="preserve">
     <value>Trực Tiếp</value>
@@ -560,7 +560,7 @@
     <value>Sports</value>
   </data>
   <data name="UsernameTagsInputPlaceHolder" xml:space="preserve">
-    <value>Nhập các tên người dùng/biệt danh (cách nhau bằng dấu phẩy, tab hoặc enter)</value>
+    <value>Nhập các tên đăng nhập/biệt danh (cách nhau bằng dấu phẩy, tab hoặc enter)</value>
   </data>
   <data name="Cancel" xml:space="preserve">
     <value>Hủy</value>
@@ -599,7 +599,7 @@
     <value>Chọn Member</value>
   </data>
   <data name="SearchMemberUsernameOrNickname" xml:space="preserve">
-    <value>Tìm tên người dùng/biệt danh của Member</value>
+    <value>Tìm tên đăng nhập/biệt danh của Member</value>
   </data>
   <data name="NoMemberUsernameFound" xml:space="preserve">
     <value>No member username found</value>

@@ -126,4 +126,49 @@
   <data name="NoInformationIsAvailable" xml:space="preserve">
     <value>情報はありません</value>
   </data>
+  <data name="UsernamePlaceHolder" xml:space="preserve">
+    <value>ユーザー名または姓/名</value>
+  </data>
+  <data name="Username" xml:space="preserve">
+    <value>ユーザー名</value>
+  </data>
+  <data name="CashBalance" xml:space="preserve">
+    <value>現金残高</value>
+  </data>
+  <data name="MultipleTransfer" xml:space="preserve">
+    <value>複数転送</value>
+  </data>
+  <data name="Status_0" xml:space="preserve">
+    <value>全て</value>
+  </data>
+  <data name="Status_1" xml:space="preserve">
+    <value>開設</value>
+  </data>
+  <data name="Status_2" xml:space="preserve">
+    <value>停止</value>
+  </data>
+  <data name="Status_3" xml:space="preserve">
+    <value>クローズ</value>
+  </data>
+  <data name="YesterdayCashBalance" xml:space="preserve">
+    <value>昨日の現金残高</value>
+  </data>
+  <data name="LastName" xml:space="preserve">
+    <value>姓</value>
+  </data>
+  <data name="ClearCreditStep_Master_Member" xml:space="preserve">
+    <value>全メンバー</value>
+  </data>
+  <data name="LastWeek" xml:space="preserve">
+    <value>先週</value>
+  </data>
+  <data name="LastMonth" xml:space="preserve">
+    <value>先月</value>
+  </data>
+  <data name="UsernameOrFirstLastName" xml:space="preserve">
+    <value>ユーザー名または姓/名</value>
+  </data>
+  <data name="All" xml:space="preserve">
+    <value>全て</value>
+  </data>
 </root>
