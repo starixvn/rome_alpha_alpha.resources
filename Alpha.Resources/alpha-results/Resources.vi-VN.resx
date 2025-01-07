@@ -141,9 +141,6 @@
   <data name="ViewDataFromDate" xml:space="preserve">
     <value>Bạn có thể tra cứu dữ liệu báo cáo từ ngày {0}.</value>
   </data>
-  <data name="To" xml:space="preserve">
-    <value>đến</value>
-  </data>
   <data name="Submit" xml:space="preserve">
     <value>Xác nhận</value>
   </data>
@@ -183,7 +180,7 @@
   <data name="PleaseSelect" xml:space="preserve">
     <value>Vui lòng chọn</value>
   </data>
-  <data name="まで" xml:space="preserve">
+  <data name="To" xml:space="preserve">
     <value>đến</value>
   </data>
 </root>

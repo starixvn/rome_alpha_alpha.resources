@@ -141,9 +141,6 @@
   <data name="ViewDataFromDate" xml:space="preserve">
     <value>You can view the report data from {0}.</value>
   </data>
-  <data name="To" xml:space="preserve">
-    <value>종료일</value>
-  </data>
   <data name="Submit" xml:space="preserve">
     <value>확인</value>
   </data>
@@ -171,7 +168,7 @@
   <data name="ThereIsNoData" xml:space="preserve">
     <value>데이터가 없습니다</value>
   </data>
-  <data name="まで" xml:space="preserve">
+  <data name="To" xml:space="preserve">
     <value>종료일</value>
   </data>
 </root>

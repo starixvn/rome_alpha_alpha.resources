@@ -141,9 +141,6 @@
   <data name="ViewDataFromDate" xml:space="preserve">
     <value>您可查看報表數據從 {0}.</value>
   </data>
-  <data name="To" xml:space="preserve">
-    <value>到</value>
-  </data>
   <data name="Submit" xml:space="preserve">
     <value>提交</value>
   </data>
@@ -183,7 +180,7 @@
   <data name="PleaseSelect" xml:space="preserve">
     <value>請選擇</value>
   </data>
-  <data name="まで" xml:space="preserve">
+  <data name="To" xml:space="preserve">
     <value>到</value>
   </data>
 </root>

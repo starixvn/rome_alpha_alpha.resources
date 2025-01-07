@@ -141,9 +141,6 @@
   <data name="ViewDataFromDate" xml:space="preserve">
     <value>ท่านสามารถดูรายงานข้อมูลได้จาก {0}.</value>
   </data>
-  <data name="To" xml:space="preserve">
-    <value>ถึง</value>
-  </data>
   <data name="Submit" xml:space="preserve">
     <value>ตกลง</value>
   </data>
@@ -183,7 +180,7 @@
   <data name="PleaseSelect" xml:space="preserve">
     <value>กรุณาเลือก</value>
   </data>
-  <data name="まで" xml:space="preserve">
+  <data name="To" xml:space="preserve">
     <value>ถึง</value>
   </data>
 </root>

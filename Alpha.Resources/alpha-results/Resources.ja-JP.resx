@@ -141,7 +141,7 @@
   <data name="ViewDataFromDate" xml:space="preserve">
     <value>{0} からレポートデータを表示できます。</value>
   </data>
-  <data name="まで" xml:space="preserve">
+  <data name="To" xml:space="preserve">
     <value>まで</value>
   </data>
   <data name="Submit" xml:space="preserve">
