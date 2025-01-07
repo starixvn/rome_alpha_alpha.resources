@@ -3013,4 +3013,7 @@
     <value>Edit Sportsbook 2</value>
     <comment />
   </data>
+  <data name="perLineWin" xml:space="preserve">
+    <value>Per Line Win</value>
+  </data>
 </root>

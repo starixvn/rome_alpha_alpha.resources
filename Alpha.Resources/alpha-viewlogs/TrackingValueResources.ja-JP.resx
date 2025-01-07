@@ -2324,4 +2324,103 @@ Saba バスケットボール-1試合あたりの最大ペイアウト
   <data name="actionname" xml:space="preserve">
     <value>アクション</value>
   </data>
+  <data name="disablefinancial" xml:space="preserve">
+    <value>無効化ファイナンシャル</value>
+  </data>
+  <data name="v3apt_1" xml:space="preserve">
+    <value>ハンディキャップ</value>
+  </data>
+  <data name="minv3pt_20" xml:space="preserve">
+    <value>最小マネーライン</value>
+  </data>
+  <data name="maxv8pt_20" xml:space="preserve">
+    <value>最大マネーライン</value>
+  </data>
+  <data name="minv10pt_3" xml:space="preserve">
+    <value>最小オーバー/アンダー</value>
+  </data>
+  <data name="minv10pt_2" xml:space="preserve">
+    <value>最小オッド／イーブン</value>
+  </data>
+  <data name="userID" xml:space="preserve">
+    <value>ユーザーID </value>
+  </data>
+  <data name="v3mpt_1" xml:space="preserve">
+    <value>ハンディキャップ</value>
+  </data>
+  <data name="v3spt_1" xml:space="preserve">
+    <value>ハンディキャップ</value>
+  </data>
+  <data name="ummbv5" xml:space="preserve">
+    <value>テニスの最小最大ベットを更新</value>
+  </data>
+  <data name="ummbv2" xml:space="preserve">
+    <value>バスケットボールの最小最大ベットを更新</value>
+  </data>
+  <data name="ummbv3" xml:space="preserve">
+    <value>フットボールの最小最大ベットを更新</value>
+  </data>
+  <data name="ummbv8" xml:space="preserve">
+    <value>野球の最小最大ベットを更新</value>
+  </data>
+  <data name="mrecommend" xml:space="preserve">
+    <value>マスターエージェントのID </value>
+  </data>
+  <data name="v5apt_1" xml:space="preserve">
+    <value>ハンディキャップ</value>
+  </data>
+  <data name="v5mpt_1" xml:space="preserve">
+    <value>ハンディキャップ</value>
+  </data>
+  <data name="v5spt_1" xml:space="preserve">
+    <value>ハンディキャップ</value>
+  </data>
+  <data name="minv8pt_3" xml:space="preserve">
+    <value>最小オーバー/アンダー</value>
+  </data>
+  <data name="minv3pt_3" xml:space="preserve">
+    <value>最小オーバー/アンダー</value>
+  </data>
+  <data name="minv3pt_2" xml:space="preserve">
+    <value>最小オッド／イーブン</value>
+  </data>
+  <data name="minv5pt_3" xml:space="preserve">
+    <value>最小オーバー/アンダー</value>
+  </data>
+  <data name="minv5pt_2" xml:space="preserve">
+    <value>最小オッド／イーブン</value>
+  </data>
+  <data name="minv2pt_2" xml:space="preserve">
+    <value>最小オッド／イーブン</value>
+  </data>
+  <data name="minv2pt_3" xml:space="preserve">
+    <value>最小オーバー/アンダー</value>
+  </data>
+  <data name="minv2pt_7" xml:space="preserve">
+    <value>最小前半戦ハンディキャップ</value>
+  </data>
+  <data name="minv2pt_8" xml:space="preserve">
+    <value>最小前半戦オーバー/アンダー</value>
+  </data>
+  <data name="minv2pt_9" xml:space="preserve">
+    <value>最小ミックスパーレー</value>
+  </data>
+  <data name="success" xml:space="preserve">
+    <value>成功</value>
+  </data>
+  <data name="OldValue" xml:space="preserve">
+    <value>旧値</value>
+  </data>
+  <data name="postal" xml:space="preserve">
+    <value>郵便番号</value>
+  </data>
+  <data name="v8mpt_1" xml:space="preserve">
+    <value>ハンディキャップ</value>
+  </data>
+  <data name="v8apt_1" xml:space="preserve">
+    <value>ハンディキャップ</value>
+  </data>
+  <data name="updatemultiple" xml:space="preserve">
+    <value>複数を更新</value>
+  </data>
 </root>

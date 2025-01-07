@@ -2306,4 +2306,7 @@ Ví dụ: không cho phép 123456, 456789, 765432, v.v.</value>
   <data name="EditSingleSportsbook2" xml:space="preserve">
     <value>Edit Sportsbook 2</value>
   </data>
+  <data name="perLineWin" xml:space="preserve">
+    <value>Per Line Win</value>
+  </data>
 </root>

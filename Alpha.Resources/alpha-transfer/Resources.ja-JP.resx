@@ -171,4 +171,22 @@
   <data name="All" xml:space="preserve">
     <value>全て</value>
   </data>
+  <data name="Update" xml:space="preserve">
+    <value>更新</value>
+  </data>
+  <data name="AutoTransfer_HintPath_4" xml:space="preserve">
+    <value>マスターエージェントリスト</value>
+  </data>
+  <data name="AutoTransfer_Error_101_Single" xml:space="preserve">
+    <value>このアカウントは存在しません</value>
+  </data>
+  <data name="AutoTransfer_Error_101_Multiple" xml:space="preserve">
+    <value>これらのアカウントは存在しません</value>
+  </data>
+  <data name="AutoTransfer_Error_102_Multiple" xml:space="preserve">
+    <value>これらのアカウントはあなたのダウンラインに属していません：</value>
+  </data>
+  <data name="AutoTransfer_Error_102_Single" xml:space="preserve">
+    <value>このアカウントはあなたのダウンラインに属していません</value>
+  </data>
 </root>

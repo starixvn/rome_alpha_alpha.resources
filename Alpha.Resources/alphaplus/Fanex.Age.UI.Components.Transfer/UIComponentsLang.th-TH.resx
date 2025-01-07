@@ -2312,4 +2312,7 @@ Please use the form below to set your Security Code now.</value>
   <data name="EditSingleSportsbook2" xml:space="preserve">
     <value>แก้ไข หน้ากีฬา 2</value>
   </data>
+  <data name="perLineWin" xml:space="preserve">
+    <value>ชนะต่อสาย</value>
+  </data>
 </root>

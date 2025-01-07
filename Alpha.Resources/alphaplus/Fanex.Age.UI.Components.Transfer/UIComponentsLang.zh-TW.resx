@@ -2310,4 +2310,7 @@
   <data name="EditSingleSportsbook2" xml:space="preserve">
     <value>修改體育博彩2</value>
   </data>
+  <data name="perLineWin" xml:space="preserve">
+    <value>中獎金額</value>
+  </data>
 </root>
