@@ -889,10 +889,6 @@
     <value>Go to Page</value>
     <comment />
   </data>
-  <data name="greyHound" xml:space="preserve">
-    <value>Greyhound</value>
-    <comment />
-  </data>
   <data name="grosscomm" xml:space="preserve">
     <value>Gross Comm</value>
     <comment />
@@ -903,10 +899,6 @@
   </data>
   <data name="handhistorydetail" xml:space="preserve">
     <value>Hand History Detail</value>
-    <comment />
-  </data>
-  <data name="harness" xml:space="preserve">
-    <value>Harness</value>
     <comment />
   </data>
   <data name="hdp" xml:space="preserve">
@@ -1027,10 +1019,6 @@
   </data>
   <data name="June" xml:space="preserve">
     <value>June</value>
-    <comment />
-  </data>
-  <data name="jungleWildMode" xml:space="preserve">
-    <value>Jungle Wild Mode</value>
     <comment />
   </data>
   <data name="last" xml:space="preserve">
@@ -1199,10 +1187,6 @@
   </data>
   <data name="lblBettingLimit" xml:space="preserve">
     <value>Betting Limit</value>
-    <comment />
-  </data>
-  <data name="lblBold" xml:space="preserve">
-    <value>Bold</value>
     <comment />
   </data>
   <data name="lblCashBalance" xml:space="preserve">
@@ -2277,10 +2261,6 @@
     <value>P Comm 3</value>
     <comment />
   </data>
-  <data name="perLineWin" xml:space="preserve">
-    <value>Per Line Win</value>
-    <comment />
-  </data>
   <data name="personalmessage" xml:space="preserve">
     <value>Personal Message</value>
     <comment />
@@ -2427,18 +2407,6 @@
   </data>
   <data name="sbminpt1" xml:space="preserve">
     <value>SB's Min PT</value>
-    <comment />
-  </data>
-  <data name="scatterGame" xml:space="preserve">
-    <value>Scatter Game</value>
-    <comment />
-  </data>
-  <data name="scatterWin" xml:space="preserve">
-    <value>Scatter Win</value>
-    <comment />
-  </data>
-  <data name="SCommPercent" xml:space="preserve">
-    <value>SComm%</value>
     <comment />
   </data>
   <data name="screenName" xml:space="preserve">
@@ -2763,10 +2731,6 @@
   </data>
   <data name="totalgoal" xml:space="preserve">
     <value>Total Goal</value>
-    <comment />
-  </data>
-  <data name="totallinebet" xml:space="preserve">
-    <value>Total Line Bet</value>
     <comment />
   </data>
   <data name="totalMemACS" xml:space="preserve">

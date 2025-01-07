@@ -694,9 +694,6 @@ Vui lòng điền vào mẫu phía dưới để thiết lập giá trị cho M�
   <data name="gotopage" xml:space="preserve">
     <value>Di chuyển đến trang</value>
   </data>
-  <data name="greyHound" xml:space="preserve">
-    <value>Greyhound</value>
-  </data>
   <data name="grosscomm" xml:space="preserve">
     <value>Gross Comm</value>
   </data>
@@ -705,9 +702,6 @@ Vui lòng điền vào mẫu phía dưới để thiết lập giá trị cho M�
   </data>
   <data name="handhistorydetail" xml:space="preserve">
     <value>Chi tiết trận đấu</value>
-  </data>
-  <data name="harness" xml:space="preserve">
-    <value>Harness</value>
   </data>
   <data name="hdp" xml:space="preserve">
     <value>HDP</value>
@@ -799,9 +793,6 @@ Lưu ý:Thông tin về Quốc gia, Thành Phố được cung cấp bởi  IP2L
   </data>
   <data name="June" xml:space="preserve">
     <value>Tháng 6</value>
-  </data>
-  <data name="jungleWildMode" xml:space="preserve">
-    <value>Jungle Wild Mode</value>
   </data>
   <data name="last" xml:space="preserve">
     <value>Cuối cùng</value>
@@ -928,9 +919,6 @@ Lưu ý:Thông tin về Quốc gia, Thành Phố được cung cấp bởi  IP2L
   </data>
   <data name="lblBettingLimit" xml:space="preserve">
     <value>Giới hạn đặt cược</value>
-  </data>
-  <data name="lblBold" xml:space="preserve">
-    <value>Bold</value>
   </data>
   <data name="lblCashBalance" xml:space="preserve">
     <value>Số dư tài khoản</value>
@@ -1754,9 +1742,6 @@ Ví dụ: không cho phép 123456, 456789, 765432, v.v.</value>
   <data name="pcomm3" xml:space="preserve">
     <value>P Comm 3</value>
   </data>
-  <data name="perLineWin" xml:space="preserve">
-    <value>Per Line Win</value>
-  </data>
   <data name="personalmessage" xml:space="preserve">
     <value>Tin nhắn cá nhân</value>
   </data>
@@ -1867,15 +1852,6 @@ Ví dụ: không cho phép 123456, 456789, 765432, v.v.</value>
   </data>
   <data name="sbminpt1" xml:space="preserve">
     <value>PT nhỏ nhất cho Sportsbook</value>
-  </data>
-  <data name="scatterGame" xml:space="preserve">
-    <value>Scatter Game</value>
-  </data>
-  <data name="scatterWin" xml:space="preserve">
-    <value>Scatter Win</value>
-  </data>
-  <data name="SCommPercent" xml:space="preserve">
-    <value>SComm%</value>
   </data>
   <data name="screenName" xml:space="preserve">
     <value>Biệt danh</value>
@@ -2119,9 +2095,6 @@ Ví dụ: không cho phép 123456, 456789, 765432, v.v.</value>
   </data>
   <data name="totalgoal" xml:space="preserve">
     <value>Tổng số bàn thắng</value>
-  </data>
-  <data name="totallinebet" xml:space="preserve">
-    <value>Total Line Bet</value>
   </data>
   <data name="totalMemACS" xml:space="preserve">
     <value>Số tài khoản Member hiện đang: Kích hoạt/Khóa/Đình chỉ</value>

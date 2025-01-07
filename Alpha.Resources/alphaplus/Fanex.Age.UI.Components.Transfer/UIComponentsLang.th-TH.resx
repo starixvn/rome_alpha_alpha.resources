@@ -885,9 +885,6 @@
   <data name="lblNotAuthorized" xml:space="preserve">
     <value>คุณไม่มีอำนาจในการเข้าใช้งานฟังก์ชันนี้</value>
   </data>
-  <data name="lblBold" xml:space="preserve">
-    <value>กล้า</value>
-  </data>
   <data name="lblCommissionByBettype" xml:space="preserve">
     <value>ค่าคอมมิชชั่นตามประเภทการเดิมพัน</value>
   </data>
@@ -1437,9 +1434,6 @@
   <data name="symbol" xml:space="preserve">
     <value>สัญญลักษณ์</value>
   </data>
-  <data name="totallinebet" xml:space="preserve">
-    <value>แถวที่พนันทั้งหมด</value>
-  </data>
   <data name="rollingReel" xml:space="preserve">
     <value>หมุนเวียน</value>
   </data>
@@ -1457,9 +1451,6 @@
   </data>
   <data name="freeSpin" xml:space="preserve">
     <value>หมุนฟรี</value>
-  </data>
-  <data name="jungleWildMode" xml:space="preserve">
-    <value>หมวดป่าพิศวง</value>
   </data>
   <data name="normal" xml:space="preserve">
     <value>ธรรมดา</value>
@@ -1494,12 +1485,6 @@
   <data name="multiplier" xml:space="preserve">
     <value>ตัวคูณ</value>
   </data>
-  <data name="scatterWin" xml:space="preserve">
-    <value>ชนะกระจาย</value>
-  </data>
-  <data name="perLineWin" xml:space="preserve">
-    <value>ชนะต่อสาย</value>
-  </data>
   <data name="bonusGame" xml:space="preserve">
     <value>เกมโบนัส</value>
   </data>
@@ -1517,9 +1502,6 @@
   </data>
   <data name="confirmClearCreditMem" xml:space="preserve">
     <value>คุณแน่ใจหรือว่าเคลยร์เครดิตทั้งหมดของลูดค้าท่านนี้</value>
-  </data>
-  <data name="scatterGame" xml:space="preserve">
-    <value>เกมกระจาย</value>
   </data>
   <data name="admin" xml:space="preserve">
     <value>แอดมิน</value>
@@ -1653,12 +1635,6 @@
   </data>
   <data name="subTotal" xml:space="preserve">
     <value>ยอดรวมย่อย</value>
-  </data>
-  <data name="greyHound" xml:space="preserve">
-    <value>การแข่งขันสุนัข Greyhound</value>
-  </data>
-  <data name="harness" xml:space="preserve">
-    <value>ลากเลื่อน</value>
   </data>
   <data name="winautote" xml:space="preserve">
     <value>ม้าเต็ง สนาม Aust โต๊ด</value>
@@ -2264,9 +2240,6 @@ Please use the form below to set your Security Code now.</value>
   </data>
   <data name="MCommPercent" xml:space="preserve">
     <value>MComm%</value>
-  </data>
-  <data name="SCommPercent" xml:space="preserve">
-    <value>SComm%</value>
   </data>
   <data name="ESports" xml:space="preserve">
     <value>อี-สปอร์ต</value>

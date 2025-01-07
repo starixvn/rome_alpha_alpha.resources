@@ -882,9 +882,6 @@
   <data name="lblNotAuthorized" xml:space="preserve">
     <value>您沒有使用此功能的權限</value>
   </data>
-  <data name="lblBold" xml:space="preserve">
-    <value>粗筆</value>
-  </data>
   <data name="lblCommissionByBettype" xml:space="preserve">
     <value>投注產品分類佣金</value>
   </data>
@@ -1437,9 +1434,6 @@
   <data name="symbol" xml:space="preserve">
     <value>圖案</value>
   </data>
-  <data name="totallinebet" xml:space="preserve">
-    <value>押的線數</value>
-  </data>
   <data name="rollingReel" xml:space="preserve">
     <value>滾動卷軸</value>
   </data>
@@ -1457,9 +1451,6 @@
   </data>
   <data name="freeSpin" xml:space="preserve">
     <value>免費回合</value>
-  </data>
-  <data name="jungleWildMode" xml:space="preserve">
-    <value>超級模式</value>
   </data>
   <data name="normal" xml:space="preserve">
     <value>普通</value>
@@ -1491,17 +1482,8 @@
   <data name="normalGame" xml:space="preserve">
     <value>正規內容</value>
   </data>
-  <data name="scatterGame" xml:space="preserve">
-    <value>散佈遊戲</value>
-  </data>
   <data name="multiplier" xml:space="preserve">
     <value>倍數</value>
-  </data>
-  <data name="scatterWin" xml:space="preserve">
-    <value>中獎金額</value>
-  </data>
-  <data name="perLineWin" xml:space="preserve">
-    <value>中獎金額</value>
   </data>
   <data name="bonusGame" xml:space="preserve">
     <value>獎金遊戲</value>
@@ -1653,12 +1635,6 @@
   </data>
   <data name="subTotal" xml:space="preserve">
     <value>小計</value>
-  </data>
-  <data name="greyHound" xml:space="preserve">
-    <value>賽狗</value>
-  </data>
-  <data name="harness" xml:space="preserve">
-    <value>馬車賽事</value>
   </data>
   <data name="winautote" xml:space="preserve">
     <value>獨贏澳大利亞彩池</value>
@@ -2297,9 +2273,6 @@
   </data>
   <data name="MCommPercent" xml:space="preserve">
     <value>MComm%</value>
-  </data>
-  <data name="SCommPercent" xml:space="preserve">
-    <value>SComm%</value>
   </data>
   <data name="ESports" xml:space="preserve">
     <value>電子遊戲</value>
