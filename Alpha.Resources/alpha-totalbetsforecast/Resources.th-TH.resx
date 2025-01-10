@@ -186,11 +186,8 @@
   <data name="SelectAtLeastOneMatch" xml:space="preserve">
     <value>กรุณาเลือกอย่างน้อยหนึ่งการแข่งขัน</value>
   </data>
-  <data name="NonLive" xml:space="preserve">
-    <value>ไม่สด</value>
-  </data>
   <data name="AllEvents" xml:space="preserve">
-    <value>ทุกการแข่งขัน</value>
+    <value>ไม่สด</value>
   </data>
   <data name="ForecastTotal" xml:space="preserve">
     <value>Forecast Total</value>

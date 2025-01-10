@@ -130,7 +130,7 @@
     <value>フルタイム</value>
   </data>
   <data name="high" xml:space="preserve">
-    <value>高い </value>
+    <value>高い</value>
   </data>
   <data name="ht" xml:space="preserve">
     <value>前半戦</value>
@@ -163,7 +163,7 @@
     <value>低い</value>
   </data>
   <data name="member" xml:space="preserve">
-    <value>メンバー </value>
+    <value>メンバー</value>
   </data>
   <data name="next" xml:space="preserve">
     <value>次へ</value>
@@ -208,7 +208,7 @@
     <value>アンダー</value>
   </data>
   <data name="winloss" xml:space="preserve">
-    <value>勝ち負け</value>
+    <value>勝敗 </value>
   </data>
   <data name="won" xml:space="preserve">
     <value>勝ち</value>
@@ -226,7 +226,7 @@
     <value>小計（コミッション)</value>
   </data>
   <data name="subtotalWinlost" xml:space="preserve">
-    <value>小計（勝ち負け )</value>
+    <value>小計（勝敗 )</value>
   </data>
   <data name="total" xml:space="preserve">
     <value>合計</value>

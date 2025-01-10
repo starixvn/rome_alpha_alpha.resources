@@ -145,7 +145,7 @@
     <value>まで</value>
   </data>
   <data name="Submit" xml:space="preserve">
-    <value>提出</value>
+    <value>送信</value>
   </data>
   <data name="ExportToExcel" xml:space="preserve">
     <value>Excel にエクスポート</value>

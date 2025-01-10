@@ -225,4 +225,25 @@
   <data name="Betsetting" xml:space="preserve">
     <value>ベット設定</value>
   </data>
+  <data name="Submit" xml:space="preserve">
+    <value>送信</value>
+  </data>
+  <data name="Level" xml:space="preserve">
+    <value>レベル</value>
+  </data>
+  <data name="mixsports" xml:space="preserve">
+    <value>ミックススポーツパーレイ</value>
+  </data>
+  <data name="Information" xml:space="preserve">
+    <value>情報</value>
+  </data>
+  <data name="LiteMode" xml:space="preserve">
+    <value>ライトモード</value>
+  </data>
+  <data name="QuickIntro_Title_NotNow" xml:space="preserve">
+    <value>今はしない</value>
+  </data>
+  <data name="QuickIntro_Title_Confirm" xml:space="preserve">
+    <value>行こう</value>
+  </data>
 </root>

@@ -127,4 +127,115 @@
   <data name="MatchOfferNonLive" xml:space="preserve">
     <value>非ライブ</value>
   </data>
+  <data name="Event" xml:space="preserve">
+    <value>イベント</value>
+  </data>
+  <data name="BetType" xml:space="preserve">
+    <value>賭けの種類</value>
+  </data>
+  <data name="Time" xml:space="preserve">
+    <value>時間</value>
+  </data>
+  <data name="BetCount" xml:space="preserve">
+    <value>ベット数</value>
+  </data>
+  <data name="Turnover" xml:space="preserve">
+    <value>賭金総額</value>
+  </data>
+  <data name="Submit" xml:space="preserve">
+    <value>提出</value>
+  </data>
+  <data name="totalbets" xml:space="preserve">
+    <value>合計ベット</value>
+  </data>
+  <data name="BetType_15" xml:space="preserve">
+    <value>前半1X2</value>
+  </data>
+  <data name="BetType_3" xml:space="preserve">
+    <value>オーバー/アンダー</value>
+  </data>
+  <data name="BetType_5" xml:space="preserve">
+    <value>フルタイム1X2</value>
+  </data>
+  <data name="BetType_7" xml:space="preserve">
+    <value>前半ハンディキャップ</value>
+  </data>
+  <data name="BetType_8" xml:space="preserve">
+    <value>前半オーバー/アンダー</value>
+  </data>
+  <data name="SelectAMatch" xml:space="preserve">
+    <value>イベントを選択します。</value>
+  </data>
+  <data name="MatchOfferLive" xml:space="preserve">
+    <value>ライブ</value>
+  </data>
+  <data name="SelectedEvents" xml:space="preserve">
+    <value>選択されたイベント</value>
+  </data>
+  <data name="Goals" xml:space="preserve">
+    <value>ゴール</value>
+  </data>
+  <data name="BetsAndForecast" xml:space="preserve">
+    <value>ベットと予測</value>
+  </data>
+  <data name="BetsAndForecastGuidelines" xml:space="preserve">
+    <value>ベットと予測ガイドライン</value>
+  </data>
+  <data name="NoData" xml:space="preserve">
+    <value>データがありません。</value>
+  </data>
+  <data name="BrowserIsOutOfDate" xml:space="preserve">
+    <value>お使いのブラウザは古く、当ウェブサイトで正しく動作しない可能性があります。より良いサポートを受けるために、新しいバージョンにアップグレードすることを強くお勧めします。</value>
+  </data>
+  <data name="ClickToUpdateBrowser" xml:space="preserve">
+    <value>ここをクリックしてブラウザを更新してください。</value>
+  </data>
+  <data name="SelectAtLeastOneMatch" xml:space="preserve">
+    <value>最低1つのイベントを選んでください</value>
+  </data>
+  <data name="AllEvents" xml:space="preserve">
+    <value>全イベント</value>
+  </data>
+  <data name="soccer" xml:space="preserve">
+    <value>サッカー</value>
+  </data>
+  <data name="Date" xml:space="preserve">
+    <value>日付</value>
+  </data>
+  <data name="Banker" xml:space="preserve">
+    <value>バンカー</value>
+  </data>
+  <data name="Player" xml:space="preserve">
+    <value>プレイヤー</value>
+  </data>
+  <data name="Forecast_Title" xml:space="preserve">
+    <value>ベットと予測の簡単なツアーを始めましょう</value>
+  </data>
+  <data name="Forecast_Title_Content" xml:space="preserve">
+    <value>これまでで最速で最も集中化された総ベットと予測です。</value>
+  </data>
+  <data name="Forecast_Title_NotNow" xml:space="preserve">
+    <value>今はしない</value>
+  </data>
+  <data name="Forecast_Title_LetsGo" xml:space="preserve">
+    <value>行こう</value>
+  </data>
+  <data name="Forecast_Popup_1" xml:space="preserve">
+    <value>新しく直感的なメニューから始まります</value>
+  </data>
+  <data name="Forecast_Popup_2" xml:space="preserve">
+    <value>ハンディキャップの意味のあるライブ予測勝敗</value>
+  </data>
+  <data name="Forecast_Popup_3" xml:space="preserve">
+    <value>古い予測勝敗は常にスコア0から始まります。</value>
+  </data>
+  <data name="Forecast_Popup_4" xml:space="preserve">
+    <value>新しい予測勝敗は現在のスコアから始まります。</value>
+  </data>
+  <data name="Forecast_Popup_5" xml:space="preserve">
+    <value>各ベットタイプにはそれぞれの予測勝敗表示があります。詳細についてはこのガイドラインを参照してください。</value>
+  </data>
+  <data name="日付" xml:space="preserve">
+    <value>イベント</value>
+  </data>
 </root>

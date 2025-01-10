@@ -197,7 +197,7 @@
     <value>(スコープは、APIキーに付与される権限を設定します)</value>
   </data>
   <data name="Scope_1" xml:space="preserve">
-    <value>勝ち負けの詳細報告書</value>
+    <value>勝敗の詳細報告書</value>
   </data>
   <data name="Scope_2" xml:space="preserve">
     <value>未決済報告書</value>

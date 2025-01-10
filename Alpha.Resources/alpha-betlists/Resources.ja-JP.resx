@@ -151,7 +151,7 @@
     <value>ベット</value>
   </data>
   <data name="lblWinLoss" xml:space="preserve">
-    <value>勝ち負け</value>
+    <value>勝敗</value>
   </data>
   <data name="status" xml:space="preserve">
     <value>ステータス</value>
@@ -169,7 +169,7 @@
     <value>小計（コミッション)</value>
   </data>
   <data name="Subtotal_wl" xml:space="preserve">
-    <value>小計（勝ち負け )</value>
+    <value>小計（勝敗 )</value>
   </data>
   <data name="Note" xml:space="preserve">
     <value>注意</value>

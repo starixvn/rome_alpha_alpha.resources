@@ -132,4 +132,10 @@
   <data name="Username" xml:space="preserve">
     <value>ユーザー名</value>
   </data>
+  <data name="Submit" xml:space="preserve">
+    <value>提出</value>
+  </data>
+  <data name="PageAccess_D" xml:space="preserve">
+    <value>ベットと予測</value>
+  </data>
 </root>

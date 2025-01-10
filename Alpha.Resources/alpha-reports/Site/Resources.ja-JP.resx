@@ -118,10 +118,10 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="AgentWinLossDetail" xml:space="preserve">
-    <value>エージェントの勝ち負け詳細</value>
+    <value>エージェントの勝敗詳細</value>
   </data>
   <data name="MemberWinLossDetail" xml:space="preserve">
-    <value>メンバーの勝ち負け詳細</value>
+    <value>メンバーの勝敗詳細</value>
   </data>
   <data name="Today" xml:space="preserve">
     <value>今日</value>
@@ -190,7 +190,7 @@
     <value>から</value>
   </data>
   <data name="WinLossTitle" xml:space="preserve">
-    <value>勝ち負け</value>
+    <value>勝敗</value>
   </data>
   <data name="CommissionByBettype" xml:space="preserve">
     <value>ベットタイプ別コミッション</value>
@@ -205,7 +205,7 @@
     <value>アウトライト</value>
   </data>
   <data name="MatchWinLossDetail" xml:space="preserve">
-    <value>試合勝ち負け詳細</value>
+    <value>試合勝敗詳細</value>
   </data>
   <data name="Outstanding" xml:space="preserve">
     <value>未決済</value>
@@ -236,7 +236,7 @@
     <value>スポーツ</value>
   </data>
   <data name="MemberWinLoss" xml:space="preserve">
-    <value>メンバー 勝ち負け</value>
+    <value>メンバー 勝敗</value>
   </data>
   <data name="Win" xml:space="preserve">
     <value>勝ち</value>
@@ -293,7 +293,7 @@
     <value>メンバー数</value>
   </data>
   <data name="SuperWinLoss" xml:space="preserve">
-    <value>スーパー 勝ち負け</value>
+    <value>スーパー 勝敗</value>
   </data>
   <data name="IPMatching" xml:space="preserve">
     <value>IP マッチング</value>
@@ -345,7 +345,7 @@
     <value>アップラインを見るにはクリックしてください</value>
   </data>
   <data name="FilterByMemberWinLoss" xml:space="preserve">
-    <value>メンバー勝ち負けでフィルター </value>
+    <value>メンバー勝敗でフィルター </value>
   </data>
   <data name="FilterByStake" xml:space="preserve">
     <value>賭け金でフィルター</value>
@@ -360,7 +360,7 @@
     <value>ユーザー名はカンマ（,）で区切ってください。</value>
   </data>
   <data name="TotalMemberWL" xml:space="preserve">
-    <value>合計メンバー勝ち負け</value>
+    <value>合計メンバー勝敗</value>
   </data>
   <data name="TotalStake" xml:space="preserve">
     <value>合計賭け金</value>
@@ -382,7 +382,7 @@
     <value>エージェント合計</value>
   </data>
   <data name="AgentWinLossNew" xml:space="preserve">
-    <value>エージェント勝ち負け</value>
+    <value>エージェント勝敗</value>
   </data>
   <data name="MasterCommNew" xml:space="preserve">
     <value>マスターコミッション</value>
@@ -391,7 +391,7 @@
     <value>マスター合計</value>
   </data>
   <data name="MasterWinLossNew" xml:space="preserve">
-    <value>マスター勝ち負け</value>
+    <value>マスター勝敗</value>
   </data>
   <data name="MemberCommNew" xml:space="preserve">
     <value>メンバーコミッション</value>
@@ -400,7 +400,7 @@
     <value>メンバー合計</value>
   </data>
   <data name="MemberWinLossNew" xml:space="preserve">
-    <value>メンバー勝ち負け</value>
+    <value>メンバー勝敗</value>
   </data>
   <data name="SuperCommNew" xml:space="preserve">
     <value>スーパーコミッション</value>
@@ -409,10 +409,10 @@
     <value>スーパー合計</value>
   </data>
   <data name="SuperWinLossNew" xml:space="preserve">
-    <value>スーパー 勝ち負け</value>
+    <value>スーパー 勝敗</value>
   </data>
   <data name="SuperWinLossDetailByPT" xml:space="preserve">
-    <value>保有ポジション別スーパー勝ち負け詳細</value>
+    <value>保有ポジション別スーパー勝敗詳細</value>
   </data>
   <data name="PT" xml:space="preserve">
     <value>保有ポジション</value>
@@ -427,7 +427,7 @@
     <value>すみません、サーバーに予想外の問題が発生しました。カスタマーサポートにご連絡ください。[{0}]</value>
   </data>
   <data name="MasterWinLossDetail" xml:space="preserve">
-    <value>マスターの勝ち負け詳細</value>
+    <value>マスターの勝敗詳細</value>
   </data>
   <data name="Tip_ShowReportInStackColumnView" xml:space="preserve">
     <value>列をグループ化</value>
@@ -534,7 +534,7 @@
     <value>カンパニー</value>
   </data>
   <data name="WinLoss" xml:space="preserve">
-    <value>勝ち負け</value>
+    <value>勝敗</value>
   </data>
   <data name="Tooltip_NetTurnover" xml:space="preserve">
     <value>スポーツブックにおいて、純賭金総額とは、ドローのチケットおよび半勝半敗のチケットの賭金総額の半分を除いた賭金総額を指します。</value>
@@ -552,7 +552,7 @@
     <value>/純賭金合計額/合計コミッション</value>
   </data>
   <data name="WinLossAbbr" xml:space="preserve">
-    <value>勝ち負け</value>
+    <value>勝敗</value>
   </data>
   <data name="BackToCurrentReport" xml:space="preserve">
     <value>現在のレポートに戻る</value>
@@ -564,10 +564,10 @@
     <value>の</value>
   </data>
   <data name="AgentWinLoss" xml:space="preserve">
-    <value>エージェント 勝ち負け</value>
+    <value>エージェント 勝敗</value>
   </data>
   <data name="MasterWinLoss" xml:space="preserve">
-    <value>マスター 勝ち負け</value>
+    <value>マスター 勝敗</value>
   </data>
   <data name="AgentTotal" xml:space="preserve">
     <value>エージェント合計</value>
@@ -591,7 +591,7 @@
     <value>シート1</value>
   </data>
   <data name="WinLossDetail" xml:space="preserve">
-    <value>勝ち負け詳細</value>
+    <value>勝敗詳細</value>
   </data>
   <data name="BetCount" xml:space="preserve">
     <value>ベット数</value>
@@ -603,7 +603,7 @@
     <value>フルタイム</value>
   </data>
   <data name="WinLossByBetType" xml:space="preserve">
-    <value>賭けの種類別勝ち負け</value>
+    <value>賭けの種類別勝敗</value>
   </data>
   <data name="All" xml:space="preserve">
     <value>全て</value>
@@ -621,7 +621,7 @@
     <value> - vs - </value>
   </data>
   <data name="MatchWinLoss" xml:space="preserve">
-    <value>試合 勝ち負け</value>
+    <value>試合 勝敗</value>
   </data>
   <data name="Daily" xml:space="preserve">
     <value>毎日</value>
@@ -630,7 +630,7 @@
     <value>毎月</value>
   </data>
   <data name="WinLossAnalysis" xml:space="preserve">
-    <value>勝ち負け分析</value>
+    <value>勝敗分析</value>
   </data>
   <data name="PositionTaking" xml:space="preserve">
     <value>保有ポジション</value>
@@ -669,13 +669,13 @@
     <value>による報告</value>
   </data>
   <data name="DailyWinLossAnalysis" xml:space="preserve">
-    <value>毎日 勝ち負け分析</value>
+    <value>毎日 勝敗分析</value>
   </data>
   <data name="MonthlyWinLossAnalysis" xml:space="preserve">
-    <value>毎月 勝ち負け分析</value>
+    <value>毎月 勝敗分析</value>
   </data>
   <data name="SportWinLossAnalysis" xml:space="preserve">
-    <value>スポーツ 勝ち負け分析</value>
+    <value>スポーツ 勝敗分析</value>
   </data>
   <data name="OpeningBalance" xml:space="preserve">
     <value>        
@@ -701,13 +701,13 @@
     <value>Macau Games</value>
   </data>
   <data name="CasinoWinLoss" xml:space="preserve">
-    <value>カジノ勝ち負け </value>
+    <value>カジノ勝敗 </value>
   </data>
   <data name="GameTypeName" xml:space="preserve">
     <value>ゲームタイプ名</value>
   </data>
   <data name="WinLossByProduct" xml:space="preserve">
-    <value>製品別勝ち負け </value>
+    <value>製品別勝敗 </value>
   </data>
   <data name="Guidelines_OpeningBalance_SMA" xml:space="preserve">
     <value>あなたの残高は「開始日」まで計算されます。もし開始時の残高が前日の累積合計と一致しない場合、開始時の残高はピンクでハイライトされます。
@@ -717,7 +717,7 @@
     <value>すべてのチケットの合計賭け金額（無効/却下/未決/払い戻しチケットは除く）</value>
   </data>
   <data name="Guidelines_WinLoss_SMA" xml:space="preserve">
-    <value>賭けチケットの保有ポジション後の合計勝ち負け額（無効/却下/未決チケットは除く）</value>
+    <value>賭けチケットの保有ポジション後の合計勝敗額（無効/却下/未決チケットは除く）</value>
   </data>
   <data name="Guidelines_Commission_SMA" xml:space="preserve">
     <value>会員チケットに基づく合計コミッション。</value>
@@ -755,7 +755,7 @@
     <value>進行中のチケットの合計賭け金額。進行中のチケットの賭けリストを表示するにはクリックしてください。</value>
   </data>
   <data name="Guidelines_WinLoss_Member" xml:space="preserve">
-    <value>賭けチケットの合計勝ち負け額（メンバーコミッションを除く、無効/却下/未決チケットは除く）。詳細な賭けリストを表示するにはクリックしてください。</value>
+    <value>賭けチケットの合計勝敗額（メンバーコミッションを除く、無効/却下/未決チケットは除く）。詳細な賭けリストを表示するにはクリックしてください。</value>
   </data>
   <data name="Guidelines_Commission_Member" xml:space="preserve">
     <value>合計メンバーコミッション</value>
@@ -777,7 +777,7 @@
     <value>累積合計 </value>
   </data>
   <data name="MonthlyWinLossChart" xml:space="preserve">
-    <value>毎月 勝ち負け チャート </value>
+    <value>毎月 勝敗 チャート </value>
   </data>
   <data name="Least3MonthToChart" xml:space="preserve">
     <value>チャートを表示するには、少なくとも3ヶ月の期間を選択してください。</value>
@@ -805,7 +805,7 @@
     <value>通貨</value>
   </data>
   <data name="Level" xml:space="preserve">
-    <value>等級</value>
+    <value>レベル</value>
   </data>
   <data name="Owner" xml:space="preserve">
     <value>オーナー</value>
@@ -904,7 +904,7 @@
     <value>支払いを確認</value>
   </data>
   <data name="ConfirmPaymentNote" xml:space="preserve">
-    <value>フォームを提出すると、支払日がシステムに登録されます。</value>
+    <value>フォームを送信すると、支払日がシステムに登録されます。</value>
   </data>
   <data name="ToMember" xml:space="preserve">
     <value>メンバーへ</value>
@@ -988,7 +988,7 @@
     <value>ベット与信</value>
   </data>
   <data name="GivenCredit" xml:space="preserve">
-    <value>付与済み与信</value>
+    <value>与信 </value>
   </data>
   <data name="NewBalance" xml:space="preserve">
     <value>新残高</value>
@@ -997,7 +997,7 @@
     <value>プレイヤーコミッション</value>
   </data>
   <data name="WinLossDate" xml:space="preserve">
-    <value>勝ち負けの日付</value>
+    <value>勝敗の日付</value>
   </data>
   <data name="UsernameIsRequired" xml:space="preserve">
     <value>ユーザー名が必要です。</value>
@@ -1084,7 +1084,7 @@
     <value>合計メンバー数</value>
   </data>
   <data name="TotalWinLoss" xml:space="preserve">
-    <value>合計勝ち負け</value>
+    <value>合計勝敗</value>
   </data>
   <data name="TotalCommission" xml:space="preserve">
     <value>合計コミッション</value>
@@ -1168,7 +1168,7 @@
     <value>マイウォッチリストに追加する</value>
   </data>
   <data name="Statement_WinLoss" xml:space="preserve">
-    <value>勝ち負け</value>
+    <value>勝敗</value>
   </data>
   <data name="Products" xml:space="preserve">
     <value>製品</value>
@@ -1180,7 +1180,7 @@
     <value>新しい表示に変更する</value>
   </data>
   <data name="ProductsWinLossAnalysis" xml:space="preserve">
-    <value>製品勝ち負け分析</value>
+    <value>製品勝敗分析</value>
   </data>
   <data name="Columns_Duplicate[1]" xml:space="preserve">
     <value>列</value>

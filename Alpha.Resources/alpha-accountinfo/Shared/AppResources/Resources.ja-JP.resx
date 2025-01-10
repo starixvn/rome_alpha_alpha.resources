@@ -174,4 +174,7 @@
   <data name="And" xml:space="preserve">
     <value>と</value>
   </data>
+  <data name="GivenCredit" xml:space="preserve">
+    <value>与信 </value>
+  </data>
 </root>

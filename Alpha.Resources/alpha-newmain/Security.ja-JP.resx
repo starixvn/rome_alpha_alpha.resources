@@ -160,7 +160,7 @@
     <value>リセット</value>
   </data>
   <data name="Submit" xml:space="preserve">
-    <value>提出する</value>
+    <value>送信</value>
   </data>
   <data name="titleVerifySecurityCode" xml:space="preserve">
     <value>セキュリティコードの有効性確認</value>
@@ -461,7 +461,7 @@
     <value>振込</value>
   </data>
   <data name="UpdateDownlineCreditAndSettings" xml:space="preserve">
-    <value>ダウンラインの付与済み与信と設定を更新</value>
+    <value>ダウンラインの与信と設定を更新</value>
   </data>
   <data name="UpdateSecurityInformation" xml:space="preserve">
     <value>セキュリティ情報（パスワード、セキュリティコード、OTPなど）の更新</value>

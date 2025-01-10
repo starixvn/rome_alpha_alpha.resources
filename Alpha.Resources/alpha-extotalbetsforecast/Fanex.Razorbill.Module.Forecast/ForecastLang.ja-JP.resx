@@ -135,4 +135,7 @@
   <data name="BetType1x2" xml:space="preserve">
     <value>1X2</value>
   </data>
+  <data name="Submit" xml:space="preserve">
+    <value>送信</value>
+  </data>
 </root>

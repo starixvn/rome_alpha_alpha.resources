@@ -124,7 +124,7 @@
     <value>すべてのエージェント</value>
   </data>
   <data name="AutoDailyResetLimit" xml:space="preserve">
-    <value>自動日次リセット制限</value>
+    <value>自動日次リセットリミット</value>
   </data>
   <data name="Closed" xml:space="preserve">
     <value>クローズ</value>

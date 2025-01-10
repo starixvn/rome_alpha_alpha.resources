@@ -210,7 +210,7 @@
     <value>通貨</value>
   </data>
   <data name="todayWinLoss" xml:space="preserve">
-    <value>今日の勝ち負け</value>
+    <value>今日の勝敗</value>
   </data>
   <data name="totalBalance" xml:space="preserve">
     <value>合計</value>
@@ -290,7 +290,7 @@
     <value>作成日</value>
   </data>
   <data name="givenCredit" xml:space="preserve">
-    <value>付与済み与信</value>
+    <value>与信 </value>
   </data>
   <data name="Notice_2" xml:space="preserve">
     <value>ベットリミット値がアップラインによって変更されました。&lt;br&gt;ご確認の上、ダウンラインの詳細をご確認ください。</value>
@@ -446,7 +446,7 @@
     <value>報告書の新機能は何ですか？こちらをクリックしてください。</value>
   </data>
   <data name="WinLossAnalysisChartIntroduction" xml:space="preserve">
-    <value>勝ち負け分析チャートはこちらです。</value>
+    <value>勝敗分析チャートはこちらです。</value>
   </data>
   <data name="CollapseExpandIcon" xml:space="preserve">
     <value>折りたたみ/展開アイコン</value>
@@ -461,7 +461,7 @@
     <value>より視覚的で便利です。</value>
   </data>
   <data name="NotNow" xml:space="preserve">
-    <value>今は違います</value>
+    <value>今はしない</value>
   </data>
   <data name="QuickTour" xml:space="preserve">
     <value>クイックツアー</value>
@@ -509,7 +509,7 @@
     <value>残高</value>
   </data>
   <data name="winloss" xml:space="preserve">
-    <value>勝ち負け</value>
+    <value>勝敗</value>
   </data>
   <data name="credit" xml:space="preserve">
     <value>与信</value>
@@ -743,7 +743,7 @@
     <value>{0} の改善にご協力ください。</value>
   </data>
   <data name="WinLossDetailReport" xml:space="preserve">
-    <value>勝ち負け詳細報告書</value>
+    <value>勝敗詳細報告書</value>
   </data>
   <data name="Here" xml:space="preserve">
     <value>ここ</value>

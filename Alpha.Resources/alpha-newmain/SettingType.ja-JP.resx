@@ -130,7 +130,7 @@
     <value>製品ステータス</value>
   </data>
   <data name="_12" xml:space="preserve">
-    <value>勝ち負け制限</value>
+    <value>勝敗制限</value>
   </data>
   <data name="_13" xml:space="preserve">
     <value>製品ステータス</value>
@@ -157,7 +157,7 @@
     <value>ベット設定</value>
   </data>
   <data name="_22" xml:space="preserve">
-    <value>勝ち負け制限</value>
+    <value>勝敗制限</value>
   </data>
   <data name="_3" xml:space="preserve">
     <value>コミッション</value>
@@ -169,7 +169,7 @@
     <value>コミッション</value>
   </data>
   <data name="_6" xml:space="preserve">
-    <value>勝ち負け制限</value>
+    <value>勝敗制限</value>
   </data>
   <data name="_7" xml:space="preserve">
     <value>賭け金レベル</value>

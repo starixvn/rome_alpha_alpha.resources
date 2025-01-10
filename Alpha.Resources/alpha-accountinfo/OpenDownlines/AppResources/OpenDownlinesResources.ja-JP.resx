@@ -132,4 +132,7 @@
   <data name="Open" xml:space="preserve">
     <value>開設</value>
   </data>
+  <data name="Level" xml:space="preserve">
+    <value>レベル</value>
+  </data>
 </root>

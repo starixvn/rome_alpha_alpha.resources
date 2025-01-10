@@ -198,4 +198,7 @@
   <data name="Baccarat" xml:space="preserve">
     <value>バカラ</value>
   </data>
+  <data name="events" xml:space="preserve">
+    <value>イベント</value>
+  </data>
 </root>

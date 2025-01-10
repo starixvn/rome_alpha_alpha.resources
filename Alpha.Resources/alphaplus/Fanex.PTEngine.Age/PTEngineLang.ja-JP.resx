@@ -121,7 +121,7 @@
     <value>エージェントリスト</value>
   </data>
   <data name="agentwinloss" xml:space="preserve">
-    <value>エージェント 勝ち負け</value>
+    <value>エージェント 勝敗</value>
   </data>
   <data name="ContactUs" xml:space="preserve">
     <value>お問い合わせ
@@ -134,7 +134,7 @@
     <value>クレジット/残高</value>
   </data>
   <data name="dailywinlossanalysisreport" xml:space="preserve">
-    <value>毎日 勝ち負け分析</value>
+    <value>毎日 勝敗分析</value>
   </data>
   <data name="lblAgentOutstanding" xml:space="preserve">
     <value>エージェント未決済</value>
@@ -182,7 +182,7 @@
     <value>昨日の合計残高</value>
   </data>
   <data name="yesterdaywinloss" xml:space="preserve">
-    <value>昨日の勝ち負け</value>
+    <value>昨日の勝敗</value>
   </data>
   <data name="youcantransfer" xml:space="preserve">
     <value>最大で振込可能です</value>
@@ -206,13 +206,13 @@
     <value>ベット設定の全ての項目を0に設定すると、メンバーがゲームをプレイできないようにすることができます。</value>
   </data>
   <data name="SMAUnlimitedBetSettingWarningMessage" xml:space="preserve">
-    <value>ベット設定の全ての項目を0に設定することは、このアカウントのベット設定に制限を設けないことを意味します。&lt;br/&gt; メンバーがゲームをプレイできないようにするには、最小ベットを0に設定し、その他の項目を0.1に設定してください。&lt;br/&gt; アップラインのベット設定を更新すると、全てのダウンラインのベット設定がアップラインの設定を超えないように減少する可能性があります。</value>
+    <value>ベット設定の全ての項目を0に設定することは、このアカウントのベット設定にリミットを設けないことを意味します。&lt;br/&gt; メンバーがゲームをプレイできないようにするには、最小ベットを0に設定し、その他の項目を0.1に設定してください。&lt;br/&gt; アップラインのベット設定を更新すると、全てのダウンラインのベット設定がアップラインの設定を超えないように減少する可能性があります。</value>
   </data>
   <data name="SpecialMemberUnlimitedBetSettingWarningMessage" xml:space="preserve">
     <value>ベット設定の全ての項目を0に設定すると、メンバーがゲームをプレイできないようにすることができます（スポーツブックのみ対応）。</value>
   </data>
   <data name="SpecialSMAUnlimitedBetSettingWarningMessage" xml:space="preserve">
-    <value>ベット設定の全ての項目を0に設定することは、このアカウントのベット設定に制限を設けないことを意味します。&lt;br/&gt; メンバーがゲームをプレイできないようにするには、最小ベットを0に設定し、その他の項目を0.1に設定してください（スポーツブックのみ）。&lt;br/&gt; アップラインのベット設定を更新すると、全てのダウンラインのベット設定がアップラインの設定を超えないように減少する可能性があります。</value>
+    <value>ベット設定の全ての項目を0に設定することは、このアカウントのベット設定にリミットを設けないことを意味します。&lt;br/&gt; メンバーがゲームをプレイできないようにするには、最小ベットを0に設定し、その他の項目を0.1に設定してください（スポーツブックのみ）。&lt;br/&gt; アップラインのベット設定を更新すると、全てのダウンラインのベット設定がアップラインの設定を超えないように減少する可能性があります。</value>
   </data>
   <data name="Symbol_OddsPercentage" xml:space="preserve">
     <value>ミャンマーオッズ</value>
@@ -233,7 +233,7 @@
     <value>全て</value>
   </data>
   <data name="allowtransfer" xml:space="preserve">
-    <value>振込が許可されています：</value>
+    <value>以下の日に転送が許可されています</value>
   </data>
   <data name="and" xml:space="preserve">
     <value>と</value>
@@ -242,7 +242,7 @@
     <value>バカラ</value>
   </data>
   <data name="bettingLimitMsg" xml:space="preserve">
-    <value>各ゲームタイプで少なくとも1つのベット制限を選択してください。</value>
+    <value>各ゲームタイプで少なくとも1つのベットリミットを選択してください。</value>
   </data>
   <data name="bonusFreeSpin" xml:space="preserve">
     <value>ボーナスフリースピン</value>
@@ -400,7 +400,7 @@
     <value>ベットリスト</value>
   </data>
   <data name="lblBettingLimit" xml:space="preserve">
-    <value>ベット制限</value>
+    <value>ベットリミット</value>
   </data>
   <data name="lblCashBalance" xml:space="preserve">
     <value>現金残高</value>
@@ -636,5 +636,26 @@
   </data>
   <data name="username" xml:space="preserve">
     <value>ユーザー名</value>
+  </data>
+  <data name="casino" xml:space="preserve">
+    <value>カジノ</value>
+  </data>
+  <data name="events" xml:space="preserve">
+    <value>イベント</value>
+  </data>
+  <data name="givencredit" xml:space="preserve">
+    <value>与信 </value>
+  </data>
+  <data name="mixsports" xml:space="preserve">
+    <value>ミックススポーツパーレイ</value>
+  </data>
+  <data name="submit" xml:space="preserve">
+    <value>送信</value>
+  </data>
+  <data name="transferredamount" xml:space="preserve">
+    <value>転送額</value>
+  </data>
+  <data name="VirtualSports" xml:space="preserve">
+    <value>バーチャルスポーツ</value>
   </data>
 </root>

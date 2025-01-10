@@ -168,20 +168,20 @@
     <value>合計コミッション</value>
   </data>
   <data name="memberWinLoss" xml:space="preserve">
-    <value>メンバー勝ち負け</value>
+    <value>メンバー勝敗</value>
   </data>
   <data name="personalMessageSample" xml:space="preserve">
     <value>あなたの保有ポジションの最小値がアップラインによって変更されました。ご確認の上、ダウンラインの詳細をご確認ください。</value>
   </data>
   <data name="specialAnnouncementSample" xml:space="preserve">
-    <value>お客様各位: 2018年1月18日より、弊社は香港からのエージェントサイトへのアクセスを制限いたします。 ご理解のほど、よろしくお願いいたします!</value>
+    <value>お客様各位: 2018年1月18日より、弊社は香港からのエージェントサイトへのアクセスをリミットいたします。 ご理解のほど、よろしくお願いいたします!</value>
   </data>
   <data name="normalAnnouncementSample" xml:space="preserve">
     <value>お知らせ：[eスポーツ] 試合が中止されました。すべての賭け金は返金されます。 ご理解のほど、よろしくお願いいたします。</value>
   </data>
   <data name="systemAnnouncementSample" xml:space="preserve">
     <value>拝啓, &lt;br/&gt;エージェントの皆様 Macau Gamesに新しいゲームが追加されましたことをお知らせいたします。
-2018年10月5日より、ベット制限の設定が影響を受ける可能性がありますので、ご確認ください。&lt;br/&gt;よろしくお願いいたします。</value>
+2018年10月5日より、ベットリミットの設定が影響を受ける可能性がありますので、ご確認ください。&lt;br/&gt;よろしくお願いいたします。</value>
   </data>
   <data name="updateLanguageFailed" xml:space="preserve">
     <value>チャットボットの言語を更新できませんでした。再度お試しください。</value>
@@ -247,7 +247,7 @@
     <value>システムからのお知らせ</value>
   </data>
   <data name="yesterdayWinLoss" xml:space="preserve">
-    <value>昨日の勝ち負け</value>
+    <value>昨日の勝敗</value>
   </data>
   <data name="ChatbotName" xml:space="preserve">
     <value>チャットボットの名前</value>
@@ -283,10 +283,10 @@
     <value>昨日の残高</value>
   </data>
   <data name="TodayWinLoss" xml:space="preserve">
-    <value>今日の勝ち負け</value>
+    <value>今日の勝敗</value>
   </data>
   <data name="YesterdayWL" xml:space="preserve">
-    <value>昨日の勝ち負け</value>
+    <value>昨日の勝敗</value>
   </data>
   <data name="MemberOutstanding" xml:space="preserve">
     <value>メンバー未決済</value>
@@ -444,14 +444,14 @@
     <value>Telegram Messenger Inc.</value>
   </data>
   <data name="TodayWinLossNew" xml:space="preserve">
-    <value>今日の勝ち負け</value>
+    <value>今日の勝敗</value>
   </data>
   <data name="VerifyOTP" xml:space="preserve">
     <value>OTPを確認してください。
 </value>
   </data>
   <data name="YesterdayWinLossNotificationDescription" xml:space="preserve">
-    <value>毎日、前日のAlphaの勝ち負け報告書の合計行をGMT-4の午後3:00に送信します。</value>
+    <value>毎日、前日のAlphaの勝敗報告書の合計行をGMT-4の午後3:00に送信します。</value>
   </data>
   <data name="YouCanTurnOnOff" xml:space="preserve">
     <value>上記の通知は、ここでオン/オフを切り替えるか、Telegramチャットボットの設定から変更できます。</value>
@@ -495,7 +495,7 @@
     <value>未決済報告書</value>
   </data>
   <data name="WinLossReport" xml:space="preserve">
-    <value>勝ち負け報告書</value>
+    <value>勝敗報告書</value>
   </data>
   <data name="EnabledTelegramOtpNotification" xml:space="preserve">
     <value>Telegram OTP通知が有効になりました

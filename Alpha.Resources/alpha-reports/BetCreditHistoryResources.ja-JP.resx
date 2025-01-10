@@ -157,7 +157,7 @@
     <value>へ</value>
   </data>
   <data name="TransferSubmitted" xml:space="preserve">
-    <value>振込が提出されました</value>
+    <value>振込が送信されました</value>
   </data>
   <data name="UpdateGivenCredit" xml:space="preserve">
     <value>付与済み与信を更新</value>

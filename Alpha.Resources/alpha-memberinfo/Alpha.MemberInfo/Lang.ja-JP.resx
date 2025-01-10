@@ -136,6 +136,9 @@
     <value>マネーライン</value>
   </data>
   <data name="AllowTransfer" xml:space="preserve">
-    <value>振込が許可されています：</value>
+    <value>以下の日に転送が許可されています</value>
+  </data>
+  <data name="viewQuickGuideNotNow" xml:space="preserve">
+    <value>今はしない</value>
   </data>
 </root>

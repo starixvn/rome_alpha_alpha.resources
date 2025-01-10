@@ -154,16 +154,16 @@
     <value>エージェント合計</value>
   </data>
   <data name="agentwin" xml:space="preserve">
-    <value>エージェント勝ち</value>
+    <value>エージェント勝</value>
   </data>
   <data name="agentwinloss" xml:space="preserve">
-    <value>エージェント勝ち負け</value>
+    <value>エージェント勝敗 </value>
   </data>
   <data name="agentwinlossolddetail" xml:space="preserve">
-    <value>エージェント勝ち負けの旧詳細</value>
+    <value>エージェント勝敗の旧詳細</value>
   </data>
   <data name="agentwinlostdetail" xml:space="preserve">
-    <value>エージェント勝ち負けの詳細</value>
+    <value>エージェント勝敗の詳細</value>
   </data>
   <data name="alertAgentCredit" xml:space="preserve">
     <value>エージェントの最大クレジットが間違っています。</value>
@@ -221,7 +221,7 @@
     <value>全メンバー</value>
   </data>
   <data name="allowtransfer" xml:space="preserve">
-    <value>振込が許可されています：</value>
+    <value>以下の日に転送が許可されています</value>
   </data>
   <data name="alltransaction" xml:space="preserve">
     <value>すべての取引</value>
@@ -391,7 +391,7 @@
     <value>自動保有ポジションを許可 </value>
   </data>
   <data name="autoReset" xml:space="preserve">
-    <value>日次自動リセット制限 (GMT+8の正午12時にリセット)</value>
+    <value>日次自動リセットリミット (GMT+8の正午12時にリセット)</value>
   </data>
   <data name="confirmDisableOutright" xml:space="preserve">
     <value>この顧客に対して、アウトライトベッティングを禁止してもよろしいですか？警告：このエージェントに所属するすべてのメンバーはアウトライトベットを行うことができません！</value>
@@ -422,7 +422,7 @@
     <value>このマスターの自動保有ポジション機能を有効にしてもよろしいですか？</value>
   </data>
   <data name="bettingLimitMsg" xml:space="preserve">
-    <value>各ゲームタイプで少なくとも1つのベット制限を選択してください。</value>
+    <value>各ゲームタイプで少なくとも1つのベットリミットを選択してください。</value>
   </data>
   <data name="betperline" xml:space="preserve">
     <value>ラインごとのベット</value>
@@ -473,7 +473,7 @@
     <value>すべてのスポーツ</value>
   </data>
   <data name="agentgivencredit" xml:space="preserve">
-    <value>エージェントに与えられたクレジット</value>
+    <value>エージェント与信</value>
   </data>
   <data name="announcement" xml:space="preserve">
     <value>通知</value>
@@ -742,13 +742,13 @@
     <value>合計</value>
   </data>
   <data name="lblMatchWinLostDetail" xml:space="preserve">
-    <value>試合勝ち負け詳細</value>
+    <value>試合勝敗詳細</value>
   </data>
   <data name="statistic" xml:space="preserve">
     <value>あなたの統計</value>
   </data>
   <data name="yesterdaywinloss" xml:space="preserve">
-    <value>昨日の勝ち負け</value>
+    <value>昨日の勝敗</value>
   </data>
   <data name="自動更新毎" xml:space="preserve">
     <value>～に基づく</value>
@@ -878,7 +878,7 @@
     <value>エージェント最大与信</value>
   </data>
   <data name="lblAllowTransfer" xml:space="preserve">
-    <value>振込が許可されています：</value>
+    <value>以下の日に転送が許可されています</value>
   </data>
   <data name="lblAsianHDC_OU_OE" xml:space="preserve">
     <value>アジアンハンディキャップ, オーバーアンダー, オッドイーブン</value>
@@ -902,7 +902,7 @@
     <value>ベット設定</value>
   </data>
   <data name="lblBettingLimit" xml:space="preserve">
-    <value>ベット制限</value>
+    <value>ベットリミット</value>
   </data>
   <data name="lblCashBalance" xml:space="preserve">
     <value>現金残高</value>
@@ -1209,5 +1209,47 @@
   </data>
   <data name="EditSingleSportsbook2" xml:space="preserve">
     <value>スポーツブック2を編集</value>
+  </data>
+  <data name="events" xml:space="preserve">
+    <value>イベント</value>
+  </data>
+  <data name="lblInformation" xml:space="preserve">
+    <value>情報</value>
+  </data>
+  <data name="lblMemberOutstanding" xml:space="preserve">
+    <value>メンバー未決済</value>
+  </data>
+  <data name="memberoutstanding" xml:space="preserve">
+    <value>メンバー未決済</value>
+  </data>
+  <data name="mixsports" xml:space="preserve">
+    <value>ミックススポーツパーレイ</value>
+  </data>
+  <data name="transferredamount" xml:space="preserve">
+    <value>転送額</value>
+  </data>
+  <data name="VirtualSports" xml:space="preserve">
+    <value>バーチャルスポーツ</value>
+  </data>
+  <data name="BetsAndForecast" xml:space="preserve">
+    <value>ベットと予測</value>
+  </data>
+  <data name="PageAccess_D" xml:space="preserve">
+    <value>ベットと予測</value>
+  </data>
+  <data name="PageAccess_D_Short" xml:space="preserve">
+    <value>ベットと予測</value>
+  </data>
+  <data name="txtMaxPayoutSettingInfo14_VS" xml:space="preserve">
+    <value>バーチャルスポーツ:</value>
+  </data>
+  <data name="LiteMode" xml:space="preserve">
+    <value>ライトモード</value>
+  </data>
+  <data name="txtMaxPayoutSettingInfo_SabaTable_Header1" xml:space="preserve">
+    <value>Saba バーチャルスポーツ</value>
+  </data>
+  <data name="txtMaxPayoutSettingInfo_Table_Header1" xml:space="preserve">
+    <value>バーチャルスポーツ</value>
   </data>
 </root>

@@ -204,7 +204,7 @@ Saba バスケットボール-1試合あたりの最大ペイアウト
     <value>セキュリティコード変更の警告</value>
   </data>
   <data name="MemberWinLossLimit" xml:space="preserve">
-    <value>メンバー勝ち負け制限</value>
+    <value>メンバー勝敗制限</value>
   </data>
   <data name="ProblemAccount" xml:space="preserve">
     <value>問題のあるアカウント</value>
@@ -234,7 +234,7 @@ Saba バスケットボール-1試合あたりの最大ペイアウト
     <value>スコープ</value>
   </data>
   <data name="APIKeyScope_1" xml:space="preserve">
-    <value>勝ち負けの詳細報告書</value>
+    <value>勝敗の詳細報告書</value>
   </data>
   <data name="APIKeyScope_2" xml:space="preserve">
     <value>未決済報告書</value>
@@ -315,10 +315,10 @@ Saba バスケットボール-1試合あたりの最大ペイアウト
     <value>メンバー向けコミッション</value>
   </data>
   <data name="WinLossLimit" xml:space="preserve">
-    <value>勝ち負け制限</value>
+    <value>勝敗制限</value>
   </data>
   <data name="Unlimited" xml:space="preserve">
-    <value>無制限</value>
+    <value>無リミット</value>
   </data>
   <data name="BetLimit" xml:space="preserve">
     <value>ベットリミット</value>
@@ -1125,7 +1125,7 @@ Saba バスケットボール-1試合あたりの最大ペイアウト
     <value>最大振込額</value>
   </data>
   <data name="DailyAutoReset" xml:space="preserve">
-    <value>日次自動リセット制限</value>
+    <value>日次自動リセットリミット</value>
   </data>
   <data name="games" xml:space="preserve">
     <value>ゲーム</value>
@@ -1293,13 +1293,13 @@ Saba バスケットボール-1試合あたりの最大ペイアウト
     <value>未決済</value>
   </data>
   <data name="TodayWinLoss" xml:space="preserve">
-    <value>今日の勝ち負け</value>
+    <value>今日の勝敗</value>
   </data>
   <data name="BalanceInfo" xml:space="preserve">
     <value>残高情報</value>
   </data>
   <data name="YesterdayWinLoss" xml:space="preserve">
-    <value>昨日の勝ち負け</value>
+    <value>昨日の勝敗</value>
   </data>
   <data name="PersonalMessage" xml:space="preserve">
     <value>個人メッセージ</value>
@@ -2422,5 +2422,44 @@ Saba バスケットボール-1試合あたりの最大ペイアウト
   </data>
   <data name="updatemultiple" xml:space="preserve">
     <value>複数を更新</value>
+  </data>
+  <data name="maxv99pt_1" xml:space="preserve">
+    <value>最大ハンディキャップ</value>
+  </data>
+  <data name="maxv99pt_2" xml:space="preserve">
+    <value>最大オッド／イーブン</value>
+  </data>
+  <data name="maxv99pt_3" xml:space="preserve">
+    <value>最大オーバー/アンダー</value>
+  </data>
+  <data name="newspt" xml:space="preserve">
+    <value>新しいスーパー保有ポジション</value>
+  </data>
+  <data name="newmpt" xml:space="preserve">
+    <value>新しいマスター保有ポジション</value>
+  </data>
+  <data name="v2apt_1" xml:space="preserve">
+    <value>ハンディキャップ</value>
+  </data>
+  <data name="v2apt_7" xml:space="preserve">
+    <value>前半ハンディキャップ</value>
+  </data>
+  <data name="v2mpt_7" xml:space="preserve">
+    <value>前半ハンディキャップ</value>
+  </data>
+  <data name="v2mpt_1" xml:space="preserve">
+    <value>ハンディキャップ</value>
+  </data>
+  <data name="language" xml:space="preserve">
+    <value>言語</value>
+  </data>
+  <data name="isa_v8smpt_1" xml:space="preserve">
+    <value>ハンディキャップ</value>
+  </data>
+  <data name="v2spt_1" xml:space="preserve">
+    <value>ハンディキャップ</value>
+  </data>
+  <data name="v2spt_7" xml:space="preserve">
+    <value>前半ハンディキャップ</value>
   </data>
 </root>

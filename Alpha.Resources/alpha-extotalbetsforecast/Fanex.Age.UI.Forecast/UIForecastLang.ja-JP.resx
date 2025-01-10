@@ -138,4 +138,7 @@
   <data name="lblOverUnder" xml:space="preserve">
     <value>オーバーアンダー</value>
   </data>
+  <data name="submit" xml:space="preserve">
+    <value>送信</value>
+  </data>
 </root>

@@ -126,4 +126,7 @@
   <data name="IndirectLoginAccount" xml:space="preserve">
     <value>間接ログインアカウント</value>
   </data>
+  <data name="AutoPT" xml:space="preserve">
+    <value>自動保有ポジション</value>
+  </data>
 </root>

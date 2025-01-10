@@ -123,4 +123,7 @@
   <data name="all" xml:space="preserve">
     <value>全て</value>
   </data>
+  <data name="VirtualSports" xml:space="preserve">
+    <value>バーチャルスポーツ</value>
+  </data>
 </root>

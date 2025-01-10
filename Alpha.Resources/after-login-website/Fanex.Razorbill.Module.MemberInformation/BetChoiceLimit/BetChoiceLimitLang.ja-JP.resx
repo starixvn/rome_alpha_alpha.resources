@@ -127,7 +127,7 @@
     <value>ベット選択</value>
   </data>
   <data name="BetChoiceLimit" xml:space="preserve">
-    <value>ベット選択制限</value>
+    <value>ベット選択リミット</value>
   </data>
   <data name="BetLimit" xml:space="preserve">
     <value>ベットリミット</value>

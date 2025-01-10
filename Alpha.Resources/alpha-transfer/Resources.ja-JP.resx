@@ -148,7 +148,7 @@
     <value>停止</value>
   </data>
   <data name="Status_3" xml:space="preserve">
-    <value>クローズ</value>
+    <value>閉鎖</value>
   </data>
   <data name="YesterdayCashBalance" xml:space="preserve">
     <value>昨日の現金残高</value>
@@ -188,5 +188,488 @@
   </data>
   <data name="AutoTransfer_Error_102_Single" xml:space="preserve">
     <value>このアカウントはあなたのダウンラインに属していません</value>
+  </data>
+  <data name="TransferAllAndClearCredit" xml:space="preserve">
+    <value>すべてを転送してクレジットをクリア</value>
+  </data>
+  <data name="Calculate" xml:space="preserve">
+    <value>計算する</value>
+  </data>
+  <data name="TransferAllAndClearCreditNote" xml:space="preserve">
+    <value>すべて転送とクレジットクリアは現在のルールに従いますが、すべてのリストされたレベルに適用されます。</value>
+  </data>
+  <data name="DataChangedWarning" xml:space="preserve">
+    <value>計算中にいくつかのデータが変更されました。以下の表の強調表示された数字をご確認ください。</value>
+  </data>
+  <data name="TransferAll" xml:space="preserve">
+    <value>すべてを転送</value>
+  </data>
+  <data name="ClearCredit" xml:space="preserve">
+    <value>クレジットクリア</value>
+  </data>
+  <data name="Submit" xml:space="preserve">
+    <value>提出</value>
+  </data>
+  <data name="Step" xml:space="preserve">
+    <value>ステップ</value>
+  </data>
+  <data name="TransferableAmount" xml:space="preserve">
+    <value>転送可能金額</value>
+  </data>
+  <data name="MemberOutstanding" xml:space="preserve">
+    <value>メンバー未決済</value>
+  </data>
+  <data name="Level" xml:space="preserve">
+    <value>レベル</value>
+  </data>
+  <data name="GivenCredit" xml:space="preserve">
+    <value>与信 </value>
+  </data>
+  <data name="ClearableCredit" xml:space="preserve">
+    <value>クリア可能クレジット</value>
+  </data>
+  <data name="ClearCreditConfirm" xml:space="preserve">
+    <value>すべて転送してクレジットをクリアしてもよろしいですか？</value>
+  </data>
+  <data name="TransferAllConfirm" xml:space="preserve">
+    <value>すべて転送してもよろしいですか？</value>
+  </data>
+  <data name="TransferredAmount" xml:space="preserve">
+    <value>転送額</value>
+  </data>
+  <data name="ClearedCredit" xml:space="preserve">
+    <value>クリアされたクレジット</value>
+  </data>
+  <data name="TransferSuccessfully" xml:space="preserve">
+    <value>転送が成功しました</value>
+  </data>
+  <data name="AllowTransfer" xml:space="preserve">
+    <value>以下の日に転送が許可されています</value>
+  </data>
+  <data name="Friday" xml:space="preserve">
+    <value>金曜日</value>
+  </data>
+  <data name="Monday" xml:space="preserve">
+    <value>月曜日</value>
+  </data>
+  <data name="Saturday" xml:space="preserve">
+    <value>土曜日</value>
+  </data>
+  <data name="Sunday" xml:space="preserve">
+    <value>日曜日</value>
+  </data>
+  <data name="Thursday" xml:space="preserve">
+    <value>木曜日</value>
+  </data>
+  <data name="Tuesday" xml:space="preserve">
+    <value>火曜日</value>
+  </data>
+  <data name="Wednesday" xml:space="preserve">
+    <value>水曜日</value>
+  </data>
+  <data name="Daily" xml:space="preserve">
+    <value>毎日</value>
+  </data>
+  <data name="HintNotAvailableToTransfer" xml:space="preserve">
+    <value>現金残高は振込できません。</value>
+  </data>
+  <data name="HintRangeTransfer" xml:space="preserve">
+    <value>{0}から{1}へ振込できます。</value>
+  </data>
+  <data name="AvailableRangeTransfer" xml:space="preserve">
+    <value>振込金額は{0}から{1}の間でなければなりません。</value>
+  </data>
+  <data name="Super" xml:space="preserve">
+    <value>スーパー</value>
+  </data>
+  <data name="Master" xml:space="preserve">
+    <value>マスター</value>
+  </data>
+  <data name="Agent" xml:space="preserve">
+    <value>エージェント</value>
+  </data>
+  <data name="Member" xml:space="preserve">
+    <value>メンバー </value>
+  </data>
+  <data name="BadRequest" xml:space="preserve">
+    <value>不正なリクエストです。</value>
+  </data>
+  <data name="NotAuthorized" xml:space="preserve">
+    <value>この機能を使用する権限がありません。</value>
+  </data>
+  <data name="TransferButton" xml:space="preserve">
+    <value>振込</value>
+  </data>
+  <data name="Information" xml:space="preserve">
+    <value>情報</value>
+  </data>
+  <data name="OutstandingShortcut" xml:space="preserve">
+    <value>未処理の取引</value>
+  </data>
+  <data name="Amount" xml:space="preserve">
+    <value>金額</value>
+  </data>
+  <data name="ConfirmTransfer" xml:space="preserve">
+    <value>振込してもよろしいですか？</value>
+  </data>
+  <data name="TransferAmountIs" xml:space="preserve">
+    <value>振込金額は</value>
+  </data>
+  <data name="InvalidValue" xml:space="preserve">
+    <value>無効な値です。</value>
+  </data>
+  <data name="TransferStep_Super_Member" xml:space="preserve">
+    <value>メンバーからエージェントへ</value>
+  </data>
+  <data name="TransferStep_Super_Agent" xml:space="preserve">
+    <value>エージェントから{0}へ</value>
+  </data>
+  <data name="TransferStep_Super_Master" xml:space="preserve">
+    <value>{0}からあなたのアカウントへ</value>
+  </data>
+  <data name="ClearCreditStep_Super_Member" xml:space="preserve">
+    <value>{0}のメンバー</value>
+  </data>
+  <data name="ClearCreditStep_Super_Agent" xml:space="preserve">
+    <value>{0}のエージェント</value>
+  </data>
+  <data name="ClearCreditStep_Super_Master" xml:space="preserve">
+    <value>{0}</value>
+  </data>
+  <data name="Status" xml:space="preserve">
+    <value>状態</value>
+  </data>
+  <data name="AllYesterdayBalance" xml:space="preserve">
+    <value>全昨日の残高</value>
+  </data>
+  <data name="Status_4" xml:space="preserve">
+    <value>無効化</value>
+  </data>
+  <data name="Yesterday" xml:space="preserve">
+    <value>昨日</value>
+  </data>
+  <data name="YesterdayBalance" xml:space="preserve">
+    <value>昨日の残高</value>
+  </data>
+  <data name="MasterBalance" xml:space="preserve">
+    <value>マスター残高</value>
+  </data>
+  <data name="MasterCash" xml:space="preserve">
+    <value>マスター現金</value>
+  </data>
+  <data name="Outstanding" xml:space="preserve">
+    <value>未処理</value>
+  </data>
+  <data name="UsedCredit" xml:space="preserve">
+    <value>使用済み与信</value>
+  </data>
+  <data name="FirstName" xml:space="preserve">
+    <value>名</value>
+  </data>
+  <data name="TransferAllSuccess" xml:space="preserve">
+    <value>すべてを振込のプロセスが成功しました。</value>
+  </data>
+  <data name="ClearCreditSuccess" xml:space="preserve">
+    <value>クレジットのクリアに成功しました。</value>
+  </data>
+  <data name="Transfer_all" xml:space="preserve">
+    <value>すべてを振込</value>
+  </data>
+  <data name="Clear_credit" xml:space="preserve">
+    <value>クレジットクリア</value>
+  </data>
+  <data name="TransferAllUnsuccessfully" xml:space="preserve">
+    <value>すべてを振込に失敗しました。もう一度お試しください。</value>
+  </data>
+  <data name="ClearCreditUnsuccessfully" xml:space="preserve">
+    <value>クレジットのクリアに失敗しました。もう一度お試しください。</value>
+  </data>
+  <data name="TransferStep_Master_Member" xml:space="preserve">
+    <value>メンバーから{0}へ</value>
+  </data>
+  <data name="TransferStep_Master_Agent" xml:space="preserve">
+    <value>{0}をあなたのアカウントに</value>
+  </data>
+  <data name="ClearCreditStep_Master_Agent" xml:space="preserve">
+    <value>エージェント {0}</value>
+  </data>
+  <data name="TransferAll_ClearCredit_Errors" xml:space="preserve">
+    <value>以下の理由により、すべてを振込およびクレジットクリアの操作は利用できません：</value>
+  </data>
+  <data name="TransferToDownlineHistory" xml:space="preserve">
+    <value>ダウンラインへの振込履歴</value>
+  </data>
+  <data name="Today" xml:space="preserve">
+    <value>今日</value>
+  </data>
+  <data name="SinceLastMonth" xml:space="preserve">
+    <value>先月以降</value>
+  </data>
+  <data name="SpecificDate" xml:space="preserve">
+    <value>特定の日付</value>
+  </data>
+  <data name="ThisWeek" xml:space="preserve">
+    <value>今週</value>
+  </data>
+  <data name="ThisMonth" xml:space="preserve">
+    <value>今月</value>
+  </data>
+  <data name="To" xml:space="preserve">
+    <value>まで</value>
+  </data>
+  <data name="From" xml:space="preserve">
+    <value>から</value>
+  </data>
+  <data name="ExportToExcel" xml:space="preserve">
+    <value>Excelにエクスポート</value>
+  </data>
+  <data name="CanViewReportDataFrom" xml:space="preserve">
+    <value>{0}からレポートデータを見ることができます。</value>
+  </data>
+  <data name="ActionDate" xml:space="preserve">
+    <value>行動日</value>
+  </data>
+  <data name="Description" xml:space="preserve">
+    <value>記述</value>
+  </data>
+  <data name="NewBalance" xml:space="preserve">
+    <value>新残高</value>
+  </data>
+  <data name="OldBalance" xml:space="preserve">
+    <value>旧残高</value>
+  </data>
+  <data name="TransferAmount" xml:space="preserve">
+    <value>振込金額</value>
+  </data>
+  <data name="TransferType" xml:space="preserve">
+    <value>振込種類</value>
+  </data>
+  <data name="Deposit" xml:space="preserve">
+    <value>預金</value>
+  </data>
+  <data name="Withdrawal" xml:space="preserve">
+    <value>出金</value>
+  </data>
+  <data name="of" xml:space="preserve">
+    <value>の</value>
+  </data>
+  <data name="Page" xml:space="preserve">
+    <value>ページ</value>
+  </data>
+  <data name="PageSize" xml:space="preserve">
+    <value>ページサイズ</value>
+  </data>
+  <data name="showhidecolumnAd" xml:space="preserve">
+    <value>ヘッダーを右クリックして列を表示/非表示にしてください。</value>
+  </data>
+  <data name="DisallowedAllDayBalanceTransferError" xml:space="preserve">
+    <value>アップラインにより終日残高振込の利用が禁止されています。ページは自動的にリフレッシュされます。</value>
+  </data>
+  <data name="pendingTransfer3rd" xml:space="preserve">
+    <value>第三者の保留中の振込</value>
+  </data>
+  <data name="confirmCancelJob" xml:space="preserve">
+    <value>このアカウントの自動振込プロセスをキャンセルしますか？</value>
+  </data>
+  <data name="confirmTurnOnAutoTransfer" xml:space="preserve">
+    <value>&lt;b&gt;このアカウント {0} の自動振込を有効にしますか？&lt;/b&gt;</value>
+  </data>
+  <data name="confirmTurnOffAutoTransfer" xml:space="preserve">
+    <value>&lt;b&gt;このアカウント {0} の自動振込を無効にしますか？&lt;/b&gt;</value>
+  </data>
+  <data name="AutoTransfer_InfoSettingTime" xml:space="preserve">
+    <value>自動振込プロセスは&lt;span&gt;午後12時（GMT+8）&lt;/span&gt;に予定されており、その間に昨日の残高がクリアされます。</value>
+  </data>
+  <data name="AutoTransfer_InfoCannotTransfer" xml:space="preserve">
+    <value>自動振込プロセス中のデータの正確性を確保するため、自動振込が有効なダウンラインへの振込はできません。</value>
+  </data>
+  <data name="AutoTransfer_InfoAffectTime" xml:space="preserve">
+    <value>有効化されると、昨日の残高は振込条件&lt;b&gt;({0})&lt;/b&gt;に基づき&lt;span&gt;午後12時（GMT+8）&lt;/span&gt;にクリアされます。</value>
+  </data>
+  <data name="AutoTransfer_UpdateSuccess" xml:space="preserve">
+    <value>これらのアカウントに対する自動振込が正常に更新されました。</value>
+  </data>
+  <data name="On" xml:space="preserve">
+    <value>オン</value>
+  </data>
+  <data name="Off" xml:space="preserve">
+    <value>オフ</value>
+  </data>
+  <data name="AutoTransferMonitoring" xml:space="preserve">
+    <value>自動振込モニター</value>
+  </data>
+  <data name="AutoTransferHistory" xml:space="preserve">
+    <value>自動振込履歴</value>
+  </data>
+  <data name="New" xml:space="preserve">
+    <value>振込準備完了</value>
+  </data>
+  <data name="Waiting" xml:space="preserve">
+    <value>待機中</value>
+  </data>
+  <data name="Processing" xml:space="preserve">
+    <value>処理中</value>
+  </data>
+  <data name="Completed" xml:space="preserve">
+    <value>完了</value>
+  </data>
+  <data name="Failed" xml:space="preserve">
+    <value>失敗</value>
+  </data>
+  <data name="Reason" xml:space="preserve">
+    <value>理由</value>
+  </data>
+  <data name="Pager_DisplayItems" xml:space="preserve">
+    <value>{total} 件中 {from} から {to} までを表示中</value>
+  </data>
+  <data name="Columns" xml:space="preserve">
+    <value>列</value>
+  </data>
+  <data name="SelectAll" xml:space="preserve">
+    <value>全選択</value>
+  </data>
+  <data name="Selected" xml:space="preserve">
+    <value>選択済み</value>
+  </data>
+  <data name="SelectNone" xml:space="preserve">
+    <value>何も選択しない</value>
+  </data>
+  <data name="SearchColumn" xml:space="preserve">
+    <value>検索列</value>
+  </data>
+  <data name="AutoTransfer_InfoAffectTime2" xml:space="preserve">
+    <value>稼働中に自動振込を有効にすると、振込条件に従い次回のスケジュール時間にプロセスが適用されます。</value>
+  </data>
+  <data name="CompletedTime" xml:space="preserve">
+    <value>完了時間</value>
+  </data>
+  <data name="Cancelled" xml:space="preserve">
+    <value>キャンセル済み</value>
+  </data>
+  <data name="First_LastName" xml:space="preserve">
+    <value>名/姓</value>
+  </data>
+  <data name="NoRefresh" xml:space="preserve">
+    <value>いいえ</value>
+  </data>
+  <data name="AutoTransfer_CancelSuccess" xml:space="preserve">
+    <value>作業がキャンセルされました！</value>
+  </data>
+  <data name="Cancel" xml:space="preserve">
+    <value>キャンセル</value>
+  </data>
+  <data name="Search" xml:space="preserve">
+    <value>検索</value>
+  </data>
+  <data name="AutoTransfer" xml:space="preserve">
+    <value>自動振込</value>
+  </data>
+  <data name="AutoTransfer_MultipleAffectNextConditionWarning" xml:space="preserve">
+    <value>これらのアカウントの自動振込が有効化されました。ただし、現在このプロセスが進行中のため、これらのアカウントは自動振込スケジュールに基づき次回のスケジュール時間でキューに登録されます。</value>
+  </data>
+  <data name="AutoTransfer_Error_103_Multiple" xml:space="preserve">
+    <value>これらのアカウントの自動振込プロセスが進行中のため、自動振込を無効にすることはできません。処理が完了した後に再試行してください。</value>
+  </data>
+  <data name="AutoTransfer_UpdateSuccessOn" xml:space="preserve">
+    <value>アカウント {0} の自動振込が正常に有効化されました。</value>
+  </data>
+  <data name="AutoTransfer_UpdateSuccessOff" xml:space="preserve">
+    <value>アカウント {0} の自動振込が正常に無効化されました。</value>
+  </data>
+  <data name="Pending" xml:space="preserve">
+    <value>保留中</value>
+  </data>
+  <data name="Ignored" xml:space="preserve">
+    <value>無視済み</value>
+  </data>
+  <data name="AutoTransfer_Error_103_Single" xml:space="preserve">
+    <value>このアカウントの自動振込プロセスが進行中のため、自動振込を無効にすることはできません。処理が完了した後に再試行してください。</value>
+  </data>
+  <data name="AutoTransfer_MultipleAffectNextConditionWarning_Single" xml:space="preserve">
+    <value>このアカウントに対して自動振込が有効化されました。ただし、このプロセスが進行中のため、次回の自動振込スケジュールに基づいてキューに追加されます。</value>
+  </data>
+  <data name="AutoTransferGuideline" xml:space="preserve">
+    <value>自動振込ガイドライン</value>
+  </data>
+  <data name="ReadyToTransfer" xml:space="preserve">
+    <value>振込の準備完了</value>
+  </data>
+  <data name="ADBTChangeError" xml:space="preserve">
+    <value>アップラインが終日残高振込を有効にしているため、自動振込を利用できません。ページは自動的に更新されます。</value>
+  </data>
+  <data name="AutoTransfer_InfoAffectTimeSuper" xml:space="preserve">
+    <value>有効化されると、昨日の残高は&lt;span&gt;午後12時（GMT+8）&lt;/span&gt;にクリアされます。</value>
+  </data>
+  <data name="CancelAll" xml:space="preserve">
+    <value>全てをキャンセル</value>
+  </data>
+  <data name="CancelAllAutoTransferJobsConfirm" xml:space="preserve">
+    <value>{0} アカウントの自動振込処理をキャンセルしますか？</value>
+  </data>
+  <data name="AutoTransfer_CancelAllSuccess" xml:space="preserve">
+    <value>自動振込処理が正常にキャンセルされました。</value>
+  </data>
+  <data name="CancelSuspendedTransactions" xml:space="preserve">
+    <value>停止中の取引をキャンセル</value>
+  </data>
+  <data name="AutoTransfer_NoCancellable" xml:space="preserve">
+    <value>キャンセル可能な取引はありません。</value>
+  </data>
+  <data name="confirmChangeAutoTransferSchedule" xml:space="preserve">
+    <value>アカウント {0} の自動振込スケジュールを変更しますか？</value>
+  </data>
+  <data name="AutoTransfer_SetSchedule" xml:space="preserve">
+    <value>振込条件に従って、利用可能なオプションからダウンラインの自動振込スケジュールを設定可能です。</value>
+  </data>
+  <data name="SelectAll2" xml:space="preserve">
+    <value>全選択</value>
+  </data>
+  <data name="Mon" xml:space="preserve">
+    <value>月曜日</value>
+  </data>
+  <data name="Tue" xml:space="preserve">
+    <value>火曜日</value>
+  </data>
+  <data name="Wed" xml:space="preserve">
+    <value>水曜日</value>
+  </data>
+  <data name="Thurs" xml:space="preserve">
+    <value>木曜日</value>
+  </data>
+  <data name="Fri" xml:space="preserve">
+    <value>金曜日</value>
+  </data>
+  <data name="Sat" xml:space="preserve">
+    <value>土曜日</value>
+  </data>
+  <data name="Sun" xml:space="preserve">
+    <value>日曜日</value>
+  </data>
+  <data name="AutoTransfer_UpdateScheduleSuccess" xml:space="preserve">
+    <value>アカウント {0} の自動振込スケジュールが正常に更新されました。</value>
+  </data>
+  <data name="AutoTransfer_ClearSchedule" xml:space="preserve">
+    <value>無効化すると、現在の自動振込スケジュールはクリアされます。</value>
+  </data>
+  <data name="confirmUpdateAutoTransfer" xml:space="preserve">
+    <value>これらのアカウントの自動振込を更新しますか？</value>
+  </data>
+  <data name="AutoTransfer_Statistic" xml:space="preserve">
+    <value>「保留中」「処理中」「失敗」「キャンセルされた取引」の各カテゴリの振込件数は、すべてのダウンラインでカウントされます。</value>
+  </data>
+  <data name="CancelSuspendedTransactionsTip" xml:space="preserve">
+    <value>15分以上保留中または処理中のすべての取引をキャンセルするには、ここをクリックしてください。</value>
+  </data>
+  <data name="EditMultipleAutoTransfer" xml:space="preserve">
+    <value>複数の自動振込を編集</value>
+  </data>
+  <data name="EditAutoTransferSchedule" xml:space="preserve">
+    <value>自動振込スケジュールの編集</value>
+  </data>
+  <data name="AutoTransfer_UplineConditionChanged" xml:space="preserve">
+    <value>あなたの振込条件がアップラインによって変更されました。ページを更新してください。</value>
+  </data>
+  <data name="AutoTransfer_UpdateTip" xml:space="preserve">
+    <value>ヒント：複数のアカウントに対して自動振込を有効または無効にするには、[メンバー情報 &gt;&gt; {0}] または [振込 &gt;&gt; 振込] を使用し、進行状況を [振込 &gt;&gt; 自動振込モニター] で監視できます。</value>
   </data>
 </root>

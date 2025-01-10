@@ -154,7 +154,7 @@
     <value>アンダー</value>
   </data>
   <data name="winloss" xml:space="preserve">
-    <value>勝ち負け</value>
+    <value>勝敗</value>
   </data>
   <data name="won" xml:space="preserve">
     <value>勝ち</value>

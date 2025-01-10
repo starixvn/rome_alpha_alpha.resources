@@ -1221,7 +1221,7 @@
     <value>行為類別</value>
   </data>
   <data name="RiskLevel" xml:space="preserve">
-    <value>風險等級</value>
+    <value>等級</value>
   </data>
   <data name="IndividualCopy" xml:space="preserve">
     <value>单一複製</value>

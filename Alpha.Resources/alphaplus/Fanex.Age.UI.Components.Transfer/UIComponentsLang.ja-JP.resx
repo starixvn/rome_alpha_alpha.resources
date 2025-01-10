@@ -121,10 +121,10 @@
     <value>エージェントリスト</value>
   </data>
   <data name="agentwinloss" xml:space="preserve">
-    <value>エージェント 勝ち負け</value>
+    <value>エージェント 勝敗</value>
   </data>
   <data name="agentwinlostdetail" xml:space="preserve">
-    <value>エージェントの勝ち負け詳細</value>
+    <value>エージェントの勝敗詳細</value>
   </data>
   <data name="consolidationreport" xml:space="preserve">
     <value>グループの勝敗レポート</value>
@@ -139,7 +139,7 @@
     <value>クレジット/残高</value>
   </data>
   <data name="dailywinlossanalysisreport" xml:space="preserve">
-    <value>毎日 勝ち負け分析</value>
+    <value>毎日 勝敗分析</value>
   </data>
   <data name="lblAgentList" xml:space="preserve">
     <value>エージェントリスト</value>
@@ -212,7 +212,7 @@
     <value>ベットタイプ別エージェントコミッション</value>
   </data>
   <data name="agentgivencredit" xml:space="preserve">
-    <value>エージェントに与えられたクレジット</value>
+    <value>エージェント与信</value>
   </data>
   <data name="agentincentive" xml:space="preserve">
     <value>エージェントインセンティブ</value>
@@ -297,7 +297,7 @@
     <value>許可済み</value>
   </data>
   <data name="allowtransfer" xml:space="preserve">
-    <value>振込が許可されています：</value>
+    <value>以下の日に転送が許可されています</value>
   </data>
   <data name="allpages" xml:space="preserve">
     <value>すべてのページ</value>
@@ -330,7 +330,7 @@
     <value>8月</value>
   </data>
   <data name="autoReset" xml:space="preserve">
-    <value>日次自動リセット制限 (GMT+8の正午12時にリセット)</value>
+    <value>日次自動リセットリミット (GMT+8の正午12時にリセット)</value>
   </data>
   <data name="baccarat" xml:space="preserve">
     <value>バカラ</value>
@@ -369,7 +369,7 @@
     <value>ベット概要</value>
   </data>
   <data name="bettingLimitMsg" xml:space="preserve">
-    <value>各ゲームタイプで少なくとも1つのベット制限を選択してください。</value>
+    <value>各ゲームタイプで少なくとも1つのベットリミットを選択してください。</value>
   </data>
   <data name="bonusFreeSpin" xml:space="preserve">
     <value>ボーナスフリースピン</value>
@@ -492,7 +492,7 @@
     <value>クレジット</value>
   </data>
   <data name="creditInvalid" xml:space="preserve">
-    <value>与えられたクレジット値は無効です</value>
+    <value>与信額は無効です</value>
   </data>
   <data name="csresult" xml:space="preserve">
     <value>結果</value>
@@ -705,7 +705,7 @@
     <value>Gaming</value>
   </data>
   <data name="givencredit" xml:space="preserve">
-    <value>付与済み与信</value>
+    <value>与信 </value>
   </data>
   <data name="go" xml:space="preserve">
     <value>行く</value>
@@ -934,7 +934,7 @@
     <value>ベット設定</value>
   </data>
   <data name="lblBettingLimit" xml:space="preserve">
-    <value>ベット制限</value>
+    <value>ベットリミット</value>
   </data>
   <data name="lblCashBalance" xml:space="preserve">
     <value>現金残高</value>
@@ -1467,7 +1467,7 @@
     <value>ベットタイプ別マスターコミッション</value>
   </data>
   <data name="mastergivencredit" xml:space="preserve">
-    <value>マスター付与済み与信</value>
+    <value>マスター与信 </value>
   </data>
   <data name="masterincentive" xml:space="preserve">
     <value>マスターインセンティブ</value>
@@ -1491,13 +1491,13 @@
     <value>マスター保有ポジション</value>
   </data>
   <data name="masterRealTimeWinloss" xml:space="preserve">
-    <value>マスターリアルタイムカジノ勝ち負け</value>
+    <value>マスターリアルタイムカジノ勝敗</value>
   </data>
   <data name="masterwinloss" xml:space="preserve">
-    <value>マスター勝ち負け</value>
+    <value>マスター勝敗</value>
   </data>
   <data name="masterwinlostdetail" xml:space="preserve">
-    <value>マスター勝ち負けの詳細</value>
+    <value>マスター勝敗の詳細</value>
   </data>
   <data name="May" xml:space="preserve">
     <value>5月</value>
@@ -1524,16 +1524,16 @@
     <value>メンバー最大与信額は{0}から{1}の間でなければなりません。</value>
   </data>
   <data name="memberRealTimeWinloss" xml:space="preserve">
-    <value>メンバーリアルタイムカジノ勝ち負け</value>
+    <value>メンバーリアルタイムカジノ勝敗</value>
   </data>
   <data name="memberturnover" xml:space="preserve">
     <value>メンバー賭金総額</value>
   </data>
   <data name="MemberWinLimit" xml:space="preserve">
-    <value>メンバー勝ち制限</value>
+    <value>メンバー勝ちリミット</value>
   </data>
   <data name="memberwinlossdetail" xml:space="preserve">
-    <value>メンバーの勝ち負け詳細</value>
+    <value>メンバーの勝敗詳細</value>
   </data>
   <data name="messageIDHeader" xml:space="preserve">
     <value>ID</value>
@@ -1566,10 +1566,10 @@
     <value>モバイル</value>
   </data>
   <data name="modifiedBettingLimitValue" xml:space="preserve">
-    <value>あなたのベット制限値がアップラインによって変更されました。&lt;br&gt;ダウンラインの詳細をご確認ください。</value>
+    <value>あなたのベットリミット値がアップラインによって変更されました。&lt;br&gt;ダウンラインの詳細をご確認ください。</value>
   </data>
   <data name="modifiedMinPTBettingLimitValue" xml:space="preserve">
-    <value>あなたの最小保有ポジション値とベット制限値がアップラインによって変更されました。&lt;br&gt;ダウンラインの詳細を確認してください。</value>
+    <value>あなたの最小保有ポジション値とベットリミット値がアップラインによって変更されました。&lt;br&gt;ダウンラインの詳細を確認してください。</value>
   </data>
   <data name="modifiedMinPTValueText" xml:space="preserve">
     <value>あなたの最小保有ポジション値がアップラインに変更されました。&lt;br&gt;ダウンラインの詳細をぜひ確認してください。</value>
@@ -1590,10 +1590,10 @@
     <value>月次コンソリデート報告書</value>
   </data>
   <data name="monthlywinlossanalysisreport" xml:space="preserve">
-    <value>月間勝ち負け分析</value>
+    <value>月間勝敗分析</value>
   </data>
   <data name="monthlyWinlossChart" xml:space="preserve">
-    <value>月間勝ち負けチャート</value>
+    <value>月間勝敗チャート</value>
   </data>
   <data name="more" xml:space="preserve">
     <value>もっと</value>
@@ -1656,7 +1656,7 @@
     <value>情報はありません</value>
   </data>
   <data name="noLimited" xml:space="preserve">
-    <value>無制限</value>
+    <value>無リミット</value>
   </data>
   <data name="none" xml:space="preserve">
     <value>なし</value>
@@ -1944,7 +1944,7 @@
     <value>スポーツコンソリデート報告書</value>
   </data>
   <data name="sportwinlossanalysisreport" xml:space="preserve">
-    <value>スポーツ勝ち負け分析</value>
+    <value>スポーツ勝敗分析</value>
   </data>
   <data name="stake" xml:space="preserve">
     <value>賭け金</value>
@@ -1998,7 +1998,7 @@
     <value>サブアカウント</value>
   </data>
   <data name="submit" xml:space="preserve">
-    <value>提出</value>
+    <value>送信</value>
   </data>
   <data name="subTotal" xml:space="preserve">
     <value>小計</value>
@@ -2016,7 +2016,7 @@
     <value>ベットタイプ別スーパーコミッション</value>
   </data>
   <data name="supergivencredit" xml:space="preserve">
-    <value>スーパー付与済み与信</value>
+    <value>スーパー与信</value>
   </data>
   <data name="superincentive" xml:space="preserve">
     <value>スーパーインセンティブ</value>
@@ -2028,7 +2028,7 @@
     <value>スーパー保有ポジション</value>
   </data>
   <data name="superwinloss" xml:space="preserve">
-    <value>スーパー勝ち負け</value>
+    <value>スーパー勝敗</value>
   </data>
   <data name="suspend" xml:space="preserve">
     <value>停止</value>
@@ -2079,7 +2079,7 @@
     <value>今日</value>
   </data>
   <data name="todaywinloss" xml:space="preserve">
-    <value>今日の勝ち負け</value>
+    <value>今日の勝敗</value>
   </data>
   <data name="tooltipCommission" xml:space="preserve">
     <value>メモを見るにはクリックしてください</value>
@@ -2115,7 +2115,7 @@
     <value>最大振込与信は、最小限度額と最大限度額の間である必要があります。</value>
   </data>
   <data name="transferredamount" xml:space="preserve">
-    <value>振込金額</value>
+    <value>転送額</value>
   </data>
   <data name="transfersuccessful" xml:space="preserve">
     <value>振込が成功しました。</value>
@@ -2136,7 +2136,7 @@
     <value>アンダー</value>
   </data>
   <data name="Unlimited" xml:space="preserve">
-    <value>無制限</value>
+    <value>無リミット</value>
   </data>
   <data name="update" xml:space="preserve">
     <value>更新</value>
@@ -2232,7 +2232,7 @@
     <value>無効/却下ベットリスト </value>
   </data>
   <data name="warningmultipletransfer" xml:space="preserve">
-    <value>警告：残高が全額振り込まれると、以下の&lt;font class="highlight"&gt;ハイライトされた&lt;/font&gt;メンバーは負のベットクレジットを持つことになり、その結果、付与されたクレジット以上に損失を出す可能性があります。</value>
+    <value>警告：残高が全額振り込まれると、以下の&lt;font class="highlight"&gt;ハイライトされた&lt;/font&gt;メンバーは負のベットクレジットを持つことになり、その結果、与信以上に損失を出す可能性があります。</value>
   </data>
   <data name="warrior" xml:space="preserve">
     <value>戦士</value>
@@ -2253,7 +2253,7 @@
     <value>毎週</value>
   </data>
   <data name="win" xml:space="preserve">
-    <value>勝ち負け</value>
+    <value>勝敗</value>
   </data>
   <data name="winautote" xml:space="preserve">
     <value>勝ち.Aust Tote</value>
@@ -2289,7 +2289,7 @@
     <value>昨日の合計残高</value>
   </data>
   <data name="yesterdaywinloss" xml:space="preserve">
-    <value>昨日の勝ち負け</value>
+    <value>昨日の勝敗</value>
   </data>
   <data name="youcantransfer" xml:space="preserve">
     <value>最大で振り込み可能です</value>

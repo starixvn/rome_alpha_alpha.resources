@@ -118,10 +118,10 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="agentwinloss" xml:space="preserve">
-    <value>エージェント 勝ち負け</value>
+    <value>エージェント 勝敗</value>
   </data>
   <data name="agentwinlostdetail" xml:space="preserve">
-    <value>エージェントの勝ち負け詳細</value>
+    <value>エージェントの勝敗詳細</value>
   </data>
   <data name="BetType24" xml:space="preserve">
     <value>ダブルチャンス</value>
@@ -146,7 +146,7 @@
     <value>メンバーリスト</value>
   </data>
   <data name="dailywinlossanalysisreport" xml:space="preserve">
-    <value>毎日 勝ち負け分析</value>
+    <value>毎日 勝敗分析</value>
   </data>
   <data name="fthtfglg" xml:space="preserve">
     <value>フルタイム &amp; 前半戦 最初のゴール/最終ゴール</value>
@@ -194,7 +194,7 @@
     <value>マスター未決済</value>
   </data>
   <data name="matchWinLostDetail" xml:space="preserve">
-    <value>試合勝ち負け詳細</value>
+    <value>試合勝敗詳細</value>
   </data>
   <data name="memberCommission" xml:space="preserve">
     <value>メンバーコミッション</value>
@@ -206,7 +206,7 @@
     <value>メンバー未決済</value>
   </data>
   <data name="memberWinLoss" xml:space="preserve">
-    <value>メンバー 勝ち負け</value>
+    <value>メンバー 勝敗</value>
   </data>
   <data name="monitor" xml:space="preserve">
     <value>最後のベットの監視</value>
@@ -233,28 +233,28 @@
     <value>ステートメント</value>
   </data>
   <data name="winLossByBettype" xml:space="preserve">
-    <value>賭けの種類別勝ち負け</value>
+    <value>賭けの種類別勝敗</value>
   </data>
   <data name="masterwinloss" xml:space="preserve">
-    <value>マスター 勝ち負け</value>
+    <value>マスター 勝敗</value>
   </data>
   <data name="masterwinlostdetail" xml:space="preserve">
-    <value>マスターの勝ち負け詳細</value>
+    <value>マスターの勝敗詳細</value>
   </data>
   <data name="matchwinloss" xml:space="preserve">
-    <value>試合 勝ち負け</value>
+    <value>試合 勝敗</value>
   </data>
   <data name="MemberWinLimit" xml:space="preserve">
     <value>メンバー勝敗制限</value>
   </data>
   <data name="memberwinlossdetail" xml:space="preserve">
-    <value>メンバーの勝ち負け詳細</value>
+    <value>メンバーの勝敗詳細</value>
   </data>
   <data name="moneyline" xml:space="preserve">
     <value>マネーライン</value>
   </data>
   <data name="monthlywinlossanalysisreport" xml:space="preserve">
-    <value>毎月 勝ち負け分析</value>
+    <value>毎月 勝敗分析</value>
   </data>
   <data name="numbergame" xml:space="preserve">
     <value>ナンバーゲーム</value>
@@ -282,7 +282,7 @@
     <value>合計ベット</value>
   </data>
   <data name="winlossanalysis" xml:space="preserve">
-    <value>勝ち負け分析</value>
+    <value>勝敗分析</value>
   </data>
   <data name="announcements" xml:space="preserve">
     <value>お知らせ</value>
@@ -312,7 +312,7 @@
     <value>あなたの統計</value>
   </data>
   <data name="winLossAnalysisChart" xml:space="preserve">
-    <value>勝ち負け分析チャート</value>
+    <value>勝敗分析チャート</value>
   </data>
   <data name="BetType13" xml:space="preserve">
     <value>クリーンシート</value>
@@ -324,7 +324,7 @@
     <value>3 ウェイハンディキャップ</value>
   </data>
   <data name="BetsAndForecast" xml:space="preserve">
-    <value>ベット＆予想</value>
+    <value>ベットと予測</value>
   </data>
   <data name="soccer" xml:space="preserve">
     <value>サッカー</value>
@@ -360,19 +360,19 @@
     <value>ダウンラインへの送金履歴</value>
   </data>
   <data name="superWinLossDetailByPT" xml:space="preserve">
-    <value>保有ポジション別スーパー勝ち負け詳細</value>
+    <value>保有ポジション別スーパー勝敗詳細</value>
   </data>
   <data name="Old" xml:space="preserve">
     <value>旧</value>
   </data>
   <data name="BetChoiceLimit" xml:space="preserve">
-    <value>ベット選択制限</value>
+    <value>ベット選択リミット</value>
   </data>
   <data name="customerSetting" xml:space="preserve">
     <value>顧客設定</value>
   </data>
   <data name="winLossByProduct" xml:space="preserve">
-    <value>製品別勝ち負け </value>
+    <value>製品別勝敗 </value>
   </data>
   <data name="LastBets" xml:space="preserve">
     <value>最新のベット</value>
