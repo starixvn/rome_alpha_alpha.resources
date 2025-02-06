@@ -1,9 +1,9 @@
-{
+﻿{
   "selectAll": "Chọn tất cả",
   "selected": "Đã chọn",
   "search": "Tìm kiếm",
-  "noOptions": "There is no data",
+  "noOptions": "Không có dữ liệu",
   "allItemsAreSelected": "Tất cả",
   "selectAllFiltered": "Chọn tất cả",
-  "selectSomeItems": "Lưa chọn..."
+  "selectSomeItems": "Lựa chọn..."
 }

@@ -9,7 +9,7 @@
   "SMANote": "Nhập tất cả giá trị của giới hạn cược = 0 nghĩa là bạn sẽ không giới hạn mức cược cho tài khoản này.<br/> Để ngăn không cho Member đặt cược, hãy thiết lập Cược Nhỏ Nhất = 0 và các giá trị khác = 0.1.<br/>Việc cập nhật giới hạn cược của cấp trên có thể làm giảm giới hạn cược của tất cả cấp dưới, nhằm đảm bảo giới hạn cược của cấp dưới không lớn hơn của cấp trên.",
   "Y7SMANote": "Cập nhật giới hạn cược của cấp trên có thể giảm giới hạn cược của tất cả cấp dưới, nhằm đảm bảo giới hạn cược của cấp dưới không lớn hơn của cấp trên.",
   "MemberNote": "Nhập tất cả giá trị của giới hạn cược = 0 để ngăn không cho Member đặt cược.",
-  "MixSportsParlayBetSetting": "Mix Sports Parlay: parlay mà các vé cược không chỉ là Bóng Đá <br> Ví dụ: Bóng Đá - Bóng Đá - Bóng Rổ, Quần Vợt - Quần Vợt - Quần Vợt, Bóng Rổ - Đánh Golf - Bóng Bầu Dục",
+  "MixSportsParlayBetSetting": "Mix Sports Parlay: Vé cược xiên không chỉ dành cho bóng đá. <br> Ví dụ: Bóng Đá - Bóng Đá - Bóng Rổ, Quần Vợt - Quần Vợt - Quần Vợt, Bóng Rổ - Đánh Golf - Bóng Bầu Dục",
   "CommonWinLossLimitNote": "Giới Hạn Thắng Thua và Tự Làm Mới Hạn Mức Mỗi Ngày sẽ được sao chép từ cấp trên.",
   "RNGKenoNumberGameWinLossLimitNote": "So sánh Giới hạn Thắng Thua với Thắng Thua của TỪNG sản phẩm.",
   "BBINBetSetting": "Lưu ý, đối với BBIN, khi bạn chỉnh sửa các thiết lập của Member, các thiết lập mới này sẽ được áp dụng từ lần chuyển tiền tiếp theo của Member.",
@@ -49,7 +49,7 @@
   "MPS12": "Các loại cược không áp dụng thiết lập Thanh Toán Tối Đa",
   "MPS13": "Tất cả các môn thể thao trừ {0} và {1}",
   "MPS14": "Thể Thao Saba: ",
-  "MPS15": "- The Saba Futsal uses the bet settings of Saba Soccer.",
+  "MPS15": "- Saba Futsal sử dụng các thiết lập giới hạn cược của Bóng Đá Saba.",
   "MPS16": "- Cricket Saba sử dụng các thiết lập giới hạn cược của Môn Thể Thao Khác.",
   "MPS17": "Khoản thanh toán tối đa tích lũy được tính trên tất cả các vé đang diễn ra. Nó sẽ được giảm nếu có bất kỳ vé đang diễn ra nào được kết toán/từ chối/hoàn tiền/huỷ.",
   "MPS18": "Sự khác nhau giữa Thanh Toán Tối Đa và Thanh Toán Tối Đa Mỗi Trận Cho Cược Xiên",
@@ -86,7 +86,7 @@
   "WinLossLimitNote1": "Live Casino: So sánh Giới hạn Thắng/Thua với Thắng/Thua của TỪNG sản phẩm.",
   "WinLossLimitNote2": "RNG Casino: So sánh Giới hạn Thắng/Thua với Tổng Thắng/Thua của TẤT CẢ sản phẩm.",
 
-  "MaxWinLoss": "Maximum Win/Loss refers to the highest amount a Member can win or lose. Bets will be denied if a Member’s total win/loss exceeds the limit.",
-  "MaxWin": "Maximum Win = Selected multiplier * Given Credit",
-  "MaxLoss": "Maximum Loss: Upline's Maximum Loss value"
+  "MaxWinLoss": "Mức Thắng/Thua Lớn Nhất là số tiền cao nhất Member có thể thắng hoặc thua. Cược sẽ bị từ chối nếu Tổng Thắng Thua của Member vượt quá giới hạn.",
+  "MaxWin": "Mức Thắng Lớn Nhất = Hệ số nhân đã chọn * Hạn mức được cấp ",
+  "MaxLoss": "Mức Thua Lớn Nhất: Giá trị thua lớn nhất của cấp trên"
 }

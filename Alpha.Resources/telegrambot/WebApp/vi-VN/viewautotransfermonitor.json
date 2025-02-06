@@ -1,19 +1,19 @@
-{
-  "header": "Auto Transfer Monitor",
+﻿{
+  "header": "Theo Dõi Chuyển Khoản Tự Động",
   "username": "Tên người dùng",
   "submit": "Xác nhận",
   "status": "Trạng thái",
-  "new": "Processing",
-  "processing": "Processing",
+  "new": "Đang tiến hành",
+  "processing": "Đang tiến hành",
   "completed": "Kết thúc",
-  "failed": "Failed",
-  "cancelled": "Cancelled",
+  "failed": "Thất bại",
+  "cancelled": "Hủy bỏ",
   "pending": "Chưa xử lý",
-  "ignored": "Ignored",
-  "transferAmount": "Transfer Amount",
+  "ignored": "Bỏ qua",
+  "transferAmount": "Tiền Chuyển Khoản",
   "noInformationIsAvailable": "Thông tin chưa được cập nhật",
-  "firstLastName": "Họ/ tên",
-  "reason": "Reason",
-  "completedTime": "Completed Time",
-  "adbtChangeError": "You cannot use Auto Transfer because upline has enabled All Day Balance Transfer for you. The page will refresh automatically."
+  "firstLastName": "Họ/tên",
+  "reason": "Lý do",
+  "completedTime": "Thời gian hoàn tất",
+  "adbtChangeError": "Bạn không thể sử dụng Chuyển Khoản Tự Động vì cấp trên đã bật Chuyển Khoản Tổng Số Dư. Trang sẽ tự động làm mới."
 }
