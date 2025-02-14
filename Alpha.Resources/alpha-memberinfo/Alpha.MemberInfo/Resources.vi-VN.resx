@@ -118,7 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="BetCredit" xml:space="preserve">
-    <value>Hạn mức khả dụng</value>
+    <value>Hạn mức cược</value>
   </data>
   <data name="NoInformationIsAvailable" xml:space="preserve">
     <value>Không có dữ liệu</value>
@@ -253,7 +253,7 @@
     <value>Không</value>
   </data>
   <data name="MemberWinLossLimit" xml:space="preserve">
-    <value>Hạn mức thắng/thua của Member</value>
+    <value>Giới Hạn Thắng Thua Của Member</value>
   </data>
   <data name="SelectMaster" xml:space="preserve">
     <value>Lựa chọn Master</value>
@@ -289,16 +289,16 @@
     <value>Hạn mức thua hiện tại (%)</value>
   </data>
   <data name="MaximumLoss" xml:space="preserve">
-    <value>Tiền thua cược lớn nhất</value>
+    <value>Mức Thua Lớn Nhất</value>
   </data>
   <data name="RemainingBuyInAmount" xml:space="preserve">
     <value>Tiền chơi còn lại</value>
   </data>
   <data name="Cash" xml:space="preserve">
-    <value>Số dư</value>
+    <value>Tiền khả dụng</value>
   </data>
   <data name="YesterdayCashBalance" xml:space="preserve">
-    <value>Số dư tài khoản đến hết hôm qua</value>
+    <value>Tiền khả dụng đến hết hôm qua</value>
   </data>
   <data name="Balance" xml:space="preserve">
     <value>Số dư</value>

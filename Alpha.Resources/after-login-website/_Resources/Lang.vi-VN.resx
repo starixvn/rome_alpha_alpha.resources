@@ -173,7 +173,7 @@
     <value>Tổng tiền giao dịch của Agent</value>
   </data>
   <data name="agentcash" xml:space="preserve">
-    <value>Số dư</value>
+    <value>Tiền khả dụng của Agent</value>
   </data>
   <data name="agentcomm" xml:space="preserve">
     <value>Hoa hồng</value>
@@ -443,7 +443,7 @@ Vui lòng điền vào mẫu phía dưới để thiết lập giá trị cho M�
     <comment>Not found</comment>
   </data>
   <data name="autoReset" xml:space="preserve">
-    <value>Tự động reset giới hạn chuyển khoản  mỗi ngày (12 trưa GMT+8)</value>
+    <value>Tự Làm Mới Hạn Mức Mỗi Ngày (12 trưa GMT+8)</value>
   </data>
   <data name="away" xml:space="preserve">
     <value>Đội Khách</value>
@@ -456,7 +456,7 @@ Vui lòng điền vào mẫu phía dưới để thiết lập giá trị cho M�
     <comment>Not found</comment>
   </data>
   <data name="balance" xml:space="preserve">
-    <value>Balance</value>
+    <value>Số dư</value>
   </data>
   <data name="balanceinfo" xml:space="preserve">
     <value>Tài Khoản</value>
@@ -484,7 +484,7 @@ Vui lòng điền vào mẫu phía dưới để thiết lập giá trị cho M�
     <value>Số lượng cược</value>
   </data>
   <data name="betcredit" xml:space="preserve">
-    <value>Hạn mức khả dụng</value>
+    <value>Hạn mức cược</value>
   </data>
   <data name="betid" xml:space="preserve">
     <value>Mã cược</value>
@@ -1740,7 +1740,7 @@ Lưu ý:Thông tin về quốc gia và thành phố được cung cấp bởi  I
     <comment>Not found</comment>
   </data>
   <data name="lblCashBalance" xml:space="preserve">
-    <value>Số dư tài khoản</value>
+    <value>Tiền khả dụng</value>
   </data>
   <data name="lblChangePassword" xml:space="preserve">
     <value>Thay đổi mật khẩu</value>
@@ -2484,10 +2484,10 @@ Ví dụ: không cho phép 123456, 456789, 765432, v.v.</value>
     <value>Tổng mức tín dụng của Agent</value>
   </data>
   <data name="lblTotalBalance" xml:space="preserve">
-    <value>Tổng số tiền giao dịch</value>
+    <value>Tổng số dư</value>
   </data>
   <data name="lblTotalCash" xml:space="preserve">
-    <value>Tổng số dư tài khoản</value>
+    <value>Tổng tiền khả dụng</value>
   </data>
   <data name="lblTotalMasterCredit" xml:space="preserve">
     <value>Tổng mức tín dụng của Master</value>
@@ -2554,7 +2554,7 @@ Ví dụ: không cho phép 123456, 456789, 765432, v.v.</value>
     <value>Có</value>
   </data>
   <data name="lblYesterdayCash" xml:space="preserve">
-    <value>Số dư tài khoản đến hết hôm qua</value>
+    <value>Tiền khả dụng đến hết hôm qua</value>
   </data>
   <data name="LCSWinLimit" xml:space="preserve">
     <value>LCS Win %</value>
@@ -2637,7 +2637,7 @@ Ví dụ: không cho phép 123456, 456789, 765432, v.v.</value>
     <value>Tổng tiền giao dịch của Master</value>
   </data>
   <data name="mastercash" xml:space="preserve">
-    <value>Số dư tài khoản của Master</value>
+    <value>Tiền khả dụng của Master</value>
   </data>
   <data name="mastercomm" xml:space="preserve">
     <value>Hoa hồng của Master </value>
@@ -2703,7 +2703,7 @@ Ví dụ: không cho phép 123456, 456789, 765432, v.v.</value>
     <comment>Not found</comment>
   </data>
   <data name="MaximumWin" xml:space="preserve">
-    <value>Tiền thắng cược lớn nhất</value>
+    <value>Mức Thắng Lớn Nhất</value>
     <comment>Not found</comment>
   </data>
   <data name="maxperball" xml:space="preserve">
@@ -2767,7 +2767,7 @@ Ví dụ: không cho phép 123456, 456789, 765432, v.v.</value>
     <comment>Not found</comment>
   </data>
   <data name="MemberWinLimit" xml:space="preserve">
-    <value>Giới hạn thắng cược của Member</value>
+    <value>Giới Hạn Thắng Thua Của Member</value>
   </data>
   <data name="memberwinloss" xml:space="preserve">
     <value>Thắng thua của Member</value>
@@ -3870,7 +3870,7 @@ Chú ý: Mã bảo mật mới phải khác với Mã bảo mật bạn nhận �
     <value>Tổng cược cho Đội Khách</value>
   </data>
   <data name="totalbalance" xml:space="preserve">
-    <value>Tổng số tiền giao dịch</value>
+    <value>Tổng số dư</value>
     <comment>Not found</comment>
   </data>
   <data name="totalbets" xml:space="preserve">
@@ -4025,7 +4025,7 @@ Chú ý: Mã bảo mật mới phải khác với Mã bảo mật bạn nhận �
     <value>Xỉu</value>
   </data>
   <data name="undermaintenance" xml:space="preserve">
-    <value>Server đang được bảo trì, Webside sẽ không thể truy cập từ {0} cho đến {1} . Xin lỗi vì sự bất tiện này!</value>
+    <value>Server đang được bảo trì, Website sẽ không thể truy cập từ {0} cho đến {1} . Xin lỗi vì sự bất tiện này!</value>
   </data>
   <data name="Unknown" xml:space="preserve">
     <value>Chưa biết</value>
@@ -4259,7 +4259,7 @@ Chú ý: Mã bảo mật mới phải khác với Mã bảo mật bạn nhận �
     <value>Số dư đến hết hôm qua</value>
   </data>
   <data name="yesterdaycashbalance" xml:space="preserve">
-    <value>Số dư tài khoản đến hết  hôm qua</value>
+    <value>Tiền khả dụng đến hết hôm qua</value>
   </data>
   <data name="yesterdaytotalbalance" xml:space="preserve">
     <value>Tổng số dư đến hết hôm qua</value>
@@ -4323,7 +4323,7 @@ Chú ý: Mã bảo mật mới phải khác với Mã bảo mật bạn nhận �
     <value>Net Position</value>
   </data>
   <data name="availablecredit" xml:space="preserve">
-    <value>Tín dụng khả thi</value>
+    <value>Hạn mức khả dụng</value>
   </data>
   <data name="beta" xml:space="preserve">
     <value>Beta</value>
@@ -4380,7 +4380,7 @@ Chú ý: Mã bảo mật mới phải khác với Mã bảo mật bạn nhận �
     <value>Parlay Bóng Đá</value>
   </data>
   <data name="mixsportParlayHint01" xml:space="preserve">
-    <value>parlay mà các vé cược không chỉ là Bóng Đá</value>
+    <value>Vé cược xiên không chỉ dành cho bóng đá.</value>
   </data>
   <data name="mixsportParlayHint02" xml:space="preserve">
     <value>Ví dụ: Bóng Đá - Bóng Đá - Bóng Rổ, Quần Vợt - Quần Vợt - Quần Vợt, Bóng Rổ - Đánh Golf - Bóng Bầu Dục</value>
@@ -4654,10 +4654,10 @@ Chú ý: Mã bảo mật mới phải khác với Mã bảo mật bạn nhận �
     <value>3. Tiền cược tối đa của 3 Cược Đôi = Thanh Toán Tối Đa Cho Cược Xiên của Combo 2 / (tỷ lệ cược AB + tỷ lệ cược BC + tỷ lệ cược AC) = 500 / (2 * 3 + 3 * 4 + 2 * 4) = 500/26 = 19</value>
   </data>
   <data name="txtMaxPayoutSettingInfo23" xml:space="preserve">
-    <value>4. Tiền cược tối đa của một Cược Ba = Thanh Toán Tối Đa Cho Cược Xiên của Combo 3-5 / tỷ lệ cược ABC = 1.000 / (2 * 3 * 4) = 1000/24 = 41</value>
+    <value>4. Tiền cược tối đa của một Cược Ba = Thanh Toán Tối Đa Cho Cược Xiên của Combo 3-5 / tỷ lệ cược ABC = 1.000 / (2 * 3 * 4) = 1.000/24 = 41</value>
   </data>
   <data name="txtMaxPayoutSettingInfo24" xml:space="preserve">
-    <value>5. Tiền cược tối đa của cược Trixie và Lucky 7 = Thanh Toán Tối Đa Cho Cược Xiên của Combo 6+ &amp; Cược Tổng Hợp / (tỷ lệ cược Cược Đôi + tỷ lệ cược Cược Ba) = 2.000 / (26 + 24) = 2000/50 = 40</value>
+    <value>5. Tiền cược tối đa của cược Trixie và Lucky 7 = Thanh Toán Tối Đa Cho Cược Xiên của Combo 6+ &amp; Cược Tổng Hợp / (tỷ lệ cược Cược Đôi + tỷ lệ cược Cược Ba) = 2.000 / (26 + 24) = 2.000/50 = 40</value>
   </data>
   <data name="txtMaxPayoutSettingInfo25" xml:space="preserve">
     <value>
@@ -4667,8 +4667,7 @@ Chú ý: Mã bảo mật mới phải khác với Mã bảo mật bạn nhận �
   <data name="txtMaxPayoutSettingInfo26" xml:space="preserve">
     <value>
       + Cươc Xiên Một Trận: Tiền cược tối đa = (Giá trị thiết lập Thanh Toán Tối Đa Mỗi Trận Cho Cược Xiên - Khoản thanh toán tối đa được tích lũy của cùng một trận đấu) / Tỷ lệ cược
-  * Cược Xiên Một Trận không bao gồm vé Cược Xiên/Tổng Hợp
-    </value>
+  * Cược Xiên Một Trận không bao gồm vé Cược Xiên/Tổng Hợp</value>
   </data>
   <data name="txtMaxPayoutSettingInfo27" xml:space="preserve">
     <value>

@@ -1202,7 +1202,7 @@
     <comment />
   </data>
   <data name="lblCashBalance" xml:space="preserve">
-    <value>Cash Balance</value>
+    <value>Cash</value>
     <comment />
   </data>
   <data name="lblChangePassword" xml:space="preserve">
@@ -1582,7 +1582,7 @@
     <comment />
   </data>
   <data name="lblOtherTypes" xml:space="preserve">
-    <value>Other Bettypes</value>
+    <value>Other Bet types</value>
     <comment />
   </data>
   <data name="lblOU" xml:space="preserve">
@@ -2222,7 +2222,7 @@
     <comment />
   </data>
   <data name="OtherBettypes" xml:space="preserve">
-    <value>Other Bettypes</value>
+    <value>Other Bet types</value>
     <comment />
   </data>
   <data name="OtherSport2" xml:space="preserve">
@@ -3018,7 +3018,7 @@
     <comment />
   </data>
   <data name="yesterdaycashbalance" xml:space="preserve">
-    <value>Yesterday Cash Balance</value>
+    <value>Yesterday Cash</value>
     <comment />
   </data>
   <data name="yesterdaytotalbalance" xml:space="preserve">

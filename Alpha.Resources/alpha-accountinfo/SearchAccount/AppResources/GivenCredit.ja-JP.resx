@@ -120,4 +120,10 @@
   <data name="NewGivenCredit" xml:space="preserve">
     <value>与信 </value>
   </data>
+  <data name="Cancel" xml:space="preserve">
+    <value>キャンセル</value>
+  </data>
+  <data name="ThereIsNoChange" xml:space="preserve">
+    <value>更新する変更はありません。</value>
+  </data>
 </root>

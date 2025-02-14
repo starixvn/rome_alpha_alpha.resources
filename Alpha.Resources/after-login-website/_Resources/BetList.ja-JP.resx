@@ -130,7 +130,7 @@
     <value>フルタイム</value>
   </data>
   <data name="high" xml:space="preserve">
-    <value>高い</value>
+    <value>高い </value>
   </data>
   <data name="ht" xml:space="preserve">
     <value>前半戦</value>
@@ -163,7 +163,7 @@
     <value>低い</value>
   </data>
   <data name="member" xml:space="preserve">
-    <value>メンバー</value>
+    <value>メンバー </value>
   </data>
   <data name="next" xml:space="preserve">
     <value>次へ</value>

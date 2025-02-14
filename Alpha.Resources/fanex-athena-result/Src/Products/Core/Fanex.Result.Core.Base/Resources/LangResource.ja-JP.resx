@@ -104,7 +104,7 @@
     <value>イーブン</value>
   </data>
   <data name="Closed" xml:space="preserve">
-    <value>クローズ</value>
+    <value>閉鎖</value>
   </data>
   <data name="Running" xml:space="preserve">
     <value>実行中</value>
@@ -131,7 +131,7 @@
     <value>第1</value>
   </data>
   <data name="Status" xml:space="preserve">
-    <value>状態</value>
+    <value>ステータス</value>
   </data>
   <data name="NoInfo" xml:space="preserve">
     <value>情報がありません</value>

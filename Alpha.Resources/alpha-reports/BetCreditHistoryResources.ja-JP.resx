@@ -130,10 +130,10 @@
     <value>ベットが更新済み</value>
   </data>
   <data name="CancelCashOut" xml:space="preserve">
-    <value>中途換金をキャンセルする</value>
+    <value>キャッシュアウトをキャンセル</value>
   </data>
   <data name="CashOut" xml:space="preserve">
-    <value>中途換金</value>
+    <value>キャッシュアウト</value>
   </data>
   <data name="draw" xml:space="preserve">
     <value>ドロー</value>

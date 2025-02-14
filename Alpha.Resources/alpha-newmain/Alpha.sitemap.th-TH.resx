@@ -244,7 +244,7 @@
     <value>ผลแพ้ชนะต่อแมตช์</value>
   </data>
   <data name="MemberWinLimit" xml:space="preserve">
-    <value>จำกัด ได้/เสีย ของสมาชิก</value>
+    <value>จำกัด ได้เสีย ของสมาชิก</value>
   </data>
   <data name="memberwinlossdetail" xml:space="preserve">
     <value>รายละเอียดการได้เสียของสมาชิก</value>

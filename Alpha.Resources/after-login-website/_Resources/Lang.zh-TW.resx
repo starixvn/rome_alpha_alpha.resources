@@ -3556,7 +3556,7 @@
     <value>獨贏盤佣金</value>
   </data>
   <data name="OtherBettypes" xml:space="preserve">
-    <value>Other Bettypes</value>
+    <value>Other Bet types</value>
   </data>
   <data name="LCSWinLimit" xml:space="preserve">
     <value>娛樂廳贏額%</value>
@@ -4432,10 +4432,10 @@ Please use the form below to set your Security Code again.</value>
     <value>3. 3個孖寶的最高投注 = 複選2串關最高派彩 / (賠率 AB + 賠率 BC + 賠率 AC) = 500 / (2*3 + 3*4 + 2*4) = 500 / 26 = 19</value>
   </data>
   <data name="txtMaxPayoutSettingInfo23" xml:space="preserve">
-    <value>4. 1個三寶的最高投注 = 複選3-5串關最高派彩 / 賠率 ABC = 1000 / (2*3*4) = 100/24 = 41</value>
+    <value>4. 1個三寶的最高投注 = 複選3-5串關最高派彩 / 賠率 ABC = 1000 / (2*3*4) = 1000/24 = 41</value>
   </data>
   <data name="txtMaxPayoutSettingInfo24" xml:space="preserve">
-    <value>5. 三串四和幸運七的最高投注 = 複選6+ &amp; 系統過關 串關最高派彩 / （孖寶 賠率 + 三寶賠率） = 2,000/ (26 + 24) = 2000/50 = 40</value>
+    <value>5. 三串四和幸運七的最高投注 = 複選6+ &amp; 系統過關 串關最高派彩 / （孖寶 賠率 + 三寶賠率） = 2,000/ (26 + 24) = 2,000/50 = 40</value>
   </data>
   <data name="txtMaxPayoutSettingInfo25" xml:space="preserve">
     <value>
@@ -4446,8 +4446,7 @@ Please use the form below to set your Security Code again.</value>
   <data name="txtMaxPayoutSettingInfo26" xml:space="preserve">
     <value>
       + 單場串關：最高投注 =（串關單場最高派彩設定 -累計同一場賽事的最高派彩）/ 賠率
-      &lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; * 單場串關並沒有計算混合/複選過關的注單
-    </value>
+      &lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; * 單場串關並沒有計算混合/複選過關的注單</value>
   </data>
   <data name="txtMaxPayoutSettingInfo27" xml:space="preserve">
     <value>

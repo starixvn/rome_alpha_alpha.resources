@@ -211,13 +211,13 @@
     <value>Tháng 8</value>
   </data>
   <data name="autoReset" xml:space="preserve">
-    <value>Tự động reset giới hạn chuyển khoản  mỗi ngày (12 trưa GMT+8)</value>
+    <value>Tự Làm Mới Hạn Mức Mỗi Ngày (12 trưa GMT+8)</value>
   </data>
   <data name="baccarat" xml:space="preserve">
     <value>Baccarat</value>
   </data>
   <data name="balance" xml:space="preserve">
-    <value>Số dư tài khoản</value>
+    <value>Số dư</value>
   </data>
   <data name="balanceinfo" xml:space="preserve">
     <value>Tài Khoản</value>
@@ -232,7 +232,7 @@
     <value>Đặt cược</value>
   </data>
   <data name="betcredit" xml:space="preserve">
-    <value>Hạn mức khả dụng</value>
+    <value>Hạn mức cược</value>
   </data>
   <data name="BetList" xml:space="preserve">
     <value>Danh sách cược</value>
@@ -795,7 +795,7 @@ Lưu ý:Thông tin về Quốc gia, Thành Phố được cung cấp bởi  IP2L
     <value>Giới hạn đặt cược</value>
   </data>
   <data name="lblCashBalance" xml:space="preserve">
-    <value>Số dư tài khoản</value>
+    <value>Tiền khả dụng</value>
   </data>
   <data name="lblChangePassword" xml:space="preserve">
     <value>Thay đổi mật khẩu</value>
@@ -1145,10 +1145,10 @@ Ví dụ: không cho phép 123456, 456789, 765432, v.v.</value>
     <value>Tổng mức tín dụng của Agent</value>
   </data>
   <data name="lblTotalBalance" xml:space="preserve">
-    <value>Tổng số tiền giao dịch</value>
+    <value>Tổng số dư</value>
   </data>
   <data name="lblTotalCash" xml:space="preserve">
-    <value>Tổng số dư tài khoản</value>
+    <value>Tổng tiền khả dụng</value>
   </data>
   <data name="lblTotalCSOutstanding" xml:space="preserve">
     <value>Tổng tiền chưa xử lý của Casino</value>
@@ -1193,7 +1193,7 @@ Ví dụ: không cho phép 123456, 456789, 765432, v.v.</value>
     <value>Có</value>
   </data>
   <data name="lblYesterdayCash" xml:space="preserve">
-    <value>Số dư tài khoản đến hết hôm qua</value>
+    <value>Tiền khả dụng đến hết hôm qua</value>
   </data>
   <data name="least3monthtochart" xml:space="preserve">
     <value>Vui lòng chọn mốc thời gian ít nhất là 3 tháng để lập biểu đồ</value>
@@ -1238,7 +1238,7 @@ Ví dụ: không cho phép 123456, 456789, 765432, v.v.</value>
     <value>Tổng tiền giao dịch của Master</value>
   </data>
   <data name="mastercash" xml:space="preserve">
-    <value>Số dư tài khoản của Master</value>
+    <value>Tiền khả dụng của Master</value>
   </data>
   <data name="masterCommissionByBetType" xml:space="preserve">
     <value>Hoa hồng theo loại cược của Master</value>
@@ -1993,10 +1993,10 @@ Ví dụ: không cho phép 123456, 456789, 765432, v.v.</value>
     <value>Hôm qua</value>
   </data>
   <data name="yesterdaybalance" xml:space="preserve">
-    <value>Giao dịch đến hết hôm qua</value>
+    <value>Số dư đến hết hôm qua </value>
   </data>
   <data name="yesterdaycashbalance" xml:space="preserve">
-    <value>Số dư tài khoản đến hết  hôm qua</value>
+    <value>Tiền khả dụng đến hết hôm qua</value>
   </data>
   <data name="yesterdaytotalbalance" xml:space="preserve">
     <value>Tổng tiền giao dịch đến hết hôm qua</value>

@@ -2695,7 +2695,7 @@
     <value>Số tiền chuyển khoản tối đa</value>
   </data>
   <data name="DailyAutoReset" xml:space="preserve">
-    <value>Tự động Reset mỗi ngày</value>
+    <value>Tự Làm Mới Mỗi Ngày</value>
   </data>
   <data name="games" xml:space="preserve">
     <value>Games</value>
@@ -2728,7 +2728,7 @@
     <value>PT mới</value>
   </data>
   <data name="MaximumWin" xml:space="preserve">
-    <value>Tiền thắng cược tối đa</value>
+    <value>Mức Thắng Lớn Nhất</value>
   </data>
   <data name="lblMaxPTSuper" xml:space="preserve">
     <value>PT lớn nhất của Super</value>
@@ -2794,7 +2794,7 @@
     <value>Sản Phẩm</value>
   </data>
   <data name="MaximumLoss" xml:space="preserve">
-    <value>Tiền thua cược lớn nhất</value>
+    <value>Mức Thua Lớn Nhất</value>
   </data>
   <data name="MaxPerNumber" xml:space="preserve">
     <value>Tiền Cược tối đa cho mỗi số</value>

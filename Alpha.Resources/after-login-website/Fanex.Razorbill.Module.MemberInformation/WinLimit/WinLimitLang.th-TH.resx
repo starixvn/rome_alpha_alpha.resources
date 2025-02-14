@@ -130,13 +130,13 @@
     <value>ขีดจำกัดการสูญเสียปัจจุบัน (%)</value>
   </data>
   <data name="CurrentWinAmount" xml:space="preserve">
-    <value>Current Win Amount</value>
+    <value>จำนวนการชนะปัจจุบัน</value>
   </data>
   <data name="CurrentWinLimit" xml:space="preserve">
     <value>ขีดจำกัดการชนะปัจจุบัน (%)</value>
   </data>
   <data name="CurrentWinLossAmount" xml:space="preserve">
-    <value>จำนวนแพ้/ชนะปัจจุบัน</value>
+    <value>จำนวนแพ้ชนะปัจจุบัน</value>
   </data>
   <data name="Disabled" xml:space="preserve">
     <value>Disabled</value>

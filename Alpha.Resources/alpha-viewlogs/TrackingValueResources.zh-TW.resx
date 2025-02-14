@@ -2908,7 +2908,7 @@
     <value>最高調動額</value>
   </data>
   <data name="DailyAutoReset" xml:space="preserve">
-    <value>每日限額自動重設</value>
+    <value>每日自動重設</value>
   </data>
   <data name="games" xml:space="preserve">
     <value>普通游戲</value>

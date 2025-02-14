@@ -277,7 +277,7 @@
     <value>No</value>
   </data>
   <data name="MemberWinLossLimit" xml:space="preserve">
-    <value>Member Win/Loss Limit</value>
+    <value>Member Win Loss Limit</value>
   </data>
   <data name="SelectMaster" xml:space="preserve">
     <value>Select Master</value>
@@ -298,7 +298,7 @@
     <value>All Agents</value>
   </data>
   <data name="AutoDailyResetLimit" xml:space="preserve">
-    <value>Auto Daily Reset Limit</value>
+    <value>Daily Auto Reset Limit</value>
   </data>
   <data name="CurrentWinLossAmount" xml:space="preserve">
     <value>Current Win Loss Amount</value>
@@ -322,7 +322,7 @@
     <value>Cash</value>
   </data>
   <data name="YesterdayCashBalance" xml:space="preserve">
-    <value>Yesterday Cash Balance</value>
+    <value>Yesterday Cash</value>
   </data>
   <data name="DateNotified" xml:space="preserve">
     <value>Date Notified</value>

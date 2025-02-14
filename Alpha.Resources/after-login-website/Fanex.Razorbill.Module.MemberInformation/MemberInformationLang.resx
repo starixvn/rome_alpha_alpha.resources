@@ -127,7 +127,7 @@
     <value>Commission 2 (Comm 2)</value>
   </data>
   <data name="Comm3" xml:space="preserve">
-    <value>Commission 3 (Comm 3): Applies to other bettypes.</value>
+    <value>Commission 3 (Comm 3): Applies to other Bet types.</value>
   </data>
   <data name="MAP" xml:space="preserve">
     <value>M = Master, A = Agent, P = Member.</value>
@@ -142,7 +142,7 @@
     <value>Note</value>
   </data>
   <data name="Bettype" xml:space="preserve">
-    <value>Bettype</value>
+    <value>Bet type</value>
   </data>
   <data name="CommissionInformation" xml:space="preserve">
     <value>Commission Information</value>
@@ -151,6 +151,6 @@
     <value>Commission Group</value>
   </data>
   <data name="MyanmarOddsComm" xml:space="preserve">
-    <value>Myanmar Odds: Applies to {0} bettypes with Myanmar Odds Type.</value>
+    <value>Myanmar Odds: Applies to {0} Bet types with Myanmar Odds Type.</value>
   </data>
 </root>

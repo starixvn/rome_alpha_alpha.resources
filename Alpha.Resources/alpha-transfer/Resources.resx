@@ -208,7 +208,7 @@
     <value>Daily</value>
   </data>
   <data name="HintNotAvailableToTransfer" xml:space="preserve">
-    <value>Cash balance is not available to transfer.</value>
+    <value>Cash is not available to transfer.</value>
   </data>
   <data name="HintRangeTransfer" xml:space="preserve">
     <value>You can transfer from {0} to {1}.</value>
@@ -238,7 +238,7 @@
     <value>Transfer</value>
   </data>
   <data name="CashBalance" xml:space="preserve">
-    <value>Cash Balance</value>
+    <value>Cash</value>
   </data>
   <data name="Information" xml:space="preserve">
     <value>Information</value>
@@ -310,7 +310,7 @@
     <value>Master Balance</value>
   </data>
   <data name="YesterdayCashBalance" xml:space="preserve">
-    <value>Yesterday Cash Balance</value>
+    <value>Yesterday Cash</value>
   </data>
   <data name="MasterCash" xml:space="preserve">
     <value>Master Cash</value>
@@ -677,5 +677,47 @@
   </data>
   <data name="AutoTransfer_Error_102_Single" xml:space="preserve">
     <value>This account does not belong to your downline</value>
+  </data>
+  <data name="MasterInformation" xml:space="preserve">
+    <value>Master Information</value>
+  </data>
+  <data name="AgentInformation" xml:space="preserve">
+    <value>Agent Information</value>
+  </data>
+  <data name="MemberInformation" xml:space="preserve">
+    <value>Member Information</value>
+  </data>
+  <data name="AgentCashBalance" xml:space="preserve">
+    <value>Agent Cash</value>
+  </data>
+  <data name="MasterCashBalance" xml:space="preserve">
+    <value>Master Cash</value>
+  </data>
+  <data name="SuperCashBalance" xml:space="preserve">
+    <value>Super Cash</value>
+  </data>
+  <data name="Received" xml:space="preserve">
+    <value>Received</value>
+  </data>
+  <data name="NotReceived" xml:space="preserve">
+    <value>Not Received</value>
+  </data>
+  <data name="AlreadyPaid" xml:space="preserve">
+    <value>Already Paid</value>
+  </data>
+  <data name="RewardDetail" xml:space="preserve">
+    <value>Reward Detail</value>
+  </data>
+  <data name="RewardPayment" xml:space="preserve">
+    <value>Reward Payment</value>
+  </data>
+  <data name="Total" xml:space="preserve">
+    <value>Total</value>
+  </data>
+  <data name="Unpaid" xml:space="preserve">
+    <value>Unpaid</value>
+  </data>
+  <data name="Paid" xml:space="preserve">
+    <value>Paid</value>
   </data>
 </root>

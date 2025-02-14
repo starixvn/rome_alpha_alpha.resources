@@ -208,7 +208,7 @@
     <value>Tổng mức tín dụng của Member</value>
   </data>
   <data name="cashBalance" xml:space="preserve">
-    <value>Số dư tài khoản</value>
+    <value>Tiền khả dụng</value>
   </data>
   <data name="currency" xml:space="preserve">
     <value>Tiền tệ</value>
@@ -220,10 +220,10 @@
     <value>Tổng số tiền giao dịch</value>
   </data>
   <data name="yesterdayBalance" xml:space="preserve">
-    <value>Giao dịch đến hết hôm qua</value>
+    <value>Số dư đến hết hôm qua </value>
   </data>
   <data name="yesterdayCashBalance" xml:space="preserve">
-    <value>Số dư tài khoản đến hết  hôm qua</value>
+    <value>Tiền khả dụng đến hết hôm qua</value>
   </data>
   <data name="yesterdayTotalBalance" xml:space="preserve">
     <value>Tổng tiền giao dịch đến hết hôm qua</value>

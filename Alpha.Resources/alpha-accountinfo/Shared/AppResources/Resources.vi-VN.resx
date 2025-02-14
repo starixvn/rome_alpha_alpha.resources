@@ -133,7 +133,7 @@
     <value>Tài Khoản</value>
   </data>
   <data name="BetCredit" xml:space="preserve">
-    <value>Hạn mức khả dụng</value>
+    <value>Hạn mức cược</value>
   </data>
   <data name="BetList" xml:space="preserve">
     <value>Danh sách cược</value>
@@ -289,10 +289,10 @@
     <value>Số tài khoản Agent hiện đang: Kích hoạt/Đóng/Đình chỉ</value>
   </data>
   <data name="TotalBalance" xml:space="preserve">
-    <value>Tổng số tiền giao dịch</value>
+    <value>Tổng số dư</value>
   </data>
   <data name="TotalCash" xml:space="preserve">
-    <value>Tổng số dư tài khoản</value>
+    <value>Tổng tiền khả dụng</value>
   </data>
   <data name="TotalMemberActiveClosed" xml:space="preserve">
     <value>Số tài khoản Member hiện đang: Kích hoạt/Đóng/Đình chỉ</value>
@@ -307,7 +307,7 @@
     <value>Số dư đến hết hôm qua</value>
   </data>
   <data name="YesterdayCash" xml:space="preserve">
-    <value>Số dư tài khoản đến hết hôm qua</value>
+    <value>Tiền khả dụng đến hết hôm qua</value>
   </data>
   <data name="ConfirmAllowOutrightViewModelText" xml:space="preserve">
     <value>Cho phép Outright</value>

@@ -184,7 +184,7 @@
     <value>ユーザー名とパスワードを入力してください。</value>
   </data>
   <data name="lblConfirmClosed" xml:space="preserve">
-    <value>アカウントがクローズされたため、強制的にログアウトされました。アップラインに連絡してサポートを受けてください。</value>
+    <value>アカウントが閉鎖されたため、強制的にログアウトされました。アップラインに連絡してサポートを受けてください。</value>
   </data>
   <data name="Login" xml:space="preserve">
     <value>入力</value>
@@ -273,7 +273,7 @@
 • 数字 [0-9]
 • 特殊文字 (!,@,# など)
 
-例: 59D7!4$h、493abcDE
+例えば: 59D7!4$h、493abcDE
 注意: パスワードは大文字と小文字を区別します。</value>
   </data>
   <data name="createSecurityCode" xml:space="preserve">
@@ -401,7 +401,7 @@
     <value>デバイスの日付と時刻設定は自動にする必要があります。</value>
   </data>
   <data name="Copied" xml:space="preserve">
-    <value>複写済み</value>
+    <value>コピーしました</value>
   </data>
   <data name="NoRegisterDeviceError" xml:space="preserve">
     <value>このユーザーには削除する登録デバイスがありません。</value>

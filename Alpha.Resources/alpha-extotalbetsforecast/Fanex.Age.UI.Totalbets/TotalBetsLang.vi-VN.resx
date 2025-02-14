@@ -202,7 +202,7 @@
     <value>Khách Không Tính</value>
   </data>
   <data name="lblBalance" xml:space="preserve">
-    <value>Số dư tài khoản</value>
+    <value>Số dư</value>
   </data>
   <data name="lblDraw" xml:space="preserve">
     <value>Hòa</value>

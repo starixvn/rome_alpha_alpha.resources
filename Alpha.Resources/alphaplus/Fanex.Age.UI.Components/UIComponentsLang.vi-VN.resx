@@ -138,15 +138,15 @@
     <comment />
   </data>
   <data name="acomm1" xml:space="preserve">
-    <value>A Comm 1</value>
+    <value>Hoa Hồng A (1)</value>
     <comment />
   </data>
   <data name="acomm2" xml:space="preserve">
-    <value>A Comm 2</value>
+    <value>Hoa Hồng A (2)</value>
     <comment />
   </data>
   <data name="acomm3" xml:space="preserve">
-    <value>A Comm 3</value>
+    <value>Hoa Hồng A (3)</value>
     <comment />
   </data>
   <data name="ACommPercent" xml:space="preserve">
@@ -174,7 +174,7 @@
     <comment />
   </data>
   <data name="agentcash" xml:space="preserve">
-    <value>Số dư</value>
+    <value>Tiền khả dụng của Agent</value>
     <comment />
   </data>
   <data name="agentCommissionByBetType" xml:space="preserve">
@@ -350,7 +350,7 @@
     <comment />
   </data>
   <data name="autoReset" xml:space="preserve">
-    <value>Tự động reset giới hạn chuyển khoản  mỗi ngày (12 trưa GMT+8)</value>
+    <value>Tự Làm Mới Hạn Mức Mỗi Ngày (12 trưa GMT+8)</value>
     <comment />
   </data>
   <data name="baccarat" xml:space="preserve">
@@ -358,7 +358,7 @@
     <comment />
   </data>
   <data name="balance" xml:space="preserve">
-    <value>Số dư tài khoản</value>
+    <value>Số dư</value>
     <comment />
   </data>
   <data name="balanceinfo" xml:space="preserve">
@@ -386,7 +386,7 @@
     <comment />
   </data>
   <data name="betcredit" xml:space="preserve">
-    <value>Hạn mức khả dụng</value>
+    <value>Hạn mức cược</value>
     <comment />
   </data>
   <data name="BetList" xml:space="preserve">
@@ -1206,7 +1206,7 @@
     <comment />
   </data>
   <data name="lblCashBalance" xml:space="preserve">
-    <value>Số dư tài khoản</value>
+    <value>Tiền khả dụng</value>
     <comment />
   </data>
   <data name="lblChangePassword" xml:space="preserve">
@@ -1758,7 +1758,7 @@
     <comment />
   </data>
   <data name="lblTotalBalance" xml:space="preserve">
-    <value>Tổng số tiền giao dịch</value>
+    <value>Tổng số dư</value>
     <comment />
   </data>
   <data name="lblTotalCSOutstanding" xml:space="preserve">
@@ -1814,7 +1814,7 @@
     <comment />
   </data>
   <data name="lblYesterdayCash" xml:space="preserve">
-    <value>Số dư tài khoản đến hết hôm qua</value>
+    <value>Tiền khả dụng đến hết hôm qua</value>
     <comment />
   </data>
   <data name="league" xml:space="preserve">
@@ -1886,7 +1886,7 @@
     <comment />
   </data>
   <data name="mastercash" xml:space="preserve">
-    <value>Số dư tài khoản của Master</value>
+    <value>Tiền khả dụng của Master</value>
     <comment />
   </data>
   <data name="masterCommissionByBetType" xml:space="preserve">
@@ -3018,11 +3018,11 @@
     <comment />
   </data>
   <data name="yesterdaybalance" xml:space="preserve">
-    <value>Giao dịch đến hết hôm qua</value>
+    <value>Số dư đến hết hôm qua </value>
     <comment />
   </data>
   <data name="yesterdaycashbalance" xml:space="preserve">
-    <value>Số dư tài khoản đến hết  hôm qua</value>
+    <value>Tiền khả dụng đến hết hôm qua</value>
     <comment />
   </data>
   <data name="yesterdaytotalbalance" xml:space="preserve">

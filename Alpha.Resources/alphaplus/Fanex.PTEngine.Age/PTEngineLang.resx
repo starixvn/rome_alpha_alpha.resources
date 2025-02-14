@@ -1014,7 +1014,7 @@
     <comment />
   </data>
   <data name="lblCashBalance" xml:space="preserve">
-    <value>Cash Balance</value>
+    <value>Cash</value>
     <comment />
   </data>
   <data name="lblChangePassword" xml:space="preserve">
@@ -1286,7 +1286,7 @@
     <comment />
   </data>
   <data name="lblOtherTypes" xml:space="preserve">
-    <value>Other Bettypes</value>
+    <value>Other Bet types</value>
     <comment />
   </data>
   <data name="lblOutRight" xml:space="preserve">
@@ -1322,7 +1322,14 @@
     <comment />
   </data>
   <data name="lblPasswordRequire" xml:space="preserve">
-    <value>Password must be at least 8 characters without white-space and contain at least 3 of the following:  • Uppercase letter [A-Z]   • Lowercase letter [a-z]   • Numeric [0-9]   • Special character (!,@,#,etc..)For example: 59D7!4$h, 493abcDENotes: your password is cAsE sEnSiTiVe</value>
+    <value>Password must be at least 8 characters without white-space and contain at least 3 of the following:  
+• Uppercase letter [A-Z]   
+• Lowercase letter [a-z]   
+• Numeric [0-9]   
+• Special character (!,@,#,etc..)
+
+For example: 59D7!4$h, 493abcDE
+Notes: your password is cAsE sEnSiTiVe</value>
     <comment />
   </data>
   <data name="lblPasswordWrongRule" xml:space="preserve">
@@ -1902,7 +1909,7 @@
     <comment />
   </data>
   <data name="OtherBettypes" xml:space="preserve">
-    <value>Other Bettypes</value>
+    <value>Other Bet types</value>
     <comment />
   </data>
   <data name="OtherSport2" xml:space="preserve">
@@ -2590,7 +2597,7 @@
     <comment />
   </data>
   <data name="yesterdaycashbalance" xml:space="preserve">
-    <value>Yesterday Cash Balance</value>
+    <value>Yesterday Cash</value>
     <comment />
   </data>
   <data name="yesterdaytotalbalance" xml:space="preserve">

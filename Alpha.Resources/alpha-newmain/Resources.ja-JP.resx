@@ -118,7 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="close" xml:space="preserve">
-    <value>閉じる</value>
+    <value>閉鎖</value>
   </data>
   <data name="subAcc" xml:space="preserve">
     <value>サブアカウント</value>
@@ -203,8 +203,7 @@
     <value>メンバー合計</value>
   </data>
   <data name="cashBalance" xml:space="preserve">
-    <value>
-残高</value>
+    <value>残高</value>
   </data>
   <data name="currency" xml:space="preserve">
     <value>通貨</value>
@@ -237,15 +236,15 @@
     <value>もっと</value>
   </data>
   <data name="totalActiveClosedSuspended" xml:space="preserve">
-    <value>合計アクティブ/クローズ/停止</value>
+    <value>合計アクティブ/閉鎖/停止</value>
   </data>
   <data name="totalAgentActiveClosedSuspended" xml:space="preserve">
     <value>エージェント合計
-アクティブ/クローズ/停止</value>
+アクティブ/閉鎖/停止</value>
   </data>
   <data name="totalMasterACS" xml:space="preserve">
     <value>マスター合計
-アクティブ/閉鎖的/停止</value>
+アクティブ/閉鎖/停止</value>
   </data>
   <data name="statistics" xml:space="preserve">
     <value>統計</value>
@@ -548,7 +547,7 @@
     <value>アクティブ</value>
   </data>
   <data name="closed" xml:space="preserve">
-    <value>クローズ</value>
+    <value>閉鎖</value>
   </data>
   <data name="suspended" xml:space="preserve">
     <value>停止</value>

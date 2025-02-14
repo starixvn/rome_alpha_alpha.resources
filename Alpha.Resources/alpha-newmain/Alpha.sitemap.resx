@@ -244,7 +244,7 @@
     <value>Match Win Loss</value>
   </data>
   <data name="MemberWinLimit" xml:space="preserve">
-    <value>Member Win/Loss Limit</value>
+    <value>Member Win Loss Limit</value>
   </data>
   <data name="memberwinlossdetail" xml:space="preserve">
     <value>Member Win Loss Detail</value>

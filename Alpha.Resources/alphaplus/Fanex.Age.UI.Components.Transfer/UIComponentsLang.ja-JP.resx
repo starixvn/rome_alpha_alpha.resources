@@ -166,7 +166,7 @@
     <value>口座残高振替条件</value>
   </data>
   <data name="accClosed" xml:space="preserve">
-    <value>このアカウントはクローズされました。ログを表示するにはここをクリックしてください。</value>
+    <value>このアカウントは閉鎖されました。ログを表示するにはここをクリックしてください。</value>
   </data>
   <data name="accdisabled" xml:space="preserve">
     <value>このアカウントは無効化されました。
@@ -291,7 +291,7 @@
     <value>全メンバー</value>
   </data>
   <data name="allowautopt" xml:space="preserve">
-    <value>自動保有ポジションを許可 </value>
+    <value>自動保有ポジションを許可する</value>
   </data>
   <data name="allowed" xml:space="preserve">
     <value>許可済み</value>
@@ -330,7 +330,7 @@
     <value>8月</value>
   </data>
   <data name="autoReset" xml:space="preserve">
-    <value>日次自動リセットリミット (GMT+8の正午12時にリセット)</value>
+    <value>自動毎日リセット制限 (GMT+8の正午12時にリセット)</value>
   </data>
   <data name="baccarat" xml:space="preserve">
     <value>バカラ</value>
@@ -381,7 +381,7 @@
     <value>追加する</value>
   </data>
   <data name="cancel" xml:space="preserve">
-    <value>取消</value>
+    <value>キャンセル</value>
   </data>
   <data name="casino" xml:space="preserve">
     <value>カジノ</value>
@@ -396,10 +396,10 @@
     <value>クリックして保有ポジション情報を確認</value>
   </data>
   <data name="close" xml:space="preserve">
-    <value>クローズ</value>
+    <value>閉鎖</value>
   </data>
   <data name="closed" xml:space="preserve">
-    <value>クローズ</value>
+    <value>閉鎖</value>
   </data>
   <data name="com" xml:space="preserve">
     <value>コミッション</value>
@@ -432,10 +432,10 @@
     <value>この顧客のすべてのクレジットを削除してもよろしいですか？</value>
   </data>
   <data name="confirmCloseDownline" xml:space="preserve">
-    <value>この顧客の「クローズ」ステータスを変更してもよろしいですか？警告：すべてのダウンラインもクローズされます！</value>
+    <value>この顧客の「閉鎖」ステータスを変更してもよろしいですか？警告：すべてのダウンラインも閉鎖されます！</value>
   </data>
   <data name="confirmCloseMem" xml:space="preserve">
-    <value>この顧客の「クローズ」状態を変更してもよろしいですか？</value>
+    <value>この顧客の「閉鎖」ステータスを変更してもよろしいですか？</value>
   </data>
   <data name="confirmDisableDoubleComm" xml:space="preserve">
     <value>このアカウントのスポーツブックにおける負けた賭けに対して、「ダブルコミッション」機能を無効にしてもよろしいですか？警告：このアカウントに所属するすべてのメンバーもその機能が無効になります！</value>
@@ -471,10 +471,10 @@
     <value>転送してもよろしいですか？</value>
   </data>
   <data name="confirmUnSuspended" xml:space="preserve">
-    <value>このメンバーのサスペンド状態を解除してもよろしいですか？警告：このメンバーの全ダウンラインもサスペンド解除されます。</value>
+    <value>このメンバーのサスペンドステータスを解除してもよろしいですか？警告：このメンバーの全ダウンラインもサスペンド解除されます。</value>
   </data>
   <data name="confirmUnSuspendMem" xml:space="preserve">
-    <value>この顧客のサスペンド状態を変更してもよろしいですか？</value>
+    <value>このメンバーのサスペンドステータスを解除してもよろしいですか？警告：このメンバーの全ダウンラインもサスペンド解除されます。</value>
   </data>
   <data name="contactMessage" xml:space="preserve">
     <value>セキュリティコードをお持ちでない場合は、アップラインまたはCSDにお問い合わせください。</value>
@@ -595,8 +595,7 @@
 </value>
   </data>
   <data name="EditVirtualSports" xml:space="preserve">
-    <value>バーチャルスポーツを編集する
-</value>
+    <value>バーチャルスポーツを編集する</value>
   </data>
   <data name="email" xml:space="preserve">
     <value>メール</value>
@@ -943,7 +942,7 @@
     <value>パスワード変更</value>
   </data>
   <data name="lblClosed" xml:space="preserve">
-    <value>クローズ</value>
+    <value>閉鎖</value>
   </data>
   <data name="lblCommissionByBettype" xml:space="preserve">
     <value>ベットタイプ別コミッション</value>
@@ -967,7 +966,7 @@
     <value>この{ユーザー名}アカウントの与信をクリアしてもよろしいですか？</value>
   </data>
   <data name="lblConfirmClosed" xml:space="preserve">
-    <value>アカウントがクローズされたため、ログアウトが強制されました。サポートについては、アップラインにお問い合わせください。</value>
+    <value>アカウントが閉鎖されたため、ログアウトが強制されました。サポートについては、アップラインにお問い合わせください。</value>
   </data>
   <data name="lblconfirmclosesubacc" xml:space="preserve">
     <value>サブアカウントの権限がありません。</value>
@@ -1257,7 +1256,7 @@
 • 数字 [0-9]
 • 特殊文字 (!,@,# など)
 
-例: 59D7!4$h、493abcDE
+例えば: 59D7!4$h、493abcDE
 注意: パスワードは大文字と小文字を区別します。</value>
   </data>
   <data name="lblPasswordWrongRule" xml:space="preserve">
@@ -1302,7 +1301,7 @@
 *「順次的な数字」または「逆順の数字」であってはなりません:
 +「順次的な数字」とは、左から右にすべての桁が連続して昇順で並んでいる整数を指します。
 +「逆順の数字」とは、左から右にすべての桁が連続して降順で並んでいる整数を指します。
-+ 例: 123456、456789、765432 などは使用できません。</value>
++ 例えば: 123456、456789、765432 などは使用できません。</value>
   </data>
   <data name="lblresetpassword" xml:space="preserve">
     <value>パスワードをリセット</value>
@@ -1341,7 +1340,7 @@
     <value>ステートメント</value>
   </data>
   <data name="lblStatusClosed" xml:space="preserve">
-    <value>クローズ</value>
+    <value>閉鎖</value>
   </data>
   <data name="lblSuperOutstanding" xml:space="preserve">
     <value>スーパー未処理</value>
@@ -1356,10 +1355,10 @@
     <value>合計ゴール</value>
   </data>
   <data name="lblTotalActiveClosedSuspended" xml:space="preserve">
-    <value>合計アクティブ/閉鎖的/停止</value>
+    <value>合計アクティブ/閉鎖/停止</value>
   </data>
   <data name="lblTotalAgentActiveClosed" xml:space="preserve">
-    <value>合計エージェント（アクティブ/閉鎖的/停止）</value>
+    <value>合計エージェント（アクティブ/閉鎖/停止）</value>
   </data>
   <data name="lblTotalAgentCredit" xml:space="preserve">
     <value>合計エージェント与信</value>
@@ -1380,7 +1379,7 @@
     <value>合計マスター与信</value>
   </data>
   <data name="lblTotalMemberActiveClosed" xml:space="preserve">
-    <value>合計メンバー（アクティブ/閉鎖的/停止）</value>
+    <value>合計メンバー（アクティブ/閉鎖/停止）</value>
   </data>
   <data name="lblTotalMemberCredit" xml:space="preserve">
     <value>合計メンバー与信</value>
@@ -1722,7 +1721,7 @@
     <value>その他</value>
   </data>
   <data name="OtherSports" xml:space="preserve">
-    <value>他スポーツ</value>
+    <value>その他のスポーツ</value>
   </data>
   <data name="OutrightDisabledUpline" xml:space="preserve">
     <value>アップラインのアウトライトベッティングが無効になりました。</value>
@@ -1956,10 +1955,10 @@
     <value>あなたの統計</value>
   </data>
   <data name="status" xml:space="preserve">
-    <value>状態</value>
+    <value>ステータス</value>
   </data>
   <data name="statusclosed" xml:space="preserve">
-    <value>状態 - クローズ</value>
+    <value>ステータス - 閉鎖</value>
   </data>
   <data name="strConfirmDisableDoubleCommMember" xml:space="preserve">
     <value>この顧客に対してスポーツブックの負けたチケットに適用されるダブルコミッション機能をオフにしてもよろしいですか？</value>
@@ -2088,7 +2087,7 @@
     <value>今月のトップ10勝利メンバー</value>
   </data>
   <data name="totalAgentACS" xml:space="preserve">
-    <value>エージェントアクティブ/閉鎖的</value>
+    <value>エージェントアクティブ/閉鎖</value>
   </data>
   <data name="totalbets" xml:space="preserve">
     <value>合計ベット</value>
@@ -2097,7 +2096,7 @@
     <value>合計ゴール</value>
   </data>
   <data name="totalMemACS" xml:space="preserve">
-    <value>メンバーアクティブ/閉鎖的</value>
+    <value>メンバーアクティブ/閉鎖 </value>
   </data>
   <data name="tournamentid" xml:space="preserve">
     <value>トーナメント（ID）</value>
@@ -2151,10 +2150,10 @@
     <value>顧客設定の更新に失敗しました！</value>
   </data>
   <data name="UplineHasClosed" xml:space="preserve">
-    <value>アップラインがクローズされました。</value>
+    <value>アップラインが閉鎖されました。</value>
   </data>
   <data name="UplineHasSuspended" xml:space="preserve">
-    <value>アップラインが一時停止されました。</value>
+    <value>アップラインが停止中されました。</value>
   </data>
   <data name="usedcredit" xml:space="preserve">
     <value>使用済み与信</value>

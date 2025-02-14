@@ -124,7 +124,7 @@
     <value>受付番号</value>
   </data>
   <data name="CancelledBet" xml:space="preserve">
-    <value>取り消されたベット</value>
+    <value>キャンセルされたベット</value>
   </data>
   <data name="total" xml:space="preserve">
     <value>合計</value>
@@ -438,7 +438,7 @@
     <value>中途換金が回復しました</value>
   </data>
   <data name="CashOutCancelled" xml:space="preserve">
-    <value>中途換金が取り消されました</value>
+    <value>中途換金がキャンセルされました</value>
   </data>
   <data name="NetworkLatency" xml:space="preserve">
     <value>ネットワーク遅延のため情報が利用できません。数分待ってから再試行してください。</value>
@@ -477,7 +477,7 @@
     <value>製品詳細を検索</value>
   </data>
   <data name="SelectAll" xml:space="preserve">
-    <value>全部を選択</value>
+    <value>全選択</value>
   </data>
   <data name="MaxDataRetrieveHistoryError" xml:space="preserve">
     <value>{0}以前の日付のデータは31日分を上限として取得可能です。日付範囲を見直してください。</value>
@@ -573,7 +573,7 @@
     <value>ユーザー名/ニックネームを入力してください（カンマ、タブ、またはエンターで区切る）</value>
   </data>
   <data name="Cancel" xml:space="preserve">
-    <value>取り消し</value>
+    <value>キャンセル</value>
   </data>
   <data name="FilterConfiguration" xml:space="preserve">
     <value>フィルター設定</value>
@@ -754,7 +754,7 @@
     <value>他の</value>
   </data>
   <data name="Copied" xml:space="preserve">
-    <value>複写済み</value>
+    <value>コピーしました</value>
   </data>
   <data name="Copy" xml:space="preserve">
     <value>複写</value>

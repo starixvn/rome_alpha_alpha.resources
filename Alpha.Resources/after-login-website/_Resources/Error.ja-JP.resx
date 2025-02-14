@@ -118,7 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="AccessDenied" xml:space="preserve">
-    <value>このページを表示する権限がありません</value>
+    <value>このページを表示する権限がありません。</value>
   </data>
   <data name="AjaxCallError" xml:space="preserve">
     <value>申し訳ありませんが、リクエストの処理中にエラーが発生しました。管理者にご連絡ください。</value>

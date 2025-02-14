@@ -142,7 +142,7 @@
     <value>アウトライトを許可</value>
   </data>
   <data name="ConfirmClosedViewModelText" xml:space="preserve">
-    <value>クローズ</value>
+    <value>閉鎖</value>
   </data>
   <data name="ConfirmSuspendedViewModelText" xml:space="preserve">
     <value>停止</value>
@@ -176,5 +176,20 @@
   </data>
   <data name="GivenCredit" xml:space="preserve">
     <value>与信 </value>
+  </data>
+  <data name="BetCredit" xml:space="preserve">
+    <value>ベットクレジット</value>
+  </data>
+  <data name="Cancel" xml:space="preserve">
+    <value>キャンセル</value>
+  </data>
+  <data name="ConfirmAllowAutoMasterPTViewModelText" xml:space="preserve">
+    <value>自動保有ポジションを許可する</value>
+  </data>
+  <data name="NoDataChange" xml:space="preserve">
+    <value>更新する変更はありません。</value>
+  </data>
+  <data name="TotalCash" xml:space="preserve">
+    <value>総残高</value>
   </data>
 </root>

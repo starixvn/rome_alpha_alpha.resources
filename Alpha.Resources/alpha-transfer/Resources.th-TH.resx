@@ -654,4 +654,28 @@
   <data name="NoRefresh" xml:space="preserve">
     <value>ไม่ใช่</value>
   </data>
+  <data name="Received" xml:space="preserve">
+    <value>ได้รับแล้ว</value>
+  </data>
+  <data name="NotReceived" xml:space="preserve">
+    <value>ไม่ได้รับ</value>
+  </data>
+  <data name="AlreadyPaid" xml:space="preserve">
+    <value>ชำระเงินแล้ว</value>
+  </data>
+  <data name="RewardDetail" xml:space="preserve">
+    <value>รายละเอียดเงินรางวัล</value>
+  </data>
+  <data name="RewardPayment" xml:space="preserve">
+    <value>การจ่ายเงินรางวัล</value>
+  </data>
+  <data name="Total" xml:space="preserve">
+    <value>ยอดรวม</value>
+  </data>
+  <data name="Unpaid" xml:space="preserve">
+    <value>ยังไม่ได้ชำระ</value>
+  </data>
+  <data name="Paid" xml:space="preserve">
+    <value>ชำระแล้ว</value>
+  </data>
 </root>

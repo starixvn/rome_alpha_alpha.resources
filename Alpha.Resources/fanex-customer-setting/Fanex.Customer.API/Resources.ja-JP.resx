@@ -118,7 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="AgentMinPTCannotBeGreaterThanAgentMaxPT" xml:space="preserve">
-    <value>エージェント最小保有ポジションは、エージェント最大保有ポジション以下でなければなりません。</value>
+    <value>エージェントの最小保有ポジションはエージェントの最大保有ポジション以下でなければなりません。</value>
   </data>
   <data name="AllProducts" xml:space="preserve">
     <value>全ての製品</value>
@@ -241,13 +241,13 @@
     <value>1試合あたりの最大値はアップラインの1試合あたりの最大値以下でなければなりません。</value>
   </data>
   <data name="Msg_10022" xml:space="preserve">
-    <value>あなたは日次自動リセットリミットを変更することは許可されていません。</value>
+    <value>自動毎日リセット制限を変更することはできません。</value>
   </data>
   <data name="Msg_10024" xml:space="preserve">
-    <value>最大勝ち額、直接のアップラインの最大勝利額以下でなければなりません。</value>
+    <value>最大勝利、直接のアップラインの最大勝利額以下でなければなりません。</value>
   </data>
   <data name="Msg_10033" xml:space="preserve">
-    <value>最大負け額、直接のアップラインの最大損失以下でなければなりません。</value>
+    <value>最大損失、直接のアップラインの最大損失以下でなければなりません。</value>
   </data>
   <data name="Msg_10034" xml:space="preserve">
     <value>このユーザーのアップラインはステークレベルを持っていません。</value>
@@ -262,10 +262,10 @@
     <value>1試合あたりの最大ペイアウトが誤っています。</value>
   </data>
   <data name="Msg_10060" xml:space="preserve">
-    <value>1試合あたりの最大値は1試合あたりの最大ペイアウト以下でなければなりません。</value>
+    <value>1試合あたりの最大額は1試合あたりの最大ペイアウト以下でなければなりません。</value>
   </data>
   <data name="Msg_10061" xml:space="preserve">
-    <value>1球あたりの最大値は最大ベット以上であり、1試合あたりの最大値以下でなければなりません。</value>
+    <value>1球あたりの最大額は、最大ベット以上で、1試合あたりの最大額以下でなければなりません。</value>
   </data>
   <data name="Msg_10062" xml:space="preserve">
     <value>最小ベットはアップラインの最小ベット以下でなければなりません。</value>

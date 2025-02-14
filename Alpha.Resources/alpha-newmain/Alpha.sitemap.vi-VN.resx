@@ -244,7 +244,7 @@
     <value>Thắng thua theo trận</value>
   </data>
   <data name="MemberWinLimit" xml:space="preserve">
-    <value>Hạn mức thắng/thua của Member</value>
+    <value>Giới Hạn Thắng Thua Của Member</value>
   </data>
   <data name="memberwinlossdetail" xml:space="preserve">
     <value>Chi tiết thắng thua của Member</value>

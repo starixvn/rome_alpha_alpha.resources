@@ -169,7 +169,7 @@
     <value>&lt;strong&gt;更新&lt;/strong&gt; をクリックして、メンバーの新しい設定を保存してください。</value>
   </data>
   <data name="MasterEditsMultipleMembers_Note" xml:space="preserve">
-    <value>メンバーのステータス（オープン/クローズ）およびそれらのメンバーに対する保有ポジションのみ変更できます。</value>
+    <value>メンバーのステータス（開設/閉鎖）およびそれらのメンバーに対する保有ポジションのみ変更できます。</value>
   </data>
   <data name="Notes" xml:space="preserve">
     <value>注意事項:</value>
@@ -238,6 +238,6 @@
     <value>&lt;strong&gt;更新&lt;/strong&gt; をクリックして、メンバーの新しい設定を保存してください。</value>
   </data>
   <data name="SuperEditsMultipleMembers_Note" xml:space="preserve">
-    <value>メンバーのステータス（オープン/クローズ）およびそれらのメンバーに対する保有ポジションのみ変更できます。</value>
+    <value>メンバーのステータス（開設/閉鎖）およびそれらのメンバーに対する保有ポジションのみ変更できます。</value>
   </data>
 </root>

@@ -2297,7 +2297,7 @@
     <value>ดาวน์ไลน์</value>
   </data>
   <data name="autoReset" xml:space="preserve">
-    <value>รีเซทร์อัตโนมัติรายวัน ( 12นาฬิกา GMT+8)</value>
+    <value>การรีเซ็ตขีดจำกัดอัตโนมัติรายวัน ( 12นาฬิกา GMT+8)</value>
   </data>
   <data name="includeTodayWL" xml:space="preserve">
     <value>รวมค่าได้เสียของวันนี้</value>
@@ -3532,7 +3532,7 @@
     <value>คลิกเพื่อครวจสอบวงเงินชนะปัจจุบัน</value>
   </data>
   <data name="MemberWinLimit" xml:space="preserve">
-    <value>วงเงินชนะของสมาชิก</value>
+    <value>จำกัด ได้เสีย ของสมาชิก</value>
   </data>
   <data name="Unlimited" xml:space="preserve">
     <value>ไม่จำกัดค่า</value>
@@ -3550,7 +3550,7 @@
     <value>1X2 Commission</value>
   </data>
   <data name="OtherBettypes" xml:space="preserve">
-    <value>Other Bettypes</value>
+    <value>Other Bet types</value>
   </data>
   <data name="LCSWinLimit" xml:space="preserve">
     <value>คาสิโนเกมสดชนะ %</value>
@@ -4411,10 +4411,10 @@ Please use the form below to set your Security Code again.</value>
     <value>3. ค่าเดิมพันสูงสุดของสองเท่า 3 เดิมพัน = การจ่ายเงินสูงสุดของพาร์เลย์คอมโบ 2 / (อัตราต่อรอง AB + อัตราต่อรอง BC + อัตราต่อรอง AC) = 500 / (2*3 + 3*4 + 2*4) = 500 / 26 = 19</value>
   </data>
   <data name="txtMaxPayoutSettingInfo23" xml:space="preserve">
-    <value>4. ค่าเดิมพันสูงสุดของสามเท่า 1 เดิมพัน = การจ่ายเงินสูงสุดของพาร์เลย์คอมโบ 3-5 / อัตราต่อรอง ABC = 1,000 / (2*3*4) = 1000 / 24 = 41</value>
+    <value>4. ค่าเดิมพันสูงสุดของสามเท่า 1 เดิมพัน = การจ่ายเงินสูงสุดของพาร์เลย์คอมโบ 3-5 / อัตราต่อรอง ABC = 1,000 / (2*3*4) = 1,000 / 24 = 41</value>
   </data>
   <data name="txtMaxPayoutSettingInfo24" xml:space="preserve">
-    <value>5. ค่าเดิมพันสูงสุดของทริกซี่และลั๊คกี้7 = การจ่ายเงินสูงสุดของพาร์เลย์คอมโบ 6+ &amp; ระบบของพาร์เลย์ / (อัตราต่อรองของสองเท่า + อัตราเดิมต่อรองของสามเท่า) = 2,000 / (26 + 24) = 2000 / 50 = 40</value>
+    <value>5. ค่าเดิมพันสูงสุดของทริกซี่และลั๊คกี้7 = การจ่ายเงินสูงสุดของพาร์เลย์คอมโบ 6+ &amp; ระบบของพาร์เลย์ / (อัตราต่อรองของสองเท่า + อัตราเดิมต่อรองของสามเท่า) = 2,000 / (26 + 24) = 2,000 / 50 = 40</value>
   </data>
   <data name="txtMaxPayoutSettingInfo25" xml:space="preserve">
     <value>
@@ -4425,8 +4425,7 @@ Please use the form below to set your Security Code again.</value>
   <data name="txtMaxPayoutSettingInfo26" xml:space="preserve">
     <value>
       + พาร์เลย์การแข่งขันนัดเดียว: ค่าเดิมพันสูงสุด = (การจ่ายเงินสูงสุดของพาร์เลย์ต่อคู่การแข่งขัน - ยอดสะสมการจ่ายเงินสูงสุดในการแข่งขันคู่เดียวกัน) / อัตราต่อรอง
-      &lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; * พาร์เลย์การแข่งขันนัดเดียวไม่นับรวมตั๋วเดิมพันมิกซ์/คอมโบพาร์เลย์
-    </value>
+      &lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; * พาร์เลย์การแข่งขันนัดเดียวไม่นับรวมตั๋วเดิมพันมิกซ์/คอมโบพาร์เลย์</value>
   </data>
   <data name="txtMaxPayoutSettingInfo27" xml:space="preserve">
     <value>

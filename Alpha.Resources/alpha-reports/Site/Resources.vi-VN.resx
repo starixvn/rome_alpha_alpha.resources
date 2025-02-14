@@ -909,7 +909,7 @@
     <value>Thay đổi số dư</value>
   </data>
   <data name="BetCredit" xml:space="preserve">
-    <value>Hạn mức khả dụng</value>
+    <value>Hạn mức cược</value>
   </data>
   <data name="GivenCredit" xml:space="preserve">
     <value>Hạn mức được cấp</value>

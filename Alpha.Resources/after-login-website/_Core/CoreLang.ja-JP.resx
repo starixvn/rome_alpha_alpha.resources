@@ -124,7 +124,7 @@
     <value>マスター</value>
   </data>
   <data name="member" xml:space="preserve">
-    <value>メンバー</value>
+    <value>メンバー </value>
   </data>
   <data name="super" xml:space="preserve">
     <value>スーパー</value>
@@ -136,19 +136,19 @@
     <value>バーチャルスポーツ</value>
   </data>
   <data name="AccessDenied" xml:space="preserve">
-    <value>このページを表示する権限がありません</value>
+    <value>このページを表示する権限がありません。</value>
   </data>
   <data name="AjaxCallError" xml:space="preserve">
     <value>申し訳ありませんが、リクエストの処理中にエラーが発生しました。管理者にご連絡ください。</value>
   </data>
   <data name="ClosedByAdmin" xml:space="preserve">
-    <value>このアカウントは管理者によってクローズされました。</value>
+    <value>このアカウントは管理者によって閉鎖されました。</value>
   </data>
   <data name="ClosedByUpline" xml:space="preserve">
-    <value>このアカウントは上位者によってクローズされました。</value>
+    <value>このアカウントはアップラインによって閉鎖されました。</value>
   </data>
   <data name="ClosedByArchive" xml:space="preserve">
-    <value>このアカウントは非活動によりクローズされました</value>
+    <value>このアカウントは非アクティブにより閉鎖されました。</value>
   </data>
   <data name="FalseOTPSCUnlockConfirm" xml:space="preserve">
     <value>このアカウントは複数回のOTP/セキュリティコード認証失敗によりロックされています。本当にロックを解除しますか？</value>

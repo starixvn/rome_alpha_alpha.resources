@@ -3540,7 +3540,7 @@ Note: Country and city information is provided by IP2Location™ and DNSstuff wh
     <value>1X2 Commission</value>
   </data>
   <data name="OtherBettypes" xml:space="preserve">
-    <value>Other Bettypes</value>
+    <value>Other Bet types</value>
   </data>
   <data name="LCSWinLimit" xml:space="preserve">
     <value>라이브 카지노 승리 금액 %</value>

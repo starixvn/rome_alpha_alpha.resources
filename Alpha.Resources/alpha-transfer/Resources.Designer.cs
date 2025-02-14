@@ -88,6 +88,24 @@ namespace Alpha.Transfer.AppResources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Agent Cash.
+        /// </summary>
+        public static string AgentCashBalance {
+            get {
+                return ResourceManager.GetString("AgentCashBalance", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Agent Information.
+        /// </summary>
+        public static string AgentInformation {
+            get {
+                return ResourceManager.GetString("AgentInformation", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to All.
         /// </summary>
         public static string All {
@@ -111,6 +129,15 @@ namespace Alpha.Transfer.AppResources {
         public static string AllYesterdayBalance {
             get {
                 return ResourceManager.GetString("AllYesterdayBalance", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Already Paid.
+        /// </summary>
+        public static string AlreadyPaid {
+            get {
+                return ResourceManager.GetString("AlreadyPaid", resourceCulture);
             }
         }
         
@@ -943,11 +970,38 @@ namespace Alpha.Transfer.AppResources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Master Cash.
+        /// </summary>
+        public static string MasterCashBalance {
+            get {
+                return ResourceManager.GetString("MasterCashBalance", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Master Information.
+        /// </summary>
+        public static string MasterInformation {
+            get {
+                return ResourceManager.GetString("MasterInformation", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Member.
         /// </summary>
         public static string Member {
             get {
                 return ResourceManager.GetString("Member", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Member Information.
+        /// </summary>
+        public static string MemberInformation {
+            get {
+                return ResourceManager.GetString("MemberInformation", resourceCulture);
             }
         }
         
@@ -1042,6 +1096,15 @@ namespace Alpha.Transfer.AppResources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Not Received.
+        /// </summary>
+        public static string NotReceived {
+            get {
+                return ResourceManager.GetString("NotReceived", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to of.
         /// </summary>
         public static string of {
@@ -1132,6 +1195,15 @@ namespace Alpha.Transfer.AppResources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Paid.
+        /// </summary>
+        public static string Paid {
+            get {
+                return ResourceManager.GetString("Paid", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Pending.
         /// </summary>
         public static string Pending {
@@ -1173,6 +1245,33 @@ namespace Alpha.Transfer.AppResources {
         public static string Reason {
             get {
                 return ResourceManager.GetString("Reason", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Received.
+        /// </summary>
+        public static string Received {
+            get {
+                return ResourceManager.GetString("Received", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Reward Detail.
+        /// </summary>
+        public static string RewardDetail {
+            get {
+                return ResourceManager.GetString("RewardDetail", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Reward Payment.
+        /// </summary>
+        public static string RewardPayment {
+            get {
+                return ResourceManager.GetString("RewardPayment", resourceCulture);
             }
         }
         
@@ -1375,6 +1474,15 @@ namespace Alpha.Transfer.AppResources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Super Cash.
+        /// </summary>
+        public static string SuperCashBalance {
+            get {
+                return ResourceManager.GetString("SuperCashBalance", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to This Month.
         /// </summary>
         public static string ThisMonth {
@@ -1425,6 +1533,15 @@ namespace Alpha.Transfer.AppResources {
         public static string Today {
             get {
                 return ResourceManager.GetString("Today", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Total.
+        /// </summary>
+        public static string Total {
+            get {
+                return ResourceManager.GetString("Total", resourceCulture);
             }
         }
         
@@ -1632,6 +1749,15 @@ namespace Alpha.Transfer.AppResources {
         public static string Tuesday {
             get {
                 return ResourceManager.GetString("Tuesday", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Unpaid.
+        /// </summary>
+        public static string Unpaid {
+            get {
+                return ResourceManager.GetString("Unpaid", resourceCulture);
             }
         }
         

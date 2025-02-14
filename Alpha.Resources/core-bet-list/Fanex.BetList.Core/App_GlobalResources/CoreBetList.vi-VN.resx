@@ -451,7 +451,7 @@
     <value>Tỷ số khác trong hiệp 1 ngoại trừ</value>
   </data>
   <data name="Cash" xml:space="preserve">
-    <value>Tiền mặt</value>
+    <value>Tiền khả dụng</value>
   </data>
   <data name="Bonus" xml:space="preserve">
     <value>Tiền thưởng</value>

@@ -3277,7 +3277,7 @@
     <value>แจ้งเตือนเปลี่ยนรหัสความปลอดภัย</value>
   </data>
   <data name="MemberWinLossLimit" xml:space="preserve">
-    <value>จำกัดยอดชนะ/แพ้ของสมาชิก</value>
+    <value>จำกัด ได้เสีย ของสมาชิก</value>
   </data>
   <data name="ProblemAccount" xml:space="preserve">
     <value>บัญชีที่มีปัญหา</value>

@@ -145,7 +145,7 @@
     <value>エージェント未決済</value>
   </data>
   <data name="lblCancelledBets" xml:space="preserve">
-    <value>取り消されたベット</value>
+    <value>キャンセルされたベット</value>
   </data>
   <data name="lblHomeDrawAwayNoBet" xml:space="preserve">
     <value>ホーム/ドロー/アウェイ ベットなし

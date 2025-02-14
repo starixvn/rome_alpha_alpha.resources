@@ -207,7 +207,7 @@
     <value>ボーナスフリースピン</value>
   </data>
   <data name="closed" xml:space="preserve">
-    <value>クローズ</value>
+    <value>閉鎖</value>
   </data>
   <data name="editmultfinance" xml:space="preserve">
     <value>複数のファイナンスの保有ポジションを編集</value>
@@ -392,7 +392,7 @@
     <value>パスワード変更</value>
   </data>
   <data name="lblClosed" xml:space="preserve">
-    <value>クローズ</value>
+    <value>閉鎖</value>
   </data>
   <data name="lblCommissionByBettype" xml:space="preserve">
     <value>ベットタイプ別コミッション</value>
@@ -679,7 +679,7 @@
 • 数字 [0-9]
 • 特殊文字 (!,@,# など)
 
-例: 59D7!4$h、493abcDE
+例えば: 59D7!4$h、493abcDE
 注意: パスワードは大文字と小文字を区別します。</value>
   </data>
   <data name="lblPasswordWrongRule" xml:space="preserve">
@@ -713,7 +713,7 @@
     <value>スーパープリセット保有ポジション</value>
   </data>
   <data name="lblStatusClosed" xml:space="preserve">
-    <value>クローズ</value>
+    <value>閉鎖</value>
   </data>
   <data name="masterCommissionByBetType" xml:space="preserve">
     <value>ベットタイプ別マスターコミッション</value>
@@ -775,5 +775,41 @@
   </data>
   <data name="VirtualSports" xml:space="preserve">
     <value>バーチャルスポーツ</value>
+  </data>
+  <data name="allowautopt" xml:space="preserve">
+    <value>自動保有ポジションを許可する</value>
+  </data>
+  <data name="autoReset" xml:space="preserve">
+    <value>自動毎日リセット制限 (GMT+8の正午12時にリセット)</value>
+  </data>
+  <data name="betcredit" xml:space="preserve">
+    <value>ベットクレジット</value>
+  </data>
+  <data name="cancel" xml:space="preserve">
+    <value>キャンセル</value>
+  </data>
+  <data name="close" xml:space="preserve">
+    <value>閉鎖</value>
+  </data>
+  <data name="daily" xml:space="preserve">
+    <value>毎日</value>
+  </data>
+  <data name="lblCommPTAgent" xml:space="preserve">
+    <value>エージェントコミッション</value>
+  </data>
+  <data name="lblCommPTMaster" xml:space="preserve">
+    <value>マスターコミッション</value>
+  </data>
+  <data name="lblCommPTSuper" xml:space="preserve">
+    <value>スーパコミッション</value>
+  </data>
+  <data name="loading" xml:space="preserve">
+    <value>ロード中</value>
+  </data>
+  <data name="OtherSports" xml:space="preserve">
+    <value>その他のスポーツ</value>
+  </data>
+  <data name="status" xml:space="preserve">
+    <value>ステータス</value>
   </data>
 </root>

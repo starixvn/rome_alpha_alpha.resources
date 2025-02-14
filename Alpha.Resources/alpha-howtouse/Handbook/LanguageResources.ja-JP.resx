@@ -120,4 +120,7 @@
   <data name="Contents" xml:space="preserve">
     <value>内容</value>
   </data>
+  <data name="close" xml:space="preserve">
+    <value>閉鎖</value>
+  </data>
 </root>

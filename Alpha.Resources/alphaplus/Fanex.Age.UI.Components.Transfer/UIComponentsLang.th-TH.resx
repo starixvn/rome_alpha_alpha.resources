@@ -1348,7 +1348,7 @@
     <value>ดาวน์ไลน์</value>
   </data>
   <data name="autoReset" xml:space="preserve">
-    <value>รีเซทร์อัตโนมัติรายวัน ( 12นาฬิกา GMT+8)</value>
+    <value>การรีเซ็ตขีดจำกัดอัตโนมัติรายวัน ( 12นาฬิกา GMT+8)</value>
   </data>
   <data name="sbminpt1" xml:space="preserve">
     <value>แบ่งสู้ สปอตร์</value>
@@ -2061,7 +2061,7 @@
     <value>Commission 2 Details</value>
   </data>
   <data name="OtherBettypes" xml:space="preserve">
-    <value>Other Bettypes</value>
+    <value>Other Bet types</value>
   </data>
   <data name="allowed" xml:space="preserve">
     <value>อนุญาต</value>

@@ -121,7 +121,7 @@
     <value>All Agents</value>
   </data>
   <data name="AutoDailyResetLimit" xml:space="preserve">
-    <value>Reset mức giới hạn mỗi ngày</value>
+    <value>Tự Làm Mới Hạn Mức Mỗi Ngày</value>
   </data>
   <data name="Closed" xml:space="preserve">
     <value>Closed</value>
@@ -142,10 +142,10 @@
     <value>Disabled</value>
   </data>
   <data name="MaximumLoss" xml:space="preserve">
-    <value>Tiền thua cược lớn nhất</value>
+    <value>Mức Thua Lớn Nhất</value>
   </data>
   <data name="MaximumWin" xml:space="preserve">
-    <value>Mức thắng lớn nhất (dựa trên hạn mức được cấp)</value>
+    <value>Mức Thắng Lớn Nhất (dựa trên hạn mức được cấp)</value>
   </data>
   <data name="No" xml:space="preserve">
     <value>No</value>

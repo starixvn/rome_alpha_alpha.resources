@@ -138,4 +138,7 @@
   <data name="PageAccess_D" xml:space="preserve">
     <value>ベットと予測</value>
   </data>
+  <data name="Daily" xml:space="preserve">
+    <value>毎日</value>
+  </data>
 </root>

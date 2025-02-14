@@ -129,4 +129,7 @@
   <data name="Level" xml:space="preserve">
     <value>レベル</value>
   </data>
+  <data name="Cancel" xml:space="preserve">
+    <value>キャンセル</value>
+  </data>
 </root>

@@ -121,7 +121,7 @@
     <value>All Agents</value>
   </data>
   <data name="AutoDailyResetLimit" xml:space="preserve">
-    <value>Auto Daily Reset Limit</value>
+    <value>Daily Auto Reset Limit</value>
   </data>
   <data name="Closed" xml:space="preserve">
     <value>Closed</value>

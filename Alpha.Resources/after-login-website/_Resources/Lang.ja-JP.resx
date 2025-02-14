@@ -279,10 +279,10 @@
     <value>少なくとも1日を選択してください。</value>
   </data>
   <data name="close" xml:space="preserve">
-    <value>閉じる</value>
+    <value>閉鎖</value>
   </data>
   <data name="closed" xml:space="preserve">
-    <value>クローズ</value>
+    <value>閉鎖</value>
   </data>
   <data name="com" xml:space="preserve">
     <value>コミッション</value>
@@ -341,10 +341,10 @@
     <value>エージェントUKミーティング</value>
   </data>
   <data name="confirmCloseMem" xml:space="preserve">
-    <value>この顧客の「クローズ」状態を変更してもよろしいですか？</value>
+    <value>この顧客の閉鎖ステータスを変更してもよろしいですか？</value>
   </data>
   <data name="confirmCloseDownline" xml:space="preserve">
-    <value>この顧客の「クローズ」ステータスを変更してもよろしいですか？警告：すべてのダウンラインもクローズされます！</value>
+    <value>この顧客の閉鎖ステータスを変更してもよろしいですか？警告：すべてのダウンラインも閉鎖されます！</value>
   </data>
   <data name="confirmSuspendDownline" xml:space="preserve">
     <value>このメンバーをサスペンドしてもよろしいですか？警告：このメンバーの全ダウンラインは賭けられなくなります。</value>
@@ -354,10 +354,10 @@
 </value>
   </data>
   <data name="confirmUnSuspendMem" xml:space="preserve">
-    <value>この顧客のサスペンド状態を変更してもよろしいですか？</value>
+    <value>この顧客のサスペンドステータスを変更してもよろしいですか？</value>
   </data>
   <data name="alertCloseCustDownline" xml:space="preserve">
-    <value>この顧客およびすべてのダウンラインを閉じてもよろしいですか？</value>
+    <value>この顧客とそのすべてのダウンラインを閉鎖してもよろしいですか？</value>
   </data>
   <data name="allyesterdaybalance" xml:space="preserve">
     <value>昨日のすべての残高</value>
@@ -388,10 +388,10 @@
     <value>8月</value>
   </data>
   <data name="allowautopt" xml:space="preserve">
-    <value>自動保有ポジションを許可 </value>
+    <value>自動保有ポジションを許可する</value>
   </data>
   <data name="autoReset" xml:space="preserve">
-    <value>日次自動リセットリミット (GMT+8の正午12時にリセット)</value>
+    <value>自動毎日リセット制限 (GMT+8の正午12時にリセット)</value>
   </data>
   <data name="confirmDisableOutright" xml:space="preserve">
     <value>この顧客に対して、アウトライトベッティングを禁止してもよろしいですか？警告：このエージェントに所属するすべてのメンバーはアウトライトベットを行うことができません！</value>
@@ -455,16 +455,16 @@
     <value>ナンバーゲームを許可</value>
   </data>
   <data name="confirmUnSuspended" xml:space="preserve">
-    <value>このメンバーのサスペンド状態を解除してもよろしいですか？警告：このメンバーの全ダウンラインもサスペンド解除されます。</value>
+    <value>このメンバーのサスペンドステータスを解除してもよろしいですか？警告：このメンバーの全ダウンラインもサスペンド解除されます。</value>
   </data>
   <data name="AutoRefresh" xml:space="preserve">
     <value>自動更新 毎</value>
   </data>
   <data name="alertMaxPerMatchLessMaxPerBall" xml:space="preserve">
-    <value>ボールごとの最大は、試合ごとの最大（ナンバーゲーム）以下でなければなりません。</value>
+    <value>1球あたりの最大額は、1試合あたりの最大額（ナンバーゲーム）以下でなければなりません。</value>
   </data>
   <data name="alertMaxPerBallLessMaxBet" xml:space="preserve">
-    <value>ボールごとの最大は、最大ベット（ナンバーゲーム）以上でなければなりません。</value>
+    <value>1球あたりの最大額は、最大ベット（ナンバーゲーム）以上でなければなりません。</value>
   </data>
   <data name="AllBetTypes" xml:space="preserve">
     <value>すべての賭けタイプ</value>
@@ -509,7 +509,7 @@
     <value>エージェントの最大信用限度額は{0}から{1}の間でなければなりません</value>
   </data>
   <data name="accClosed" xml:space="preserve">
-    <value>このアカウントはクローズされました</value>
+    <value>このアカウントは閉鎖されました。</value>
   </data>
   <data name="accSuspended" xml:space="preserve">
     <value>このアカウントは停止されました</value>
@@ -721,7 +721,7 @@
     <value>エージェント未決済</value>
   </data>
   <data name="lblCancelledBets" xml:space="preserve">
-    <value>取り消されたベット</value>
+    <value>キャンセルされたベット</value>
   </data>
   <data name="lblForecast" xml:space="preserve">
     <value>予想 </value>
@@ -911,7 +911,7 @@
     <value>パスワード変更</value>
   </data>
   <data name="lblClosed" xml:space="preserve">
-    <value>クローズ</value>
+    <value>閉鎖</value>
   </data>
   <data name="lblConfirmAllowDownline" xml:space="preserve">
     <value>この{ユーザー名}アカウントおよびすべてのダウンラインでナンバーゲームを許可してもよろしいですか？</value>
@@ -1157,7 +1157,7 @@
     <value>スーパープリセット保有ポジション</value>
   </data>
   <data name="lblStatusClosed" xml:space="preserve">
-    <value>クローズ</value>
+    <value>閉鎖</value>
   </data>
   <data name="masterCommissionByBetType" xml:space="preserve">
     <value>ベットタイプ別マスターコミッション</value>
@@ -1166,7 +1166,7 @@
     <value>マスター最大保有ポジション</value>
   </data>
   <data name="MaximumWin" xml:space="preserve">
-    <value>最大勝ち額</value>
+    <value>最大勝利</value>
   </data>
   <data name="membercomm" xml:space="preserve">
     <value>メンバーコミッション</value>
@@ -1251,5 +1251,189 @@
   </data>
   <data name="txtMaxPayoutSettingInfo_Table_Header1" xml:space="preserve">
     <value>バーチャルスポーツ</value>
+  </data>
+  <data name="dailystatement" xml:space="preserve">
+    <value>毎日ステートメント</value>
+    <comment>日次詳細レポート</comment>
+  </data>
+  <data name="group" xml:space="preserve">
+    <value>グループ</value>
+  </data>
+  <data name="isAuto" xml:space="preserve">
+    <value>自動</value>
+  </data>
+  <data name="lblalertMinbetCompare" xml:space="preserve">
+    <value>最小ベットは{...}以上でなければなりません。</value>
+  </data>
+  <data name="lblCommissionForAgent" xml:space="preserve">
+    <value>エージェントコミッション</value>
+  </data>
+  <data name="lblCommissionForMaster" xml:space="preserve">
+    <value>マスターコミッション</value>
+  </data>
+  <data name="lblCommissionForMember" xml:space="preserve">
+    <value>メンバーコミッション</value>
+  </data>
+  <data name="lblCommPTAgent" xml:space="preserve">
+    <value>エージェントコミッション</value>
+  </data>
+  <data name="lblCommPTMaster" xml:space="preserve">
+    <value>マスターコミッション</value>
+  </data>
+  <data name="lblCommPTSuper" xml:space="preserve">
+    <value>スーパコミッション</value>
+  </data>
+  <data name="lblConfirmClosed" xml:space="preserve">
+    <value>あなたのアカウントは閉鎖されたため、強制的にログアウトされました。サポートが必要な場合はアップラインにお問い合わせください。</value>
+  </data>
+  <data name="lblGroupa" xml:space="preserve">
+    <value>グループA</value>
+  </data>
+  <data name="lblGroupb" xml:space="preserve">
+    <value>グループB</value>
+  </data>
+  <data name="lblGroupc" xml:space="preserve">
+    <value>グループC</value>
+  </data>
+  <data name="lblGroupd" xml:space="preserve">
+    <value>グループD</value>
+  </data>
+  <data name="lblTotalCash" xml:space="preserve">
+    <value>総残高</value>
+  </data>
+  <data name="loading" xml:space="preserve">
+    <value>ロード中</value>
+  </data>
+  <data name="maxBetShouldBeLessThanOrEqualToMaxPerMatch" xml:space="preserve">
+    <value>{0} - 最大ベットは1試合あたりの最大額以下でなければなりません。</value>
+  </data>
+  <data name="noChangeToUpdate" xml:space="preserve">
+    <value>更新する変更はありません。</value>
+  </data>
+  <data name="OtherSports" xml:space="preserve">
+    <value>その他のスポーツ</value>
+  </data>
+  <data name="NewSecurityCode" xml:space="preserve">
+    <value>セキュリティコード</value>
+  </data>
+  <data name="titleFirstTimeSecCode" xml:space="preserve">
+    <value>セキュリティコード</value>
+  </data>
+  <data name="SecurityCode" xml:space="preserve">
+    <value>セキュリティコード</value>
+  </data>
+  <data name="mixsportParlayHint02" xml:space="preserve">
+    <value>例: サッカー - サッカー - バスケットボール、テニス - テニス - テニス、バスケットボール - ゴルフ - フットボール。</value>
+  </data>
+  <data name="TransferConditionByUpline" xml:space="preserve">
+    <value>毎日転送設定はアップラインから適用されました。毎週転送条件を調整することはできません。</value>
+  </data>
+  <data name="TransferConditionByCompany" xml:space="preserve">
+    <value>毎日転送設定は会社の自動転送プロセスを通じて適用されました。毎週転送条件を調整することはできません。</value>
+  </data>
+  <data name="minBetShouldBeGreaterThanOrEqualTo" xml:space="preserve">
+    <value>{0} - 最小ベットは{1}以上でなければなりません。</value>
+  </data>
+  <data name="EditSingleParlayMaxPayout" xml:space="preserve">
+    <value>パーレイ最大ペイアウト</value>
+  </data>
+  <data name="lblMaxPayoutPerMatch" xml:space="preserve">
+    <value>1試合あたりの最大ペイアウト</value>
+  </data>
+  <data name="lblalertMaxPayoutPerMatchCompareMaxPerMatch" xml:space="preserve">
+    <value>{1} - 1試合あたりの最大額は1試合あたりの最大ペイアウト以下でなければなりません。</value>
+  </data>
+  <data name="txtMaxPayoutSettingInfo" xml:space="preserve">
+    <value>最大支払い設定情報</value>
+  </data>
+  <data name="txtMaxPayoutSettingInfo1" xml:space="preserve">
+    <value>- 1試合あたりの最大ペイアウトは、同じ試合のすべてのチケットの合計最大ペイアウトを制御する設定です。</value>
+  </data>
+  <data name="txtMaxPayoutSettingInfo3" xml:space="preserve">
+    <value>1. 1試合あたりの最大ペイアウトが1,000であることを考慮すると</value>
+  </data>
+  <data name="txtMaxPayoutSettingInfo4" xml:space="preserve">
+    <value>2. メンバーが最初のチケットをオッズ = 10、ステーク = 70で置いた場合、このチケットは以下のようになります：</value>
+  </data>
+  <data name="txtMaxPayoutSettingInfo5" xml:space="preserve">
+    <value>- 最大ベット = 最大ペイアウト / オッズ = 1,000 / 10 = 100。</value>
+  </data>
+  <data name="txtMaxPayoutSettingInfo6" xml:space="preserve">
+    <value>最大ペイアウト = ステーク * オッズ = 70 * 10 = 700 = &lt;em&gt;累積最大ペイアウト*&lt;/em&gt;</value>
+  </data>
+  <data name="txtMaxPayoutSettingInfo7" xml:space="preserve">
+    <value>3. メンバーが2番目のチケットをオッズ = 5で置いた場合、このチケットは以下のようになります：</value>
+  </data>
+  <data name="txtMaxPayoutSettingInfo8" xml:space="preserve">
+    <value>- 最大ベット = （1試合あたりの最大ペイアウト - 累積最大ペイアウト） / オッズ = （1,000 - 700） / 5 = 60。</value>
+  </data>
+  <data name="txtMaxPayoutSettingInfo9" xml:space="preserve">
+    <value>* 累積最大ペイアウトは、同じ試合のすべてのチケットの最大ペイアウトで、無効/拒否されたチケットは除外されます。したがって、最初のチケットが無効の場合、2番目のチケットの最大ベットは（1,000 - 0）/ 5 = 200となります。</value>
+  </data>
+  <data name="txtMaxPayoutSettingInfo10" xml:space="preserve">
+    <value>- 最大ペイアウト設定は、以下の表に記載されたベットタイプを除くすべてのスポーツブックのベットタイプに適用されます。Eスポーツおよびムエタイには最大ペイアウト設定は適用されません。</value>
+  </data>
+  <data name="txtMaxPayoutSettingInfo11" xml:space="preserve">
+    <value>スポーツ</value>
+  </data>
+  <data name="txtMaxPayoutSettingInfo12" xml:space="preserve">
+    <value>最大ペイアウト設定が適用されないベットタイプ</value>
+  </data>
+  <data name="txtMaxPayoutSettingInfo13" xml:space="preserve">
+    <value>{0}と{1}を除くすべてのスポーツ</value>
+  </data>
+  <data name="txtMaxPayoutSettingInfo14" xml:space="preserve">
+    <value>Sabaスポーツ:</value>
+  </data>
+  <data name="txtMaxPayoutSettingInfo15" xml:space="preserve">
+    <value>- SabaフットサルはSabaサッカーのベット設定を使用します。</value>
+  </data>
+  <data name="txtMaxPayoutSettingInfo17" xml:space="preserve">
+    <value>累積最大ペイアウトはすべての進行中のチケットをカウントします。進行中のチケットが決済/拒否/返金/無効になった場合、累積最大ペイアウトは解除されます。</value>
+  </data>
+  <data name="txtMaxPayoutSettingInfo18" xml:space="preserve">
+    <value>パーレイ1ベットごとの最大ペイアウトとパーレイ1試合あたりの最大ペイアウトの&lt;span style="color: red;"&gt;違い&lt;/span&gt;</value>
+  </data>
+  <data name="txtMaxPayoutSettingInfo19" xml:space="preserve">
+    <value>&lt;strong&gt;パーレイ最大ペイアウト:&lt;/strong&gt; この設定は、1枚のチケットでの各コンボパーレイの最大ベットを計算するために使用されます。</value>
+  </data>
+  <data name="txtMaxPayoutSettingInfo20" xml:space="preserve">
+    <value>1. パーレイ最大ペイアウト設定が次のようである場合: コンボ2 = 500; コンボ3-5 = 1,000; コンボ6以上およびシステムパーレイ = 2,000</value>
+  </data>
+  <data name="txtMaxPayoutSettingInfo21" xml:space="preserve">
+    <value>2. メンバーが3つの選択肢を選んだ場合: A（オッズ = 2）、B（オッズ = 3）、C（オッズ = 4）、システムは次のコンボを提供します: ダブル（3ベット）、トリプル（1ベット）、トリクシー（4ベット）      &lt;br&gt; &amp;nbsp;&amp;nbsp;&amp;nbsp、およびラッキー7（7ベット）</value>
+  </data>
+  <data name="txtMaxPayoutSettingInfo22" xml:space="preserve">
+    <value>3. 3つのダブルベットの最大ベット = パーレイ最大ペイアウトのコンボ2 / （オッズAB + オッズBC + オッズAC） = 500 / （2*3 + 3*4 + 2*4） = 500 / 26 = 19</value>
+  </data>
+  <data name="txtMaxPayoutSettingInfo23" xml:space="preserve">
+    <value>4. トリプルベットの最大ベット = パーレイ最大ペイアウトのコンボ3-5 / オッズABC = 1,000 / (2*3*4) = 1,000 / 24 = 41</value>
+  </data>
+  <data name="txtMaxPayoutSettingInfo24" xml:space="preserve">
+    <value>5. トリクシーおよびラッキー7ベットの最大ベット = パーレイ最大ペイアウトのコンボ6以上およびシステムパーレイ / （オッズダブル + オッズトリプル） = 2,000 / （26 + 24） = 2,000 / 50 = 40</value>
+  </data>
+  <data name="txtMaxPayoutSettingInfo25" xml:space="preserve">
+    <value>- &lt;strong&gt;パーレイ1試合あたりの最大ペイアウト:&lt;/strong&gt; システムはすべての進行中のパーレイチケットの最大ペイアウトを累積し、それを設定値とともに使用して次のチケットの最大ベットを計算します。最大ベットの計算は、シングルマッチパーレイとミックス/コンボパーレイでは異なります。</value>
+  </data>
+  <data name="txtMaxPayoutSettingInfo26" xml:space="preserve">
+    <value>+ シングルマッチパーレイ: 最大ベット = （パーレイ1試合あたりの最大ペイアウト設定 - 同じ試合の累積最大ペイアウト） / オッズ      &lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; * シングルマッチパーレイはミックス/コンボパーレイチケットを含みません</value>
+  </data>
+  <data name="txtMaxPayoutSettingInfo27" xml:space="preserve">
+    <value>+ ミックス/コンボパーレイ: 最大ベット = （パーレイ1試合あたりの最大ペイアウト設定 - すべての試合の累積最大ペイアウト） / オッズ      &lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; *ミックス/コンボパーレイはシングルマッチパーレイチケットを含みません**</value>
+  </data>
+  <data name="txtMaxPayoutSettingInfo28" xml:space="preserve">
+    <value>パーレイの場合、最大ペイアウトはすべてのベットタイプに適用されます。</value>
+  </data>
+  <data name="txtMaxPayoutSettingInfo_BetSettingFollowed" xml:space="preserve">
+    <value>適用されたベット設定</value>
+  </data>
+  <data name="txtMaxPayoutSettingInfo_Caption" xml:space="preserve">
+    <value>バーチャルスポーツ ベット設定情報</value>
+  </data>
+  <data name="txtMaxPayoutSettingInfo_Details" xml:space="preserve">
+    <value>下の表では、バーチャルスポーツは記載されたスポーツのベット設定に従います。</value>
+  </data>
+  <data name="txtMaxPayoutSettingInfo_SabaCaption" xml:space="preserve">
+    <value>バーチャルスポーツ ベット設定情報</value>
   </data>
 </root>

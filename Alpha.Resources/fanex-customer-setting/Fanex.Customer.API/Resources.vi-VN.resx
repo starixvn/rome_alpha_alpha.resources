@@ -281,15 +281,15 @@
     <comment />
   </data>
   <data name="Msg_10022" xml:space="preserve">
-    <value>Bạn không được phép thay đổi chức năng Tự động reset giới hạn chuyển khoản mỗi ngày.</value>
+    <value>Bạn không được phép thay đổi chức năng Tự Làm Mới Hạn Mức Mỗi Ngày.</value>
     <comment />
   </data>
   <data name="Msg_10024" xml:space="preserve">
-    <value>Tiền thắng cược lớn nhất phải ít hơn hoặc bằng Tiền thắng cược lớn nhất của cấp trên trực tiếp.</value>
+    <value>Mức Thắng Lớn Nhất phải ít hơn hoặc bằng Mức Thắng Lớn Nhất của cấp trên trực tiếp.</value>
     <comment />
   </data>
   <data name="Msg_10033" xml:space="preserve">
-    <value>Tiền thua cược lớn nhất phải ít hơn hoặc bằng Tiền thua cược lớn nhất của cấp trên trực tiếp.</value>
+    <value>Mức Thua Lớn Nhất phải ít hơn hoặc bằng Mức Thua Lớn Nhất của cấp trên trực tiếp.</value>
     <comment />
   </data>
   <data name="Msg_10034" xml:space="preserve">

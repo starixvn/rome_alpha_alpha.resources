@@ -145,7 +145,7 @@
     <value>ベット</value>
   </data>
   <data name="status" xml:space="preserve">
-    <value>状態</value>
+    <value>ステータス</value>
   </data>
   <data name="transfer" xml:space="preserve">
     <value>送金</value>

@@ -337,7 +337,7 @@
     <value>{0}</value>
   </data>
   <data name="Status" xml:space="preserve">
-    <value>状態</value>
+    <value>ステータス</value>
   </data>
   <data name="AllYesterdayBalance" xml:space="preserve">
     <value>全昨日の残高</value>
@@ -469,7 +469,7 @@
     <value>第三者の保留中の振込</value>
   </data>
   <data name="confirmCancelJob" xml:space="preserve">
-    <value>このアカウントの自動振込プロセスをキャンセルしますか？</value>
+    <value>このアカウントの自動振込プロセスをキャンセルしてもよろしいですか？</value>
   </data>
   <data name="confirmTurnOnAutoTransfer" xml:space="preserve">
     <value>&lt;b&gt;このアカウント {0} の自動振込を有効にしますか？&lt;/b&gt;</value>
@@ -661,7 +661,7 @@
     <value>15分以上保留中または処理中のすべての取引をキャンセルするには、ここをクリックしてください。</value>
   </data>
   <data name="EditMultipleAutoTransfer" xml:space="preserve">
-    <value>複数の自動振込を編集</value>
+    <value>複数自動振込を編集</value>
   </data>
   <data name="EditAutoTransferSchedule" xml:space="preserve">
     <value>自動振込スケジュールの編集</value>

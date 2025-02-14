@@ -218,7 +218,7 @@
     <value>セーブ</value>
   </data>
   <data name="Cancel" xml:space="preserve">
-    <value>キャンセルする</value>
+    <value>キャンセル</value>
   </data>
   <data name="LimitedChars" xml:space="preserve">
     <value>7～32文字</value>

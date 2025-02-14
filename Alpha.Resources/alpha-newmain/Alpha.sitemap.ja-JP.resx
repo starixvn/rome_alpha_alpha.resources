@@ -170,7 +170,7 @@
     <value>エージェント未決済</value>
   </data>
   <data name="cancelledBets" xml:space="preserve">
-    <value>取り消されたベット</value>
+    <value>キャンセルされたベット</value>
   </data>
   <data name="commissionByBettype" xml:space="preserve">
     <value>ベットタイプ別コミッション</value>
@@ -426,7 +426,7 @@
     <value>チケットを検索</value>
   </data>
   <data name="AutoTransferMonitoring" xml:space="preserve">
-    <value>自動振込モニタ</value>
+    <value>自動振込モニター</value>
   </data>
   <data name="PTTemplate" xml:space="preserve">
     <value>保有ポジションテンプレート</value>

@@ -221,7 +221,7 @@
     <value>マスター未決済</value>
   </data>
   <data name="Status" xml:space="preserve">
-    <value>状態</value>
+    <value>ステータス</value>
   </data>
   <data name="Tote" xml:space="preserve">
     <value>トート</value>
@@ -373,7 +373,7 @@
     <value>適用</value>
   </data>
   <data name="Cancel" xml:space="preserve">
-    <value>取消</value>
+    <value>キャンセル</value>
   </data>
   <data name="AgentCommNew" xml:space="preserve">
     <value>エージェントコミッション</value>
@@ -546,7 +546,7 @@
     <value>製品はありません。</value>
   </data>
   <data name="Close" xml:space="preserve">
-    <value>閉じる</value>
+    <value>閉鎖</value>
   </data>
   <data name="NetTurnoverAndGrossComm" xml:space="preserve">
     <value>/純賭金合計額/合計コミッション</value>
@@ -859,13 +859,13 @@
     <value>{0} の場合、純賭金総額は、コミッション計算に使用される有効な賭け金の合計額です。</value>
   </data>
   <data name="SelectAll" xml:space="preserve">
-    <value>全て選択</value>
+    <value>全選択</value>
   </data>
   <data name="SelectNone" xml:space="preserve">
     <value>何も選択しない</value>
   </data>
   <data name="Cancelled" xml:space="preserve">
-    <value>取消済み</value>
+    <value>キャンセル済み</value>
   </data>
   <data name="Completed" xml:space="preserve">
     <value>完了済み</value>
@@ -886,7 +886,7 @@
     <value>参照番号</value>
   </data>
   <data name="BonusStatus" xml:space="preserve">
-    <value>ボーナスの状態</value>
+    <value>ボーナスのステータス</value>
   </data>
   <data name="CreatedFrom" xml:space="preserve">
     <value>〜から作成</value>
@@ -949,7 +949,7 @@
     <value>この機能をより良い体験のために更新しています。そのため、この機能は一時的に停止されています（{0} - {1} (GMT+8)）。後ほどお試しください。ご不便をおかけして申し訳ありません。</value>
   </data>
   <data name="BetCreditHistory" xml:space="preserve">
-    <value>ベット与信履歴</value>
+    <value>ベットクレジット履歴</value>
   </data>
   <data name="MoveStatementHistory" xml:space="preserve">
     <value>ステートメント履歴を移動</value>
@@ -985,7 +985,7 @@
     <value>残高変更</value>
   </data>
   <data name="BetCredit" xml:space="preserve">
-    <value>ベット与信</value>
+    <value>ベットクレジット</value>
   </data>
   <data name="GivenCredit" xml:space="preserve">
     <value>与信 </value>
@@ -1072,7 +1072,7 @@
     <value>ユーザー名または名/姓</value>
   </data>
   <data name="Copied" xml:space="preserve">
-    <value>複写した</value>
+    <value>コピーしました</value>
   </data>
   <data name="Copy" xml:space="preserve">
     <value>複写</value>

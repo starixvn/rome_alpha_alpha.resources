@@ -274,7 +274,7 @@
     <value>ไม่ใช่</value>
   </data>
   <data name="MemberWinLossLimit" xml:space="preserve">
-    <value>จำกัด ได้/เสีย ของสมาชิก</value>
+    <value>จำกัด ได้เสีย ของสมาชิก</value>
   </data>
   <data name="SelectMaster" xml:space="preserve">
     <value>เลือกมาสเตอร์</value>
@@ -298,7 +298,7 @@
     <value>การรีเซ็ตขีดจำกัดอัตโนมัติรายวัน</value>
   </data>
   <data name="CurrentWinLossAmount" xml:space="preserve">
-    <value> ยอดได้/เสียปัจจุบัน</value>
+    <value>ยอดได้เสียปัจจุบัน</value>
   </data>
   <data name="MaximumWin" xml:space="preserve">
     <value>การชนะสูงสุด (ตามเครดิตที่ให้)</value>
@@ -799,7 +799,7 @@
     <value>คุณแน่ใจหรือไม่ว่าต้องการลบค่าที่ตั้งไว้นี้</value>
   </data>
   <data name="AccumulatedMemberWinLossOnlyStartsCountingNote" xml:space="preserve">
-    <value>ยอดสะสมรวมชนะ/แพ้ จะเริ่มนับเมื่อมีการตั้งค่า เกณฑ์การแพ้/ชนะ แล้ว โดยระบบจะเคลียร์ยอดสะสมทุกวันหรือเมื่อปิดการใช้งานฟังก์ชันนี้</value>
+    <value>ยอดสะสมรวมชนะแพ้ จะเริ่มนับเมื่อมีการตั้งค่า เกณฑ์การแพ้/ชนะ แล้ว โดยระบบจะเคลียร์ยอดสะสมทุกวันหรือเมื่อปิดการใช้งานฟังก์ชันนี้</value>
   </data>
   <data name="AddMembersToWatchlist" xml:space="preserve">
     <value>เพิ่มสมาชิกในรายการเฝ้าดู</value>
@@ -1148,7 +1148,7 @@
     <value>เงินเดิมพัน </value>
   </data>
   <data name="WinLossText" xml:space="preserve">
-    <value>ชนะ</value>
+    <value>ยอดได้เสีย</value>
   </data>
   <data name="Win" xml:space="preserve">
     <value>ชนะ</value>

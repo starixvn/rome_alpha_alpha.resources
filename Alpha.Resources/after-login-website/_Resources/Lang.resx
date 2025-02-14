@@ -833,7 +833,7 @@
     <value>Daily reset</value>
   </data>
   <data name="dailystatement" xml:space="preserve">
-    <value>日次詳細レポート</value>
+    <value>Daily Statement</value>
   </data>
   <data name="Darts" xml:space="preserve">
     <value>Darts</value>
@@ -1646,7 +1646,7 @@
     <value>Case insensitive</value>
   </data>
   <data name="lblCashBalance" xml:space="preserve">
-    <value>Cash Balance</value>
+    <value>Cash</value>
   </data>
   <data name="lblChangePassword" xml:space="preserve">
     <value>Change Password</value>
@@ -2130,7 +2130,7 @@
     <value>Others Comm</value>
   </data>
   <data name="lblOtherTypes" xml:space="preserve">
-    <value>Other Bettypes</value>
+    <value>Other Bet types</value>
   </data>
   <data name="lblOU" xml:space="preserve">
     <value>O/U</value>
@@ -2590,7 +2590,7 @@
     <value>Member Win</value>
   </data>
   <data name="MemberWinLimit" xml:space="preserve">
-    <value>Member Win/Loss Limit</value>
+    <value>Member Win Loss Limit</value>
   </data>
   <data name="memberwinloss" xml:space="preserve">
     <value>Member Win Loss</value>
@@ -2902,7 +2902,7 @@
     <value>Other</value>
   </data>
   <data name="OtherBettypes" xml:space="preserve">
-    <value>Other Bettypes</value>
+    <value>Other Bet types</value>
   </data>
   <data name="otherBetTypesOf" xml:space="preserve">
     <value>Other bet types of {0}</value>
@@ -3977,7 +3977,7 @@
     <value>Yesterday Balance</value>
   </data>
   <data name="yesterdaycashbalance" xml:space="preserve">
-    <value>Yesterday Cash Balance</value>
+    <value>Yesterday Cash</value>
   </data>
   <data name="yesterdaytotalbalance" xml:space="preserve">
     <value>Yesterday Total Balance</value>
@@ -4382,10 +4382,10 @@
     <value>3. Max Bet of 3 Double bets = Parlay Max Payout of Combo 2 / (odds AB + odds BC + odds AC) = 500 / (2*3 + 3*4 + 2*4) = 500 / 26 = 19</value>
   </data>
   <data name="txtMaxPayoutSettingInfo23" xml:space="preserve">
-    <value>4. Max Bet of a Treble bet = Parlay Max Payout of Combo 3-5 / odds ABC = 1,000 / (2*3*4) = 1000 / 24 = 41</value>
+    <value>4. Max Bet of a Treble bet = Parlay Max Payout of Combo 3-5 / odds ABC = 1,000 / (2*3*4) = 1,000 / 24 = 41</value>
   </data>
   <data name="txtMaxPayoutSettingInfo24" xml:space="preserve">
-    <value>5. Max Bet of Trixie and Lucky 7 bets =  Parlay Max Payout of Combo 6+ &amp; System Parlay / (odds Double + odds Treble) = 2,000 / (26 + 24) = 2000 / 50 = 40</value>
+    <value>5. Max Bet of Trixie and Lucky 7 bets =  Parlay Max Payout of Combo 6+ &amp; System Parlay / (odds Double + odds Treble) = 2,000 / (26 + 24) = 2,000 / 50 = 40</value>
   </data>
   <data name="txtMaxPayoutSettingInfo25" xml:space="preserve">
     <value>      - &lt;strong&gt;Parlay Max Payout Per Match:&lt;/strong&gt; The system accumulates the max payout of all running parlay tickets and uses it together with the setting value to calculate the next      &lt;br&gt;&amp;nbsp;ticket max bet. The max bet calculation is different between Single Match Parlay and Mix/Combo Parlay.    </value>
