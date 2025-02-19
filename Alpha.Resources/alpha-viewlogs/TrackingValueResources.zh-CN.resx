@@ -3400,7 +3400,7 @@
     <value>日程表</value>
   </data>
   <data name="ParlayMaxPayoutPerBet" xml:space="preserve">
-    <value>串关最高派彩</value>
+    <value>每注串关最高派彩</value>
   </data>
   <data name="MaxBv1Virtual" xml:space="preserve">
     <value>虚拟足球-最高投注</value>
