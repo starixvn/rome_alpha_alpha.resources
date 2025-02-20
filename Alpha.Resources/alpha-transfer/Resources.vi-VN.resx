@@ -250,10 +250,10 @@
     <value>Tổng tiền giao dịch của Master</value>
   </data>
   <data name="YesterdayCashBalance" xml:space="preserve">
-    <value>Số dư tài khoản đến hết  hôm qua</value>
+    <value>Tiền khả dụng đến hết hôm qua</value>
   </data>
   <data name="MasterCash" xml:space="preserve">
-    <value>Số dư tài khoản của Master</value>
+    <value>Tiền khả dụng của Master</value>
   </data>
   <data name="Outstanding" xml:space="preserve">
     <value>Tiền chưa xử lý</value>

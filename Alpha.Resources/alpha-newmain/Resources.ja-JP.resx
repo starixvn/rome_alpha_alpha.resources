@@ -203,7 +203,8 @@
     <value>メンバー合計</value>
   </data>
   <data name="cashBalance" xml:space="preserve">
-    <value>残高</value>
+    <value>
+残高</value>
   </data>
   <data name="currency" xml:space="preserve">
     <value>通貨</value>
